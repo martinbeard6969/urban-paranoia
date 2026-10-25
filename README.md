@@ -25,7 +25,7 @@ A fictional transmedia property (novel, audio drama, and later film and comics),
 
 - **Bible:** draft v1, with core canon questions settled (see [canon decisions](bible/canon-decisions.md)). Remaining items are in [open questions](bible/open-questions.md).
 - **Content:** all 8 pilot weeks drafted: Posts #1–5, Dead Drop 01, the Harlow-Vane site and Weather report #1. Nothing is published.
-- **Book:** synopsis (v3), 30-chapter outline, chapter 1 (v2) and "The Wall" scene outline drafted.
+- **Book:** synopsis (v3), 30-chapter outline, resolution map, chapters 1–5 drafted (~12,000 words), and the "The Wall" scene outline.
 - **Marketing:** 8-week ARG pilot playbook; PDFs in [outputs/](outputs/).
 - **Blocking launch:** the name-clash checks (Harrowgate House especially) and all items in the [pre-launch checklist](campaign/prelaunch-checklist.md).
 

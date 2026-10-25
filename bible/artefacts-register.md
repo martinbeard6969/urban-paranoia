@@ -97,6 +97,7 @@ Marguerite Aldane's archive, assembled by her daughter Ruth (the Archivist) sinc
 | Object | Where | Role |
 |---|---|---|
 | **The teletype** | Ashby store | Prints again in book Act 3 |
+| **Other teletypes** | Various, 1960s–70s | The Harrowgate machine is the only one the Tenants spoke through, but the Lodge and Harlow-Vane used ordinary teletypes on their own lines. Coyle's drivers such as Len moved several "per instr." (ch 3). |
 | **The Exchange** | Ashby store | Len's "wardrobe that hummed" |
 | **The 144 lb server cabinet** | Coyle's comms room | The modern channel and the watcher |
 | **The purple stamp** | Unknown. Never found. | A mystery for the comics. |

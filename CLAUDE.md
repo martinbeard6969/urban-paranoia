@@ -116,4 +116,5 @@ These rules keep the campaign effective, legally safe and ethically sound. Apply
 - When unsure whether something breaks a hard rule, flag it to the user rather than guessing.
 - When a piece of content adds a puzzle, prop or open canon question, update `campaign/puzzle-map.md`, `campaign/asset-list.md` or `bible/open-questions.md` in the same change.
 - Check any new Lodge day-count with the one-line Python command in `README.md`.
+- **Setting:** recognisably Britain, but the present-day city is unnamed and no real present-day towns, institutions, firms or leaders appear (see `/bible/public-figures.md` rule 5).
 - **The title phrase "urban paranoia" appears only once in the novel**, in ch 25, as the Lodge's "U.P." measure (see `/book/outline.md`). Never use the phrase in other chapters, in-world ARG content or character dialogue, so that it lands. Out-of-world uses (the book title, covers, marketing) are fine.

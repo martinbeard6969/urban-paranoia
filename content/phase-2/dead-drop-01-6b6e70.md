@@ -58,7 +58,7 @@ status: draft v2 — rewritten to the award-quality standard
 > — THERE IS TIME. THERE IS MORE TIME THAN THERE ARE PEOPLE.
 > — ~~WHEN THE HANDS ARE NO LONGER NEEDED THE HANDS WILL BE FEWER.~~
 >
-> ONE enquired whether "fewer" was meant in the sense of employment or of population. The apparatus did not reply. It printed the three tones (ref. HG/A/02) and stopped.
+> ONE enquired whether "fewer" was meant in the sense of employment or of population. The apparatus did not reply. It sounded the three tones (ref. HG/A/02) and stopped.
 >
 > THREE observed that the counsel never employs the first person. ONE observed that this was "not the most pressing point". THREE asks that her observation be minuted regardless.
 >

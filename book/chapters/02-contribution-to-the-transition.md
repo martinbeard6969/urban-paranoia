@@ -170,6 +170,6 @@ Then I sat and looked at it. There it was, out in the dark with nobody reading i
 
 **Rule checks**
 - No real companies or people. Nimfold, the cloud and Larkspire are fictional.
-- **No real place names** that would fix the country (public-figures rule 5): depots, ports and towns stay generic ("the northern depot", "the container port", "up north"). The early draft named three real towns; they were removed.
+- **No real present-day place names** (public-figures rule 5, option A: recognisably Britain, but no real present-day towns or institutions): depots, ports and towns stay generic ("the northern depot", "the container port", "up north"). The early draft named three real towns; they were removed.
 - No book-only themes.
 - Nell doubts herself: "I want to be honest about what I felt…", "I didn't. What I had was…", "which I didn't. Yet."

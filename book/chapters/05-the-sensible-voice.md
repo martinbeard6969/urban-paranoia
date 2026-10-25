@@ -3,29 +3,29 @@ medium: novel
 author: Martin Defries (pen name)
 chapter: 5
 title: "The Sensible Voice"
-setting: Nell's flat; the Mission Hall at the end of her road. Mid-May 2026
+setting: Nell's flat; the streets between; the Mission Hall at the end of her road. Mid-May 2026
 pov: Nell Okafor-Reyes, first person, past tense
-canon-refs: [bible/characters/danny-kessler, bible/characters/pastor-ama, bible/characters/jordan-pryce, bible/characters/longweather-account, bible/modern-pressures/6-wharf-road, bible/locations-and-organisations/mission-hall, bible/locations-and-organisations/larkspire, content/phase-1/post-02-day-zero]
-status: draft v1
+canon-refs: [bible/characters/danny-kessler, bible/characters/pastor-ama, bible/characters/jordan-pryce, bible/characters/longweather-account, bible/modern-pressures, bible/locations-and-organisations/mission-hall, bible/locations-and-organisations/larkspire, content/phase-1/post-02-day-zero]
+status: draft v2 — rewritten with the neighbourhood's pressures woven throughout
 ---
 
 # Five: The Sensible Voice
 
 Danny read both posts standing up, in my kitchen, in his delivery jacket, with his phone buzzing in his pocket every forty seconds to tell him he was late.
 
-He reads the way he used to read management proposals at union meetings: once fast, to get the shape of it, and once slowly, looking for the clause that would hurt someone. I watched him do it. He has a face that doesn't hide much. I saw it go from amused, to interested, to the particular stillness he gets when he's found the clause.
+He reads the way he used to read management proposals at union meetings: once fast, to get the shape of it, and once slowly, looking for the clause that would hurt someone. I watched his face go from amused, to interested, to the particular stillness he gets when he's found the clause.
 
 Then he put my laptop down on the counter, very carefully, as though it might go off.
 
-"It's a tax dodge, Nell," he said.
+"It's a tax dodge, Nell."
 
 "You haven't even—"
 
-"I've read it twice. I've read *you* twice. It's a tax dodge." He took his phone out, silenced it without looking, and put it back. "Rich charity wants some kit moved off its books. Doesn't want it on the accounts, doesn't want the auditors asking what a charity's doing with a teletype in a country house. So it pays a haulier cash, the haulier keeps it off the board, and some clerk with a rubber stamp gets to feel clever. Cash, no weight, no charge, funny stamp. That's not a mystery. That's a Tuesday."
+"I've read it twice. I've read *you* twice." The phone buzzed. He silenced it without looking. "Rich charity wants some kit moved off its books. Pays a haulier cash, haulier keeps it off the board, some clerk with a rubber stamp gets to feel clever. Cash, no weight, no charge, funny stamp. That's not a mystery. That's a Tuesday."
 
 "Then what's *D. 3062*?"
 
-"Somebody's filing system. Every clerk I ever knew had a private filing system. My old branch secretary dated everything by how many days till she retired." He shrugged. "People are strange about numbers. You're strange about numbers. No offence."
+"Somebody's filing system. My old branch secretary dated everything by how many days till she retired. People are strange about numbers. You're strange about numbers. No offence."
 
 "None taken."
 
@@ -33,95 +33,125 @@ Then he put my laptop down on the counter, very carefully, as though it might go
 
 "Some taken," I agreed.
 
-He was nearly right. That's the thing about Danny. He's nearly always nearly right, and the gap between nearly and actually is so small that most people never notice it's there. I'd known him since I was nine. He used to come round on Sunday afternoons to argue with my father about cricket and pensions, in that order, at volume, and leave with half a cake. Years later, when I'd joined Coyle's myself, he came into head office to fight the first round of cuts and lost, politely and completely, and afterwards bought me a drink because I was the only person on the other side of the table who had looked embarrassed. When Dad died, Danny decided, without consulting me, that I was now his responsibility. He has never once mentioned it, and he has never once missed a week.
+He was nearly right. That's the thing about Danny: he's nearly always nearly right, and the gap between nearly and actually is so narrow that most people never notice it's there.
+
+The phone buzzed again, and this time he looked, and his jaw did something small.
+
+"That's the other one," he said. "The evening one."
+
+"What evening one?"
+
+"Warehouse. Nights, three a week. Stacking for the same company I deliver for, which is funny if you think about it, so I try not to." He put the phone face down. "Rate went up on the flat. Pension's what it is. You do the sum."
+
+I did the sum. I'm good at sums. It came out the way they all come out now: a man of fifty-seven who had spent twenty years making sure other people were paid fairly, working days and nights to stay exactly where he was.
 
 ---
 
-He'd done twenty years as a union rep, until there was no union left to represent. Not because anyone abolished it. It just thinned. Fewer members every year, then fewer meetings, then one year the branch secretary with the private filing system retired and nobody stood for the post, and that was that. Nothing ended. It stopped happening.
+I'd known him since I was nine. He used to come round on Sunday afternoons to argue with my father about cricket and pensions, in that order, at volume, and leave with half a cake. My father would close the door behind him and say *that man will save the world or die trying, and I'd put money on the second*, and then laugh, because he loved him.
 
-Now he delivered parcels for an app that rated him out of five. Strangers he'd never met gave him stars on their doorsteps. He'd been at four point nine for two years and said it was the most stressful number of his life.
+Danny did twenty years as a union rep, until there was no union left to represent. Not because anyone abolished it. It thinned. Fewer members every year, then fewer meetings, then one year the branch secretary with the private filing system retired and nobody stood for the post, and that was that. Nothing ended. It stopped happening.
+
+When Dad died, Danny decided, without consulting me, that I was now his responsibility. He has never once mentioned it, and he has never once missed a week.
 
 "So I'm wasting my time," I said.
 
-"I didn't say that." He picked up the laptop again and scrolled to the comments. "I said it's a tax dodge. People do strange things to hide money, and sometimes those strange things are interesting. You're good at this. You were always good at this. It's better than you sitting here reading that letter again." He nodded at the shelf, where my redundancy letter was propped against my father's dictionary. He hadn't needed to look for it. "How many times this week?"
+"I didn't say that." He picked the laptop up again and scrolled to the comments. "People do strange things to hide money, and sometimes the strange things are interesting. You're good at this. It's better than you reading that letter again." He nodded at the shelf, where my redundancy letter was propped against my father's dictionary. He hadn't needed to look for it. "How many times this week?"
 
 "Not many."
 
-"Liar." He typed something into the comment box, quickly, the way he does everything. I didn't see what until it was posted.
+"Liar." He typed into the comment box, quickly, the way he does everything, and posted it before I could see.
 
 *It's a tax dodge, Nell. Ring me when you've eaten something.*
 
-"Danny."
+"Danny. You've just told four hundred people my name."
 
-"What?"
-
-"You've just told four hundred people my name."
-
-He looked at the screen. He looked at me. He had the grace to look ashamed for nearly two seconds. "Well," he said. "Now they can stop calling you Vesper. Sounds like a scooter."
+He looked at the screen. He had the grace to look ashamed for nearly two seconds. "Well. Now they can stop calling you Vesper. Sounds like a scooter."
 
 ---
 
-On Saturday he took me to the Mission Hall.
+On Saturday he walked me to the Mission Hall. It's at the end of my road, and I'd lived there six years without once going in. You stop seeing the buildings you pass every day. That morning, walking beside Danny, I started seeing them again.
 
-I'd lived at the end of the same road for six years and never been inside. It's the kind of building you stop seeing: a long, low brick hall from the nineteen-twenties with a cross on the gable and a noticeboard out front that's mostly lost cats. On Saturday mornings it was a food bank. It was also, as far as I could tell, the only room in the neighbourhood where everyone ended up eventually: old men who'd lived on the estate since it was built, young mothers who'd arrived last year and didn't speak much English yet, students, a man in a good coat who'd lost his job and was trying very hard to look as though he was only there to volunteer. None of them looked especially pleased to be in the same room. All of them were.
+The parade of shops by the bus stop had three shutters down that had been up a year ago. In one of the windows that was still lit, a payday lender had put up a poster of a smiling family and the words *Here when you need us*, which I thought was probably true. Outside the corner shop there was a queue of five people, and I didn't understand it until I saw what they were holding: the plastic keys you top up for a prepayment meter. A woman at the front was counting coins into her palm and then counting them again, as if they might have changed.
 
-The noticeboard inside the door told you everything the neighbourhood didn't say out loud. Debt advice on Tuesdays. A job club on Wednesdays, *bring your CV or we'll help you write one*. A leaflet about energy bills with a cartoon radiator on it. A notice, in four languages, about reporting hate crime, and beneath it someone's careful handwritten card: *Window repairs, cheap, ask for Marek*, which I understood, a moment later, was not a coincidence. And on the back of the door to the ladies', where only the people who needed it would see it, a small card with a phone number and the words *You are not on your own. Ask Ama.*
+"Gas went up again," Danny said. "They're doing it in fivers now. Little and often. Like feeding a meter in a car park, except it's your kids' heating."
 
-There was tea. The tea was bad. There was a radiator under the window that banged every few minutes, loud as a dropped tray, as if something inside it was trying to get out. Nobody but me jumped.
+Then he slowed, and I followed his eyes.
 
-Pastor Ama was at the tea urn. She was smaller than I'd expected and older, with reading glasses on a cord and the calm of someone who has spent decades in rooms where people are about to shout. Danny introduced me as *the one I told you about*, which I didn't love, and Ama put a mug in my hand and said, "Tell me."
+On the ground floor of the low-rise block opposite the hall, one of the windows was plywood. New plywood, still pale, screwed in at the corners. A child's drawing had been taped to the inside of the glass beside it, a rainbow in felt-tip, and it had been left there, carefully, as if to say *we're still here*.
 
-So I told her. All of it: the box, the stamp, the logs, the date, the driver's note, the café. I'd never told it out loud from beginning to end, and it sounded madder than it did on the page and also, somehow, more real. And she did the thing almost nobody can do. She listened to the whole of it without interrupting once. She didn't nod to hurry me along. She didn't make the small noises people make to show they're about to speak. She just listened, until I'd finished and the radiator banged and I realised I'd been talking for twenty minutes.
+"Family moved in at Christmas," Danny said quietly. "Lovely people. Kid's in my granddaughter's class. Somebody put a brick through that last month, with a note round it, and you don't need me to tell you what the note said." He didn't stop walking. "Police came. Took photos. That was a month ago."
+
+I didn't say anything. There wasn't anything that wasn't stupid. I looked at the rainbow until we'd passed it.
+
+---
+
+The Mission Hall is a long, low brick building from the nineteen-twenties, with a cross on the gable and a noticeboard out front that's mostly lost cats. Inside, on Saturday mornings, it's a food bank, and, as far as I could tell, the only room in the neighbourhood where everyone ends up eventually.
+
+The noticeboard just inside the door told you everything the neighbourhood didn't say out loud. Debt advice on Tuesdays. A job club on Wednesdays: *bring your CV or we'll help you write one.* A leaflet about energy bills with a cartoon radiator on it. A notice, in four languages, about how to report a hate crime. And beneath it, on a handwritten card, *Window repairs, cheap, ask for Marek*, which I read twice before I understood that someone had put it there on purpose.
+
+It was full. Old men who'd lived on the estate since it was built. Young mothers with pushchairs, some of whom didn't have much English yet. Students. A man in a good coat who had clearly lost a good job and was trying very hard to look as though he was only there to volunteer. None of them looked especially pleased to be in the same room. All of them were.
+
+There was tea. The tea was bad. Under the window a radiator banged every few minutes, as loud as a dropped tray, as if something inside it wanted out. Nobody but me jumped.
+
+Pastor Ama was at the urn. She was smaller than I'd expected, and older, with reading glasses on a cord and the particular calm of someone who has spent decades in rooms where people are about to shout. Danny introduced me as *the one I told you about*, which I didn't love, and she put a mug in my hand and said, "Tell me."
+
+So I told her: the box, the stamp, the logs, the date, the driver's note, the café. I'd never told it from beginning to end out loud. It sounded madder than it did on the page, and also, somehow, more real. And she did the thing almost nobody can do. She listened to the whole of it without interrupting once. No nodding to hurry me along. No small noises of someone about to speak. When I'd finished, the radiator banged, and I realised I'd been talking for twenty minutes.
 
 "Well," she said. "That's a lot to carry on your own."
 
-That was all. She didn't say whether she believed me. She didn't tell me what it meant. She just took the measure of the weight and said it out loud, and I had to look at the urn for a moment so she wouldn't see my face.
+She didn't say whether she believed me. She just took the measure of the weight and said it out loud, and I had to look at the urn so she wouldn't see my face.
 
-While I was looking at it, something happened at the front of the queue.
+While I was looking at it, a young woman came to the end of the table. She was wearing sunglasses, indoors, on an overcast morning, and she didn't take them off. She didn't ask for anything. She held out a small folded note to Ama, and Ama read it without any change in her expression at all, and said, "Of course. Come and help me with the boxes in the back," in exactly the voice she'd used to offer me tea. They went through the door behind the urn together, and it closed.
 
-It was over so fast I almost missed it. An old man who'd been on the estate since before I was born said something to a young woman ahead of him with a pushchair, about who had been waiting longer, and she said something back, and in the space of four sentences both of them were standing very straight and talking too loudly. Nobody had touched anybody. Nobody had said anything unforgivable. But the whole hall had gone still in the way a room goes still before a glass breaks, and I watched three or four other people in the queue shift their weight towards one side or the other without seeming to know they'd done it.
+Nobody watched them go. That was the thing I noticed. In a room where everyone noticed everything, nobody looked at that door. Later, when I went to the ladies', I found a small card on the inside of the cubicle door, where only someone sitting alone would see it: a phone number, and the words *You are not on your own. Ask Ama.*
 
-Ama didn't hurry. She put down the teapot, walked to the front, and stood between them, not quite facing either, and said, at a perfectly ordinary volume: "The radiator's going to go again in a minute. When it does, I'd like everyone to pretend they didn't jump."
+I sat there for a minute longer than I needed to.
 
-The radiator banged. Nobody pretended. Somebody laughed, and then the old man laughed, unwillingly, and the young woman rolled her eyes and laughed too, and the room let its breath out. Ama made them both a tea, in the same pot, and handed them over without a word.
+---
 
-"That," said Danny, at my elbow, "happens about twice a morning now. Didn't used to."
+When I came back, something was happening at the front of the queue.
+
+It was over so fast I nearly missed it. An old man who'd been on the estate since before I was born said something to a young woman with a pushchair, about who had been waiting longer. She said something back, and in four sentences both of them were standing very straight and talking too loudly. Nobody had touched anybody. Nobody had said anything unforgivable. But the hall had gone still the way a room goes still before a glass breaks, and I watched three or four other people in the queue shift their weight, one side or the other, without seeming to know they'd done it.
+
+Ama had come back to the urn. She didn't hurry. She put down the teapot, walked to the front, and stood between them, facing neither, and said at a perfectly ordinary volume: "The radiator's going to go again in a minute. When it does, I'd like everyone to pretend they didn't jump."
+
+The radiator banged. Nobody pretended. Somebody laughed, and then the old man laughed, unwillingly, and the young woman rolled her eyes and laughed too, and the room let its breath out. Ama made them both a tea from the same pot and handed them over without a word.
+
+"That," said Danny at my elbow, "happens twice a morning now. Didn't used to."
 
 "What's changed?"
 
-He shrugged. "Everything. Rents. Bills. The scheme. Half the men in this room lost their jobs to a computer or a cheaper country, and half the women are doing two jobs to cover it. That lad from the flats had his windows put in last month for the colour of his skin. And some of the people in this queue go home to worse than any of it, behind their own front doors, and Ama's the only one they tell." He drank his bad tea. "Everyone's frightened and nobody knows who of. So they pick whoever's nearest."
+He looked at the queue for a while before he answered.
+
+"Everything," he said. "Rents. Bills. The scheme. Half the men in this room lost their jobs to a computer or a cheaper country, and half the women are doing two jobs to cover it. You saw that window. And some of the people in this queue go home to worse than any of it, behind their own front doors, and Ama's the only one they tell." He drank his bad tea. "Everyone's frightened, and nobody knows who of. So they pick whoever's nearest."
 
 ---
 
 The lad stacking tins at the back was Jack.
 
-He was nineteen, tall in the unfinished way of nineteen-year-olds, with a hoodie and a phone he checked between every tin. Danny called him over, and he came the way young men come when an older man they respect calls them: slowly, so it doesn't look like obedience.
+He was nineteen and tall in the unfinished way of nineteen-year-olds, with a hoodie and a phone he checked between tins. Danny called him over and he came slowly, so it wouldn't look like obedience.
 
-"Jack," Danny said. "This is Nell. From Coyle's."
+He knew me. "Head office," he said. "You did the training day for the apprentices. Two years ago."
 
-He looked at me properly then. "Head office," he said. "You did the training day. For the apprentices. Two years ago."
+I had. Twelve of them in a meeting room, learning what a manifest was, and one tall boy at the back asking good questions and pretending not to care about the answers.
 
-I had. I'd forgotten. Twelve of them in a meeting room, learning what a manifest was, and one tall boy at the back asking good questions and pretending not to care about the answers.
+"I was at the depot. Loading, then planning. They were going to put me on routing." He said *routing* the way you'd say the name of someone who'd hit you. "Then the system went in, and they didn't need anyone on routing. Letter said *restructuring*."
 
-"I was at the depot," he said. "Loading, then planning. They were going to put me on routing." He said *routing* the way you'd say the name of someone who'd hit you. "Then the system went in, and they didn't need anyone on routing. Kept me on loading for six months, then let the apprenticeship lapse. Letter said *restructuring*."
-
-"Mine said *transition*," I said.
+"Mine said *transition*."
 
 He almost smiled. "Same machine."
 
 "Same machine."
 
-We stood there for a moment, two people pushed off the same ladder by the same quiet hand, holding tins of chickpeas.
+His mum did two cleaning jobs, he said, mornings at an office and evenings at a hotel, and in between she worried. Their flat was on the Wharf Road estate. The council had sent a letter about a regeneration scheme in partnership with a private developer, and a list of blocks to be demolished in phase one, and theirs was on it. Nobody could tell them where they'd go, or when, or whether they'd ever afford to come back.
 
-His mum's flat was on the Wharf Road estate. The council had sent round a letter about a regeneration scheme: new homes, better homes, a partnership with a private developer. There was a list of blocks for demolition in phase one, and his mum's was on it. Nobody knew where they'd be moved to, or when, or whether they'd be able to afford to come back.
+"*Consultation*," Jack said, and put the word in quotation marks with his voice. "They're consulting us. Means they've decided."
 
-"*Consultation*," Jack said, and put the word in quotation marks with his voice. "They're *consulting* us. Means they've decided."
-
-He went by Jordan online, he told me, when I asked about the name on his phone screen. Jordan Pryce. It was a joke from when he was sixteen and it had stuck. Everyone round here called him Jordan.
+He went by Jordan online, he told me, when I glanced at his screen. Jordan Pryce. It had been a joke when he was sixteen and it had stuck. Everybody called him Jordan.
 
 "Except me," said Danny.
 
-"Except Danny," said Jack. "When he's cross with me."
+"Except Danny. When he's cross with me."
 
 "Which is always."
 
@@ -131,35 +161,29 @@ He went by Jordan online, he told me, when I asked about the name on his phone s
 
 That night the comments changed.
 
-There had been odd ones before: the fertiliser man, the stranger who wanted me sectioned. But these were different. They came from an account with no picture, called **@longweather_**, and they were long. Paragraphs. Confident, fluent, urgent. They explained what my manifest *really* meant, and every one of them ended in the same place: with a group of ordinary people, people you might live next door to, who were apparently to blame for everything. It didn't matter what the comment started with: the teletype, the stamp, the Harlow-Vane Institute. It always ended with neighbours. It always pointed down the street.
+They came from an account with no picture, called **@longweather_**, and they were long: paragraphs, fluent and confident and urgent. They knew the neighbourhood's pressures as well as Danny did. They talked about rents and bills and jobs and fear, and for a sentence or two they sounded almost like him. And then every one of them turned, the way a road turns without warning, and ended in the same place: with a group of ordinary people, people you might live next door to, who were apparently to blame for all of it. It didn't matter where a comment started. It always ended pointing down the street.
 
-I'm not going to repeat what it said. I deleted it. Then I deleted the next one, and the one after that. They kept coming, and I kept deleting them, and somewhere around the fifth I realised my hands were cold.
+I'm not going to repeat what they said. I deleted them. They kept coming, and I kept deleting them, and somewhere around the fifth I realised my hands were cold.
 
 Two things bothered me more than what it said.
 
-The first was the name. *Long weather.* I checked. The account was older than my blog. It had existed since 2022. Somebody had chosen those words, with an underscore at the end, years before I'd found them stamped in purple on a sheet of paper in a box.
+The first was the name. I checked. The account had existed since 2022, years before my blog. Someone had chosen the words *long weather* long before I'd found them stamped in purple on a sheet of paper in a box.
 
-The second was smaller, and worse. In one comment, buried in the middle of a long paragraph, the account mentioned the archive. It mentioned that I'd *been back to the shelves on Tuesday*. And I had been. I'd gone back on Tuesday afternoon, to look for more 1971 logs. I hadn't written about it. I hadn't told anyone. Not even Danny.
+The second was smaller, and worse. In one comment, buried in the middle of a paragraph, it mentioned that I'd *been back to the shelves on the last Tuesday*: the last Tuesday of my notice, the last afternoon my keycard had worked. I had. I'd gone back that afternoon to look for more logs. I hadn't written about it, and I hadn't told anyone. Not even Danny.
 
-I sat at the kitchen table for a long time after that, with the laptop closed, listening to the building make its night noises. I told myself it was a guess. Lots of people go back to things on Tuesdays.
-
-I'm a reconciler. I know what a guess looks like. That wasn't one.
+I told myself it was a guess. I'm a reconciler. I know what a guess looks like. That wasn't one.
 
 ---
 
-Danny came round the next evening with chips, because he'd decided I wasn't eating, and he was right. I showed him the comments I'd kept: screenshots, not the words, because I didn't want the words on my screen any more than I had to. He read them in silence. When he got to the one about Tuesday, he read it twice, and his face did the thing.
+Danny came round the next evening with chips, because he'd decided I wasn't eating, and he was right. I showed him screenshots: not the words, just enough to show him. When he reached the one about Tuesday he read it twice, and his face did the thing.
 
-"Delete them," he said.
+"Keep deleting them," he said. He put down his chips. "And listen. Whatever this is, if it's anything, if it isn't a tax dodge, which it is…" He waited for me to smile. I didn't. "Whatever this is, it'll be some bloke in a suit. It always is. Twenty years I sat across tables from them. It's always some bloke in a suit, and he's always very polite, and he never, ever pays the price for anything. Not for the rent, not for the jobs, not for that window." He pointed at my laptop. "Don't let anyone tell you it's the people down your street."
 
-"I have."
+He was looking past me as he said it, at the window. I turned.
 
-"Keep deleting them." He put his chips down. "And listen. Whatever this is, if it's anything, if it's not a tax dodge, which it is…" He waited for me to smile. I didn't. "Whatever this is, it'll be some bloke in a suit. It always is. Twenty years I sat across tables from them. It's always some bloke in a suit, and he's always very polite, and he never, ever pays the price for anything." He pointed at my laptop. "Don't let anyone tell you it's the people down your street."
+Across the road, outside the block opposite, a small white van was idling with its lights on. A letting agent's van, the kind that comes round to check meters and photograph damp. On the side was a logo: a simple shape, a bird in flight. Something about it snagged in me like a thread on a nail. I'd seen it somewhere. I couldn't think where.
 
-He said it to me, but he was looking past me as he said it, at the window. I turned.
-
-Across the road, outside the block opposite, a small white van was idling with its lights on. A letting agent's van: the kind that comes round to check meters and photograph damp. It had a logo on the side, a simple shape, a bird in flight, and something about it snagged in me like a thread on a nail. I'd seen it somewhere. I couldn't think where.
-
-The van sat there with its engine running for as long as Danny was at my window. When he left, it left.
+The van sat there with its engine running for as long as Danny stood at my window. When he left, it left.
 
 I told myself that was a coincidence too.
 
@@ -169,24 +193,28 @@ I told myself that was a coincidence too.
 
 ## AUTHOR'S NOTES (out-of-world, do not publish)
 
-**What this chapter establishes**
-- **Danny and the Okafors:** Nell has known him **since she was nine**. He argued with her father on Sundays about cricket and pensions. After Emmanuel died, Danny made himself her responsibility. *(Fits Post #3's "my oldest friend"; ties him to Emmanuel for ch 19.)*
-- **The hall's pressures are many, not one:** the noticeboard shows debt advice, a job club, energy bills, a hate-crime reporting notice in four languages (and a window-repair card, implying a racist attack), and a discreet domestic-abuse card on the back of the ladies' door (*"You are not on your own. Ask Ama."*). Danny names them: rents, bills, the scheme, jobs lost to automation and offshoring, double shifts, a racist attack on a neighbour's windows, and abuse behind closed doors.
-  - **Handled with care:** victims are shown with dignity. No slurs are quoted, no group is blamed, and abuse is shown through support (Ama, the card), never as spectacle. The racist attack is a crime against a neighbour, not a "side" in an argument.
-- **The queue flare-up at the hall:** an old resident and a young mother with a pushchair. It's over in four sentences and nobody is named or blamed, but the room takes sides by instinct. Ama defuses it with the radiator. Danny: *"Everything… Everyone's frightened and nobody knows who of. So they pick whoever's nearest."* (The Outrage Engine at its smallest; it previews the rumour in ch 17.)
-- **Danny Kessler, on the page:** the sceptic and conscience. *"It's a tax dodge… That's not a mystery. That's a Tuesday."* Nearly always nearly right. The union thinned until it *"stopped happening"* (stage 2, Unbind, as lived experience). He's rated 4.9 by strangers. He later sat across the table from her at Coyle's first cuts. Shows his care through action: chips, "ring me when you've eaten".
-- **Nell's name goes public:** Danny's comment *"It's a tax dodge, Nell"* (matches Post #2: "Thanks, D.").
-- **The Mission Hall:** 1920s brick, a cross on the gable, a food bank on Saturdays, everyone ends up there eventually, the banging radiator. **Pastor Ama** listens without interrupting: *"That's a lot to carry on your own."*
-- **Jack Prentice ("Jordan Pryce"):** 19; Nell trained the Coyle's apprentices two years earlier; loading, then planning, then let go when routing went in (*"restructuring"* / *"transition"*: *"Same machine."*). His mum's flat is in **phase one of the Wharf Road scheme** (invented flashpoint). His alias is explained; Danny calls him Jack *"when he's cross with me."*
-- **@longweather_, first contact:**
-  - long, fluent comments that always end by blaming neighbours. **The content is never quoted and no group is named** (safety playbook)
-  - created in 2022, older than the blog
-  - knows Nell went back to the shelves on Tuesday, which she told no one (keycard logs; canon decision D5)
-- **The ending:** Danny's thesis line, and the letting agent's van with a **bird logo** (Larkspire, unnamed; it echoes the ch 2 rent statement and pays off in ch 18). The van leaves when Danny does.
+**v2 rewrite:** the neighbourhood's pressures are now woven through every beat rather than listed in one place.
 
-**Rule checks**
-- @longweather_'s content is described, never written, and no real or fictional group is named as the target.
-- The Mission Hall's community is mixed and shown with dignity. No group is a problem.
-- No real places or people. The country stays unnamed.
-- Nell doubts herself ("I told myself it was a guess… That wasn't one."; "I told myself that was a coincidence too.").
-- No book-only themes.
+| Beat | Pressures carried |
+|---|---|
+| Danny in the kitchen | Insecure work, a second job (nights at a warehouse), rising rent, a thin pension: *"You do the sum."* |
+| Danny's history | The union that *"stopped happening"*; age and money |
+| The walk to the hall | Closed shops, a payday lender, the prepayment-meter queue (*"Like feeding a meter in a car park, except it's your kids' heating"*), and a **racist attack**: the plywood window and the child's rainbow left in place |
+| The noticeboard | Debt advice, a job club, energy bills, hate-crime reporting in four languages, Marek's window-repair card |
+| Ama and the young woman in sunglasses | **Domestic abuse**, shown only through support: the folded note, the back room, nobody watching the door, the card *"You are not on your own. Ask Ama."* |
+| The queue flare-up | Fear turning sideways. Danny: *"Everything… So they pick whoever's nearest."* |
+| Jack | Lost apprenticeship, his mum's two cleaning jobs, Wharf Road phase one |
+| @longweather_ | It **feeds on these same pressures**, sounds almost like Danny for a sentence, then turns them into blame on neighbours |
+| Danny's final line | Now names the costs: *"Not for the rent, not for the jobs, not for that window."* |
+
+**Canon (unchanged from v1):**
+- Danny has been a family friend since Nell was nine; Nell's name goes public; Jack, alias Jordan Pryce; @longweather_ dates from 2022 and knew about the last Tuesday of her notice (within her keycard dates; canon decision D5); the bird-logo van (Larkspire) idles and leaves with Danny.
+- **New details:** Danny is 57 and has a granddaughter at school with the attacked family's child.
+
+**Care rules**
+- Victims are shown with dignity: the rainbow, *"we're still here"*.
+- No slurs are quoted (*"you don't need me to tell you what the note said"*).
+- The racist attack is a crime against a neighbour, not a side in an argument.
+- Domestic abuse is never shown or explained, only met with support.
+- **@longweather_'s content is never quoted, and no group is named.**
+- No real present-day places or people; the city stays unnamed (option A: recognisably Britain).

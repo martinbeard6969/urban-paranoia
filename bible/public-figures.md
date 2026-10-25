@@ -13,7 +13,7 @@ How politicians and activists appear in *Urban Paranoia* without pointing at rea
 2. **Invented figures are composites, never portraits.** Each blends traits common to many public figures. No single real person's name echo, catchphrases, scandals, appearance, signature policies or exact dates.
 3. **Avoid giving invented figures famous first names** of real recent leaders in the story's main country (e.g. Margaret, Tony, Gordon, Boris, Keir, Rishi, Theresa).
 4. **Dates stay vague** ("the late eighties", "after the crash"). Exact election years let readers map a figure to a real one.
-5. **The country is never named.** It's a Western parliamentary democracy with a capital, a city and a coast. Readers may assume it's Britain; the text never confirms it.
+5. **The setting is recognisably Britain, but no real present-day places are named** (decided 25 Oct 2026, option A). The 1962 house is English and ch 1 mentions London. In the present day the **city stays unnamed**, and **no real present-day towns, institutions, firms or leaders** appear. Invented leaders remain composites with vague dates.
 6. **No leader is ever a Lodge member, or knowingly complicit.** The Table **nudges** them through Factors, lobbyists, think tanks, donations and well-timed advice. They believe they're choosing freely, which is the point.
 7. **Activists are sincere people with real grievances.** Some are unknowingly amplified by Steward accounts. None resembles a real activist, and none gets slogans, symbols or manifestos that could be lifted.
 8. **Balance:** the Table nudges figures **on every side**. No side of real politics is presented as the Lodge's side (rules 1 and 9).

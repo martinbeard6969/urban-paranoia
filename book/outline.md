@@ -29,7 +29,7 @@ Vehicle logs, the 1962 box, the driver's note (chapter 1's words, seen again six
 **4. Interlude: Not Far, Only Elsewhere** *(2 March 1971, Day 3,061; drafted v1, ~1,370)* → [chapter file](chapters/04-not-far-only-elsewhere.md)
 The last session at Harrowgate before the machine is moved. The three Founders, now quietly wealthy from their first container-shipping stakes, uneasy at how easy it was. The machine prints *NOT FAR. ONLY ELSEWHERE.* (recording HG-71). Cut to Le Havre: the French actuary plays three notes on his piano and closes the lid forever. *Function:* shows the Table's first riches and first guilt. They were nobodies once.
 
-**5. The Sensible Voice** *(drafted v1, ~2,300)* → [chapter file](chapters/05-the-sensible-voice.md)
+**5. The Sensible Voice** *(drafted v2, ~2,700)* → [chapter file](chapters/05-the-sensible-voice.md)
 **Danny** in Nell's kitchen: "It's a tax dodge, Nell." The **Mission Hall** and **Pastor Ama**. **Jack Prentice ("Jordan")**, 19, his apprenticeship cut and his mum's flat on the Wharf Road list. The first **@longweather_** comments, described and deleted. *Ends:* Danny's line, "Don't let anyone tell you it's the people down your street," spoken while a Larkspire letting agent's van idles outside.
 
 **6. Count Forwards**

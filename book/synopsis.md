@@ -12,7 +12,7 @@ canon-refs: [bible/the-lodge, bible/the-tenants, bible/deep-time, bible/the-ladd
 
 ---
 
-In October 1962, a week before the world would hold its breath over a handful of missiles, seven junior officials from seven countries sat down to dinner in an English country house nobody can find any more. They'd been invited because they were clever. They'd been chosen because nobody would miss them. There was a telephone engineer from Ohio who resented his boss, a West German statistician who checked everything twice, and a British demographer who wrote down what other people only noticed. Four more were there too. In a small panelled room beyond the library, a new teletype stood unplugged against the wall.
+In October 1962, a week before the world would hold its breath over a handful of missiles, seven junior officials from seven countries sat down to dinner in an English country house nobody can find any more. They'd been invited because they were clever. They'd been chosen because nobody would miss them. There was a telephone planner from Ohio who resented his boss, a West German statistician who checked everything twice, and a British demographer who wrote down what other people only noticed. Four more were there too. In a small panelled room beyond the library, a new teletype stood unplugged against the wall.
 
 At ten past two in the morning it began to type.
 

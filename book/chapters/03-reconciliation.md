@@ -174,7 +174,7 @@ He'd been welcoming me.
 - Post #2 in the ARG covers the same ground; the novel shows it from inside.
 
 **Rule checks**
-- No real place names; the country stays unnamed ("a city I'd never been to", "the old depot").
+- No real present-day place names; the city stays unnamed ("a city I'd never been to", "the old depot").
 - No real people; the 1962 crisis is unnamed.
 - Nell doubts herself ("I'm probably remembering it wrong" is Len's; hers: "I was annoyed… the most honest thing in this chapter", "I didn't know, then, what I know now").
 - No book-only themes.
