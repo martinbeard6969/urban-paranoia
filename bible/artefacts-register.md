@@ -72,6 +72,7 @@ Marguerite Aldane's archive, assembled by her daughter Ruth (the Archivist) sinc
 | Card 0212: Emmanuel Okafor | See [canon decisions D8](canon-decisions.md) | 📅 Phase 3 (W12) |
 | Card 1301: Seat Thirteen | "Seated." Day 0 | 🎬 Film teaser |
 | Publications list | Eight titles that follow the Tenants' plan step by step | ✅ |
+| **The demographer's day-count notebooks** | One cheap ruled government notebook per year, from *Day 0* (14 Oct 1962) to 2001, kept in the Ashby safe. The last contains the line *"The Frenchman was the lucky one. He closed the lid."* | 📕 Book (ch 26) |
 | **Model 7 workbooks** | Crane's original fertility-response models, 1984 and 1991, annotated. Includes the **U.P. column** ("urban paranoia": mutual suspicion between neighbours, per thousand households), rising every year since 1974. | 📕 Book (Crane's defection) |
 | Occasional Paper 33 (withdrawn, 2006) | *Post-labour equilibria*. Crane's last paper. | 📕 Book |
 

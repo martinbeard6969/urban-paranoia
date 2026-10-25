@@ -39,6 +39,8 @@ All characters are fictional. None is based on a real, identifiable person.
 - **Role:** Vesper's friend and sceptic; a former union organiser who now drives for a delivery app.
 - **Function:** keeps the story grounded. He argues the "plan" is just ordinary greed and policy, and he is often right. He also voices the cost of the scapegoating the Lodge stirs up, because his neighbourhood is torn by it.
 - **Arc:** the novel's emotional heart. He helps rebuild a small, mixed community network that the Lodge cannot divide.
+- **History with the Okafors:** a family friend since Nell was nine. He argued with Emmanuel on Sunday afternoons about cricket and pensions. He was the union rep across the table at Coyle's first cuts. After Emmanuel's death in 2019 he made Nell his responsibility, without saying so. (Ch 5; he may know something about Emmanuel's 1987 refusal, to use in ch 19.)
+- **Details:** delivers for an app, rated 4.9 ("the most stressful number of my life"). Shows care through action: chips, "ring me when you've eaten".
 
 ---
 

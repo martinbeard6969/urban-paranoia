@@ -25,6 +25,7 @@ Every open question in Book 1, and where it is answered. **Rule:** a question ra
 | What are the Tenants? | ch 1 | **ch 26** | **The managing agents of Earth.** Tenant farmers who have held the lease since before writing, working through "counters", paying rent in harvest and inventory, keeping the field alive until the end of the lease. Real (the Mirror theory is retired). |
 | What do they want? | ch 1 | **ch 26** | To keep their lease: pay the rent, pass the inspection, hand the house back quiet |
 | Why do they never say "I"? | ch 1 | **ch 26** | A managing agent never says "mine". Tenants don't claim a place. |
+| What was the Frenchman's thread for? | ch 1, 4 | **ch 26** | The demographer's last notebook: *"The Frenchman was the lucky one. He closed the lid."* Refusal was the real luck; everyone who took the voice's gifts paid for them. (Seeded by Len's "lucky" about Terry in ch 3.) |
 | Was the Lodge the first? | — | **ch 26** | No. The older ledger: "We weren't the first Table." |
 | Why "IT WILL NOT BURN"? | ch 1 | **ch 26** | Crop protection, not mercy |
 | Does anyone at the Table break? | ch 15 | **ch 27** | Seat Eleven, learning their child isn't on the list, quotes Marguerite and leaves: the first Seat lost in 39 years |

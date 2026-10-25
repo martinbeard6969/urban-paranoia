@@ -141,7 +141,7 @@ And then I asked him why he'd gone quiet on the phone.
 
 He put his mug down. He lined it up with the edge of the table, carefully, like a man squaring a stack of paper.
 
-"Because my mate Terry asked," he said. "Back in the eighties. Asked the office who the cash man was. Just asked. Friendly, like. And then Terry wasn't on long-distance any more. Nothing nasty. Nobody shouted. He just never got the good runs again. Local stuff till he retired. Never knew why, and never asked anything else, ever." Len looked at me then, properly, for the first time. "You notice that sort of thing. You notice it for forty years."
+"Because my mate Terry asked," he said. "Back in the eighties. Asked the office who the cash man was. Just asked. Friendly, like. And then Terry wasn't on long-distance any more. Nothing nasty. Nobody shouted. He just never got the good runs again. Local stuff till he retired. Never knew why, and never asked anything else, ever." He turned his mug a quarter-turn. "Lucky, really, Terry. Lost the good runs and kept his sleep." Len looked at me then, properly, for the first time. "You notice that sort of thing. You notice it for forty years."
 
 He stood up. He put on his coat, which took a while, and left a two-pound coin on the table for his tea even though I'd said I'd pay. At the door he turned round, and I thought he was going to say goodbye.
 
@@ -164,6 +164,7 @@ He'd been welcoming me.
 - **The second post** goes up at about 23:45. The Archivist's hidden comment is planted at **03:12** that night. Nell doesn't see it (payoff ch 6), but the first-person narration tells the reader.
 - **Len:** drove for Coyle's 1968–2014 (forty-six years), so early enough for teletype runs. The cash runs, the office calls (sets up her father in ch 6), the cash man "with a face that didn't stick", the wardrobe that hummed (the Exchange, 1983; canon decision D3), and Terry.
 - **New canon: "Old Tommy"** is the 1962 driver from ch 1. He did the first run, said nothing for years, then talked about nothing else ("seven cars and a man with no face"). He died about 2016. Len didn't go to the funeral. *(Matches ch 1: "did not think about the house again for almost forty years. Then he thought about it every day.")*
+- **The "lucky" seed:** Len on Terry: *"Lucky, really. Lost the good runs and kept his sleep."* It rhymes with the demographer's verdict on the Frenchman in ch 26: *"The Frenchman was the lucky one. He closed the lid."*
 - **The ending:** *"You notice it for forty years… You'll notice it too, now."* Len isn't warning her. He's **welcoming** her. The first sideways connection of the book.
 
 **Continuity**

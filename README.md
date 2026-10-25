@@ -16,9 +16,9 @@ A fictional transmedia property (novel, audio drama, and later film and comics),
 | [content/phase-1/](content/phase-1/) | Vesper's blog, Posts #1–3 |
 | [content/phase-2/](content/phase-2/) | Dead Drop 01 (`/6b6e70`), Harlow-Vane site and card 0144, Weather report #1, Posts #4–5 |
 | [news-desk/](news-desk/) | Weekly news digests ([first digest, 25 Oct 2026](news-desk/digest-2026-10-25.md)). See the [news desk process](campaign/news-desk.md). |
-| [book/](book/) | [Synopsis](book/synopsis.md) · [Chapter outline](book/outline.md) · [Resolution map](book/resolution-map.md) · [Chapter 1: "Day Zero"](book/chapters/01-day-zero.md) · [Chapter 2](book/chapters/02-contribution-to-the-transition.md) · [Chapter 3](book/chapters/03-reconciliation.md) · [Chapter 4](book/chapters/04-not-far-only-elsewhere.md) · [Act 2 midpoint: "The Wall"](book/act-2/scene-the-wall.md) (outline) |
+| [book/](book/) | [Synopsis](book/synopsis.md) · [Chapter outline](book/outline.md) · [Resolution map](book/resolution-map.md) · [Chapter 1: "Day Zero"](book/chapters/01-day-zero.md) · [Chapter 2](book/chapters/02-contribution-to-the-transition.md) · [Chapter 3](book/chapters/03-reconciliation.md) · [Chapter 4](book/chapters/04-not-far-only-elsewhere.md) · [Chapter 5](book/chapters/05-the-sensible-voice.md) · [Act 2 midpoint: "The Wall"](book/act-2/scene-the-wall.md) (outline) |
 | [marketing/](marketing/) | [ARG launch playbook: 8-week pilot](marketing/arg-launch-playbook.md) |
-| [outputs/](outputs/) | Shareable PDFs (pilot plan, chapters 1–4) and the three-tones audio |
+| [outputs/](outputs/) | Shareable PDFs (pilot plan, chapters 1–5) and the three-tones audio |
 | `audio/`, `comics/` | Not started |
 
 ## Status (as of 25 Oct 2026)
