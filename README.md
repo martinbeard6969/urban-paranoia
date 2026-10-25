@@ -1,6 +1,6 @@
 # Urban Paranoia
 
-*A novel by **Julian Mercer** (pen name).*
+*A novel by **Martin Defries** (pen name).*
 
 A fictional transmedia property (novel, audio drama, and later film and comics), launched through an alternate reality game (ARG). The ARG gives audiences an *"is this real?"* experience and then leads them into the book.
 

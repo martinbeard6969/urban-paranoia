@@ -1,6 +1,6 @@
 ---
 medium: novel
-author: Julian Mercer (pen name)
+author: Martin Defries (pen name)
 chapter: 2
 title: "Contribution to the Transition"
 setting: Coyle Brothers Haulage, head office and archive; Nell's flat. Saturday 17 May 2025 – Monday 20 April 2026 (Day 23,199)
