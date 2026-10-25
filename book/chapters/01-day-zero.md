@@ -6,7 +6,7 @@ title: "Day Zero"
 setting: Harrowgate House, Saturday 13 – Sunday 14 October 1962
 pov: close third, the British demographer (THREE); a short opening section from the Coyle's driver
 canon-refs: [bible/the-lodge/origins, bible/the-tenants, bible/deep-time/the-counters, bible/artefacts-register/minutes-fragment-1, bible/locations-and-organisations/harrowgate-house, content/phase-1/post-02-day-zero]
-status: draft v2 — trimmed and continuity-checked
+status: draft v2.1 — copy-edited
 words: ~2,900
 ---
 
@@ -14,7 +14,7 @@ words: ~2,900
 
 The driver was twenty-three and had never been inside a house with a name.
 
-He found it past the second gate, which stood open as his instructions said it would, though nobody stood beside it. The gravel beyond had been raked into lines so even it seemed a shame to drive on them. The house came out of the fog in pieces: a chimney, a run of windows, then the whole grey front of it, settled into the valley as if the valley had grown up around it. Seven cars were parked on the drive at careful distances, like guests who hadn't been introduced.
+He found it past the second gate, which stood open as his instructions said it would, though nobody waited beside it. The gravel beyond had been raked into lines so even it seemed a shame to drive on them. The house came out of the fog in pieces: a chimney, a run of windows, then the whole grey front of it, settled into the valley as if the valley had grown up around it. Seven cars were parked on the drive at careful distances, like guests who hadn't been introduced.
 
 A man was waiting at the door. He had the kind of face the driver would later try to describe to his wife and fail. *Not a bad face. Just one that didn't stick.*
 
@@ -48,7 +48,7 @@ She read that sentence several times. It had the effect, she realised later, of 
 
 There were seven of them at dinner, and no one to serve it.
 
-The man from the Institute, a Mr Somebody whose name each of them would afterwards remember differently, had shown them their rooms, the dining room where cold food waited under white cloths, and the library, where the fire was now lit. The house was theirs, he said, until Monday. The first session would be at ten. Then he buttoned his coat and walked away down the drive into the fog on foot, and they listened to his footsteps on the gravel for a long time, as if the valley were reluctant to let him go.
+The man from the Institute, a Mr Somebody whose name each of them would afterwards remember differently, had shown them their rooms, the dining room where cold food waited under white cloths, and the library, where the fire was now lit. The house was theirs, he said, until Monday. The first session would be at ten. Then he buttoned his coat and walked away down the drive into the fog, and they listened to his footsteps on the gravel for a long time, as if the valley were reluctant to let him go.
 
 "Well," said the American. "That's the most British thing I've ever seen."
 
@@ -56,7 +56,9 @@ He was forty or so, broad and quick, a planner for a telephone company in the mi
 
 The German was older, perhaps fifty, a statistician from a ministry in Bonn, and he checked things. He checked the date on the wine before he poured it. He checked the programme against his invitation and found a discrepancy in the timings, which he mentioned. He spoke English carefully, the way you'd cross a floor you knew had a loose board somewhere.
 
-The others she would remember less clearly, and later she would hate herself for that, because they deserved better than to be remembered as the ones who left. A slight, courteous economist from a trade ministry in Tokyo, who ate very little and asked the best questions of the evening. A young clerk from a central bank in Rio, who laughed easily and showed them a photograph of his wife. A statistician from a planning ministry in Delhi, who had worked out on the train from London, for his own amusement, the probable number of sheep in Britain, and was within a few hundred thousand. And a Frenchman from Le Havre, an actuary for a marine insurer, who priced the risk of ships not coming home. He said the house reminded him of his grandmother's, as all old houses did, because she had been the kind of woman who made every house seem old.
+The others she would remember less clearly, and later she would hate herself for that, because they deserved better than to be remembered as the ones who left. A slight, courteous economist from a trade ministry in Tokyo, who ate very little and asked the best questions of the evening. A young clerk from a central bank in Rio, who laughed easily and showed them a photograph of his wife.
+
+A statistician from a planning ministry in Delhi, who had worked out on the train from London, for his own amusement, the probable number of sheep in Britain, and was within a few hundred thousand. And a Frenchman from Le Havre, an actuary for a marine insurer, who priced the risk of ships not coming home. He said the house reminded him of his grandmother's, as all old houses did, because she had been the kind of woman who made every house seem old.
 
 They talked until late about the work. It was the first time in years, she thought, that she'd sat at a table where nobody needed the numbers explained. The American had a theory about telephones and loneliness. The man from Delhi had one about rain. The German said he had no theories, and when asked what he had instead, said, after some thought, "Doubts. Very well organised."
 
@@ -66,7 +68,7 @@ At midnight the Frenchman announced that he would go to bed before the house dec
 
 She woke at ten past two because something in the house was typing.
 
-A sound you've heard all your working life is unmistakable when it arrives where it doesn't belong. The iron chatter of a teletype, the carriage flinging itself across the page and back, the bell at the end of each line like a small cry of surprise. She lay in the dark and named it. Then she lay a little longer and named what was wrong with it: there was no reason on earth for a machine in a fogbound valley to be receiving anything at ten past two in the morning.
+A sound she had heard all her working life was unmistakable when it arrived where it didn't belong. The iron chatter of a teletype, the carriage flinging itself across the page and back, the bell at the end of each line like a small cry of surprise. She lay in the dark and named it. Then she lay a little longer and named what was wrong with it: there was no reason on earth for a machine in a fogbound valley to be receiving anything at ten past two in the morning.
 
 She put on her dressing gown and went down.
 
@@ -126,13 +128,13 @@ At about a quarter to four, with the Frenchman standing in the doorway, it told 
 
 > IN EIGHT DAYS THE FIELD WILL BE FRIGHTENED. IT WILL NOT BURN. REMEMBER WHO TOLD YOU.
 
-The American gave the short, involuntary laugh of a man handed a bill he can't read. "The field is going to be frightened. What does that—"
+The American gave the short, involuntary laugh of a man handed a bill he cannot read. "The field is going to be frightened. What does that—"
 
 But the machine had stopped, and into the stopping came a sound none of them had a name for.
 
 Three notes. A high one, a lower one, the high one again. They weren't loud. They didn't seem to come from the machine, or the room, or anywhere in particular. They were simply *there*, the way a smell is there before you've decided whether you like it. Every sound she had ever heard had something else in it, a scratch or a breath or an echo, the grain of the place it came from. These had none. They were like a line drawn with a ruler on a page where everything else had been drawn by hand.
 
-When they ended, the Frenchman put both hands over his ears, though it was already over. He stood like that for some time. Then he said, very calmly, "I think I would like to go home now," and went upstairs. For the rest of his life, nearly forty years in a narrow house above the harbour at Le Havre, he would dream of those three notes. He played them on his piano once, in 1971, and was so frightened by what he had done that he closed the lid and never opened it again.
+When they stopped, the Frenchman put both hands over his ears, though there was nothing left to hear. He stood like that for some time. Then he said, very calmly, "I think I would like to go home now," and went upstairs. For the rest of his life, nearly forty years in a narrow house above the harbour at Le Havre, he would dream of those three notes. He played them on his piano once, in 1971, and was so frightened by what he had done that he closed the lid and never opened it again.
 
 The man from Delhi was the last to go. He stood beside her at the window and watched the fog begin to grey with dawn. At last he said, quietly, so the American wouldn't hear: "It said we were not important. Did you notice it didn't say why that was useful?"
 
@@ -140,7 +142,7 @@ She said she had noticed.
 
 "I'm a statistician," he said. "I know what you call a sample chosen because nobody will miss it." He looked at the machine, quiet now, its paper hanging down like a tongue. "I have a daughter. She's four." And he went.
 
-When his footsteps had gone, the carriage moved once more. It typed one line, and she was the only one standing close enough to read it.
+When his footsteps had gone, the room was nearly empty. The American had gone to find more light, and the German had fallen asleep against the doorframe. She was alone with the machine when the carriage moved once more. It typed one line.
 
 > THE ONE WHO COUNTS WILL KEEP THE BOOK.
 
@@ -179,6 +181,8 @@ At the top of the page, in her small, neat hand, she wrote:
 ---
 
 ## AUTHOR'S NOTES (out-of-world, do not publish)
+
+**v2.1 copy-edit (25 Oct 2026):** two "stood"s and "walked… on foot" removed; "cannot read"; "ended… over" fixed; the guests paragraph split; second-person slip removed; **continuity:** the American is no longer in the room when the counters line prints, so THREE alone reads it.
 
 **v2 changes (25 Oct 2026):**
 - Trimmed from ~5,000 to ~2,900 words (measured). The outline target is ~3,500, so there is room to add a scene in a later draft if needed.
