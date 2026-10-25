@@ -98,7 +98,7 @@ Answers to the canon questions raised while drafting Phase 1–2. Each entry giv
 
 **Decision.** **It was a genuine accident.** She went out alone in bad weather and drowned. The Lodge didn't order it, but **it let the rumour stand**, because Stewards and Seats believing the Lodge kills deserters is useful to it.
 
-**Ruth learns this in book Act 3**, from Crane. It devastates her, because the fear that shaped her whole life was manufactured too, and it echoes the Mirror theory.
+**Ruth learns this in book Act 3**, from Crane. It devastates her, because the fear that shaped her whole life was manufactured too.
 
 **Audience learns:** never confirmed in the ARG. The book confirms it.
 
@@ -146,8 +146,9 @@ It stays "withheld" on the Harlow-Vane site until then.
 *(This replaces the earlier "Quarantine" motive.)*
 
 **Rules:**
-- The **Mirror theory** (there are no Tenants, only the Lodge) and the **"nobody" doubt** (there is no Freeholder) must stay possible in every published work.
-- **Reveal order:** ARG and Act 1 suggest only that they want quiet. Act 3 reveals the harvest, the Taken and the cull. The film reveals the Freeholder.
+- **The Mirror theory is retired** (decided 25 Oct 2026). Book 1, ch 26 confirms the Tenants are real. During the ARG, before the book, fans may still debate it.
+- **The doubt moves up a rung:** the **"nobody" doubt** (perhaps there is no Freeholder) must stay possible through Book 2. Renters never meet the landlord.
+- **Reveal order:** ARG and Act 1 suggest only that they want quiet. Act 3 reveals the harvest, the Taken, the cull and **what the Tenants are** (ch 26: managing agents and tenant farmers). The **epilogue** delivers the Freeholder's notice. **Book 2** makes the Freeholder the threat. (The film adapts Book 1.)
 - *INTERESTING* (ch 30) means the Tenants have seen something not on any inventory. The cull is postponed, not cancelled.
 
 ---

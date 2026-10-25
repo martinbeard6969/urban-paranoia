@@ -7,7 +7,7 @@ canon-refs: [bible/*, book/synopsis, book/chapters/01-day-zero, book/act-2/scene
 
 # Urban Paranoia: chapter outline
 
-**Shape:** 30 chapters in three acts. Present-day chapters (spring–autumn 2026) are in **Nell's first person**. Seven **interludes** step back into the Table's history in close third person, each a short, self-contained story that shifts how the reader sees the present. The book opens on **Day 0** (14 Oct 1962) and closes on the 64th anniversary, **Day 23,376** (Wed 14 Oct 2026).
+**Shape:** 30 chapters in three acts, plus a short epilogue. Present-day chapters (spring–autumn 2026) are in **Nell's first person**. Seven **interludes** step back into the Table's history in close third person, each a short, self-contained story that shifts how the reader sees the present. The book opens on **Day 0** (14 Oct 1962) and closes on the 64th anniversary, **Day 23,376** (Wed 14 Oct 2026).
 
 **The spine:** Nell moves from *collecting evidence* (Act 1), to *seeing the shape* (Act 2, ending at the Wall), to *acting with other people* (Act 3). The Table is never defeated. It's **surprised**.
 
@@ -105,6 +105,8 @@ Crane's keycard still works (*Weather status: under review*, never revoked). Nel
 
 In the safe, beneath the Minutes, Ruth finds **the older ledger**: a bound book in a dead script, dated by a different day-count that began long before 1962, with the same farming language and the same absence of "I". Crane goes white. *"We weren't the first Table."* The tenancy is far older than the Lodge, and earlier circles were promised the same list. Nobody knows what became of them. Then the teletype prints the line from Fragment 9 that Crane has never been allowed to read aloud: *THE HOUSE HAS BEEN EMPTY BEFORE. IT WAS QUIETER.* For the first time the four understand what the Tenants are: **tenant farmers, paying rent, afraid of an inspection.** ([deep time](../bible/deep-time.md), [the ladder](../bible/the-ladder.md))
 
+**The full reveal (this is where Book 1 explains the aliens).** Nell asks the machine directly what it is. It doesn't answer. It types what it *does*, the way an agent describes a role: *THE HOUSE IS LET. THE HOUSE IS KEPT. THE RENT IS PAID.* Crane translates, slowly, from fifty years of listening. They aren't masters. They're **the managing agents**: they hold the lease, work the field, keep the books, and answer to someone above them that they have never seen. Nell, remembering a bird logo on a rent statement, says the line the chapter is built to land: *"How many renters ever meet the landlord? You deal with the agents."* Teo realises the 12×12 grid is the inventory's format: the field, counted in rows. Ruth realises why the machine never says "I": *a managing agent never says "mine".* **The Tenants are confirmed real** (the Mirror theory is retired). What stays unknown is who, or what, they answer to. See the [resolution map](resolution-map.md).
+
 **27. Interlude: Standing Up** *(the Table, by secure video)*
 The Table meets about the blog, the store and the succession. Seat Eleven (Commons), the Gardener who wrote down Quill's words, has just learned that their own child is **not on the list**. They say Marguerite's line, *"a gardener still chooses the rows"*, and leave the call. It's **the first Seat lost in thirty-nine years.** Seat Four orders that the Wharf Road vote go Larkspire's way, whatever it costs.
 
@@ -117,6 +119,7 @@ The council meeting on the redevelopment. Clearfell and Frostline both turn up, 
 - **What it does:** the Table's money stalls. Factors panic. Seat Four can't find anyone to blame, because every decoy is in the room.
 - **The hall that Thursday:** too many people for the chairs, so they fetch more. Ama, Danny, Jack, Teo, Len (back for the first time since his coffee), Graham from across the road. Ruth at the back. Crane by the door, near the exit and choosing not to use it. They go round the room and each person says one sentence beginning "I".
 - **Nell's last blog post:** what she knows, what she doesn't, the method, and *"I'm not asking who's to blame."*
+- **Cobb's ending:** on the strike list from another estate, Nell finds the name of the polite man who used to read her day back to her. He's a Larkspire tenant too. He signed. He never speaks to her again, and he never needs to.
 - **All invented:** Larkspire is fictional, and no real company, real protest or real unrest is named or mirrored (canon decision D13).
 
 **30. Interesting** *(Wednesday 14 October 2026, Day 23,376)*
@@ -129,6 +132,15 @@ Sixty-four years to the night. Mother Quill dies at her farm at 02:09. At 02:10 
 Nell reads it on Teo's phone at her kitchen table, in front of a wall with a crossed chair above six cards. On the final page, without naming any real event, she reflects that **every age has had its peasants' revolt**: the people at the bottom of the ladder have always eventually looked sideways, and that's why the ledger has never been finished. The book's thesis lands in her voice: *the only thing the ladder can't hold is people choosing each other.* She takes out a cheap ruled notebook and, at the top of a clean page, writes the date the way her side of the field will count it from now on. *(Last line to be found in drafting. It must answer chapter 1's* Day 0 *without copying it.)*
 
 ---
+
+**Epilogue: Notice** *(November 2026, about 1,000 words or less; Nell, first person)*
+A few weeks later. The rent strike is holding. Mother Quill is buried. The hall has a rota. Life is smaller and better. Then, at ten past two one morning, Teo phones: the Ashby teletype is printing, and it isn't counsel. It's a **notice**, formal, in a typeface none of them has seen, addressed *TO THE TENANTS OF THIS HOUSE*. An inspection has been scheduled. The date will follow. Nobody wrote it. Not the Table, not the Tenants. It came *through* them, the way post comes through an agent's office. The machine is silent for an hour. Then, beneath the notice, slowly, it types one character, and stops:
+
+> *I*
+
+Nell looks at it for a long time. The book ends on her first thought, one line, still to be found in drafting. It must be about choosing sides, not fear.
+- **Launch-day ARG drop:** the notice itself, released online as an in-world artefact with its date redacted, starting Book 2's game. Fiction trail included; no real date or countdown (rules 4–7). See the [campaign plan](../campaign/campaign-plan.md).
+- **Hooks into Book 2:** the Freeholder as the threat; who said "I"; the inspection date; Nell offered the chair.
 
 ## Public figures by chapter
 
@@ -154,12 +166,13 @@ Invented composites only; real leaders appear only as unnamed background. See [p
 | "Needed from tomorrow" | ch 1 | ch 30 (02:10, sixty-four years on) |
 | No "I" | ch 1 (THREE notices) | ch 23 (Jack and Nell expose @longweather_) |
 | 144 lb | ch 6 | ch 23 (the server was watching) |
-| The faceless man at the door | ch 1 | ch 10, 19 (Cobb) |
+| The faceless man at the door | ch 1 | ch 10, 19 (Cobb); ch 29 (Cobb signs the strike list) |
+| Never says "I" | ch 1 | Epilogue: the machine types *I* |
 | Emmanuel's silence | ch 6 | ch 11, 19 (he stood up too) |
 | "Which rows" | ch 11 | ch 27 (Seat Eleven stands up) |
 | Marguerite's death | ch 7 | ch 25 (an accident; manufactured fear) |
 | The thirteenth chair | ch 1 (four unused place settings) | ch 26 (the real chair), ch 29 (more chairs than thirteen) |
-| The inspection | ch 18 (Larkspire's 3:40 a.m. text) | ch 26 (the Freeholder's), ch 28–29 (nobody opens the door) |
+| The inspection | ch 18 (Larkspire's 3:40 a.m. text) | ch 26 (the Freeholder's, explained), ch 28–29 (nobody opens the door), epilogue (the notice arrives) |
 | The first writing was a receipt | ch 12 | ch 26 (the older ledger) |
 | "Fewer" | ch 1, Fragment Four | ch 25 (it was always a date) |
 | **The title** | The cover | ch 25: the U.P. column, "urban paranoia", the Lodge's own measure of neighbours' suspicion. It falls, unspoken, in ch 29. |

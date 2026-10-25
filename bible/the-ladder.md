@@ -27,7 +27,7 @@ The book's deep structure: **the same shape at every scale.** Each level is a te
 2. **Act 1–2:** a secret circle is behind the firm (the Lodge).
 3. **Act 2:** something non-human is behind the circle (the Tenants).
 4. **Act 3:** even that is renting, and harvesting to pay rent ([the lease](the-tenants.md), [deep time](deep-time.md)).
-5. **The film:** the Freeholder, and whether *it* is a tenant too.
+5. **Book 2:** the Freeholder becomes the threat. It's still unseen (renters never meet the landlord), known only through its paperwork, and nobody knows whether it exists at all.
 
 ## The key: sideways
 

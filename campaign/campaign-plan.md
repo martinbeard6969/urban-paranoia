@@ -62,6 +62,7 @@ The ARG runs in five phases and ends in the book launch. Weeks are counted from 
 - The story's message lands: *every scapegoat is a decoy*.
 - The ARG resolves into the novel's first act. All channels gain a visible "Urban Paranoia, a novel" banner.
 - **Book launch.**
+- **Launch-day drop:** the Freeholder's **notice**, addressed *TO THE TENANTS OF THIS HOUSE*, released online as a new in-world artefact with the date redacted. It mirrors the book's epilogue and opens Book 2's game. Fiction trail on the page; no real date, countdown or prophecy (rules 4–7).
 
 ## Phase 5: Expansion (post-launch)
 

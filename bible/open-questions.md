@@ -19,10 +19,11 @@ Canon and production decisions that are still open. When one is settled, move th
 
 | # | Question | Context |
 |---|---|---|
-| 5 | Who is **Cobb**, really? | A Steward under Seat Twelve (Ward) who doesn't know what the Lodge is. Background, motive and fate are still to be written. |
-| 6 | **Teo Brandt's** full arc | Introduced in Phase 2 (W7). Does he join the Mission Hall network, or does the Engine Seat turn him? |
-| 7 | Who is the next **Listener**? | The book's Act 3 succession crisis and the film's spine. Candidates are not yet named. |
 | 8 | The **purple stamp**: where is it? | Never found. Reserved as a mystery for the comics. |
+| 12 | **Book 2: the Freeholder.** What is it, and does it exist? | Book 2's threat. Renters never meet the landlord; the "nobody" doubt stays alive. |
+| 13 | **Book 2: who typed "I"?** | The epilogue's last word. |
+| 14 | **Book 2: Nell and the chair** | The Listener's chair offered to Nell. |
+| 15 | **Epilogue's last line** | Nell's first thought after the "I". About choosing sides, not fear. To be found in drafting. |
 | 11 | Is a **Fragment counsel for WATCHED** ever found? | Left deliberately blank in "The Wall". Decide whether a later drop or Act 3 supplies one, or it stays blank. |
 | 9 | Founders' **names** | Never given in published work so far. Decide whether the book names them. |
 
@@ -35,6 +36,7 @@ Canon and production decisions that are still open. When one is settled, move th
 - **Calder Foundation renamed** to the Harlow-Vane Institute for Systems Studies (25 Oct 2026).
 - **Meridian Mutual renamed** to Larkspire Mutual Re (25 Oct 2026).
 - **Extremist groups named** Clearfell (left-coded) and Frostline (right-coded); the young man is **Jordan Pryce** (25 Oct 2026). Earlier "Common Soil" was dropped for echoing "Blood and Soil".
+- **Settled in the [resolution map](../book/resolution-map.md) (25 Oct 2026):** Cobb is a Steward and a Larkspire tenant who signs the strike list (ch 29); Teo joins the Mission Hall network; the next Listener is carried into Book 2 (the chair is offered to Nell); **the Mirror theory is retired** (ch 26 confirms the Tenants).
 - **Settled in [canon-decisions.md](canon-decisions.md) (25 Oct 2026):**
   - D1: seat numbering, and "Four" = Seat Four
   - D2: "T." = the Tenants

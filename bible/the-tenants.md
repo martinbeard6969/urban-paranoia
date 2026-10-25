@@ -20,7 +20,8 @@ The Tenants are a non-human intelligence. Their nature is **never confirmed on t
 | 2 | ARG Phase 3 / audio S1 | Contact happened through machines (teletype, later telephone exchanges, later data centres). |
 | 3 | Book, Act 2 | The Tenants experience time differently. They plan in centuries. |
 | 4 | Book, Act 3 | Their goal: a **smaller, stiller** humanity. They are **tenant farmers**: the harvest, the inventory, the Taken, the cull, and the earlier Tables (see "The lease" and [deep time](deep-time.md)). |
-| 5 | Film / later | **The Freeholder.** Even the Tenants pay rent, and an inspection is coming (see [the ladder](the-ladder.md)). |
+| 5 | Book 1, ch 26 | **The Tenants are real, and fully explained:** the managing agents of Earth, tenant farmers who answer to a landlord nobody has met. |
+| 6 | Book 1 epilogue, then Book 2 | **The Freeholder.** The notice of inspection arrives. The landlord becomes Book 2's threat (see [the ladder](the-ladder.md)). |
 
 ## How they communicate
 
@@ -76,7 +77,7 @@ Seed these in the ARG and let the community argue:
 - **The Gardener theory:** humanity is a crop, and the Tenants are managing yield. *(Closest to the truth. Let fans get there.)*
 - **The Quarantine theory:** a large, loud humanity would attract something worse.
 - **The Inheritance theory:** they are preparing Earth for someone else.
-- **The Mirror theory:** there are no Tenants. The Lodge invented them so they would never have to own their choices. (*The story should keep this one possible to the very end.*)
+- **The Mirror theory:** there are no Tenants. The Lodge invented them so they would never have to own their choices. *(Fans may debate it during the ARG. **Retired in Book 1, ch 26**, which confirms the Tenants are real. The doubt moves up a rung: is there really a Freeholder?)*
 
 ## Tells in the world (ARG puzzle hooks)
 
