@@ -6,6 +6,8 @@ canon-refs: [bible/the-lodge, bible/the-tenants, bible/deep-time, bible/the-ladd
 
 # Urban Paranoia: synopsis
 
+*by Julian Mercer*
+
 *For the long weather.*
 
 ---

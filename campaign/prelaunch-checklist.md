@@ -23,6 +23,7 @@ status: live — nothing goes public until every box in sections A–D is ticked
   - [ ] Clearfell (first check 25 Oct 2026: no real group found)
   - [ ] Frostline (first check 25 Oct 2026: no real group found)
 - [ ] Rename anything that matches a real organisation or place. Update the bible and all content in the same change.
+- [ ] **Pen name "Julian Mercer":** check it doesn't clash with an established author, and secure matching domain and social handles before launch.
 - [ ] Check character names: no prominent real people share the full names Nell Okafor-Reyes, Hollis Crane, Ruth or Marguerite Aldane, Danny Kessler, Teo Brandt, Emmanuel Okafor, Jordan Pryce, Jack Prentice. (Note: "Jordan Pryce" is close to the real actor Jonathan Pryce, who must never be referenced. The adult-film performer the alias comes from is fictional and is never named as or linked to a real person.)
 - [ ] **Legal review** of the whole campaign concept, especially:
   - defamation (no real people implied)

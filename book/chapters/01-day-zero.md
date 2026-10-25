@@ -1,5 +1,6 @@
 ---
 medium: novel
+author: Julian Mercer (pen name)
 chapter: 1
 title: "Day Zero"
 setting: Harrowgate House, Saturday 13 – Sunday 14 October 1962

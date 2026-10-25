@@ -1,5 +1,7 @@
 # Urban Paranoia
 
+*A novel by **Julian Mercer** (pen name).*
+
 A fictional transmedia property (novel, audio drama, and later film and comics), launched through an alternate reality game (ARG). The ARG gives audiences an *"is this real?"* experience and then leads them into the book.
 
 **Agent instructions, canon summary and hard rules:** see [CLAUDE.md](CLAUDE.md). Read the hard rules before writing anything.
