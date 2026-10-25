@@ -1,0 +1,214 @@
+---
+medium: novel
+chapter: 1
+title: "Day Zero"
+setting: Harrowgate House, Saturday 13 – Sunday 14 October 1962
+pov: close third, the British demographer (THREE); a short opening section from the Coyle's driver
+canon-refs: [bible/the-lodge/origins, bible/the-tenants, bible/deep-time/the-counters, bible/artefacts-register/minutes-fragment-1, bible/locations-and-organisations/harrowgate-house, content/phase-1/post-02-day-zero]
+status: draft v2 — trimmed and continuity-checked
+words: ~2,900
+---
+
+# One: Day Zero
+
+The driver was twenty-three and had never been inside a house with a name.
+
+He found it past the second gate, which stood open as his instructions said it would, though nobody stood beside it. The gravel beyond had been raked into lines so even it seemed a shame to drive on them. The house came out of the fog in pieces: a chimney, a run of windows, then the whole grey front of it, settled into the valley as if the valley had grown up around it. Seven cars were parked on the drive at careful distances, like guests who hadn't been introduced.
+
+A man was waiting at the door. He had the kind of face the driver would later try to describe to his wife and fail. *Not a bad face. Just one that didn't stick.*
+
+"You'll be the machine," the man said.
+
+They carried it in together, the man taking his share of the weight without being asked, which the driver noticed, because gentlemen didn't. Through a hall that smelled of beeswax and cold stone, through a library where a fire was laid but not lit, and into a small panelled room beyond. It had one window onto the fog, one chair, and a clock on the mantel that ticked as though it were paid by the tick.
+
+The driver had installed teletypes before, in shipping agents' back rooms and once in a police station. He set the machine on its stand, ran the cable to the wall plate, and looked for the socket for the power.
+
+"Leave that," the man said. "It'll be needed from tomorrow."
+
+"It won't work without—"
+
+"Thank you. That will be all."
+
+In the cab he filled in his sheet, because if it wasn't on the sheet it hadn't happened. *Delivered & installed.* Then, because something about the place wanted writing down: *Gent at door said would be "needed from tomorrow." Odd sort of party — 7 cars on the drive, no staff.*
+
+He drove out between the raked lines of gravel and did not think about the house again for almost forty years. Then he thought about it every day.
+
+---
+
+She had come because the letter had used the word *promising*.
+
+Nobody had called her promising for some time. She was thirty-six, a demographer in a government department whose name changed every few years while its work stayed the same. She counted: births, deaths, marriages, households, the slow traffic of a nation coming and going through its own front door. She was good at it in a way that made the men above her uneasy, and so she had stayed where she was, high enough to be useful and low enough to be thanked rather than promoted. *Indispensable*, they said, which she had come to understand meant *we will not be letting you go anywhere*.
+
+The letter came from the Harlow-Vane Institute for Systems Studies, which she had never heard of. It invited her to a residential seminar, three nights, all expenses met, on *the long-range forecasting of settled societies*. There would be six other participants from six other countries, each chosen, it said, for the quality of their work rather than the seniority of their post.
+
+She read that sentence several times. It had the effect, she realised later, of a hand placed briefly on the small of the back.
+
+---
+
+There were seven of them at dinner, and no one to serve it.
+
+The man from the Institute, a Mr Somebody whose name each of them would afterwards remember differently, had shown them their rooms, the dining room where cold food waited under white cloths, and the library, where the fire was now lit. The house was theirs, he said, until Monday. The first session would be at ten. Then he buttoned his coat and walked away down the drive into the fog on foot, and they listened to his footsteps on the gravel for a long time, as if the valley were reluctant to let him go.
+
+"Well," said the American. "That's the most British thing I've ever seen."
+
+He was forty or so, broad and quick, a planner for a telephone company in the middle of his country. Over the cold beef he told the table how many miles of wire it took to connect a city of a million people to itself, and how few of the men above him understood that number. He was impatient in the way of people who are usually right and seldom listened to. She liked him at once and did not trust him at all.
+
+The German was older, perhaps fifty, a statistician from a ministry in Bonn, and he checked things. He checked the date on the wine before he poured it. He checked the programme against his invitation and found a discrepancy in the timings, which he mentioned. He spoke English carefully, the way you'd cross a floor you knew had a loose board somewhere.
+
+The others she would remember less clearly, and later she would hate herself for that, because they deserved better than to be remembered as the ones who left. A slight, courteous economist from a trade ministry in Tokyo, who ate very little and asked the best questions of the evening. A young clerk from a central bank in Rio, who laughed easily and showed them a photograph of his wife. A statistician from a planning ministry in Delhi, who had worked out on the train from London, for his own amusement, the probable number of sheep in Britain, and was within a few hundred thousand. And a Frenchman from Le Havre, an actuary for a marine insurer, who priced the risk of ships not coming home. He said the house reminded him of his grandmother's, as all old houses did, because she had been the kind of woman who made every house seem old.
+
+They talked until late about the work. It was the first time in years, she thought, that she'd sat at a table where nobody needed the numbers explained. The American had a theory about telephones and loneliness. The man from Delhi had one about rain. The German said he had no theories, and when asked what he had instead, said, after some thought, "Doubts. Very well organised."
+
+At midnight the Frenchman announced that he would go to bed before the house decided he was one of its ghosts. She was the last to go up. From the library she could see through an open door into the small panelled room, where a machine stood under a dust sheet beside a single chair. She remembered thinking it was an odd thing to keep in a room like that. She remembered the clock on the mantel, ticking.
+
+---
+
+She woke at ten past two because something in the house was typing.
+
+A sound you've heard all your working life is unmistakable when it arrives where it doesn't belong. The iron chatter of a teletype, the carriage flinging itself across the page and back, the bell at the end of each line like a small cry of surprise. She lay in the dark and named it. Then she lay a little longer and named what was wrong with it: there was no reason on earth for a machine in a fogbound valley to be receiving anything at ten past two in the morning.
+
+She put on her dressing gown and went down.
+
+The others were already there, or most of them. The American stood in the library doorway in his shirtsleeves. The German was in the little room, bent over the wall with a torch. The man from Tokyo stood very still by the bookcases, hands clasped in front of him as if at a funeral. The clerk from Rio held his arm across his chest as if he were cold. The Frenchman sat by the dead fire with his eyes closed. The man from Delhi came down the stairs behind her, still putting on his spectacles.
+
+The dust sheet lay on the floor. The machine was printing.
+
+"It is not connected," the German said, without turning round. He shone the torch on the plug, lying on the boards where the driver had left it, its brass prongs catching the light. He picked it up and held it out to them, like evidence. "You see? There is no power. It is not plugged in."
+
+Nobody answered him. The machine stopped. In the silence the clock ticked. Then the carriage returned, the bell rang once, and the American stepped in and tore off the paper, and his face did something she would spend a long time afterwards trying to describe.
+
+He handed it to her. A single line, in capitals, centred on the page as if someone had taken care over the layout.
+
+> SIT. THERE IS TIME.
+
+There was one chair in the room, and it was facing the machine.
+
+---
+
+Afterwards, when people asked her how it had begun (and in the thirty-nine years she had left, only six people ever did), she always said the same thing: that it was very polite.
+
+There was no light. There were no voices, no shapes at the window, nothing a sensible person would be embarrassed to report. There was a machine, unplugged, typing in a small room, and it was courteous. It waited for them. When the American sat in the chair, because someone had to and he was the kind of man for whom *someone* always meant him, it waited for him to settle. When the German demanded, in German, to know who was sending, it waited until he had finished.
+
+Then it typed, without answering him:
+
+> THE ONE WHO CHECKS IS WELCOME. CHECK AGAIN.
+
+He did. The plug, the wall plate, the line, the back of the machine, the window. He went up to the room above, and they heard his footsteps cross the ceiling and come back. When he returned his face was grey, and he sat down on the floor in the doorway, carefully, like a man lowering himself into cold water. He said nothing more that night. But he stayed.
+
+They asked it what it was. It did not say. They asked where it was, and it said:
+
+> NEAR. FOR A LONG TIME. LONGER THAN THE HOUSE.
+
+They asked what it wanted.
+
+> TO ADVISE.
+
+It was such an ordinary word. Civil servants advised. Committees advised. In her department there was a man whose entire job, as far as she could tell, was to advise, and nobody had ever been afraid of him.
+
+It was the man from Tokyo who asked the question that ended his part in the story. He stood just behind the chair and asked, in very careful English: "Why us?"
+
+> YOU ARE NOT IMPORTANT. THAT IS WHY.
+
+He read it and nodded slowly, as if he had been told the price of something he had already decided not to buy. Then he walked out of the room and up the stairs, and they heard his door close. In the morning he would be gone. In the polite, increasingly anxious letters he wrote to the Institute over the following year, he would describe a dream about an empty chair and ask, each time, whether anyone else had had it.
+
+The clerk from Rio left at about three. He didn't speak. He touched the photograph in his breast pocket the way you'd touch a wall in the dark to know where you were, and went.
+
+---
+
+It told them very little that first night. Later there would be forty pages of it, then decades, then a whole architecture of meaning built on a few hundred lines of capitals. But that night it was brief, as though it were introducing itself, or measuring how much they could carry.
+
+It spoke about fields. She noticed it later, reading the pages over and over in her room. It talked about the world the way her grandfather had talked about his allotment: rows and soil and seasons, things that grew too close and choked each other, things that needed thinning. There was nothing cruel in the language, and that was what frightened her. It was the voice of something that had grown things for a very long time.
+
+> A FIELD THAT IS CROWDED FIGHTS ITSELF.
+
+At about a quarter to four, with the Frenchman standing in the doorway, it told them something that could be checked.
+
+> IN EIGHT DAYS THE FIELD WILL BE FRIGHTENED. IT WILL NOT BURN. REMEMBER WHO TOLD YOU.
+
+The American gave the short, involuntary laugh of a man handed a bill he can't read. "The field is going to be frightened. What does that—"
+
+But the machine had stopped, and into the stopping came a sound none of them had a name for.
+
+Three notes. A high one, a lower one, the high one again. They weren't loud. They didn't seem to come from the machine, or the room, or anywhere in particular. They were simply *there*, the way a smell is there before you've decided whether you like it. Every sound she had ever heard had something else in it, a scratch or a breath or an echo, the grain of the place it came from. These had none. They were like a line drawn with a ruler on a page where everything else had been drawn by hand.
+
+When they ended, the Frenchman put both hands over his ears, though it was already over. He stood like that for some time. Then he said, very calmly, "I think I would like to go home now," and went upstairs. For the rest of his life, nearly forty years in a narrow house above the harbour at Le Havre, he would dream of those three notes. He played them on his piano once, in 1971, and was so frightened by what he had done that he closed the lid and never opened it again.
+
+The man from Delhi was the last to go. He stood beside her at the window and watched the fog begin to grey with dawn. At last he said, quietly, so the American wouldn't hear: "It said we were not important. Did you notice it didn't say why that was useful?"
+
+She said she had noticed.
+
+"I'm a statistician," he said. "I know what you call a sample chosen because nobody will miss it." He looked at the machine, quiet now, its paper hanging down like a tongue. "I have a daughter. She's four." And he went.
+
+When his footsteps had gone, the carriage moved once more. It typed one line, and she was the only one standing close enough to read it.
+
+> THE ONE WHO COUNTS WILL KEEP THE BOOK.
+
+---
+
+In the morning there were three of them.
+
+The others' cars were gone when she came down. The gravel showed where they had stood: four pale oblongs among the raked lines. The man from the Institute had not come back. There was bread and butter and a pot of tea, made by someone, she never discovered who. She would later suspect the German, who had sat up all night on the floor and needed something to do with his hands.
+
+They sat at one end of the long dining table, which was still set for seven. Nobody moved the other places. Four plates, four cups, four folded napkins, all clean.
+
+The American had the night's pages in front of him, squared into a neat pile. He kept touching the edges. "Eight days," he said at last. "Something frightens everyone in eight days, and it doesn't burn. That's specific. That's a forecast. We are three forecasters. We'll know in eight days."
+
+"And if it does not happen?" said the German.
+
+"Then we're three tired people who had a strange night and should see a doctor."
+
+"And if it does happen?"
+
+The American didn't answer. She saw his hand flatten on the pile of paper, the way you'd hold down a map in a wind.
+
+She was thinking about the thing it hadn't said. By about four o'clock she had noticed something the others, she was fairly sure, had not. It had never once said *I*. Not *I am*, not *I want*, not *I advise*. Never *we*, either. Every line was built so that no one was speaking: *THERE IS TIME. THE ONE WHO CHECKS IS WELCOME. TO ADVISE.* It was a voice that had learned, very carefully, how never to stand anywhere.
+
+She didn't say so. It didn't seem the most pressing point. Later, when she did say it and the American told her exactly that, she would insist that it be written down.
+
+Outside, the fog was lifting. A long way off, though none of them would know it for a week, an aeroplane had flown that morning very high over an island and taken photographs that were even now being carried, in sealed canisters, towards people who would not sleep for thirteen days. The field was about to be frightened. It would not burn.
+
+She took out her notebook, the cheap ruled kind her department issued in boxes of fifty, with a crest on the cover that nobody ever looked at. She opened it to a clean page. She was a counter of people. She had spent her life writing down when things began.
+
+At the top of the page, in her small, neat hand, she wrote:
+
+*Day 0.*
+
+---
+
+---
+
+## AUTHOR'S NOTES (out-of-world, do not publish)
+
+**v2 changes (25 Oct 2026):**
+- Trimmed from ~5,000 to ~2,900 words (measured). The outline target is ~3,500, so there is room to add a scene in a later draft if needed.
+- **Continuity fixes:**
+  - *THE LONG WEATHER DOES NOT HURRY* is removed, because it first appears on Day 19 (Fragment 3).
+  - "in sixty years" becomes "in the thirty-nine years she had left", since THREE died in 2001.
+  - The host now leaves **on foot**, so the seven cars on the drive are the seven guests'.
+  - "Mr Somebody" uses British style.
+- **New canon seed:** *THE ONE WHO COUNTS WILL KEEP THE BOOK.* It's the first hint of the "counters" ([deep time](../../bible/deep-time.md)), seen by THREE alone just before she writes *Day 0*. It's logged in Fragment 1.
+
+**What this chapter establishes**
+- **The driver's note from the ARG is born here,** in the same words as Post #2. He is **not** Len, who joined Coyle's later.
+- **The faceless man at the door** (*"one that didn't stick"*) is the same type as Len's cash man and Cobb.
+- **The seven guests:** mid-level, multinational, and unnamed by design (open question #9).
+- **The four who leave,** each with a dignified exit: Tokyo (the price), Rio (the photograph), Le Havre (the piano, 1971; see the outline's ch 4 interlude), Delhi (the sample, his daughter).
+- **Counsel on night one:**
+  - *SIT. THERE IS TIME.*
+  - *THE ONE WHO CHECKS IS WELCOME. CHECK AGAIN.*
+  - *NEAR. FOR A LONG TIME. LONGER THAN THE HOUSE.*
+  - *TO ADVISE.*
+  - *YOU ARE NOT IMPORTANT. THAT IS WHY.*
+  - *A FIELD THAT IS CROWDED FIGHTS ITSELF.* (Completed with *LET IT.* on Day 41.)
+  - *IN EIGHT DAYS THE FIELD WILL BE FRIGHTENED. IT WILL NOT BURN. REMEMBER WHO TOLD YOU.*
+  - *THE ONE WHO COUNTS WILL KEEP THE BOOK.*
+  - None uses "I" or "we".
+- **The prediction:** 22 Oct 1962. Real backdrop only, with no real people named (rule 2).
+- **"It would not burn"** quietly seeds the later reveal of crop protection (the lease).
+
+**Continuity**
+- The teletype room is "a small panelled room beyond the library", later the Listening Room.
+- Delivery Saturday 13 Oct; contact 02:10, Sunday 14 Oct (Day 0).
+- The tones occur on night one, before ref. HG/A/02 in the Day 41 minute.
+
+**Craft:** long observed paragraphs broken by single lines of counsel. Keep this pattern whenever the Tenants speak.
