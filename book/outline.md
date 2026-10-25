@@ -17,7 +17,7 @@ canon-refs: [bible/*, book/synopsis, book/chapters/01-day-zero, book/act-2/scene
 
 | Ch | Narrator label (opening line) | Section labels |
 |---|---|---|
-| 1 | HARROWGATE · 13–14 OCTOBER 1962 | THE DRIVER; THE DEMOGRAPHER |
+| 1 | HARROWGATE · 13–14 OCTOBER 1962 | THE DEMOGRAPHER (at the second section; the opening needs no label, since its first line names the driver) |
 | 2 | NELL · DAY 22,861 · SATURDAY 17 MAY 2025 | |
 | 3 | NELL · DAY 23,200 · TUESDAY 21 APRIL 2026 | |
 | 4 | THE DEMOGRAPHER · DAY 3,061 · HARROWGATE, 2 MARCH 1971 | THE ACTUARY · LE HAVRE, THE SAME NIGHT |

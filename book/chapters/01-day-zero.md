@@ -14,8 +14,6 @@ words: ~2,900
 
 **HARROWGATE · 13–14 OCTOBER 1962**
 
-**THE DRIVER**
-
 The driver was twenty-three and had never been inside a house with a name.
 
 He found it past the second gate, which stood open as his instructions said it would, though nobody waited beside it. The gravel beyond had been raked into lines so even it seemed a shame to drive on them. The house came out of the fog in pieces: a chimney, a run of windows, then the whole grey front of it, settled into the valley as if the valley had grown up around it. Seven cars were parked on the drive at careful distances, like guests who hadn't been introduced.
