@@ -24,6 +24,7 @@ status: live — nothing goes public until every box in sections A–D is ticked
   - [ ] Frostline (first check 25 Oct 2026: no real group found)
 - [ ] Rename anything that matches a real organisation or place. Update the bible and all content in the same change.
 - [ ] **Pen name "Julian Mercer":** check it doesn't clash with an established author, and secure matching domain and social handles before launch.
+- [ ] **Public figures** ([public-figures.md](../bible/public-figures.md)): check Alistair Brennock, Paul Reddaway, Marcus Leyne, Elena Strand, Tom Garrow, Sasha Rook, Wade Callister, Imogen Hale, Jaz Okonkwo-Bell and Rosa Achterberg against real politicians, activists and public figures. (First check, 25 Oct 2026: no matches found. A past MP was surnamed Garrow and a Swedish politician is named Thomas Strand; neither shares a full name.)
 - [ ] Check character names: no prominent real people share the full names Nell Okafor-Reyes, Hollis Crane, Ruth or Marguerite Aldane, Danny Kessler, Teo Brandt, Emmanuel Okafor, Jordan Pryce, Jack Prentice. (Note: "Jordan Pryce" is close to the real actor Jonathan Pryce, who must never be referenced. The adult-film performer the alias comes from is fictional and is never named as or linked to a real person.)
 - [ ] **Legal review** of the whole campaign concept, especially:
   - defamation (no real people implied)

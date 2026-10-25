@@ -130,6 +130,22 @@ Nell reads it on Teo's phone at her kitchen table, in front of a wall with a cro
 
 ---
 
+## Public figures by chapter
+
+Invented composites only; real leaders appear only as unnamed background. See [public figures](../bible/public-figures.md).
+
+| Chapter | Figure | How they appear |
+|---|---|---|
+| 8 (1979) | Alistair Brennock | A rising minister on the radio; Crane admires his arithmetic |
+| 10, 19 | Marcus Leyne | The camera rollout behind Cobb's knowledge of Nell's day |
+| 13, 20 | Dr Imogen Hale, Jaz Okonkwo-Bell | The Ferris Library row; threatened in the same phrasing; tea at the hall |
+| 14 | Paul Reddaway, Elena Strand | The crash rescue terms; Strand opening a Nimfold campus on TV |
+| 15 | Tom Garrow | On the Factors' list: the Table funds the government *and* its loudest critic |
+| 16, 23, 28–29 | Sasha Rook | Clearfell organiser, unknowingly amplified; leaves after the "no I" reveal |
+| 16, 28–29 | Wade Callister | Frostline streamer, amplified from the same office; ends up in the hall |
+| 22 | Strand, Garrow | Both attack Nell's blog from opposite sides |
+| 29 | Rosa Achterberg | Writes the rent strike's first letter |
+
 ## Threads and payoffs
 
 | Thread | Planted | Paid off |
