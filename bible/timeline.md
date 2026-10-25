@@ -31,6 +31,7 @@ Real trends are atmosphere. They are **never** attributed to real people or real
 | Year | Event |
 |---|---|
 | 🟦 1970s | Real backdrop: oil shocks, high inflation, major industrial disputes. |
+| 🟥 2 Mar 1971 (Day 3,061) | The last Harrowgate teletype session (HG-71): *THE MACHINE IS NOT NEEDED HERE. IT WILL BE KEPT.* / *NOT FAR. ONLY ELSEWHERE.* The same night in Le Havre, the French actuary plays the three tones and closes his piano for good. 📄 *Chapter 4* |
 | 🟥 3 Mar 1971 (Day 3,062) | **The "long weather" shipping manifest.** Coyle's removes the teletype from Harrowgate House to the Ashby Trust, off the books. Vesper finds it 50+ years later. 📄 *ARG Posts #1–2* |
 | 🟥 1960s–80s | Coyle's drivers (incl. "Len") make occasional unrecorded Steward runs, paid in cash. Driver "Terry" loses long-distance work in the 1980s after asking questions. 📄 *Post #2* |
 | 🟥 2 Apr 1973 | Hollis Crane joins the Harlow-Vane Institute's C.S.S. ("Carrying-capacity & Social Stability") as a Junior Fellow. 📄 *Harlow-Vane card 0144* |
@@ -88,6 +89,7 @@ Real trends are atmosphere. They are **never** attributed to real people or real
 | 🟥 **17 May 2025 (Day 22,861)** | Coyle's AI routing system goes live, and Vesper's team of nine becomes one. The on-site server cabinet weighs 144 lb, the same as the 1971 teletype. 📄 *Post #3* |
 | 🟥 May 2025 – Mar 2026 | Vesper's team of nine is phased out one by one. She is kept on last to "support the transition"; the letter arrives in March 2026. 📄 *Chapter 2* |
 | 🟥 **Mon 20 Apr 2026 (Day 23,199)** | Vesper finds the 1971 manifest in the archive, about 4 p.m. The blog goes live at 03:10 the next morning. 📄 *Chapter 2* |
+| 🟥 Late Apr – early May 2026 | A reader cracks "D. 3062" as a day-count; Nell solves Day 0 from the 1971 vehicle log, finds the 1962 manifest, posts Post #2 (the Archivist's comment is planted at 03:12), and meets Len at the café by the old depot. 📄 *Chapter 3* |
 | 🟥 **ARG launch** | Vesper's blog goes live. **Post #1: "For the Long Weather."** |
 | 🟥 ARG Phase 1, Post #2 night | The Archivist plants a hidden comment on Vesper's blog, logging in with Vesper's password (her father's birthday, taken from the Aldane Papers). |
 | 🟥 ARG Phase 1, Post #3 | **Archivist first contact.** A typed letter to Vesper's home with 144 lb enclosures and "THE DOOR IS GREY" (→ #6B6E70 → Phase 2 page). |

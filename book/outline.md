@@ -23,10 +23,10 @@ The Coyle's driver delivers the teletype. Seven mid-level officials come to a se
 **2. Contribution to the Transition** *(April 2026, Day 23,199; drafted v1, ~2,500)* → [chapter file](chapters/02-contribution-to-the-transition.md)
 Nell's redundancy, told through the croissants and the letter. The archive by the rail yard; the sorting eye. The 1971 manifest: no weight, no charge, *D. 3062*, the purple stamp. That night she starts a blog, because writing things down is the one thing left. *Ends:* she hits "publish" and the post sits there, unread, *"like a lantern in a field."*
 
-**3. Reconciliation**
+**3. Reconciliation** *(drafted v1, ~2,400)* → [chapter file](chapters/03-reconciliation.md)
 Vehicle logs, the 1962 box, the driver's note (chapter 1's words, seen again sixty-four years later; readers feel the click). Day 0 solved. **Len** over coffee: the cash man, the wardrobe that hummed, Terry. *Ends:* *"You notice it for forty years."*
 
-**4. Interlude: Not Far, Only Elsewhere** *(2 March 1971, Day 3,061)*
+**4. Interlude: Not Far, Only Elsewhere** *(2 March 1971, Day 3,061; drafted v1, ~1,370)* → [chapter file](chapters/04-not-far-only-elsewhere.md)
 The last session at Harrowgate before the machine is moved. The three Founders, now quietly wealthy from their first container-shipping stakes, uneasy at how easy it was. The machine prints *NOT FAR. ONLY ELSEWHERE.* (recording HG-71). Cut to Le Havre: the French actuary plays three notes on his piano and closes the lid forever. *Function:* shows the Table's first riches and first guilt. They were nobodies once.
 
 **5. The Sensible Voice**

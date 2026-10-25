@@ -51,7 +51,7 @@ Marguerite Aldane's archive, assembled by her daughter Ruth (the Archivist) sinc
 | ID | Date | Contents | Release |
 |---|---|---|---|
 | **HG-68** | 1968 | Teletype session, three tones, "Note that it was not plugged in." 12×12 grid in the spectrogram. | ✅ Drop 01 |
-| **HG-71** | Day 3,061 (2 Mar 1971) | The last Harrowgate session, the night before removal. The teletype prints *NOT FAR. ONLY ELSEWHERE.* | 📅 Phase 3 |
+| **HG-71** | Day 3,061 (2 Mar 1971) | The last Harrowgate session, the night before removal, recorded by the German. The teletype prints *THE LINE IS OPEN.* / *THE MACHINE IS NOT NEEDED HERE. IT WILL BE KEPT.* / *NOT FAR. ONLY ELSEWHERE.*, then the tones. (Dramatised in [ch 4](../book/chapters/04-not-far-only-elsewhere.md).) | 📅 Phase 3 |
 | **EX-83** | 1983 | Exchange crosstalk: voices that aren't voices, three tones under the line noise. | 📅 Audio series S1 |
 | **EX-87** | Spring 1987 | An Exchange session recorded by Crane the week of the Walkout. Crane's voice can be heard. | 📕 Book (Crane's handover) |
 | **FX-96** | 1996 | A fax session: a 12×12 grid of black squares, printed while the line was dead. (Image, not audio.) | 📅 Phase 2 (Teo) |
