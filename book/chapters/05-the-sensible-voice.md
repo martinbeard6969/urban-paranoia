@@ -109,21 +109,29 @@ I sat there for a minute longer than I needed to.
 
 ---
 
-When I came back, something was happening at the front of the queue.
+I was halfway back to the urn when the room changed.
 
-It was over so fast I nearly missed it. An old man who'd been on the estate since before I was born said something to a young woman with a pushchair, about who had been waiting longer. She said something back, and in four sentences both of them were standing very straight and talking too loudly. Nobody had touched anybody. Nobody had said anything unforgivable. But the hall had gone still the way a room goes still before a glass breaks, and I watched three or four other people in the queue shift their weight, one side or the other, without seeming to know they'd done it.
+It started at the front of the queue. An old man who'd lived on the estate since before I was born turned to a young woman with a pushchair.
 
-Ama had come back to the urn. She didn't hurry. She put down the teapot, walked to the front, and stood between them, facing neither, and said at a perfectly ordinary volume: "The radiator's going to go again in a minute. When it does, I'd like everyone to pretend they didn't jump."
+"I was here first."
 
-The radiator banged. Nobody pretended. Somebody laughed, and then the old man laughed, unwillingly, and the young woman rolled her eyes and laughed too, and the room let its breath out. Ama made them both a tea from the same pot and handed them over without a word.
+She didn't look round. "No, you weren't."
 
-"That," said Danny at my elbow, "happens twice a morning now. Didn't used to."
+That was all, and it was enough. Within a breath they were both standing very straight and speaking too loudly, and the hall went still the way a room goes still before a glass breaks. Nobody had touched anybody. Nobody had said anything that couldn't be taken back. But I watched three or four people in the queue lean, very slightly, one way or the other, without knowing they'd done it.
+
+Ama put down the teapot. She walked to the front without hurrying and stood between them, facing neither.
+
+"That radiator," she said, at a perfectly ordinary volume, "is about to go off again. I've spent twenty years trying to teach this room not to jump."
+
+It banged. Half the queue jumped anyway. Someone laughed. Then the old man laughed, against his will, and the young woman rolled her eyes and laughed too, and the whole room let out its breath. Ama poured two teas from the same pot and handed them over without a word.
+
+"That happens twice a morning now," Danny said at my elbow. "Didn't used to."
 
 "What's changed?"
 
-He looked at the queue for a while before he answered.
+He watched the queue for a long moment.
 
-"Everything," he said. "Rents. Bills. The scheme. Half the men in this room lost their jobs to a computer or a cheaper country, and half the women are doing two jobs to cover it. You saw that window. And some of the people in this queue go home to worse than any of it, behind their own front doors, and Ama's the only one they tell." He drank his bad tea. "Everyone's frightened, and nobody knows who of. So they pick whoever's nearest."
+"Everyone's frightened," he said. "And nobody knows who of. So they pick whoever's nearest."
 
 ---
 
@@ -202,7 +210,7 @@ I told myself that was a coincidence too.
 | The walk to the hall | Closed shops, a payday lender, the prepayment-meter queue (*"Like feeding a meter in a car park, except it's your kids' heating"*), and a **racist attack**: the plywood window and the child's rainbow left in place |
 | The noticeboard | Debt advice, a job club, energy bills, hate-crime reporting in four languages, Marek's window-repair card |
 | Ama and the young woman in sunglasses | **Domestic abuse**, shown only through support: the folded note, the back room, nobody watching the door, the card *"You are not on your own. Ask Ama."* |
-| The queue flare-up | Fear turning sideways. Danny: *"Everything… So they pick whoever's nearest."* |
+| The queue flare-up | Fear turning sideways, in two short lines (*"I was here first." / "No, you weren't."*). Ama's radiator line; half the queue jumps anyway. Danny: *"Everyone's frightened. And nobody knows who of. So they pick whoever's nearest."* |
 | Jack | Lost apprenticeship, his mum's two cleaning jobs, Wharf Road phase one |
 | @longweather_ | It **feeds on these same pressures**, sounds almost like Danny for a sentence, then turns them into blame on neighbours |
 | Danny's final line | Now names the costs: *"Not for the rent, not for the jobs, not for that window."* |
