@@ -86,7 +86,8 @@ Real trends are atmosphere. They are **never** attributed to real people or real
 | 🟦 2023–26 | Real backdrop: rapid AI adoption; public debate about automation and jobs. |
 | 🟥 2019 | Emmanuel Okafor (Vesper's father, Coyle's head office clerk 1979–c.2009) dies. |
 | 🟥 **17 May 2025 (Day 22,861)** | Coyle's AI routing system goes live, and Vesper's team of nine becomes one. The on-site server cabinet weighs 144 lb, the same as the 1971 teletype. 📄 *Post #3* |
-| 🟥 **Spring 2026** | Vesper finds the 1971 manifest. |
+| 🟥 May 2025 – Mar 2026 | Vesper's team of nine is phased out one by one. She is kept on last to "support the transition"; the letter arrives in March 2026. 📄 *Chapter 2* |
+| 🟥 **Mon 20 Apr 2026 (Day 23,199)** | Vesper finds the 1971 manifest in the archive, about 4 p.m. The blog goes live at 03:10 the next morning. 📄 *Chapter 2* |
 | 🟥 **ARG launch** | Vesper's blog goes live. **Post #1: "For the Long Weather."** |
 | 🟥 ARG Phase 1, Post #2 night | The Archivist plants a hidden comment on Vesper's blog, logging in with Vesper's password (her father's birthday, taken from the Aldane Papers). |
 | 🟥 ARG Phase 1, Post #3 | **Archivist first contact.** A typed letter to Vesper's home with 144 lb enclosures and "THE DOOR IS GREY" (→ #6B6E70 → Phase 2 page). |
