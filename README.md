@@ -31,6 +31,7 @@ A fictional transmedia property (novel, audio drama, and later film and comics),
 
 ## Conventions
 
+- **Chapter PDFs:** `python3 tools/build_chapter.py book/chapters/<file>.md` writes `outputs/chapter-<file>.pdf` (needs `reportlab`; version 4.0.9 works on Python 3.9). Chapters open with a narrator label (see the [outline](book/outline.md)).
 - Every content file has `phase:`, `channel:` and `canon-refs:` frontmatter, plus a **PRODUCTION NOTES** section at the end that is never published.
 - New canon goes into `bible/` in the same change that introduces it.
 - Lodge dates are counted in days from **14 Oct 1962 (Day 0)**. Check any new day-count with:

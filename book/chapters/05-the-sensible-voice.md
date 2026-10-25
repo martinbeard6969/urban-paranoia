@@ -11,6 +11,8 @@ status: draft v2 — rewritten with the neighbourhood's pressures woven througho
 
 # Five: The Sensible Voice
 
+**NELL · DAY 23,220 · MONDAY 11 MAY 2026**
+
 Danny read both posts standing up, in my kitchen, in his delivery jacket, with his phone buzzing in his pocket every forty seconds to tell him he was late.
 
 He reads the way he used to read management proposals at union meetings: once fast, to get the shape of it, and once slowly, looking for the clause that would hurt someone. I watched his face go from amused, to interested, to the particular stillness he gets when he's found the clause.

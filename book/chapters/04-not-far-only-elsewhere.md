@@ -12,6 +12,8 @@ status: draft v1
 
 # Four: Not Far, Only Elsewhere
 
+**THE DEMOGRAPHER · DAY 3,061 · HARROWGATE, 2 MARCH 1971**
+
 Harrowgate, the second of March, 1971. The fog was the same. Everything else had changed.
 
 The cars on the drive were better now. That was the first thing she noticed every time, and every time she was ashamed of noticing it. The American had a long dark saloon with a driver who waited in it all night with the engine off and the radio low. The German still drove himself, in something sensible and German. She had come by train and taxi, as she always did, because a demographer who arrives in a chauffeured car is a demographer people start to ask questions about. But her coat was cashmere, and her shoes had been made for her feet, and when she paid the taxi she didn't look at the meter.
@@ -69,6 +71,8 @@ She didn't say anything. She was thinking that it could just as easily mean them
 The machine would not print again for fifty-five years. By then she would have been dead for twenty-five of them.
 
 ---
+
+**THE ACTUARY · LE HAVRE, THE SAME NIGHT**
 
 That same night, across the water, in a narrow house above the harbour at Le Havre, a man who priced the risk of ships not coming home woke at ten past two and did not know why.
 

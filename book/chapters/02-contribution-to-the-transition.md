@@ -11,6 +11,8 @@ status: draft v1
 
 # Two: Contribution to the Transition
 
+**NELL · DAY 22,861 · SATURDAY 17 MAY 2025**
+
 They called us in on a Saturday, which should have told me everything.
 
 There were almond croissants on the boardroom table, arranged in a fan on a white plate, the way a hotel arranges things it wants you to photograph. Nobody touched them. Nine of us sat round the table in weekend clothes, and the croissants sat in the middle like a tenth person who'd come to the wrong meeting and was too polite to leave.

@@ -12,6 +12,10 @@ words: ~2,900
 
 # One: Day Zero
 
+**HARROWGATE · 13–14 OCTOBER 1962**
+
+**THE DRIVER**
+
 The driver was twenty-three and had never been inside a house with a name.
 
 He found it past the second gate, which stood open as his instructions said it would, though nobody waited beside it. The gravel beyond had been raked into lines so even it seemed a shame to drive on them. The house came out of the fog in pieces: a chimney, a run of windows, then the whole grey front of it, settled into the valley as if the valley had grown up around it. Seven cars were parked on the drive at careful distances, like guests who hadn't been introduced.
@@ -35,6 +39,8 @@ In the cab he filled in his sheet, because if it wasn't on the sheet it hadn't h
 He drove out between the raked lines of gravel and did not think about the house again for almost forty years. Then he thought about it every day.
 
 ---
+
+**THE DEMOGRAPHER**
 
 She had come because the letter had used the word *promising*.
 

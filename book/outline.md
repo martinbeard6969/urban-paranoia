@@ -13,6 +13,25 @@ canon-refs: [bible/*, book/synopsis, book/chapters/01-day-zero, book/act-2/scene
 
 **Rhythm rule:** whenever the Tenants speak, long observed paragraphs are broken by single centred lines of counsel (as in chapter 1).
 
+**Narrator labels:** every chapter opens with a small-capitals line under its title saying **who is narrating and when**. Nell's chapters give her name, the Lodge day-count and the real date; interludes give the viewpoint character's **role** (Founders stay unnamed), the day-count where it matters, and the place and date. If the viewpoint changes inside a chapter, a section label marks it. Format in the chapter file: a bold, all-capitals block, e.g. `**NELL · DAY 23,220 · MONDAY 11 MAY 2026**`.
+
+| Ch | Narrator label (opening line) | Section labels |
+|---|---|---|
+| 1 | HARROWGATE · 13–14 OCTOBER 1962 | THE DRIVER; THE DEMOGRAPHER |
+| 2 | NELL · DAY 22,861 · SATURDAY 17 MAY 2025 | |
+| 3 | NELL · DAY 23,200 · TUESDAY 21 APRIL 2026 | |
+| 4 | THE DEMOGRAPHER · DAY 3,061 · HARROWGATE, 2 MARCH 1971 | THE ACTUARY · LE HAVRE, THE SAME NIGHT |
+| 5 | NELL · DAY 23,220 · MONDAY 11 MAY 2026 | |
+| 6, 7, 9, 10, 12–14, 16–20, 22, 23, 25, 26, 28, 29 | NELL · DAY [n] · [date] | |
+| 8 | HOLLIS CRANE · HARROWGATE, 1979 | |
+| 11 | MARGUERITE ALDANE · DAY 8,950 · 16 APRIL 1987 | EMMANUEL OKAFOR · THE SAME NIGHT |
+| 15 | THE FACTOR · [family office], 2026 | MOTHER QUILL (if her scene is included) |
+| 21 | THE SIGNAL SEAT · 2014 | THE STEWARDS · 2022 |
+| 24 | MOTHER QUILL · SEPTEMBER 2026 | THE ASHBY STORE · THE SAME NIGHT |
+| 27 | SEAT ELEVEN · BY SECURE VIDEO, 2026 | |
+| 30 | NELL · DAY 23,376 · WEDNESDAY 14 OCTOBER 2026 | |
+| Epilogue | NELL · NOVEMBER 2026 (exact day to be fixed in drafting) | |
+
 ---
 
 ## ACT ONE: THE LONG WEATHER (chapters 1–10, ~13,500 words)

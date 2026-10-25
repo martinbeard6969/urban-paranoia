@@ -11,6 +11,8 @@ status: draft v1
 
 # Three: Reconciliation
 
+**NELL · DAY 23,200 · TUESDAY 21 APRIL 2026**
+
 By lunchtime the next day, eleven people had read it.
 
 I know this because the blogging platform tells you, in a small grey number at the top of the screen, the way a hospital monitor tells you your pulse. Eleven. I refreshed it while my toast burned. Thirteen. One of them, I was fairly sure, was me on my phone.
