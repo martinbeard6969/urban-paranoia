@@ -65,6 +65,8 @@ On Saturday he took me to the Mission Hall.
 
 I'd lived at the end of the same road for six years and never been inside. It's the kind of building you stop seeing: a long, low brick hall from the nineteen-twenties with a cross on the gable and a noticeboard out front that's mostly lost cats. On Saturday mornings it was a food bank. It was also, as far as I could tell, the only room in the neighbourhood where everyone ended up eventually: old men who'd lived on the estate since it was built, young mothers who'd arrived last year and didn't speak much English yet, students, a man in a good coat who'd lost his job and was trying very hard to look as though he was only there to volunteer. None of them looked especially pleased to be in the same room. All of them were.
 
+The noticeboard inside the door told you everything the neighbourhood didn't say out loud. Debt advice on Tuesdays. A job club on Wednesdays, *bring your CV or we'll help you write one*. A leaflet about energy bills with a cartoon radiator on it. A notice, in four languages, about reporting hate crime, and beneath it someone's careful handwritten card: *Window repairs, cheap, ask for Marek*, which I understood, a moment later, was not a coincidence. And on the back of the door to the ladies', where only the people who needed it would see it, a small card with a phone number and the words *You are not on your own. Ask Ama.*
+
 There was tea. The tea was bad. There was a radiator under the window that banged every few minutes, loud as a dropped tray, as if something inside it was trying to get out. Nobody but me jumped.
 
 Pastor Ama was at the tea urn. She was smaller than I'd expected and older, with reading glasses on a cord and the calm of someone who has spent decades in rooms where people are about to shout. Danny introduced me as *the one I told you about*, which I didn't love, and Ama put a mug in my hand and said, "Tell me."
@@ -87,7 +89,7 @@ The radiator banged. Nobody pretended. Somebody laughed, and then the old man la
 
 "What's changed?"
 
-He shrugged. "Rents. The scheme. Everyone's frightened and nobody knows who of." He drank his bad tea. "So they pick whoever's nearest."
+He shrugged. "Everything. Rents. Bills. The scheme. Half the men in this room lost their jobs to a computer or a cheaper country, and half the women are doing two jobs to cover it. That lad from the flats had his windows put in last month for the colour of his skin. And some of the people in this queue go home to worse than any of it, behind their own front doors, and Ama's the only one they tell." He drank his bad tea. "Everyone's frightened and nobody knows who of. So they pick whoever's nearest."
 
 ---
 
@@ -169,7 +171,9 @@ I told myself that was a coincidence too.
 
 **What this chapter establishes**
 - **Danny and the Okafors:** Nell has known him **since she was nine**. He argued with her father on Sundays about cricket and pensions. After Emmanuel died, Danny made himself her responsibility. *(Fits Post #3's "my oldest friend"; ties him to Emmanuel for ch 19.)*
-- **The queue flare-up at the hall:** an old resident and a young mother with a pushchair. It's over in four sentences and nobody is named or blamed, but the room takes sides by instinct. Ama defuses it with the radiator. Danny: *"Everyone's frightened and nobody knows who of. So they pick whoever's nearest."* (The Outrage Engine at its smallest; it previews the rumour in ch 17.)
+- **The hall's pressures are many, not one:** the noticeboard shows debt advice, a job club, energy bills, a hate-crime reporting notice in four languages (and a window-repair card, implying a racist attack), and a discreet domestic-abuse card on the back of the ladies' door (*"You are not on your own. Ask Ama."*). Danny names them: rents, bills, the scheme, jobs lost to automation and offshoring, double shifts, a racist attack on a neighbour's windows, and abuse behind closed doors.
+  - **Handled with care:** victims are shown with dignity. No slurs are quoted, no group is blamed, and abuse is shown through support (Ama, the card), never as spectacle. The racist attack is a crime against a neighbour, not a "side" in an argument.
+- **The queue flare-up at the hall:** an old resident and a young mother with a pushchair. It's over in four sentences and nobody is named or blamed, but the room takes sides by instinct. Ama defuses it with the radiator. Danny: *"Everything… Everyone's frightened and nobody knows who of. So they pick whoever's nearest."* (The Outrage Engine at its smallest; it previews the rumour in ch 17.)
 - **Danny Kessler, on the page:** the sceptic and conscience. *"It's a tax dodge… That's not a mystery. That's a Tuesday."* Nearly always nearly right. The union thinned until it *"stopped happening"* (stage 2, Unbind, as lived experience). He's rated 4.9 by strangers. He later sat across the table from her at Coyle's first cuts. Shows his care through action: chips, "ring me when you've eaten".
 - **Nell's name goes public:** Danny's comment *"It's a tax dodge, Nell"* (matches Post #2: "Thanks, D.").
 - **The Mission Hall:** 1920s brick, a cross on the gable, a food bank on Saturdays, everyone ends up there eventually, the banging radiator. **Pastor Ama** listens without interrupting: *"That's a lot to carry on your own."*
