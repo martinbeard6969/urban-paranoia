@@ -56,5 +56,6 @@ In-world terms, with who uses them. **(L)** Lodge internal · **(HV)** Harlow-Va
 | **Three tones** (L, V) | The G–E♭–G chime that ends a session. |
 | **Tenant farmers** | What the Tenants are: they develop the field, keep a share, pay rent. |
 | **Twelve by twelve / 144** (V) | The grid that shows up in machine errors, and the 144 lb weights. |
+| **U.P.** (HV) | "Urban paranoia": the Harlow-Vane measure of mutual suspicion between neighbours, per thousand households. The one number the Lodge always wanted to rise. **Revealed only in ch 25**, and the only place the title phrase appears in the novel. |
 | **Walkout, the** (L) | Marguerite Aldane leaving the Table on 16 Apr 1987 (Day 8,950). |
 | **Weather (clearance)** (L, HV) | Knowing about the Tenants. "Weather ✓" means told; "Weather ✗" means used but not told. |

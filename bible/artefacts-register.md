@@ -72,7 +72,7 @@ Marguerite Aldane's archive, assembled by her daughter Ruth (the Archivist) sinc
 | Card 0212: Emmanuel Okafor | See [canon decisions D8](canon-decisions.md) | 📅 Phase 3 (W12) |
 | Card 1301: Seat Thirteen | "Seated." Day 0 | 🎬 Film teaser |
 | Publications list | Eight titles that follow the Tenants' plan step by step | ✅ |
-| **Model 7 workbooks** | Crane's original fertility-response models, 1984 and 1991, annotated | 📕 Book (Crane's defection) |
+| **Model 7 workbooks** | Crane's original fertility-response models, 1984 and 1991, annotated. Includes the **U.P. column** ("urban paranoia": mutual suspicion between neighbours, per thousand households), rising every year since 1974. | 📕 Book (Crane's defection) |
 | Occasional Paper 33 (withdrawn, 2006) | *Post-labour equilibria*. Crane's last paper. | 📕 Book |
 
 ---
