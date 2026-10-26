@@ -9,7 +9,7 @@ supersedes: nothing (v1.0 and v1.1 are fully applied; see applied-log.md)
 status: Part A apply; Part B apply unless Martin strikes an item; Part C needs Martin's tick
 ---
 
-**Status: Parts A and B applied 2026-10-26, commit 9b52ee4. Part C ticked by Martin and applied in the follow-up commit. See applied-log.md.**
+**Status: Parts A and B applied 2026-10-26, commit 9b52ee4. Part C ticked by Martin and applied in 3d4ce7b. See applied-log.md.**
 
 # Writer's fixes v1.2
 
