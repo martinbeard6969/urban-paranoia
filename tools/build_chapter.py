@@ -12,6 +12,7 @@ Chapter file conventions:
 - Section labels:  **THE ACTUARY · LE HAVRE, THE SAME NIGHT**   (a bold, all-capitals block)
 - Section break:   ---
 - Counsel:         > LINES IN CAPITALS
+- Documents:       >> LETTERS, STAMPS, MANIFESTS (left-aligned; never the Tenants)
 - Everything after "---\\n\\n---\\n\\n## AUTHOR" is notes and is not printed.
 """
 import os
@@ -19,10 +20,10 @@ import re
 import sys
 
 from reportlab.lib import colors
-from reportlab.lib.enums import TA_CENTER, TA_JUSTIFY
+from reportlab.lib.enums import TA_CENTER, TA_JUSTIFY, TA_LEFT
 from reportlab.lib.styles import ParagraphStyle
 from reportlab.lib.units import mm
-from reportlab.platypus import Paragraph, SimpleDocTemplate, Spacer
+from reportlab.platypus import HRFlowable, Paragraph, SimpleDocTemplate, Spacer
 
 AUTHOR = "Martin Defries"
 PAGE = (138 * mm, 216 * mm)  # UK Demy trade paperback
@@ -48,6 +49,8 @@ base = dict(fontName="Times-Roman", fontSize=10.5, leading=14.5, alignment=TA_JU
 para = ParagraphStyle("p", firstLineIndent=5 * mm, **base)
 para_first = ParagraphStyle("p0", firstLineIndent=0, **base)
 counsel = ParagraphStyle("c", fontName="Courier", fontSize=9.5, leading=13, alignment=TA_CENTER, spaceBefore=6, spaceAfter=6)
+document = ParagraphStyle("d", fontName="Courier", fontSize=9.5, leading=13, alignment=TA_LEFT,
+                          leftIndent=8 * mm, rightIndent=8 * mm, spaceBefore=4, spaceAfter=4)
 brk = ParagraphStyle("b", fontName="Times-Roman", fontSize=10.5, leading=14.5, alignment=TA_CENTER, spaceBefore=6, spaceAfter=6)
 num = ParagraphStyle("n", fontName="Times-Roman", fontSize=12, leading=16, alignment=TA_CENTER, textColor=GREY)
 ttl = ParagraphStyle("t", fontName="Times-Italic", fontSize=22, leading=28, alignment=TA_CENTER)
@@ -87,8 +90,24 @@ if blocks and LABEL.match(blocks[0]):
     blocks = blocks[1:]
 story.append(Spacer(1, 12 * mm))
 
+def rule():
+    return HRFlowable(width="100%", thickness=0.4, color=GREY, spaceBefore=4, spaceAfter=4)
+
+
 first = True
+in_doc = False
 for block in blocks:
+    is_doc = block.startswith(">>")
+    if in_doc and not is_doc:
+        story.append(rule())
+    if is_doc and not in_doc:
+        story.append(rule())
+    in_doc = is_doc
+    if is_doc:
+        line = " ".join(l.lstrip(">").strip() for l in block.splitlines())
+        story.append(Paragraph(md(line), document))
+        first = False
+        continue
     if block == "---":
         story.append(Paragraph("*&nbsp;&nbsp;&nbsp;*&nbsp;&nbsp;&nbsp;*", brk))
         first = True
@@ -114,6 +133,8 @@ for block in blocks:
         first = False
     else:
         story.append(Paragraph(t, para))
+if in_doc:
+    story.append(rule())
 
 
 def deco(c, doc):

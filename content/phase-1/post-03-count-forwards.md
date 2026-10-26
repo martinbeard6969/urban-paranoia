@@ -36,9 +36,9 @@ Nine days later an envelope came to my flat. My **home address** has never appea
 
 It was a plain envelope with a second-class stamp and a smudged postmark. Inside was one sheet, typed on a real typewriter: under the kitchen light you can feel where each key bit into the paper. Across the top runs a thin band of grey, the colour of a sky that hasn't decided to rain. There's no other letterhead.
 
-Here it is in full. I've read it perhaps a hundred times, and I'd like someone to share the weight.
+Here it is. I've read it perhaps a hundred times, and I'd like someone to share the weight.
 
-> MS OKAFOR-REYES.
+> MS [—].
 >
 > YOU COUNTED BACKWARDS. GOOD. NOW COUNT FORWARDS.
 >
@@ -53,6 +53,8 @@ Here it is in full. I've read it perhaps a hundred times, and I'd like someone t
 > DO NOT BLAME ANYONE YOU CAN SEE FROM YOUR WINDOW. THAT IS WHAT THEY WANT.
 >
 > WHEN YOU ARE READY THE DOOR IS GREY.
+
+It used my full name. I've taken that out. You can have the rest.
 
 There's no signature. At the foot of the page is a small ink drawing of a chair, the plain wooden kind you'd find round a kitchen table, with one clean line struck through it.
 
@@ -80,7 +82,7 @@ So the letter puts a teletype leaving Harrowgate and the system that replaced me
 
 There were two photocopies in the envelope.
 
-**The first** is the **office copy** of the 1971 manifest, the one Len told me about, the one the drivers never saw. It's the same consignment, with the same purple stamp, pressed harder. But on this copy, the weight box is filled in:
+**The first** is another copy of the 1971 manifest. Not mine: mine, I'm now fairly sure, is the office copy Len told me about. This one travelled with the machine and was signed for at the far end: *recd. Ashby Tst.* It's the same consignment, with the same purple stamp, pressed harder. But on this copy, the weight box is filled in:
 
 > **144 LB.**
 
@@ -136,8 +138,8 @@ More soon. I'm going to go and change every password I've ever had, including th
 
 — N.
 
-*[Scan: the letter, full page, grey band included]*
-*[Scan: 1971 manifest, office copy, weight 144 LB]*
+*[Scan: the letter, full page, grey band included, surname blacked out]*
+*[Scan: 1971 manifest, consignee's copy, signed "recd. Ashby Tst.", weight 144 LB]*
 *[Scan: Coyle's goods-in note, May 2025, server cabinet, 144 LB]*
 
 ---
@@ -163,7 +165,7 @@ More soon. I'm going to go and change every password I've ever had, including th
 **Canon (unchanged)**
 - **Archivist first contact.** She planted the Post #2 comment at 03:12 using Vesper's credentials. She got the password from the Aldane Papers' Steward contact list, which includes Emmanuel Okafor. *(Not revealed in Phase 1.)*
 - **Day 22,861 = 17 May 2025**: the Coyle's routing system goes live, running a fictional Nimfold model on Tollgate's cloud *(not revealed here)*.
-- **144 lb** on both the 1971 office copy and the 2025 goods-in note. The 12×12 link is saved for Teo in Phase 2.
+- **144 lb** on both the 1971 consignee's copy and the 2025 goods-in note. The 12×12 link is saved for Teo in Phase 2.
 - **Emmanuel Okafor:** Coyle's head office 1979 to around 2009, died 2019. An unwitting Steward who phoned drivers about the off-book runs. Card 0212 comes in Phase 3.
 
 **Puzzle: "the door is grey"**
@@ -179,6 +181,6 @@ More soon. I'm going to go and change every password I've ever had, including th
 
 **Assets needed (unchanged)**
 - **A prop letter:** real typewriter, grey band printed at exactly #6B6E70, ink drawing of a crossed-out chair. High-resolution colour scan with the colour profile embedded.
-- **A prop office copy** of the 1971 manifest, with 144 LB and a stronger stamp.
+- **A prop consignee's copy** of the 1971 manifest, with 144 LB, a stronger stamp and "recd. Ashby Tst."
 - **A prop goods-in note,** Coyle's, May 2025, server cabinet, 144 LB.
 - **The `/6b6e70` page,** built before this post goes live.

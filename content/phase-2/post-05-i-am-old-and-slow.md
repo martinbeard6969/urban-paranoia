@@ -22,7 +22,7 @@ I've decided you should read it, all of it, as I did with the letter. I'm not su
 
 > **Subject:** I am old and slow
 >
-> Dear Ms Okafor-Reyes,
+> Dear Ms [—],
 >
 > I hope you will forgive an old man for writing without an introduction. I have been told that I am too slow to be rude, and I am counting on it now.
 >

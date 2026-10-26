@@ -96,7 +96,7 @@ More soon.
 
 **Puzzle hooks (unchanged)**
 - **"D. 3062"** = day 3,062 counted from 14 Oct 1962, which is **3 March 1971**. Solved in-world in Post #2 from the 1971 vehicle log. The HTML comment `<!-- D. 3062 -->` rewards anyone who views the page source.
-- **The pencil line in the weight box** pays off in Post #3 when the Archivist sends the office copy showing **144 LB** (12×12).
+- **The pencil line in the weight box** pays off in Post #3 when the Archivist sends the consignee's copy showing **144 LB** (12×12).
 - **Harrowgate House / Ashby Trust:** both fictional. Campaign-owned holding pages for both must exist before launch, so searches land on our own assets.
 - **The retired driver who "went quiet"** is Len, who appears in Post #2.
 

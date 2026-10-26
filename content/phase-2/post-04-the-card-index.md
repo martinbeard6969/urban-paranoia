@@ -56,7 +56,7 @@ He knew the door would be opened. Either he's very good at waiting, or someone t
 
 Hidden in the dead drop's page source:
 
-> *MS OKAFOR-REYES. YOUR FATHER HAS A CARD TOO. I WOULD NOT LOOK AT THAT ONE YET.*
+> *MS [—]. YOUR FATHER HAS A CARD TOO. I WOULD NOT LOOK AT THAT ONE YET.*
 
 I'm a reconciler. You can guess how long I lasted. I tried the only number that made sense: my father's extension at Coyle's for thirty years, which I still know the way you know a childhood phone number. Two-one-two.
 

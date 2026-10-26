@@ -33,7 +33,7 @@ The blogging platform keeps a history of every change. I'd never looked at it. W
 
 The line had been added at **03:12** on the night I put up my second post: the night after the logs and the soft brown box, the night I'd posted at a quarter to midnight and gone to bed and slept, for once. It had been added by someone who'd logged in with my username and my password.
 
-Three and a half weeks. It had sat there for three and a half weeks under my own words, and four hundred people had read past it, and so had I.
+Three and a half weeks. It had sat there for three and a half weeks under my own words, and hundreds of people had read past it, and so had I.
 
 I changed my password. Then I changed every password I've ever had, which took most of the afternoon and taught me how many things I'd signed up for in the last decade and forgotten. I switched on every security setting the platform offered, including two I still don't understand. Then I sat very still for a while.
 
@@ -55,29 +55,29 @@ He didn't answer. He didn't need to.
 
 The letter came on the Saturday.
 
-I almost didn't notice it. It was in among the usual: a pizza menu, a charity bag, something from the council about bins. A plain white envelope, second-class stamp, the postmark smudged into a grey thumbprint. My name and my address, typed.
+I almost didn't notice it. It was in among the usual: a pizza menu, a charity bag, something from the council about bins. A plain white envelope, second-class stamp, the postmark smudged into a grey thumbprint. My full name and my address, typed.
 
-My **home** address. Which has never been on the blog, or on anything of mine that I could find, and I looked, that evening, for a long time.
+My full name: not *Nell*, which @longweather_ had already picked up, but all of it. And my **home** address. Which has never been on the blog, or on anything of mine that I could find, and I looked, that evening, for a long time.
 
 Inside was one sheet of paper, folded twice. It had been typed on a real typewriter: under the kitchen light you could see where each key had bitten into the page, the capitals pressed deeper than the full stops. Across the top ran a thin band of grey, the colour of a sky that hasn't decided whether to rain. There was no other letterhead, no sender's address, no date.
 
 I'm going to set it down exactly as it is. I've read it more times than I've read anything, including my redundancy letter, and that's saying something.
 
-> MS OKAFOR-REYES.
+>> MS OKAFOR-REYES.
 
-> YOU COUNTED BACKWARDS. GOOD. NOW COUNT FORWARDS.
+>> YOU COUNTED BACKWARDS. GOOD. NOW COUNT FORWARDS.
 
-> 3062 DAYS OUT. THAT WAS THE MACHINE LEAVING HARROWGATE.
+>> 3062 DAYS OUT. THAT WAS THE MACHINE LEAVING HARROWGATE.
 
-> 22861 DAYS IN. THAT WAS THE MACHINE ARRIVING AT YOUR DESK.
+>> 22861 DAYS IN. THAT WAS THE MACHINE ARRIVING AT YOUR DESK.
 
-> THE WEIGHT WAS ALWAYS THE SAME. SEE ENCLOSED.
+>> THE WEIGHT WAS ALWAYS THE SAME. SEE ENCLOSED.
 
-> I AM SORRY ABOUT YOUR WEBSITE. YOUR PASSWORD WAS YOUR FATHERS BIRTHDAY. YOU SHOULD CHANGE IT. YOU SHOULD ALSO ASK WHY I KNOW IT.
+>> I AM SORRY ABOUT YOUR WEBSITE. YOUR PASSWORD WAS YOUR FATHERS BIRTHDAY. YOU SHOULD CHANGE IT. YOU SHOULD ALSO ASK WHY I KNOW IT.
 
-> DO NOT BLAME ANYONE YOU CAN SEE FROM YOUR WINDOW. THAT IS WHAT THEY WANT.
+>> DO NOT BLAME ANYONE YOU CAN SEE FROM YOUR WINDOW. THAT IS WHAT THEY WANT.
 
-> WHEN YOU ARE READY THE DOOR IS GREY.
+>> WHEN YOU ARE READY THE DOOR IS GREY.
 
 It wasn't signed. At the foot of the page there was a small drawing in black ink of a chair: a plain wooden kitchen chair, the kind every family I grew up with had four of, slightly mismatched. Through it, one clean line.
 
@@ -103,11 +103,11 @@ I thought about the previous Sunday: Danny and the chips, the seventeenth of May
 
 There were two photocopies in the envelope, folded inside the letter.
 
-The first was the 1971 manifest, but not the copy I'd found. This was the **office copy**, the one Len had told me about, the one the drivers never saw. Same consignment, same date that wasn't a date, the same purple stamp pressed harder, as if whoever held it had been in a temper that day. And on this copy, the weight box wasn't crossed through. Someone had filled it in, in the same neat clerk's hand:
+The first was the 1971 manifest, but not the copy I'd found. Mine was the office copy; Len had as good as told me so. This one had come from the other end: the copy that travelled with the machine, signed for in a small, cramped hand, *recd. Ashby Tst.* Same consignment, same date that wasn't a date, the same purple stamp pressed harder, as if whoever held it had been in a temper that day. And on this copy, the weight box wasn't crossed through. Someone at the far end had weighed it in and written it down:
 
 *144 LB.*
 
-The second was newer. A Coyle's goods-in note, printed, from May last year: delivery of one server cabinet to the comms room at head office, for the new routing system. I'd walked past that cabinet a hundred times. We used to joke about it: the grey box in the comms room was our replacement, we said, back when it was something you could joke about. Signed, dated, and weighed.
+The second was newer. A Coyle's goods-in note, printed, from May last year: delivery of one server cabinet to the comms room at head office: the local box the new routing system ran through. I'd walked past that cabinet a hundred times. We used to joke about it: the grey box in the comms room was our replacement, we said, back when it was something you could joke about. Signed, dated, and weighed.
 
 *144 LB.*
 
@@ -117,7 +117,7 @@ I rang Danny. I read him the numbers. There was a pause on the line, and I could
 
 He was right. A hundred and forty-four pounds is a perfectly ordinary weight for a heavy box. A coincidence is nothing. I'd seen a thousand coincidences in eleven years of freight, and most of them were just the world being a smaller place than it looks.
 
-But someone had found both of those pieces of paper, fifty-four years apart. Someone had copied them, folded them into a plain envelope, and posted them to an address I'd never given anyone, so that I'd notice.
+But someone had found both of those pieces of paper, fifty-four years apart. Someone had copied them, folded them into a plain envelope, and posted them to an address I'd never given any of my readers, so that I'd notice.
 
 The coincidence might be nothing. The noticing was arranged.
 
@@ -135,9 +135,13 @@ Ordinary people. Tired people. People who had been told, every day, by every scr
 
 *Do not blame anyone you can see from your window. That is what they want.*
 
-I'd heard that sentence before. Not in those words, but nearly. Danny had said it in my kitchen, a week ago, with chips going cold on the counter: *Don't let anyone tell you it's the people down your street.* A man who'd known me since I was nine, and a stranger who'd broken into my website, had told me the same thing within seven days of each other, almost word for word.
+I'd heard that sentence before. Danny, in my kitchen, a week ago, with chips going cold on the counter: *Don't let anyone tell you it's the people down your street.*
 
-I didn't know what to do with that. I still don't, entirely. But I stood at the window until Graham went in and the street lights came on, and I didn't blame anyone. It turned out to be harder work than I'd expected.
+And for one second, at that window, the thought came in the way cold comes under a door. Danny knew where I lived. Danny had known my father's birthday for nearly thirty years; he'd eaten half the cake at most of them. Danny had said it first.
+
+I said "No," out loud, to the empty flat, the way you'd tell a dog to get down.
+
+I didn't know what to do with any of it. I still don't, entirely. But I stood at the window until Graham went in and the street lights came on, and I didn't blame anyone. It turned out to be harder work than I'd expected.
 
 ---
 
@@ -176,7 +180,7 @@ Some things you count. And some things you leave on the shelf, so that for one m
 - **Reported:** Danny insists. The reference number goes on the fridge *"like a fridge magnet from a holiday I didn't remember taking."* Unauthorised access is shown as an event, never as a method.
 - **The letter (Sat 23 May 2026):** the canon text from Post #3, **word for word** (capitals, full stops only, the hyphen exception in "OKAFOR-REYES"; see `voices.md`). The grey band (*"a sky that hasn't decided whether to rain"*) is left unexamined until ch 7. The crossed-out kitchen chair.
 - **Counting forwards:** Day 22,861 = **Sat 17 May 2025**, the croissants. This pays off ch 5's private anniversary: *"I'd thought I was the only one keeping count."*
-- **144 lb ×2:** the 1971 office copy and the May 2025 server cabinet goods-in note. Danny: *"Heavy office kit is heavy office kit."* Nell: *"The coincidence might be nothing. The noticing was arranged."*
+- **144 lb ×2:** the 1971 consignee's copy (signed for at the Ashby Trust) and the May 2025 server cabinet goods-in note. Danny: *"Heavy office kit is heavy office kit."* Nell: *"The coincidence might be nothing. The noticing was arranged."*
 - **The window (new scene):** Nell reads *"Do not blame anyone you can see from your window"* as an instruction to look. Graham and his fuchsias (**his grey front door**, noticed for the first time, which seeds ch 7), the young mother from the queue, lads on the wall, the man with the dog, the plywood window. She realises Danny and the stranger said the same thing within seven days. *"I didn't blame anyone. It turned out to be harder work than I'd expected."*
 - **Emmanuel:** head office 1979–2009, *"the man who knew where everything was"*, the crossword in pen. **New detail:** the director who hired Nell said *"If you're half as tidy as your father, we'll manage."* (It seeds "Placement noted", canon decision D8, which is never resolved.)
 - **The ending:** the crossword dictionary with his pencil marks in the margins, which she closes unread. *"Some things you count. And some things you leave on the shelf…"* It replaces the blog's *"I'm going to stop this paragraph here."*

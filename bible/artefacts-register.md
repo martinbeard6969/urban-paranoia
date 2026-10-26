@@ -84,7 +84,7 @@ Marguerite Aldane's archive, assembled by her daughter Ruth (the Archivist) sinc
 |---|---|---|
 | 1962 delivery manifest | Teletype to Harrowgate House; "7 cars on the drive" | ✅ Post #2 |
 | 1971 manifest, driver copy | "D. 3062", no weight, stamp | ✅ Post #1 |
-| 1971 manifest, office copy | 144 LB | ✅ Post #3 |
+| 1971 manifest, consignee's copy (recd. Ashby Tst.) | 144 LB | ✅ Post #3 |
 | 1971 vehicle log | "H.H. — per instr." | ✅ Post #2 |
 | 1983 manifest | The Exchange cabinet, "per instr.", driver "L." (Len) | 📅 Phase 2 |
 | 2025 goods-in note | Server cabinet, 144 LB | ✅ Post #3 |

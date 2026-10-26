@@ -13,8 +13,8 @@ Every prop, page and piece of media needed for the content drafted so far. **Sta
 | 1971 manifest, driver copy | Post #1 | Period Coyle's form, purple "FOR THE LONG WEATHER" stamp, pencil line in the weight box, "D. 3062" | ☐ |
 | 1962 manifest | Post #2 | Water-damaged, weight corner illegible, driver's note ("7 cars on the drive") | ☐ |
 | 1971 vehicle log page | Post #2 | 3 March 1971 line, "H.H. — per instr." | ☐ |
-| Archivist's letter | Post #3 | Real typewriter, grey band at **exactly #6B6E70**, crossed-out chair drawing; high-resolution colour scan with embedded profile | ☐ |
-| 1971 manifest, office copy | Post #3 | Same as driver copy plus "144 LB" and a stronger stamp | ☐ |
+| Archivist's letter | Post #3 | Real typewriter, grey band at **exactly #6B6E70**, crossed-out chair drawing; high-resolution colour scan with embedded profile. The published scan has the surname blacked out (the grey band untouched) | ☐ |
+| 1971 manifest, consignee's copy | Post #3 | Same consignment as Nell's archive copy, plus "144 LB", a stronger stamp and "recd. Ashby Tst." | ☐ |
 | Coyle's goods-in note, May 2025 | Post #3 | Modern printed form, server cabinet, 144 LB | ☐ |
 | Minutes Fragment Four | Drop 01 | Blue carbon copy, "p. 11 of 40", "COPY 3 OF 3", pencil strike-through, margin note signed "M." | ☐ |
 | Marguerite's 1987 note | Drop 01 | Spiral notebook page, blue biro, two coffee rings, torn corner "D. 8,9—" | ☐ |

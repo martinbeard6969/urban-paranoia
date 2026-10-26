@@ -97,7 +97,7 @@ The box was labelled **1971 Q1 — MISC.** in marker pen that had faded to the c
 
 Halfway down there was a single manifest. A standard Coyle's form of the period, the kind I'd seen a thousand of that month. One consignment, collected from somewhere called **Harrowgate House** and delivered to **The Ashby Trust**, care of a PO box. The cargo line had been typed on a machine whose *e* was slightly raised:
 
-> OFFICE EQUIPMENT — TELETYPE APPARATUS, 1 UNIT. HANDLE AS INSTRUCTED.
+>> OFFICE EQUIPMENT — TELETYPE APPARATUS, 1 UNIT. HANDLE AS INSTRUCTED.
 
 My hands knew before I did. That's the only way I can describe it. My hands stopped.
 
@@ -105,7 +105,7 @@ There was no weight. Every Coyle's manifest has a weight, because weight is what
 
 And across the bottom, in purple from a rubber stamp, slightly crooked, as if pressed by someone who had done it many times and stopped looking:
 
-> **FOR THE LONG WEATHER**
+>> **FOR THE LONG WEATHER**
 
 No company name. No logo. Four words in a colour you'd choose for a wedding invitation.
 

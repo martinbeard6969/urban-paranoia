@@ -13,6 +13,8 @@ canon-refs: [bible/*, book/synopsis, book/chapters/01-day-zero, book/act-2/scene
 
 **Rhythm rule:** whenever the Tenants speak, long observed paragraphs are broken by single centred lines of counsel (as in chapter 1).
 
+**Typography rule:** centred capitals (`>`) are reserved for the Tenants. Letters, documents, stamps and notes use `>>` (left-aligned, ruled). Counsel quoted inside a document is set as a document.
+
 **Narrator labels:** every chapter opens with a small-capitals line under its title saying **who is narrating and when**. Nell's chapters give her name, the Lodge day-count and the real date; interludes give the viewpoint character's **role** (Founders stay unnamed), the day-count where it matters, and the place and date. If the viewpoint changes inside a chapter, a section label marks it. Format in the chapter file: a bold, all-capitals block, e.g. `**NELL · DAY 23,220 · MONDAY 11 MAY 2026**`.
 
 | Ch | Narrator label (opening line) | Section labels |
@@ -96,7 +98,7 @@ A crime that never happened, a different villain in every feed, and "Jordan Pryc
 Six cards, the counsel, the names, the threads that only run sideways. "Where's their name?" The crossed chair above the row. Confessions. 3:40 a.m.: **Larkspire Property Services** will inspect her flat. Jack Prentice and Jordan Pryce: *"one name for the feeds, one for the paperwork."* She texts Ama to book the hall. → [scene outline](act-2/scene-the-wall.md)
 
 **19. Routine Inspection**
-10:00. Two men from Larkspire "property services". One of them is Cobb, who admires her wall, which she didn't take down. He leaves a card with no name on it. Then the Archivist's post: **card 0212**. *Reliable. Asks no questions. Declined further work following S.7 matter.* Her father **stopped**. And: *Daughter: Coyle's analyst post. Placement noted.* Was her whole career arranged? *Ends:* she can't tell, and that's the worst of it.
+10:00. Two men from Larkspire "property services". One of them is Cobb, who admires her wall, which she didn't take down. He leaves a card with no name on it. Then the Archivist's post: **card 0212**. *Reliable. Asks no questions. Declined further work following S.7 matter.* Her father **stopped**. That night she opens his crossword dictionary (closed unread in ch 6): the small pencil numbers in its margins are **Lodge day-counts**, the runs he phoned through, kept privately. After the last one there is no number, only a single word he looked up and underlined (word to be found in drafting). He counted too, and he stopped. And: *Daughter: Coyle's analyst post. Placement noted.* Was her whole career arranged? *Ends:* she can't tell, and that's the worst of it.
 
 **20. Thursday**
 The first Mission Hall meeting: eleven people, bad tea, a broken urn, awkwardness, then something. Neighbours from opposite sides of the Wall sit at one table, which the Outrage Engine exists to prevent. Jack doesn't come. Nell posts *"Every arrow on my wall points sideways"*, with no names. *Ends Act Two:* the post spreads, and at a family office somewhere warm a Factor flags it red.
@@ -197,6 +199,7 @@ Invented composites only; real leaders appear only as unnamed background. See [p
 | "Fewer" | ch 1, Fragment Four | ch 25 (it was always a date) |
 | **The title** | The cover | ch 25: the U.P. column, "urban paranoia", the Lodge's own measure of neighbours' suspicion. It falls, unspoken, in ch 29. |
 | Crane's arithmetic | ch 8 | ch 25 (Model 7; "the people who stayed") |
+| Dad's dictionary margins | ch 6 (closed unread) | ch 19 (day-counts; one word) |
 | "Placement noted" | ch 19 | **deliberately unresolved** (canon decision D8: the Table only noticed, but Nell never learns this) |
 
 ## Length
