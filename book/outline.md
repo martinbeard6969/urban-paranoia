@@ -22,7 +22,8 @@ canon-refs: [bible/*, book/synopsis, book/chapters/01-day-zero, book/act-2/scene
 | 3 | NELL · DAY 23,200 · TUESDAY 21 APRIL 2026 | |
 | 4 | THE DEMOGRAPHER · DAY 3,061 · HARROWGATE, 2 MARCH 1971 | THE ACTUARY · LE HAVRE, THE SAME NIGHT |
 | 5 | NELL · DAY 23,220 · MONDAY 11 MAY 2026 | |
-| 6, 7, 9, 10, 12–14, 16–20, 22, 23, 25, 26, 28, 29 | NELL · DAY [n] · [date] | |
+| 6 | NELL · DAY 23,228 · TUESDAY 19 MAY 2026 | |
+| 7, 9, 10, 12–14, 16–20, 22, 23, 25, 26, 28, 29 | NELL · DAY [n] · [date] | |
 | 8 | HOLLIS CRANE · HARROWGATE, 1979 | |
 | 11 | MARGUERITE ALDANE · DAY 8,950 · 16 APRIL 1987 | EMMANUEL OKAFOR · THE SAME NIGHT |
 | 15 | THE FACTOR · [family office], 2026 | MOTHER QUILL (if her scene is included) |
@@ -51,7 +52,7 @@ The last session at Harrowgate before the machine is moved. The three Founders, 
 **5. The Sensible Voice** *(drafted v2.1, ~2,800)* → [chapter file](chapters/05-the-sensible-voice.md)
 **Danny** in Nell's kitchen: "It's a tax dodge, Nell." The **Mission Hall** and **Pastor Ama**. **Jack Prentice ("Jordan")**, 19, his apprenticeship cut and his mum's flat on the Wharf Road list. The first **@longweather_** comments, described and deleted. *Ends:* Danny's line, "Don't let anyone tell you it's the people down your street," spoken while a Larkspire letting agent's van idles outside.
 
-**6. Count Forwards**
+**6. Count Forwards** *(drafted v1, ~2,250)* → [chapter file](chapters/06-count-forwards.md)
 The line in the source code at 03:12. The typed letter. Day 22,861: the croissants again. **144 lb.** Her father, the man who knew where everything was. *Ends:* *"I'm going to stop this paragraph here,"* as she stares at her father's crossword dictionary.
 
 **7. The Grey Door**

@@ -91,6 +91,8 @@ Real trends are atmosphere. They are **never** attributed to real people or real
 | 🟥 **Mon 20 Apr 2026 (Day 23,199)** | Vesper finds the 1971 manifest in the archive, about 4 p.m. The blog goes live at 03:10 the next morning. 📄 *Chapter 2* |
 | 🟥 Late Apr – early May 2026 | A reader cracks "D. 3062" as a day-count; Nell solves Day 0 from the 1971 vehicle log, finds the 1962 manifest, posts Post #2 (the Archivist's comment is planted at 03:12), and meets Len at the café by the old depot. 📄 *Chapter 3* |
 | 🟥 Mid-May 2026 | Danny names Nell in a comment; Nell meets Pastor Ama and Jack at the Mission Hall; Jack's mum's block is in phase one of the Wharf Road scheme; @longweather_ first comments, and it knows about her Tuesday archive visit; the bird-logo van outside. 📄 *Chapter 5* |
+| 🟥 Tue 19 May 2026 (Day 23,228) | A reader spots the hidden source comment; the edit history shows it was added at 03:12 on the night of the second post, using Nell's login. She changes every password and reports it. 📄 *Chapter 6* |
+| 🟥 Sat 23 May 2026 (Day 23,232) | **The Archivist's letter** reaches Nell's home address, with the two 144 lb enclosures. 📄 *Chapter 6* |
 | 🟥 **ARG launch** | Vesper's blog goes live. **Post #1: "For the Long Weather."** |
 | 🟥 ARG Phase 1, Post #2 night | The Archivist plants a hidden comment on Vesper's blog, logging in with Vesper's password (her father's birthday, taken from the Aldane Papers). |
 | 🟥 ARG Phase 1, Post #3 | **Archivist first contact.** A typed letter to Vesper's home with 144 lb enclosures and "THE DOOR IS GREY" (→ #6B6E70 → Phase 2 page). |
