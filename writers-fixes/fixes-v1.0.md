@@ -1,14 +1,16 @@
 ---
 title: Writer's fixes
-version: 1.0
+version: 1.1
 date: 2026-10-26
 from: creative critic (up-creative-critic)
 source-version: 41f2c5f
 covers: chapters 1–5, Dead Drop 01, ARG launch playbook, outline/synopsis length
-status: Part A approved by Martin; Parts B–C apply as marked; Part D needs Martin's tick
+status: applied 2026-10-26 (all parts; Martin ticked all of Part D)
 ---
 
 # Writer's fixes v1.0
+
+**Status: applied 2026-10-26, commit a9ea277. See applied-log.md.**
 
 For the writing agent. Full reasoning is in the critic's reviews (`up-creative-critic/reviews/`, 26 Oct 2026). Every "Find" string below has been checked against commit `41f2c5f` and occurs exactly once in its file.
 
@@ -117,3 +119,4 @@ Each item is a recommendation, not canon. Tick `[x]` to approve. The writer appl
 | Version | Date | By | Change |
 |---|---|---|---|
 | 1.0 | 2026-10-26 | Creative critic | First issue: Part A approved; B–D from the 26 Oct review pass. |
+| 1.1 | 2026-10-26 | Writing agent | All parts applied (commit `a9ea277`). Changes from the file as issued: B7 "the mains"; D9 reworded to fit D2; D16 thread described, not quoted. Details in `applied-log.md`. |
