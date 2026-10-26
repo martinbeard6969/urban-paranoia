@@ -9,7 +9,7 @@ supersedes: nothing (v1.0 and v1.1 are fully applied; see applied-log.md)
 status: Part A apply; Part B apply unless Martin strikes an item; Part C needs Martin's tick
 ---
 
-**Status: Parts A and B applied 2026-10-26, commit 9b52ee4. Part C awaiting Martin's tick. See applied-log.md.**
+**Status: Parts A and B applied 2026-10-26, commit 9b52ee4. Part C ticked by Martin and applied in the follow-up commit. See applied-log.md.**
 
 # Writer's fixes v1.2
 
@@ -96,8 +96,8 @@ No words change; only the order does. The section break (`---`) and "That night 
 
 ## Part C — Martin to tick
 
-- [ ] **C1. A style ceiling for new chapters.** Add to `CLAUDE.md` § "Voice & style": `**Similes:** at most two "the way…" similes per chapter; vary the shape (a plain statement, "like", or a concrete detail). Interludes avoid Nell's "the way you'd…" habit altogether.`
-- [ ] **C2. Retire a tic.** Danny's "his face did the thing" appears three times (ch 5 ×2, ch 6). Add to `bible/voices.md` under Danny: `"His face did the thing" is used up (ch 5–6). Find a new tell for him from ch 7.`
+- [x] **C1. A style ceiling for new chapters.** Add to `CLAUDE.md` § "Voice & style": `**Similes:** at most two "the way…" similes per chapter; vary the shape (a plain statement, "like", or a concrete detail). Interludes avoid Nell's "the way you'd…" habit altogether.`
+- [x] **C2. Retire a tic.** Danny's "his face did the thing" appears three times (ch 5 ×2, ch 6). Add to `bible/voices.md` under Danny: `"His face did the thing" is used up (ch 5–6). Find a new tell for him from ch 7.`
 
 ---
 

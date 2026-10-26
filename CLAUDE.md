@@ -92,6 +92,7 @@ These rules keep the campaign effective, legally safe and ethically sound. Apply
 - **Tone:** quiet dread over shouting. Unsettling, plausible, literate. *Night Vale* calm meets *X-Files* paranoia.
 - **Show, don't assert.** Present patterns, documents and coincidences and let the audience connect them. Vesper doubts themself often, and that doubt is part of the hook.
 - **Grounded texture:** use real *trends* (wage stagnation, automation, union decline, inflation) as atmosphere, described accurately. The fiction is the *explanation*, not the facts.
+- **Similes:** at most two "the way…" similes per chapter; vary the shape (a plain statement, "like", or a concrete detail). Interludes avoid Nell's "the way you'd…" habit altogether.
 - **Formats:** blog posts (600–1,200 words), forum posts, redacted memos, transcripts, cipher puzzles, audio scripts, comic panel breakdowns, marketing copy.
 
 ---

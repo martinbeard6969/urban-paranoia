@@ -68,6 +68,7 @@ How each in-world voice writes or speaks. Check a draft against its voice before
 - **Register:** plain, warm, funny, blunt. Union-rep habits: "Who benefits?", "Follow the money".
 - **Role:** the grounded sceptic. He's usually right about ordinary greed and wrong about the scale.
 - **Always:** pushes back against blaming neighbours. That's his core line.
+- **Retired tic:** "His face did the thing" is used up (ch 5–6). Find a new tell for him from ch 7.
 - **Sample:** *"Whatever this is, it'll be some bloke in a suit. It always is. Don't let anyone tell you it's the people down your street."*
 
 ## Len: quoted speech

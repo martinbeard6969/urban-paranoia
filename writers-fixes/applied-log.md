@@ -17,4 +17,4 @@ Every fixes file in this folder is logged here once handled, so nothing is appli
 | 2026-10-26 | `fixes-v1.1.md` | C1 | **Applied with changes** (Martin ticked it, with companions) | `2dd2f71` | Companions: Post #4's quoted hidden line becomes `MS [—]`; Post #5's salutation becomes `Dear Ms [—]`. Post #3: "Here it is in full" becomes "Here it is"; the scan caption and asset list note the surname is blacked out on the published scan. Dead Drop 01 is unchanged, so it's the first public use of her surname. |
 | 2026-10-26 | `fixes-v1.2.md` | A1–A5 | **Applied** | `9b52ee4` | A1 is a reorder only. |
 | 2026-10-26 | `fixes-v1.2.md` | B1–B7 | **Applied** | `9b52ee4` | "The way" counts in the body text afterwards: ch 1: 5, ch 2: 6, ch 3: 5 (the critic says 4; a counting difference, not a missed cut), ch 4: 4, ch 5: 5, ch 6: 4. Ch 1–6 rebuilt. |
-| 2026-10-26 | `fixes-v1.2.md` | C1, C2 | **Awaiting Martin's tick** | | C2: "his face did the thing" occurs twice (ch 5 ×1, ch 6 ×1), not three times. |
+| 2026-10-26 | `fixes-v1.2.md` | C1, C2 | **Applied** (Martin ticked both) | see next commit | C2: "his face did the thing" occurs twice (ch 5 ×1, ch 6 ×1), not three times. |
