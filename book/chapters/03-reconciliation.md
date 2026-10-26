@@ -15,7 +15,7 @@ status: draft v1
 
 By lunchtime the next day, eleven people had read it.
 
-I know this because the blogging platform tells you, in a small grey number at the top of the screen, the way a hospital monitor tells you your pulse. Eleven. I refreshed it while my toast burned. Thirteen. One of them, I was fairly sure, was me on my phone.
+I know this because the blogging platform tells you, in a small grey number at the top of the screen, like a pulse on a hospital monitor. Eleven. I refreshed it while my toast burned. Thirteen. One of them, I was fairly sure, was me on my phone.
 
 By the end of the week it was four hundred. I don't know how. Someone shared it somewhere, and someone else shared that, and the small grey number started to climb the way water climbs a cloth. There were comments. Most were kind. Some were funny. A man in a city I'd never been to explained, at length and with great confidence, that the stamp was obviously a brand of Victorian fertiliser. A woman wrote just *I believe you*, and I didn't know what to do with that, because I hadn't claimed anything. One stranger offered, politely, to have me sectioned.
 
@@ -55,7 +55,7 @@ I did the sum by hand first, in pencil on the back of an invoice, the way Pete t
 
 *Day 0 was the fourteenth of October, 1962.*
 
-I knew that date. Everyone of a certain age knows that autumn, and everyone younger has seen the documentaries: the week the whole world sat very still in front of its radios and waited to find out whether there would be a next week. I'm not going to write about it. I didn't then, either. I just sat in a storage unit by a railway line with a pencil in my hand, and felt something very old and very cold go down the back of my neck.
+I knew that date. Anyone old enough remembers that autumn, and everyone younger has seen the documentaries: the week the whole world sat very still in front of its radios and waited to find out whether there would be a next week. I'm not going to write about it. I didn't then, either. I just sat in a storage unit by a railway line with a pencil in my hand, and felt something very old and very cold go down the back of my neck.
 
 Somebody had started counting a week before the world held its breath. And somebody had still been counting, carefully, eight and a half years later.
 

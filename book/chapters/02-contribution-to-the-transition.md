@@ -39,7 +39,7 @@ By Christmas there were two of us and a contractor in a time zone I had to keep 
 
 I was kept on to *support the transition*. That meant I sat beside the routing system for eight hours a day and told it when it was wrong. It was hardly ever wrong. When it was, it was wrong in ways I'd have been wrong too, and it learned from me faster than I'd ever learned from anyone. I was training my own replacement, and my replacement was a very good student.
 
-The system ran on something called Nimfold, which I'd seen on the news, licensed through a cloud I'd also seen on the news. The contractor talked about both the way people talk about plumbing: something you only think about when it fails. *Nimfold's pushing an update tonight. The cloud's a bit slow in the mornings.* It was everywhere and nowhere, and it had my job.
+The system ran on something called Nimfold, which I'd seen on the news, licensed through a cloud I'd also seen on the news. The contractor talked about both as if they were plumbing: something you only think about when it fails. *Nimfold's pushing an update tonight. The cloud's a bit slow in the mornings.* It was everywhere and nowhere, and it had my job.
 
 I don't want to make it sound worse than it was. I was paid. I was thanked. Every Friday someone from human resources sent me an email asking how I was *feeling about the journey*, and every Friday I wrote back *fine*. It was true in the way that weather reports are true.
 
@@ -73,7 +73,7 @@ The letter came in March. It was on Coyle's paper, which still had the old logo 
 
 I read it at my kitchen table with a cup of tea going cold. Across from me on the shelf was my father's crossword dictionary, the spine broken in three places from forty years of being opened at the same letters. Under the tea was my rent statement, which I'd been using as a coaster, with a letterhead I'd never once looked at properly: some property services company, a logo like a bird, a payment reference as long as a sentence. I'd been paying them for six years and couldn't have told you their name.
 
-*Contribution to the transition.* I read it until the words came apart, the way a word does if you say it too often. *Contribution*, as if I'd put money in a tin. *Transition*, as if I were a season, and it was simply time for me to turn.
+*Contribution to the transition.* I read it until the words came apart. *Contribution*, as if I'd put money in a tin. *Transition*, as if I were a season, and it was simply time for me to turn.
 
 It said there would be a final project before the end of my notice. The company's archive was moving to digital, and "given your long familiarity with our records", they would be grateful if I could oversee the review.
 
@@ -93,7 +93,7 @@ On Monday the twentieth of April, at about four in the afternoon, the hum change
 
 ---
 
-The box was labelled **1971 Q1 — MISC.** in marker pen that had faded to the colour of weak tea. It was under forty others, and when I opened it, it smelled the way old paper smells: of nothing, almost, and then of dust and something sweeter underneath, like a church.
+The box was labelled **1971 Q1 — MISC.** in marker pen that had faded to the colour of weak tea. It was under forty others, and when I opened it, it smelled of old paper: of nothing, almost, and then of dust and something sweeter underneath, like a church.
 
 Halfway down there was a single manifest. A standard Coyle's form of the period, the kind I'd seen a thousand of that month. One consignment, collected from somewhere called **Harrowgate House** and delivered to **The Ashby Trust**, care of a PO box. The cargo line had been typed on a machine whose *e* was slightly raised:
 

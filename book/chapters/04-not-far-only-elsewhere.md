@@ -78,7 +78,7 @@ That same night, across the water, in a narrow house above the harbour at Le Hav
 
 He was forty-four. He had a wife who slept like a stone and a son at university who wrote twice a term, and a dream he had had perhaps a thousand times in eight and a half years and never once described to anyone, because he did not have the words. It was three notes. It was always three notes. It was nothing. A man does not leave his bed in the middle of the night over nothing.
 
-He went downstairs in his socks. From the landing window he could see the harbour lights, and beyond them the new container berth, where the dock gangs had worked when he was a boy. Now a single crane did in an hour what forty men had done in a day, and the boxes stood on the quay stacked like bricks.
+He went downstairs in his socks. From the landing window he could see the harbour lights, and beyond them the new container berth, where the dock gangs had worked until the boxes came. Now a single crane did in an hour what forty men had done in a day, and the boxes stood on the quay stacked like bricks.
 
 The piano had been his mother's, and was out of tune in a way that he had come to think of as its personality. He lifted the lid. He sat. He had not played since he was a boy, and his fingers were stiff, and it took him a long time to find the notes in the dark. A high one. A lower one. The high one again.
 

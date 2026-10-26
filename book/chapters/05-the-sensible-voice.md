@@ -63,7 +63,7 @@ When Dad died, Danny decided, without consulting me, that I was now his responsi
 
 "Not many."
 
-"Liar." He typed into the comment box, quickly, the way he does everything, and posted it before I could see.
+"Liar." He typed into the comment box, quickly, and posted it before I could see.
 
 *It's a tax dodge, Nell. Ring me when you've eaten something.*
 
@@ -161,8 +161,6 @@ His mum did two cleaning jobs, he said, mornings at an office and evenings at a 
 
 He went by Jordan online, he told me, when I glanced at his screen. Jordan Pryce. It had been a joke when he was sixteen and it had stuck. Everybody called him Jordan.
 
-What I'd glanced at was a message thread: long, patient paragraphs from someone whose name I didn't catch, the kind of writing that sounds like listening, and agrees with everything you'd already decided while you were too tired to argue. Jack saw me looking and locked the phone, not quickly, the way you'd close a door on a room you weren't ashamed of yet.
-
 "Except me," said Danny.
 
 "Except Danny. When he's cross with me."
@@ -171,11 +169,13 @@ What I'd glanced at was a message thread: long, patient paragraphs from someone 
 
 "Which is always."
 
+What I'd glanced at was a message thread: long, patient paragraphs from someone whose name I didn't catch, the kind of writing that sounds like listening, and agrees with everything you'd already decided while you were too tired to argue. Jack saw me looking and locked the phone, not quickly, the way you'd close a door on a room you weren't ashamed of yet.
+
 ---
 
 That night the comments changed.
 
-They came from an account with no picture, called **@longweather_**, and they were long: paragraphs, fluent and confident and urgent. They knew the neighbourhood's pressures as well as Danny did. They talked about rents and bills and jobs and fear, and for a sentence or two they sounded almost like him. And then every one of them turned, the way a road turns without warning, and ended in the same place: with a group of ordinary people, people you might live next door to, who were apparently to blame for all of it. It didn't matter where a comment started. It always ended pointing down the street.
+They came from an account with no picture, called **@longweather_**, and they were long: paragraphs, fluent and confident and urgent. They knew the neighbourhood's pressures as well as Danny did. They talked about rents and bills and jobs and fear, and for a sentence or two they sounded almost like him. And then every one of them turned without warning, and ended in the same place: with a group of ordinary people, people you might live next door to, who were apparently to blame for all of it. It didn't matter where a comment started. It always ended pointing down the street.
 
 I'm not going to repeat what they said. I deleted them. They kept coming, and I kept deleting them, and somewhere around the fifth I realised my hands were cold.
 

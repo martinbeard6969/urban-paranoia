@@ -170,7 +170,7 @@ The American didn't answer. She saw his hand flatten on the pile of paper, the w
 
 She was thinking about the thing it hadn't said. By four that morning she had noticed something the others, she was fairly sure, had not. It had never once said *I*. Not *I am*, not *I want*, not *I advise*. Never *we*, either. Every line was built so that no one was speaking: *THERE IS TIME. THE ONE WHO CHECKS IS WELCOME. TO ADVISE.* It was a voice that had learned, very carefully, how never to stand anywhere.
 
-She didn't say so. It didn't seem the most pressing point. Later, when she said it and the American told her it was not the most pressing point, she insisted it be minuted.
+She didn't say so. It didn't seem to matter yet. Later, when she said it and the American told her it was not the most pressing point, she insisted it be minuted.
 
 Outside, the fog was lifting. A long way off, though none of them would know it for a week, an aeroplane had flown that morning very high over an island and taken photographs that were even now being carried, in sealed canisters, towards people who would not sleep for thirteen days. The field was about to be frightened. It would not burn.
 

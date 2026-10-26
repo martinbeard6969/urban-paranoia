@@ -87,7 +87,7 @@ Yes. My password had been my father's birthday. I know. He'd have been disappoin
 
 Day 0 was the fourteenth of October, 1962. Count forwards 22,861 days.
 
-I didn't need a spreadsheet. I knew before I got there, the way you know which stair creaks. I did it anyway, by hand, on the back of the council letter about bins, because that's who I am.
+I didn't need a spreadsheet. I knew before I got there. I did it anyway, by hand, on the back of the council letter about bins, because that's who I am.
 
 *Saturday, 17 May 2025.*
 
@@ -107,7 +107,7 @@ The first was the 1971 manifest, but not the copy I'd found. Mine was the office
 
 *144 LB.*
 
-The second was newer. A Coyle's goods-in note, printed, from May last year: delivery of one server cabinet to the comms room at head office: the local box the new routing system ran through. I'd walked past that cabinet a hundred times. We used to joke about it: the grey box in the comms room was our replacement, we said, back when it was something you could joke about. Signed, dated, and weighed.
+The second was newer. A Coyle's goods-in note, printed, from May last year, for one server cabinet delivered to the comms room at head office: the local box the new routing system ran through. I'd walked past that cabinet a hundred times. We used to joke about it: the grey box in the comms room was our replacement, we said, back when it was something you could joke about. Signed, dated, and weighed.
 
 *144 LB.*
 
