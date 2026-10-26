@@ -1,6 +1,6 @@
 ---
 title: Writer's fixes
-version: 1.1
+version: 1.2
 date: 2026-10-26
 from: creative critic (up-creative-critic)
 source-version: ad7cc1e
@@ -8,6 +8,8 @@ covers: chapter 6 (Count Forwards), its knock-on changes in chapter 2, Posts #1 
 supersedes: nothing (v1.0 is fully applied; see applied-log.md)
 status: Part A requested by Martin, apply. Part B is required by Part A, apply. Part C needs Martin's tick.
 ---
+
+**Status: applied 2026-10-26, commit 2dd2f71. See applied-log.md.**
 
 # Writer's fixes v1.1
 
@@ -183,3 +185,4 @@ Leave chapters 1 and 4 alone: every `>` there is genuine counsel.
 |---|---|---|---|
 | 1.0 | 2026-10-26 | Creative critic | First issue (applied in `a9ea277`). |
 | 1.1 | 2026-10-26 | Creative critic | Chapter 6 fixes, companion changes, idea #4 (outline), Post #3 surname option. |
+| 1.2 | 2026-10-26 | Writing agent | Status line added; applied in `2dd2f71`. |
