@@ -25,7 +25,7 @@ And on the Friday, a reader with a cartoon owl for a picture wrote one line:
 
 I read it standing at the kitchen counter, and I said *oh* out loud, to no one, in the voice you use when you've been looking for your glasses and they're on your head. I'd spent eleven years with dates. I'd looked at that number for four days. A stranger with an owl had seen it in a morning.
 
-I was annoyed. I want that on the record. It's the most honest thing in this chapter.
+I was annoyed. I want that on the record.
 
 ---
 
@@ -45,7 +45,7 @@ Where the reference belonged, in a careful hand, he'd written:
 
 The mileage out and back put the destination about two and a half hours away. Somewhere rural. Somewhere you'd need instructions to find.
 
-I sat back on my crate. Harrowgate House. Per instruction. A trip that was written down so that it would exist, and written down so that nobody could say what it was.
+I sat back on my crate. Harrowgate House. Per instruction.
 
 ---
 
@@ -83,7 +83,7 @@ You have to understand what it's like, when you've spent your life with document
 
 *Needed from tomorrow.* Seven cars and nobody to park them. A machine carried into that house on a Saturday, the day before somebody started counting.
 
-I didn't know, then, what I know now. But I knew this: something had happened in that house on the fourteenth of October, 1962, and the men who moved things for a living had noticed, and written it down, and been told, in one way or another, to stop.
+I knew this much: something had happened in that house on the fourteenth of October, 1962, and the men who moved things for a living had noticed, and written it down, and been told, in one way or another, to stop.
 
 ---
 
@@ -99,15 +99,13 @@ I got as far as his name in my contacts before I remembered. Seven years, and it
 
 I put the phone away. A man came out of the flats with a dog, and looked at me standing there staring at his front door, and I walked on before he could ask.
 
-It didn't occur to me, that evening, to wonder why my father had never once mentioned a house called Harrowgate. It would. But not yet.
+It didn't occur to me, that evening, to wonder why my father had never once mentioned a house called Harrowgate.
 
 ---
 
 That night I wrote the second post.
 
 I showed my working: the logs, the sum, the soft brown box. I thanked the owl, through gritted teeth. I left out what I'd felt in the archive, because I couldn't make it sound like anything other than a woman alone in a shed being frightened by a date. I wrote that I'd come back to the Harlow-Vane Institute, whatever it had been. I posted it at a quarter to midnight and went to bed, and for once I slept.
-
-If I'd looked at the page that night, really looked at it, at the parts of a web page people don't usually see, I might have noticed that at twelve minutes past three in the morning, while I was asleep, someone else had been there too. I didn't look. Most people don't.
 
 ---
 
@@ -180,5 +178,5 @@ He'd been welcoming me.
 **Rule checks**
 - No real present-day place names; the city stays unnamed ("a city I'd never been to", "the old depot").
 - No real people; the 1962 crisis is unnamed.
-- Nell doubts herself ("I'm probably remembering it wrong" is Len's; hers: "I was annoyed… the most honest thing in this chapter", "I didn't know, then, what I know now").
+- Nell doubts herself ("I'm probably remembering it wrong" is Len's; hers: "I was annoyed. I want that on the record."). *(Retrospective hooks cut 27 Oct 2026, reader panel.)*
 - No book-only themes.

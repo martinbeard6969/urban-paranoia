@@ -141,7 +141,7 @@ And for one second, at that window, the thought came in the way cold comes under
 
 I said "No," out loud, to the empty flat, the way you'd tell a dog to get down.
 
-I didn't know what to do with any of it. I still don't, entirely. But I stood at the window until Graham went in and the street lights came on, and I didn't blame anyone. It turned out to be harder work than I'd expected.
+I didn't know what to do with any of it. I still don't, entirely. But I stood at the window until Graham went in and the street lights came on, and I didn't blame anyone.
 
 ---
 
@@ -181,7 +181,7 @@ Some things you count. And some things you leave on the shelf, so that for one m
 - **The letter (Sat 23 May 2026):** the canon text from Post #3, **word for word** (capitals, full stops only, the hyphen exception in "OKAFOR-REYES"; see `voices.md`). The grey band (*"a sky that hasn't decided whether to rain"*) is left unexamined until ch 7. The crossed-out kitchen chair.
 - **Counting forwards:** Day 22,861 = **Sat 17 May 2025**, the croissants. This pays off ch 5's private anniversary: *"I'd thought I was the only one keeping count."*
 - **144 lb ×2:** the 1971 consignee's copy (signed for at the Ashby Trust) and the May 2025 server cabinet goods-in note. Danny: *"Heavy office kit is heavy office kit."* Nell: *"The coincidence might be nothing. The noticing was arranged."*
-- **The window (new scene):** Nell reads *"Do not blame anyone you can see from your window"* as an instruction to look. Graham and his fuchsias (**his grey front door**, noticed for the first time, which seeds ch 7), the young mother from the queue, lads on the wall, the man with the dog, the plywood window. She realises Danny and the stranger said the same thing within seven days. *"I didn't blame anyone. It turned out to be harder work than I'd expected."*
+- **The window (new scene):** Nell reads *"Do not blame anyone you can see from your window"* as an instruction to look. Graham and his fuchsias (**his grey front door**, noticed for the first time, which seeds ch 7), the young mother from the queue, lads on the wall, the man with the dog, the plywood window. She realises Danny and the stranger said the same thing within seven days. *"…and I didn't blame anyone."*
 - **Emmanuel:** head office 1979–2009, *"the man who knew where everything was"*, the crossword in pen. **New detail:** the director who hired Nell said *"If you're half as tidy as your father, we'll manage."* (It seeds "Placement noted", canon decision D8, which is never resolved.)
 - **The ending:** the crossword dictionary with his pencil marks in the margins, which she closes unread. *"Some things you count. And some things you leave on the shelf…"* It replaces the blog's *"I'm going to stop this paragraph here."*
 

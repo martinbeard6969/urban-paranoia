@@ -28,7 +28,7 @@ She did not like how easy it had been. She noticed that she did not like it, and
 
 The Long Room had thirteen chairs now.
 
-Twelve of them had people in them, on the nights the Table met: a shipping manager from Rotterdam, a broadcasting engineer from somewhere cold, a junior diplomat who never took his gloves off, a quiet woman from New Zealand who had once filed weather reports for a living and now never spoke unless spoken to. Nine strangers, chosen as the three of them had been chosen: overlooked, competent, approached at a moment of crisis with the one thing nobody can refuse, which is certainty.
+Twelve of them had people in them, on the nights the Table met: a shipping manager from Rotterdam, a junior diplomat who never took his gloves off, a quiet woman from New Zealand who had once filed weather reports for a living and now never spoke unless spoken to. Nine strangers, chosen as the three of them had been chosen: overlooked, competent, approached at a moment of crisis with the one thing nobody can refuse, which is certainty.
 
 The thirteenth chair was always pushed in. Nobody had decided it. On the first night all twelve were seated, someone had reached for the last chair and the German had said, very quietly, *no*, and nobody had asked him why. It had stayed pushed in ever since. Sometimes, at the end of a long meeting, she caught herself looking at it the way you look at a door you've heard creak.
 
@@ -38,7 +38,7 @@ She still kept the count. A new notebook every year, the same cheap ruled kind, 
 
 At ten past two the machine began to type.
 
-Only the three of them were in the Listening Room. That was the rule now, for the old machine: the Founders, and nobody else. The others received the counsel later, in typed minutes, or not at all. The American sat in the chair. He had been the one who listened for years now: it was understood, without anyone saying it, that the voice preferred him. The German stood by the wall with his tape recorder on a little table, its reels turning, because he recorded everything, because records were how you kept a thing honest when you could no longer check its plug.
+Only the three of them were in the small panelled room they now called the Listening Room. That was the rule now, for the old machine: nobody else. The others received the counsel later, in typed minutes, or not at all. The American sat in the chair. He had been the one who listened for years now: it was understood, without anyone saying it, that the voice preferred him. The German stood by the wall with his tape recorder on a little table, its reels turning, because he recorded everything, because records were how you kept a thing honest when you could no longer check its plug.
 
 She stood at the American's shoulder and read the paper as it came.
 
@@ -68,7 +68,7 @@ The German said, "Or it means the machine."
 
 She didn't say anything. She was thinking that it could just as easily mean them: three nobodies who had been brought to this house, and would not be needed here much longer either, and would be kept.
 
-The machine would not print again for fifty-five years. By then she would have been dead for twenty-five of them.
+The machine would not print again for fifty-five years.
 
 ---
 
@@ -99,13 +99,13 @@ He never opened the lid again. When he died, twenty-six years later, his son sol
 **What this chapter establishes**
 - **The Table's rise:** better cars and cashmere; container shipping (*"goods would one day travel in steel boxes stacked like bricks"*) bought small through "a trust with a dull name" (the Ashby Trust). *"They had been nobodies. They were becoming people whose letters were answered."*
 - **The Long Room:** twelve seated, plus a thirteenth chair always pushed in. **New canon:** on the first night the German said *no* when someone reached for it. Nobody asked why.
-- **Cameo:** "a quiet woman from New Zealand who had once filed weather reports" (Mother Quill, seated 1966), unnamed. Others are a Rotterdam shipping manager, a broadcasting engineer, and a gloved junior diplomat (invented and unnamed).
+- **Cameo:** "a quiet woman from New Zealand who had once filed weather reports" (Mother Quill, seated 1966), unnamed. Others are a Rotterdam shipping manager and a gloved junior diplomat (invented and unnamed).
 - **The American is the Listener by 1971** (canon: Founder One holds the role until his death in 1976).
 - **The German records everything:** recording **HG-71**, with the tones "laid on top… by someone with better equipment" (matching HG-68).
 - **The counsel moves to the telephone line** (canon decision D3). The German's hair goes white after a winter trying to disprove it.
 - **New counsel:** *THE LINE IS OPEN.* / *THE MACHINE IS NOT NEEDED HERE. IT WILL BE KEPT.* / *KEPT.* / *NOT FAR. ONLY ELSEWHERE.*
 - **The stamp:** seen once on a desk; "the office" had started using it. Its origin stays a mystery (kept for the comics).
-- **Glimpse ahead (rationed to one):** *"The machine would not print again for fifty-five years. By then she would have been dead for twenty-five of them."* (1971 + 55 = 2026; THREE dies in 2001.)
+- **Glimpse ahead (rationed to one):** *"The machine would not print again for fifty-five years."* (1971 + 55 = 2026; THREE dies in 2001.)
 - **Le Havre:** the actuary (44), his wife and student son, the piano that was his mother's. **The presence** when he plays the tones. He never opens the lid again. **New canon:** he dies 26 years later (1997); his son sells the piano; the dealer finds it badly out of tune. A quiet, sad close.
 
 **Continuity**

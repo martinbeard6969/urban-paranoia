@@ -46,7 +46,7 @@ Nobody had called her promising for some time. She was thirty-six, a demographer
 
 The letter came from the Harlow-Vane Institute for Systems Studies, which she had never heard of. It invited her to a residential seminar, three nights, all expenses met, on *the long-range forecasting of settled societies*. There would be six other participants from six other countries, each chosen, it said, for the quality of their work rather than the seniority of their post.
 
-She read that sentence several times. It had the effect, she realised later, of a hand placed briefly on the small of the back.
+She read that sentence several times. It had the effect of a hand placed briefly on the small of the back.
 
 ---
 
@@ -60,13 +60,11 @@ He was forty or so, broad and quick, a planner for a telephone company in the mi
 
 The German was older, perhaps fifty, a statistician from a ministry in Bonn, and he checked things. Once, early in his career, he had signed off a set of figures without checking them, and a bridge had been built on them; he did not say what had happened to the bridge. Since then he checked everything. He checked the date on the wine before he poured it. He checked the programme against his invitation and found a discrepancy in the timings, which he mentioned.
 
-The others she would remember less clearly, and later she would hate herself for that, because they deserved better than to be remembered as the ones who left. An economist from a trade ministry in Tokyo, who carried the fountain pen he had been given for his first published paper and uncapped it whenever anyone said a number, and who asked the best questions of the evening. A young clerk from the currency office in Rio, who had been married eleven days and showed them a photograph of his wife before the soup was finished.
+The others she would remember less clearly. An economist from a trade ministry in Tokyo, who carried the fountain pen he had been given for his first published paper and uncapped it whenever anyone said a number, and who asked the best questions of the evening. A young clerk from the currency office in Rio, who had been married eleven days and showed them a photograph of his wife before the soup was finished.
 
-A statistician from a planning ministry in Delhi, who had worked out on the train from London, for his own amusement, the probable number of sheep in Britain, and was within a few hundred thousand. And a Frenchman from Le Havre, an actuary for a marine insurer, who priced the risk of ships not coming home. He said the house reminded him of his grandmother's, as all old houses did, because she had been the kind of woman who made every house seem old.
+They talked until late about the work. It was the first time in years, she thought, that she'd sat at a table where nobody needed the numbers explained. The American had a theory about telephones and loneliness. The man from Delhi, a statistician from a planning ministry, had one about rain. He had also worked out on the train from London, for his own amusement, the probable number of sheep in Britain, and was within a few hundred thousand. The German said he had no theories, and when asked what he had instead, said, after some thought, "Doubts. Very well organised."
 
-They talked until late about the work. It was the first time in years, she thought, that she'd sat at a table where nobody needed the numbers explained. The American had a theory about telephones and loneliness. The man from Delhi had one about rain. The German said he had no theories, and when asked what he had instead, said, after some thought, "Doubts. Very well organised."
-
-At midnight the Frenchman announced that he would go to bed before the house decided he was one of its ghosts. She was the last to go up. From the library she could see through an open door into the small panelled room, where a machine stood under a dust sheet beside a single chair. She remembered thinking it was an odd thing to keep in a room like that. She remembered the clock on the mantel, ticking.
+The last of them was a Frenchman from Le Havre, an actuary for a marine insurer, who priced the risk of ships not coming home. He said the house reminded him of his grandmother's, as all old houses did, because she had been the kind of woman who made every house seem old. At midnight he announced that he would go to bed before the house decided he was one of its ghosts. She was the last to go up. From the library she could see through an open door into the small panelled room, where a machine stood under a dust sheet beside a single chair. She remembered thinking it was an odd thing to keep in a room like that. She remembered the clock on the mantel, ticking.
 
 ---
 

@@ -27,8 +27,6 @@ I remember thinking, with a kind of professional admiration I've never quite for
 
 "Nobody's losing their job today," the man from head office said, and nine people heard the last word.
 
-It was the archive that did it, in the end. But I'll come to the archive.
-
 ---
 
 It took eleven months. They were decent about it, which I'm told is rare. Nobody was walked out of the building with a cardboard box. Instead the team got smaller the way a room gets darker at the end of a summer evening: so gradually that you only notice when you try to read.
