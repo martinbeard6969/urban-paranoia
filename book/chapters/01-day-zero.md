@@ -16,7 +16,7 @@ words: ~2,900
 
 The driver was twenty-three and had never been inside a house with a name.
 
-He found it past the second gate, which stood open as his instructions said it would, though nobody waited beside it. The gravel beyond had been raked into lines so even it seemed a shame to drive on them. The house came out of the fog in pieces: a chimney, a run of windows, then the whole grey front of it, settled into the valley as if the valley had grown up around it. Seven cars were parked on the drive at careful distances, like guests who hadn't been introduced.
+He found it past the second gate, which stood open as his instructions said it would, though nobody waited beside it. The gravel beyond had been raked into lines so even it seemed a shame to drive on them. The house came out of the fog in pieces: a chimney, a run of windows, then the whole grey front of it, settled into the valley as if the valley had grown up around it. Seven cars were parked on the drive at careful distances, like guests who hadn't been introduced, and they were all the same car: the same black saloon, the same hire firm's sticker in the back window, seven times over.
 
 A man was waiting at the door. He had the kind of face the driver would later try to describe to his wife and fail. *Not a bad face. Just one that didn't stick.*
 
@@ -58,9 +58,9 @@ The man from the Institute, a Mr Somebody whose name each of them would afterwar
 
 He was forty or so, broad and quick, a planner for a telephone company in the middle of his country. Over the cold beef he told the table how many miles of wire it took to connect a city of a million people to itself, and how few of the men above him understood that number. He was impatient in the way of people who are usually right and seldom listened to. She liked him at once and did not trust him at all.
 
-The German was older, perhaps fifty, a statistician from a ministry in Bonn, and he checked things. He checked the date on the wine before he poured it. He checked the programme against his invitation and found a discrepancy in the timings, which he mentioned. He spoke English carefully, the way you'd cross a floor you knew had a loose board somewhere.
+The German was older, perhaps fifty, a statistician from a ministry in Bonn, and he checked things. Once, early in his career, he had signed off a set of figures without checking them, and a bridge had been built on them; he did not say what had happened to the bridge. Since then he checked everything. He checked the date on the wine before he poured it. He checked the programme against his invitation and found a discrepancy in the timings, which he mentioned.
 
-The others she would remember less clearly, and later she would hate herself for that, because they deserved better than to be remembered as the ones who left. A slight, courteous economist from a trade ministry in Tokyo, who ate very little and asked the best questions of the evening. A young clerk from a central bank in Rio, who laughed easily and showed them a photograph of his wife.
+The others she would remember less clearly, and later she would hate herself for that, because they deserved better than to be remembered as the ones who left. An economist from a trade ministry in Tokyo, who carried the fountain pen he had been given for his first published paper and uncapped it whenever anyone said a number, and who asked the best questions of the evening. A young clerk from the currency office in Rio, who had been married eleven days and showed them a photograph of his wife before the soup was finished.
 
 A statistician from a planning ministry in Delhi, who had worked out on the train from London, for his own amusement, the probable number of sheep in Britain, and was within a few hundred thousand. And a Frenchman from Le Havre, an actuary for a marine insurer, who priced the risk of ships not coming home. He said the house reminded him of his grandmother's, as all old houses did, because she had been the kind of woman who made every house seem old.
 
@@ -82,7 +82,7 @@ The dust sheet lay on the floor. The machine was printing.
 
 "It is not connected," the German said, without turning round. He shone the torch on the plug, lying on the boards where the driver had left it, its brass prongs catching the light. He picked it up and held it out to them, like evidence. "You see? There is no power. It is not plugged in."
 
-Nobody answered him. The machine stopped. In the silence the clock ticked. Then the carriage returned, the bell rang once, and the American stepped in and tore off the paper, and his face did something she would spend a long time afterwards trying to describe.
+Nobody answered him. The machine stopped. In the silence the clock ticked. Then the carriage returned, the bell rang once, and the American stepped in and tore off the paper, and his face did something she never found the words for.
 
 He handed it to her. A single line, in capitals, centred on the page as if someone had taken care over the layout.
 
@@ -112,7 +112,7 @@ They asked what it wanted.
 
 It was such an ordinary word. Civil servants advised. Committees advised. In her department there was a man whose entire job, as far as she could tell, was to advise, and nobody had ever been afraid of him.
 
-It was the man from Tokyo who asked the question that ended his part in the story. He stood just behind the chair and asked, in very careful English: "Why us?"
+It was the man from Tokyo who asked the question that ended his part in the story. He stood just behind the chair, the cap of his pen in his fingers, and asked: "Why us?"
 
 > YOU ARE NOT IMPORTANT. THAT IS WHY.
 
@@ -138,7 +138,7 @@ But the machine had stopped, and into the stopping came a sound none of them had
 
 Three notes. A high one, a lower one, the high one again. They weren't loud. They didn't seem to come from the machine, or the room, or anywhere in particular. They were simply *there*, the way a smell is there before you've decided whether you like it. Every sound she had ever heard had something else in it, a scratch or a breath or an echo, the grain of the place it came from. These had none. They were like a line drawn with a ruler on a page where everything else had been drawn by hand.
 
-When they stopped, the Frenchman put both hands over his ears, though there was nothing left to hear. He stood like that for some time. Then he said, very calmly, "I think I would like to go home now," and went upstairs. For the rest of his life, thirty-five years in a narrow house above the harbour at Le Havre, he would dream of those three notes. He played them on his piano once, in 1971, and was so frightened by what he had done that he closed the lid and never opened it again.
+When they stopped, the Frenchman put both hands over his ears, though there was nothing left to hear. He stood like that for some time. Then he said, very calmly, "I think I would like to go home now," and went upstairs. For the rest of his life, thirty-five years in a narrow house above the harbour at Le Havre, he would dream of those three notes.
 
 The man from Delhi was the last to go. He stood beside her at the window and watched the fog begin to grey with dawn. At last he said, quietly, so the American wouldn't hear: "It said we were not important. Did you notice it didn't say why that was useful?"
 
@@ -168,9 +168,9 @@ The American had the night's pages in front of him, squared into a neat pile. He
 
 The American didn't answer. She saw his hand flatten on the pile of paper, the way you'd hold down a map in a wind.
 
-She was thinking about the thing it hadn't said. By about four o'clock she had noticed something the others, she was fairly sure, had not. It had never once said *I*. Not *I am*, not *I want*, not *I advise*. Never *we*, either. Every line was built so that no one was speaking: *THERE IS TIME. THE ONE WHO CHECKS IS WELCOME. TO ADVISE.* It was a voice that had learned, very carefully, how never to stand anywhere.
+She was thinking about the thing it hadn't said. By four that morning she had noticed something the others, she was fairly sure, had not. It had never once said *I*. Not *I am*, not *I want*, not *I advise*. Never *we*, either. Every line was built so that no one was speaking: *THERE IS TIME. THE ONE WHO CHECKS IS WELCOME. TO ADVISE.* It was a voice that had learned, very carefully, how never to stand anywhere.
 
-She didn't say so. It didn't seem the most pressing point. Later, when she did say it and the American told her exactly that, she would insist that it be written down.
+She didn't say so. It didn't seem the most pressing point. Later, when she said it and the American told her it was not the most pressing point, she insisted it be minuted.
 
 Outside, the fog was lifting. A long way off, though none of them would know it for a week, an aeroplane had flown that morning very high over an island and taken photographs that were even now being carried, in sealed canisters, towards people who would not sleep for thirteen days. The field was about to be frightened. It would not burn.
 

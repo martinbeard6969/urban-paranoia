@@ -1,7 +1,7 @@
 ---
 medium: novel (first book)
 status: outline v1
-target-length: ~40,000 words (novella upper limit for SF awards; see "Length" below)
+target-length: full-length novel, 70,000–80,000 words (see "Length" below)
 canon-refs: [bible/*, book/synopsis, book/chapters/01-day-zero, book/act-2/scene-the-wall]
 ---
 
@@ -34,21 +34,21 @@ canon-refs: [bible/*, book/synopsis, book/chapters/01-day-zero, book/act-2/scene
 
 ---
 
-## ACT ONE: THE LONG WEATHER (chapters 1–10, ~13,500 words)
+## ACT ONE: THE LONG WEATHER (chapters 1–10, ~22,000–24,000 words)
 
-**1. Day Zero** *(1962; interlude-style opener; drafted v2, ~2,900)*
+**1. Day Zero** *(1962; interlude-style opener; drafted v2.2, ~3,000)*
 The Coyle's driver delivers the teletype. Seven mid-level officials come to a seminar. At 02:10 it begins: *SIT. THERE IS TIME.* Four leave; three stay for the prediction. The demographer writes *Day 0*. → [chapter file](chapters/01-day-zero.md)
 
-**2. Contribution to the Transition** *(April 2026, Day 23,199; drafted v1, ~2,500)* → [chapter file](chapters/02-contribution-to-the-transition.md)
+**2. Contribution to the Transition** *(April 2026, Day 23,199; drafted v1.1, ~2,500)* → [chapter file](chapters/02-contribution-to-the-transition.md)
 Nell's redundancy, told through the croissants and the letter. The archive by the rail yard; the sorting eye. The 1971 manifest: no weight, no charge, *D. 3062*, the purple stamp. That night she starts a blog, because writing things down is the one thing left. *Ends:* she hits "publish" and the post sits there, unread, *"like a lantern in a field."*
 
-**3. Reconciliation** *(drafted v1, ~2,400)* → [chapter file](chapters/03-reconciliation.md)
+**3. Reconciliation** *(drafted v1.1, ~2,500)* → [chapter file](chapters/03-reconciliation.md)
 Vehicle logs, the 1962 box, the driver's note (chapter 1's words, seen again sixty-four years later; readers feel the click). Day 0 solved. **Len** over coffee: the cash man, the wardrobe that hummed, Terry. *Ends:* *"You notice it for forty years."*
 
-**4. Interlude: Not Far, Only Elsewhere** *(2 March 1971, Day 3,061; drafted v1, ~1,370)* → [chapter file](chapters/04-not-far-only-elsewhere.md)
+**4. Interlude: Not Far, Only Elsewhere** *(2 March 1971, Day 3,061; drafted v1.1, ~1,450)* → [chapter file](chapters/04-not-far-only-elsewhere.md)
 The last session at Harrowgate before the machine is moved. The three Founders, now quietly wealthy from their first container-shipping stakes, uneasy at how easy it was. The machine prints *NOT FAR. ONLY ELSEWHERE.* (recording HG-71). Cut to Le Havre: the French actuary plays three notes on his piano and closes the lid forever. *Function:* shows the Table's first riches and first guilt. They were nobodies once.
 
-**5. The Sensible Voice** *(drafted v2, ~2,700)* → [chapter file](chapters/05-the-sensible-voice.md)
+**5. The Sensible Voice** *(drafted v2.1, ~2,800)* → [chapter file](chapters/05-the-sensible-voice.md)
 **Danny** in Nell's kitchen: "It's a tax dodge, Nell." The **Mission Hall** and **Pastor Ama**. **Jack Prentice ("Jordan")**, 19, his apprenticeship cut and his mum's flat on the Wharf Road list. The first **@longweather_** comments, described and deleted. *Ends:* Danny's line, "Don't let anyone tell you it's the people down your street," spoken while a Larkspire letting agent's van idles outside.
 
 **6. Count Forwards**
@@ -68,7 +68,7 @@ The Harlow-Vane site, the card, the counter climbing (*"viewed 1 time"* → 400 
 
 ---
 
-## ACT TWO: THIRTEEN CHAIRS (chapters 11–20, ~13,500 words)
+## ACT TWO: THIRTEEN CHAIRS (chapters 11–20, ~26,000–30,000 words)
 
 **11. Interlude: The Walkout** *(16 April 1987, Day 8,950)*
 Marguerite at the Table. "A gardener still chooses the rows." Mother Quill's kindness. Crane silent in the corner. That night a Coyle's office clerk, **Emmanuel Okafor**, takes a phone call about a "per instr." run and, for the first time in eight years, says no. *Function:* two people stand up on the same night, one loudly and one in silence.
@@ -89,7 +89,7 @@ A family office somewhere warm. A Factor briefs Seat Four (about 80, a Canadian,
 Jack is drawn into **Clearfell**: anger at landlords, a recruiter who listens. Danny finds out. Frostline posts blame Jack's estate. Two groups, two enemies, same tone. Nell and Danny can't reach him. *Ends:* Jack: "At least they're *doing* something."
 
 **17. The Rumour**
-A crime that never happened, a different villain in every feed, and "Jordan Pryce" named in one. A crowd outside the Mission Hall. Danny in the middle, hearing himself say something (never quoted). Ama holds the door. Nobody is hurt, but it was close. *Ends:* Danny walks home without his bike and doesn't notice.
+A crime that never happened, a different villain in every feed, and "Jordan Pryce" named in one. A crowd outside the Mission Hall. Danny in the middle, hearing himself say something (never quoted). Ama holds the door. Nobody is hurt, but it was close. *Ends:* Danny walks home without his bike and doesn't notice. **Ama's back room** (set up in ch 5, where she quietly takes in the young woman in sunglasses) becomes the refuge during the confrontation: the people the rumour targets are sheltered there while Ama holds the door.
 
 **18. The Wall** *(MIDPOINT)*
 Six cards, the counsel, the names, the threads that only run sideways. "Where's their name?" The crossed chair above the row. Confessions. 3:40 a.m.: **Larkspire Property Services** will inspect her flat. Jack Prentice and Jordan Pryce: *"one name for the feeds, one for the paperwork."* She texts Ama to book the hall. → [scene outline](act-2/scene-the-wall.md)
@@ -102,7 +102,7 @@ The first Mission Hall meeting: eleven people, bad tea, a broken urn, awkwardnes
 
 ---
 
-## ACT THREE: INTERESTING (chapters 21–30, ~13,000 words)
+## ACT THREE: INTERESTING (chapters 21–30, ~22,000–26,000 words)
 
 **21. Interlude: Doctrine** *(2014)*
 The Signal and Border Seats formalise the Decoy Doctrine from a 1963 counsel line. In 2022 a team of Stewards in a rented office opens an account called @longweather_. Their text is drafted by a system trained on fifty years of Lodge briefings, and it has never been told not to say "I". It just never does. *Function:* tells the reader the secret one beat before Nell finds it.
@@ -200,9 +200,11 @@ Invented composites only; real leaders appear only as unnamed background. See [p
 
 ## Length
 
-- **Target ~40,000 words**, the upper limit of the novella category used by the major SF awards. That's about 1,300 words per chapter on average.
-- Interludes run short (800–1,000). Key chapters run long: chapter 1 (~2,900, drafted), the Wall (~4,500), chapters 26 and 30 (~2,000 each).
-- **If the book wants to be longer,** it becomes a short novel (60–70k) by expanding Act Two, not by adding plot.
+- **Target: a full-length novel of 70,000–80,000 words** (Martin's ruling, 26 Oct 2026). That's about 2,300–2,700 words per chapter.
+- **Act budgets:** Act One ~22,000–24,000 · Act Two ~26,000–30,000 · Act Three ~22,000–26,000.
+- **Interludes** ~1,400–2,000 words. **Key chapters** (1, the Wall, 26, 30) ~3,000–5,000.
+- **Grow by expanding Act Two, not by adding plot.**
+- Chapters 1–5 already fit this pace; none needs changing for length alone.
 
 ## Rules check
 

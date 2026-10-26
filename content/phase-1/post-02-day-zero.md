@@ -84,7 +84,7 @@ Nobody vanished. Nobody died. A man lost his good shifts for asking a question. 
 
 ## The sensible voice
 
-I have a friend I'll call D. He was a union rep for twenty years, until there was no union left to represent, and now he delivers parcels for an app that rates him out of five. D. read Post #1 standing up in my kitchen and said, quote, *"It's a tax dodge, Nell."*
+I have a friend I'll call D. He was a union rep for twenty years, until there was no union left to represent, and now he delivers parcels for an app that rates him out of five. D. left a comment under Post #1, which some of you saw before I could do anything about it: *"It's a tax dodge, Nell."*
 
 (Hello. Now you know my first name. Thank you, D.)
 

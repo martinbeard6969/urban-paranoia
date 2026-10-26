@@ -1,5 +1,5 @@
 ---
-status: draft v1
+status: draft v1.1 (this file is the master; `outputs/arg-pilot-plan.pdf` is a dated snapshot of 25 Oct 2026 and may lag behind it)
 scope: 8-week ARG pilot (Phase 1 and early Phase 2), solo, low budget, UK-based
 assumptions: ~8–10 hours a week; book not finished, so the pilot builds a waiting list, not sales; results feed a publisher or agent pitch at week 8
 ---
@@ -51,11 +51,11 @@ ARG uptake varies enormously. These are **working targets for a solo pilot**, no
 | Community | A Discord server, with a clear "this is a fiction game" pinned post | Free |
 | Audio (HG-68) | Free audio editor; your own voice plus a friend; a generated sine-wave chime; 12×12 spectrogram art | ~£0 |
 | Props | Printed on old-style paper, aged by hand, scanned at high resolution | ~£20–40 (estimate) |
-| "What's your Day?" calculator | One static page with a share-card image | Free |
+| "What's your Day?" calculator | One static page with a share-card image. **Calculates in the browser only; stores and sends nothing.** The share card shows the Day number, never the birth date. | Free |
 
 **Must be done before W0** (from the [pre-launch checklist](../campaign/prelaunch-checklist.md))
 - [ ] Name checks on Coyle Brothers Haulage, Harrowgate House, Harlow-Vane, the Ashby Trust and Larkspire.
-- [ ] `/about` page on every site and a footer link on every page (rule 7).
+- [ ] `/about` page on every site and a footer link on every page (rule 7), each with an **out-of-world "Get the book first" sign-up from week 0**.
 - [ ] Domain registered in the publisher's or your own real name, not a fake person.
 - [ ] Comment moderation **on, with comments held for approval** before Post #1.
 - [ ] P3 test: the letter scan colour-picks to exactly `#6B6E70` in three tools.
@@ -77,7 +77,7 @@ ARG uptake varies enormously. These are **working targets for a solo pilot**, no
 | **W5** | Dead Drop 01 and the Harlow-Vane site go live | HG-68 audio released. Card 0144 counter starts climbing. | 10 |
 | **W6** | Weather report #1 | News-desk re-check of Stanford and Pew figures on the day. | 8 |
 | **W7** | Post #4 (Vesper on Drop 01; the counter) | First "player theories" round-up in Discord. | 8 |
-| **W8** | Post #5 (Crane's first email) | Pilot ends on a cliffhanger. Waiting-list push: "the story continues in the book". **Assemble the pitch pack** (§7). | 12 |
+| **W8** | Post #5 (Crane's first email) | Pilot ends on a cliffhanger. Waiting-list push: "the story continues in the book". **Send a short out-of-world buying-intent survey** to the waiting list (would you buy the novel, the audio drama, a print edition?). **Assemble the pitch pack** (§7). | 12 |
 
 **Total:** ~80 hours over 8 weeks, plus setup (estimate).
 
@@ -126,14 +126,15 @@ ARG communities generally welcome new games **when the creator says up front tha
 - the best player theories, with screenshots, **with permission and no usernames**
 - clips that performed well
 - any incidents and how they were handled
+- at week 8, the **buying-intent survey** results (response rate and % who say they'd buy)
 
 **The week-8 pitch pack**
 1. One-page overview of the book (already drafted) and the [synopsis](../book/synopsis.md).
-2. [Chapter 1](../book/chapters/01-day-zero.md), polished.
+2. **Chapters 1–3**, polished ([1](../book/chapters/01-day-zero.md), [2](../book/chapters/02-contribution-to-the-transition.md), [3](../book/chapters/03-reconciliation.md)). This is a typical UK agent submission; check each agent's guidelines.
 3. **The pilot in numbers:** the §1 table with real results.
 4. **Player evidence:** 3–5 theories or fan pieces showing the world works.
 5. **The transmedia plan:** ARG phases, audio, comics anthology, film.
-6. **The safety design**, briefly: publishers will ask how a "is this real?" campaign avoids misinformation. The hard rules are a selling point.
+6. **The safety design**, briefly: publishers will ask how an "is this real?" campaign avoids misinformation. The hard rules are a selling point.
 
 Send to agents first; they open doors to publishers and to audio and screen rights.
 

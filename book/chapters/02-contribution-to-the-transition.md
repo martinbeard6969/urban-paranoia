@@ -27,6 +27,8 @@ I remember thinking, with a kind of professional admiration I've never quite for
 
 "Nobody's losing their job today," the man from head office said, and nine people heard the last word.
 
+It was the archive that did it, in the end. But I'll come to the archive.
+
 ---
 
 It took eleven months. They were decent about it, which I'm told is rare. Nobody was walked out of the building with a cardboard box. Instead the team got smaller the way a room gets darker at the end of a summer evening: so gradually that you only notice when you try to read.
@@ -37,7 +39,7 @@ By Christmas there were two of us and a contractor in a time zone I had to keep 
 
 I was kept on to *support the transition*. That meant I sat beside the routing system for eight hours a day and told it when it was wrong. It was hardly ever wrong. When it was, it was wrong in ways I'd have been wrong too, and it learned from me faster than I'd ever learned from anyone. I was training my own replacement, and my replacement was a very good student.
 
-The system ran on something called Nimfold, which I'd seen on the news, licensed through a cloud I'd also seen on the news. The contractor talked about both the way people talk about the weather in a country where the weather never changes. *Nimfold's pushing an update tonight. The cloud's a bit slow in the mornings.* It was everywhere and nowhere, and it had my job.
+The system ran on something called Nimfold, which I'd seen on the news, licensed through a cloud I'd also seen on the news. The contractor talked about both the way people talk about plumbing: something you only think about when it fails. *Nimfold's pushing an update tonight. The cloud's a bit slow in the mornings.* It was everywhere and nowhere, and it had my job.
 
 I don't want to make it sound worse than it was. I was paid. I was thanked. Every Friday someone from human resources sent me an email asking how I was *feeling about the journey*, and every Friday I wrote back *fine*. It was true in the way that weather reports are true.
 
@@ -51,7 +53,7 @@ Pete retired in 2016 and died the year after Dad. I went to the funeral and didn
 
 The system doesn't circle anything. It doesn't ask *why?* It doesn't wait. I never once saw it wonder.
 
-On my last day at the desk, a Thursday in March, it routed a refrigerated lorry from the container port through a town I knew was holding a market that morning. It wasn't in any data. It was the kind of thing you knew because a driver had once been stuck behind a cheese stall for forty minutes and had told you about it in some detail, twice. I watched the little amber dot head for the market, and I reached for the override, and then I stopped.
+One Thursday in March, it routed a refrigerated lorry from the container port through a town I knew was holding a market that morning. It wasn't in any data. It was the kind of thing you knew because a driver had once been stuck behind a cheese stall for forty minutes and had told you about it in some detail, twice. I watched the little amber dot head for the market, and I reached for the override, and then I stopped.
 
 I sat there with my hand on the mouse and thought: *why?*
 
@@ -99,7 +101,7 @@ Halfway down there was a single manifest. A standard Coyle's form of the period,
 
 My hands knew before I did. That's the only way I can describe it. My hands stopped.
 
-There was no weight. Every Coyle's manifest has a weight, because weight is what we bill by, and this one had a neat pencil line through the box, like a question someone had been told not to ask. There was no charge, no rate and no invoice number, on a firm that has never moved a paperclip for free. Where the date should have been, someone had written **D. 3062**. I thought it was a docket number until I checked the dockets, and it wasn't.
+There was no weight. Every Coyle's manifest has a weight, because weight is what we bill by, and this one had a neat pencil line through the box, like a question someone had been told not to ask. There was no charge, no rate and no invoice number, from a firm that has never moved a paperclip for free. Where the date should have been, someone had written **D. 3062**. I thought it was a docket number until I checked the dockets, and it wasn't.
 
 And across the bottom, in purple from a rubber stamp, slightly crooked, as if pressed by someone who had done it many times and stopped looking:
 
@@ -125,7 +127,7 @@ Danny Kessler was a union rep for twenty years, until there was no union left to
 
 "You haven't seen it."
 
-"I don't need to see it. Rich people moving things off the books. I've seen a thousand of them. They used to make me sign half of them." A pause, and the sound of a kettle. "Why are you whispering?"
+"I don't need to see it. Rich people moving things off the books. I've seen a thousand of them. I used to sit across the table from the men who signed them." A pause, and the sound of a kettle. "Why are you whispering?"
 
 I hadn't known I was. I didn't have an answer, so I told him I'd send him a photo, and he said he'd look in the morning, and then he said, the way he always does at the end of a call, as if it were part of the goodbye: "Don't let it get in your head, Nell."
 

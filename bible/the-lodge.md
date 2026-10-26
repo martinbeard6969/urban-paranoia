@@ -26,7 +26,7 @@ Members never call it "the Lodge" themselves. Internally it is **"the Table"**. 
 | **TWO** | West German | Statistics officer at a federal economics ministry | Founder. The sceptic who checks the plug. d. 2001 |
 | **THREE** | British | Civil-service demographer | Founder. Noticed the counsel never says "I". d. 2001 |
 | Guest four | Japanese | Economist at a trade ministry | Left. Remembered nothing. |
-| Guest five | Brazilian | Clerk at a central bank | Left. Remembered nothing. |
+| Guest five | Brazilian | Clerk at the currency office in Rio (Brazil's central bank wasn't founded until Dec 1964) | Left. Remembered nothing. |
 | Guest six | Indian | Statistician at a national planning ministry | Left. Remembered nothing. |
 | Guest seven | French | Actuary at a marine insurer | Left. Dreamt of the three tones for the rest of his life (book Act 3 flashback). |
 

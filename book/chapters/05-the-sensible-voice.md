@@ -15,6 +15,8 @@ status: draft v2 — rewritten with the neighbourhood's pressures woven througho
 
 Danny read both posts standing up, in my kitchen, in his delivery jacket, with his phone buzzing in his pocket every forty seconds to tell him he was late.
 
+He'd texted *tax dodge x* the morning after I first rang him about the manifest, three weeks before, and as far as I knew he hadn't read a word since. This was the first time.
+
 He reads the way he used to read management proposals at union meetings: once fast, to get the shape of it, and once slowly, looking for the clause that would hurt someone. I watched his face go from amused, to interested, to the particular stillness he gets when he's found the clause.
 
 Then he put my laptop down on the counter, very carefully, as though it might go off.
@@ -73,7 +75,7 @@ He looked at the screen. He had the grace to look ashamed for nearly two seconds
 
 On Saturday he walked me to the Mission Hall. It's at the end of my road, and I'd lived there six years without once going in. You stop seeing the buildings you pass every day. That morning, walking beside Danny, I started seeing them again.
 
-The parade of shops by the bus stop had three shutters down that had been up a year ago. In one of the windows that was still lit, a payday lender had put up a poster of a smiling family and the words *Here when you need us*, which I thought was probably true. Outside the corner shop there was a queue of five people, and I didn't understand it until I saw what they were holding: the plastic keys you top up for a prepayment meter. A woman at the front was counting coins into her palm and then counting them again, as if they might have changed.
+The parade of shops by the bus stop had three shutters down that had been up a year ago, and the two brightest windows left were a payday lender's and a job club's, side by side, both promising to help. Outside the corner shop there was a queue of five people, and I didn't understand it until I saw what they were holding: the plastic keys you top up for a prepayment meter. A woman at the front was counting coins into her palm and then counting them again, as if they might have changed.
 
 "Gas went up again," Danny said. "They're doing it in fivers now. Little and often. Like feeding a meter in a car park, except it's your kids' heating."
 
@@ -89,7 +91,7 @@ I didn't say anything. There wasn't anything that wasn't stupid. I looked at the
 
 The Mission Hall is a long, low brick building from the nineteen-twenties, with a cross on the gable and a noticeboard out front that's mostly lost cats. Inside, on Saturday mornings, it's a food bank, and, as far as I could tell, the only room in the neighbourhood where everyone ends up eventually.
 
-The noticeboard just inside the door told you everything the neighbourhood didn't say out loud. Debt advice on Tuesdays. A job club on Wednesdays: *bring your CV or we'll help you write one.* A leaflet about energy bills with a cartoon radiator on it. A notice, in four languages, about how to report a hate crime. And beneath it, on a handwritten card, *Window repairs, cheap, ask for Marek*, which I read twice before I understood that someone had put it there on purpose.
+The noticeboard just inside the door told you everything the neighbourhood didn't say out loud. I took in only two things: a notice, in four languages, about how to report a hate crime, and beneath it, on a handwritten card, *Window repairs, cheap, ask for Marek*, which I read twice before I understood that someone had put it there on purpose.
 
 It was full. Old men who'd lived on the estate since it was built. Young mothers with pushchairs, some of whom didn't have much English yet. Students. A man in a good coat who had clearly lost a good job and was trying very hard to look as though he was only there to volunteer. None of them looked especially pleased to be in the same room. All of them were.
 
@@ -97,7 +99,7 @@ There was tea. The tea was bad. Under the window a radiator banged every few min
 
 Pastor Ama was at the urn. She was smaller than I'd expected, and older, with reading glasses on a cord and the particular calm of someone who has spent decades in rooms where people are about to shout. Danny introduced me as *the one I told you about*, which I didn't love, and she put a mug in my hand and said, "Tell me."
 
-So I told her: the box, the stamp, the logs, the date, the driver's note, the café. I'd never told it from beginning to end out loud. It sounded madder than it did on the page, and also, somehow, more real. And she did the thing almost nobody can do. She listened to the whole of it without interrupting once. No nodding to hurry me along. No small noises of someone about to speak. When I'd finished, the radiator banged, and I realised I'd been talking for twenty minutes.
+So I told her: the box, the stamp, the logs, the date, the driver's note, the café. I'd never told it from beginning to end out loud. It sounded madder out loud than on the page, and more real. And she did the thing almost nobody can do. She listened to the whole of it without interrupting once. No nodding to hurry me along. No small noises of someone about to speak. When I'd finished, the radiator banged, and I realised I'd been talking for twenty minutes.
 
 "Well," she said. "That's a lot to carry on your own."
 
@@ -159,6 +161,8 @@ His mum did two cleaning jobs, he said, mornings at an office and evenings at a 
 
 He went by Jordan online, he told me, when I glanced at his screen. Jordan Pryce. It had been a joke when he was sixteen and it had stuck. Everybody called him Jordan.
 
+What I'd glanced at was a message thread: long, patient paragraphs from someone whose name I didn't catch, the kind of writing that sounds like listening, and agrees with everything you'd already decided while you were too tired to argue. Jack saw me looking and locked the phone, not quickly, the way you'd close a door on a room you weren't ashamed of yet.
+
 "Except me," said Danny.
 
 "Except Danny. When he's cross with me."
@@ -175,6 +179,8 @@ They came from an account with no picture, called **@longweather_**, and they we
 
 I'm not going to repeat what they said. I deleted them. They kept coming, and I kept deleting them, and somewhere around the fifth I realised my hands were cold.
 
+The last one used my name. Not Vesper: *Nell*. Danny had given it away five days earlier, and this was the first thing to pick it up.
+
 Two things bothered me more than what it said.
 
 The first was the name. I checked. The account had existed since 2022, years before my blog. Someone had chosen the words *long weather* long before I'd found them stamped in purple on a sheet of paper in a box.
@@ -185,13 +191,13 @@ I told myself it was a guess. I'm a reconciler. I know what a guess looks like. 
 
 ---
 
-Danny came round the next evening with chips, because he'd decided I wasn't eating, and he was right. I showed him screenshots: not the words, just enough to show him. When he reached the one about Tuesday he read it twice, and his face did the thing.
+Danny came round the next evening with chips, because he'd decided I wasn't eating, and he was right. It was Sunday, the seventeenth of May. A year ago today, the croissants. Neither of us said so. I showed him screenshots: not the words, just enough to show him. When he reached the one about Tuesday he read it twice, and his face did the thing.
 
 "Keep deleting them," he said. He put down his chips. "And listen. Whatever this is, if it's anything, if it isn't a tax dodge, which it is…" He waited for me to smile. I didn't. "Whatever this is, it'll be some bloke in a suit. It always is. Twenty years I sat across tables from them. It's always some bloke in a suit, and he's always very polite, and he never, ever pays the price for anything. Not for the rent, not for the jobs, not for that window." He pointed at my laptop. "Don't let anyone tell you it's the people down your street."
 
 He was looking past me as he said it, at the window. I turned.
 
-Across the road, outside the block opposite, a small white van was idling with its lights on. A letting agent's van, the kind that comes round to check meters and photograph damp. On the side was a logo: a simple shape, a bird in flight. Something about it snagged in me like a thread on a nail. I'd seen it somewhere. I couldn't think where.
+Across the road, outside the block opposite, a small white van was idling with its lights on. A letting agent's van, the kind that comes round to photograph damp and never fix it. On the side was a logo: a simple shape, a bird in flight. Something about it snagged in me like a thread on a nail. I'd seen it somewhere. I couldn't think where. The bird I half remembered had been a softer thing, rounder; this one was all hard angles, all wings. Half the logos in the world are birds.
 
 The van sat there with its engine running for as long as Danny stood at my window. When he left, it left.
 

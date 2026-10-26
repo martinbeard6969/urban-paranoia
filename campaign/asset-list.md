@@ -26,6 +26,7 @@ Every prop, page and piece of media needed for the content drafted so far. **Sta
 |---|---|---|---|
 | HG-68 | Drop 01 | 1:44, cue sheet in the drop file. Period teletype, two voice actors, G–E♭–G sine chime, 12×12 grid in the spectrogram at 1:01–1:20 | ☐ |
 | Three tones (promo) | Clips, trailers, launch | `outputs/three-tones.wav`: G, E-flat, G, 3 seconds in total (0.9 s each). The **short promotional** version. HG-68 itself uses the slower ~2-second tones from its cue sheet. | ☑ |
+| Three tones (contrast-bed promo) | Trailers, launch | `outputs/three-tones-contrast.wav`: 7.6 s. Hiss and a ticking clock (2 s), **true digital silence** under the tones, then hiss again. The contrast makes the tones feel "too clean". | ☑ |
 
 ## Graphics
 

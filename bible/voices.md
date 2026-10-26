@@ -27,6 +27,7 @@ How each in-world voice writes or speaks. Check a draft against its voice before
 ## The Archivist (Ruth Aldane): letters, drop pages
 
 - **Typography:** ALL CAPITALS. **Full stops only**: no commas, apostrophes, question marks or dashes. (So "FATHERS", not "FATHER'S".)
+- **One exception: names keep their hyphens** ("MS OKAFOR-REYES"). The Archivist changes her own punctuation, never other people's names.
 - **Register:** short declarative sentences. Kind but unbending. Has been alone with this for 38 years.
 - **Signature:** a hand-drawn chair with one line struck through it. Never a name.
 - **Habits:** tells people what to do next ("NOW COUNT FORWARDS."), and always warns against blaming the people near you.

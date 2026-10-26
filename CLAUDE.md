@@ -96,6 +96,18 @@ These rules keep the campaign effective, legally safe and ethically sound. Apply
 
 ---
 
+## Working with the creative critic (`writers-fixes/`)
+
+A **sister agent** in `/Users/martinbeard/Documents/Claude/up-creative-critic` reviews this project. It is read-only on UP and never edits these files. Martin reviews its assessment and decides which fixes he wants. Those fixes arrive here as files in **`writers-fixes/`** (e.g. `fixes-v1.0.md`).
+
+**How to handle a fixes file:**
+1. **Check the log first.** Read `writers-fixes/applied-log.md`. Never re-apply a file or item already logged as applied or declined.
+2. **Review each fix critically.** Check it against the hard rules, the canon (`/bible/`, the outline, the resolution map, canon decisions), continuity, voice, and the chapter's word count. Don't apply a fix just because it's listed.
+3. **If you agree with every fix in the file, apply them without asking.** This is an exception to working rule 2: no separate plan or approval is needed. Rebuild any affected PDFs, update the bible, timeline and outline as usual, and commit.
+4. **If you have concerns about any fix,** raise them with Martin **before applying anything from that file**, each with the fix, the concern, and an alternative where you have one. Martin makes the final decision. Then apply what he approves.
+5. **Log the outcome.** Add an entry to `writers-fixes/applied-log.md` for every file: the date, the fixes file, each item's outcome (**applied**, **applied with changes**, or **declined by Martin**), the commit hash, and any notes. Also add a status line to the top of the fixes file: `**Status: applied YYYY-MM-DD, commit <hash>. See applied-log.md.**`
+6. **Commit the fixes file and the log** with the changes they produced, so the record travels with the work.
+
 ## Repository layout (to build out)
 
 ```
@@ -107,6 +119,8 @@ These rules keep the campaign effective, legally safe and ethically sound. Apply
 /comics/         comic scripts and panel breakdowns
 /marketing/      out-of-world copy, press kit, pitch decks
 /news-desk/      weekly news digests (see campaign/news-desk.md)
+/writers-fixes/  fixes approved by Martin from the creative critic, plus applied-log.md
+/tools/          build_chapter.py (chapter PDFs)
 ```
 
 ## Working conventions

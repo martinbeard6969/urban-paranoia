@@ -14,9 +14,9 @@ status: draft v1
 
 **THE DEMOGRAPHER · DAY 3,061 · HARROWGATE, 2 MARCH 1971**
 
-Harrowgate, the second of March, 1971. The fog was the same. Everything else had changed.
+The fog was the same. Everything else had changed.
 
-The cars on the drive were better now. That was the first thing she noticed every time, and every time she was ashamed of noticing it. The American had a long dark saloon with a driver who waited in it all night with the engine off and the radio low. The German still drove himself, in something sensible and German. She had come by train and taxi, as she always did, because a demographer who arrives in a chauffeured car is a demographer people start to ask questions about. But her coat was cashmere, and her shoes had been made for her feet, and when she paid the taxi she didn't look at the meter.
+The cars on the drive were better now. That was the first thing she noticed every time, and every time she was ashamed of noticing it. The American had a long dark saloon with a driver who waited in it all night with the engine off and the radio low. The German still drove himself, in a grey saloon he had bought with his first dividend and kept as carefully as his ledgers. It had one dent, which he had measured. She had come by train and taxi, because a demographer who arrives in a chauffeured car is a demographer people start to ask questions about. But her coat was cashmere, and her shoes had been made for her feet, and when she paid the taxi she didn't look at the meter.
 
 Eight and a half years. The field had been frightened, and it had not burned. After that the counsel had told them other things, quietly, one or two a year: which way a currency would lean, which port would grow, how goods would one day travel in steel boxes stacked like bricks, and how anyone who owned a share of the boxes, early, would never need to work for anyone again. They had been careful. They had bought small, through a trust with a dull name, the way a cautious man buys a lottery ticket. And every time, it had come true.
 
@@ -78,7 +78,7 @@ That same night, across the water, in a narrow house above the harbour at Le Hav
 
 He was forty-four. He had a wife who slept like a stone and a son at university who wrote twice a term, and a dream he had had perhaps a thousand times in eight and a half years and never once described to anyone, because he did not have the words. It was three notes. It was always three notes. It was nothing. A man does not leave his bed in the middle of the night over nothing.
 
-He went downstairs in his socks.
+He went downstairs in his socks. From the landing window he could see the harbour lights, and beyond them the new container berth, where the dock gangs had worked when he was a boy. Now a single crane did in an hour what forty men had done in a day, and the boxes stood on the quay stacked like bricks.
 
 The piano had been his mother's, and was out of tune in a way that he had come to think of as its personality. He lifted the lid. He sat. He had not played since he was a boy, and his fingers were stiff, and it took him a long time to find the notes in the dark. A high one. A lower one. The high one again.
 

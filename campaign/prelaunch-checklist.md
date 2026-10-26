@@ -45,7 +45,7 @@ status: live — nothing goes public until every box in sections A–D is ticked
 
 ## C. Fiction trail (rule 7)
 
-- [ ] `/about` page on **every** campaign site, naming the novel, author, publisher and pre-order link.
+- [ ] `/about` page on **every** campaign site, naming the novel, author, publisher and pre-order link, with an out-of-world **"Get the book first" sign-up** live from week 0.
 - [ ] Footer link to `/about` on every page, reachable in two clicks or fewer.
 - [ ] Social bios link to `/about` (or say "a story by…") as each platform's rules require.
 - [ ] Any in-world inbox (e.g. Crane's `archive@`) has an auto-reply signature linking to `/about`.
@@ -58,7 +58,9 @@ status: live — nothing goes public until every box in sections A–D is ticked
 - [ ] Withheld-card responses on the Harlow-Vane site work for 0001–0003, 0007, 0212, 1301.
 - [ ] The card view counter is anonymous: no IP logging or cookies beyond what's needed.
 - [ ] Hidden HTML comments survive the site builder (some builders strip comments).
+- [ ] **Sound-mark check (rule 3):** confirm G–E♭–G doesn't closely match a known broadcaster's, transport operator's or device's sound. *First check, 26 Oct 2026:* no registered or well-known G–E♭–G mark found. The nearest famous mark, the NBC chimes, is **G–E–C**, a different sequence. A fuller clearance check is still needed before launch.
 - [ ] All pages work at phone width and with reduced motion.
+- [ ] "What's your Day?" calculates in the browser only and stores or sends nothing; share cards show the Day number, never the birth date.
 - [ ] Every asset in the [asset list](asset-list.md) is marked done.
 
 ## E. Safety and moderation

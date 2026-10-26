@@ -29,13 +29,13 @@ I was annoyed. I want that on the record. It's the most honest thing in this cha
 
 ---
 
-I had nine days of notice left, and a keycard that still worked.
+I had six days of notice left, and a keycard that still worked.
 
 The archive unit was exactly as I'd left it: the boxes, the crate I used as a chair, the fluorescent strip that took a moment to make up its mind. The keycard beeped when I went in. I said *hello* to it, which tells you something about how the year had gone.
 
 If D. 3062 was a day, it was a day in 1971, and somewhere in the unit there'd be a record of it that nobody had bothered to fake. Manifests could be doctored. Vehicle logs were a different animal. Every lorry, every day: driver, mileage out, mileage in, a one-line job reference, written by men who were tired and wanted to go home. It's the sort of paperwork that only lies about small things.
 
-The 1971 logs were three shelves below the box I'd found the manifest in. I took them down, all twelve months of them, in ledgers with marbled covers gone soft as felt. I brought a flask. I did the first quarter line by line, over two evenings, until the letters swam and my back informed me in no uncertain terms that I was thirty-eight.
+The 1971 logs were three shelves below the box I'd found the manifest in. I took them down, all twelve months of them, in ledgers with marbled covers gone soft as felt. I brought a flask. I did the first quarter line by line, over two evenings, until the letters swam and my back reminded me I was thirty-eight.
 
 On **Wednesday the third of March, 1971**, a driver had logged a round trip with no job reference.
 
@@ -49,7 +49,7 @@ I sat back on my crate. Harrowgate House. Per instruction. A trip that was writt
 
 ---
 
-So: if the third of March 1971 was day 3,062, then day one was 3,062 days before it.
+So: if the third of March 1971 was day 3,062, then day nought was 3,062 days before it.
 
 I did the sum by hand first, in pencil on the back of an invoice, the way Pete taught me: years, then leap years, then the months, then the remainder, checking each line before I trusted the next. Then I did it again in a spreadsheet on my phone. Then, because I no longer trusted anything I could only check twice, I did it by hand again.
 
@@ -57,7 +57,7 @@ I did the sum by hand first, in pencil on the back of an invoice, the way Pete t
 
 I knew that date. Everyone of a certain age knows that autumn, and everyone younger has seen the documentaries: the week the whole world sat very still in front of its radios and waited to find out whether there would be a next week. I'm not going to write about it. I didn't then, either. I just sat in a storage unit by a railway line with a pencil in my hand, and felt something very old and very cold go down the back of my neck.
 
-Somebody had started counting the day the world held its breath. And somebody had still been counting, carefully, eight and a half years later.
+Somebody had started counting a week before the world held its breath. And somebody had still been counting, carefully, eight and a half years later.
 
 ---
 
@@ -138,6 +138,8 @@ I asked what he'd carried.
 I asked about the man who'd written the 1962 note. I showed him the handwriting.
 
 He knew it. Of course he did. "Old Tommy," he said. "Before my time, that run. First one, they reckoned. Never talked about it. Not for years. Then when he got old he never talked about anything else. Used to go on about seven cars and a man with no face. We thought he'd gone soft." He was quiet for a moment. "Died, what, ten years since. I didn't go to the funeral. Should have."
+
+I didn't say anything. But I heard it. A man with no face at the door in 1962, and a cash man whose face didn't stick in the eighties: two drivers, twenty years apart, describing the same man. Or the same kind of man, which I found I liked even less.
 
 And then I asked him why he'd gone quiet on the phone.
 

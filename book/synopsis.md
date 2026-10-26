@@ -1,5 +1,5 @@
 ---
-medium: novel (novella-length first book)
+medium: novel
 status: synopsis v3 — the lease, deep time and the rent-strike ending
 canon-refs: [bible/the-lodge, bible/the-tenants, bible/deep-time, bible/the-ladder, bible/characters, bible/modern-pressures, bible/canon-decisions, bible/locations-and-organisations, book/outline]
 ---

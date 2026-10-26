@@ -18,7 +18,7 @@ A fictional transmedia property (novel, audio drama, and later film and comics),
 | [news-desk/](news-desk/) | Weekly news digests ([first digest, 25 Oct 2026](news-desk/digest-2026-10-25.md)). See the [news desk process](campaign/news-desk.md). |
 | [book/](book/) | [Synopsis](book/synopsis.md) · [Chapter outline](book/outline.md) · [Resolution map](book/resolution-map.md) · [Chapter 1: "Day Zero"](book/chapters/01-day-zero.md) · [Chapter 2](book/chapters/02-contribution-to-the-transition.md) · [Chapter 3](book/chapters/03-reconciliation.md) · [Chapter 4](book/chapters/04-not-far-only-elsewhere.md) · [Chapter 5](book/chapters/05-the-sensible-voice.md) · [Act 2 midpoint: "The Wall"](book/act-2/scene-the-wall.md) (outline) |
 | [marketing/](marketing/) | [ARG launch playbook: 8-week pilot](marketing/arg-launch-playbook.md) |
-| [outputs/](outputs/) | Shareable PDFs (pilot plan, chapters 1–5) and the three-tones audio |
+| [outputs/](outputs/) | Shareable PDFs (pilot plan snapshot, chapters 1–5) and the three-tones audio (clean and contrast-bed promos) |
 | `audio/`, `comics/` | Not started |
 
 ## Status (as of 25 Oct 2026)
@@ -31,7 +31,7 @@ A fictional transmedia property (novel, audio drama, and later film and comics),
 
 ## Conventions
 
-- **Chapter PDFs:** `python3 tools/build_chapter.py book/chapters/<file>.md` writes `outputs/chapter-<file>.pdf` (needs `reportlab`; version 4.0.9 works on Python 3.9). Chapters open with a narrator label (see the [outline](book/outline.md)).
+- **Chapter PDFs:** `python3 tools/build_chapter.py book/chapters/<file>.md` writes `outputs/chapter-<file>.pdf` (needs `reportlab`, version 4.0.9 on Python 3.9, and `pyphen` for hyphenation). Chapters open with a narrator label (see the [outline](book/outline.md)).
 - Every content file has `phase:`, `channel:` and `canon-refs:` frontmatter, plus a **PRODUCTION NOTES** section at the end that is never published.
 - New canon goes into `bible/` in the same change that introduces it.
 - Lodge dates are counted in days from **14 Oct 1962 (Day 0)**. Check any new day-count with:

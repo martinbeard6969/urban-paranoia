@@ -49,7 +49,7 @@ status: draft v2 — rewritten to the award-quality standard
 > HARROWGATE. DAY 41.
 > PRESENT: ONE, TWO, THREE.
 >
-> The apparatus commenced at 02.10 and ran until 02.55. Paper consumed: approx. 6 ft. As on previous occasions, the machine was not connected to any line. TWO examined the plug himself and asks that this be minuted.
+> The apparatus commenced at 02.10 and ran until 02.55. Paper consumed: approx. 6 ft. As on previous occasions, the machine was not connected to the mains. TWO examined the plug himself and asks that this be minuted.
 >
 > Counsel received (verbatim; spacing as printed):
 >
@@ -104,6 +104,28 @@ status: draft v2 — rewritten to the award-quality standard
 **Caption beneath the player:**
 
 > REEL TO REEL. HARROWGATE. 1968. TRANSFERRED BADLY. I AM SORRY ABOUT THE HISS. THE HISS IS THE ONLY PART THAT IS NOT FRIGHTENING.
+
+**Transcript beneath the player (in-world, for players who can't hear the recording):**
+
+> TRANSCRIPT. TYPED BY ME. I HAVE WRITTEN WHAT IS THERE AND NOTHING ELSE.
+>
+> HISS. A CLOCK. A CHAIR MOVES. SOMEONE IS TOLD TO KEEP STILL.
+>
+> A TELETYPE STARTS. IT IS LOUD.
+>
+> A WOMAN READS AS IT TYPES. THE LONG WEATHER. DOES NOT. HURRY. THE REST IS LOST UNDER THE MACHINE.
+>
+> THE TELETYPE STOPS IN THE MIDDLE OF A LINE.
+>
+> THREE NOTES. HIGH. LOW. HIGH. THEY ARE CLEANER THAN ANYTHING ELSE ON THE TAPE.
+>
+> HISS. A MAN CLOSE TO THE MICROPHONE. NOTE THE TIME. NOTE THAT IT WAS NOT PLUGGED IN.
+>
+> A CHAIR. FOOTSTEPS. A DOOR NOBODY CLOSES.
+>
+> THE HISS STOPS.
+
+*(The transcript omits the 12×12 spectrogram grid, which remains a hidden puzzle. It uses the Archivist's typography: capitals, full stops only.)*
 
 **Audio content (production script):**
 

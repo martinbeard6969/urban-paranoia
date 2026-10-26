@@ -3,7 +3,8 @@
 Usage:
     python3 tools/build_chapter.py book/chapters/05-the-sensible-voice.md
 
-Writes outputs/<same-name>.pdf. Needs reportlab (4.0.9 works on Python 3.9).
+Writes outputs/<same-name>.pdf. Needs reportlab (4.0.9 works on Python 3.9) and pyphen
+(British English hyphenation, so justified lines don't go loose; without pyphen it still builds, unhyphenated).
 
 Chapter file conventions:
 - Title line:      # Five: The Sensible Voice
@@ -37,7 +38,13 @@ NUMWORD, TITLE = m.group(1), m.group(2).strip()
 end = text.index("---\n\n---\n\n## AUTHOR")
 body = text[m.end():end].strip()
 
-base = dict(fontName="Times-Roman", fontSize=10.5, leading=14.5, alignment=TA_JUSTIFY)
+try:
+    import pyphen  # noqa: F401
+    HYPH = dict(hyphenationLang="en_GB", embeddedHyphenation=1, uriWasteReduce=0.3)
+except ImportError:
+    HYPH = {}
+
+base = dict(fontName="Times-Roman", fontSize=10.5, leading=14.5, alignment=TA_JUSTIFY, **HYPH)
 para = ParagraphStyle("p", firstLineIndent=5 * mm, **base)
 para_first = ParagraphStyle("p0", firstLineIndent=0, **base)
 counsel = ParagraphStyle("c", fontName="Courier", fontSize=9.5, leading=13, alignment=TA_CENTER, spaceBefore=6, spaceAfter=6)
