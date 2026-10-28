@@ -1,7 +1,7 @@
 # Chapter 3: Reconciliation
 
 *Urban Paranoia source pack for NotebookLM. Private: contains the full canon and ending.*
-*Assembled from: `book/chapters/03-reconciliation.md`. Built 2026-10-28, commit 92c8132.*
+*Assembled from: `book/chapters/03-reconciliation.md`. Built 2026-10-28, commit 1b0bcf5.*
 
 
 ## Editor's summary
@@ -81,7 +81,7 @@ I did the sum by hand first, in pencil on the back of an invoice, the way Pete t
 
 I knew that date. Anyone old enough remembers that autumn, and everyone younger has seen the documentaries: the week the whole world sat very still in front of its radios and waited to find out whether there would be a next week. I'm not going to write about it. I didn't then, either. I just sat in a storage unit by a railway line with a pencil in my hand, and felt something very old and very cold go down the back of my neck.
 
-Somebody had started counting a week before the world held its breath. And somebody had still been counting, carefully, eight and a half years later.
+Somebody had started counting a week before the world held its breath. And somebody had still been counting, carefully, eight years and four months later.
 
 ---
 

@@ -1,7 +1,7 @@
 # Chapter 5: The Sensible Voice
 
 *Urban Paranoia source pack for NotebookLM. Private: contains the full canon and ending.*
-*Assembled from: `book/chapters/05-the-sensible-voice.md`. Built 2026-10-28, commit 92c8132.*
+*Assembled from: `book/chapters/05-the-sensible-voice.md`. Built 2026-10-28, commit 1b0bcf5.*
 
 
 ## Editor's summary
@@ -98,6 +98,8 @@ He looked at the screen. He had the grace to look ashamed for nearly two seconds
 
 ---
 
+**SATURDAY 16 MAY**
+
 On Saturday he walked me to the Mission Hall. It's at the end of my road, and I'd lived there six years without once going in. You stop seeing the buildings you pass every day. That morning, walking beside Danny, I started seeing them again.
 
 The parade of shops by the bus stop had three shutters down that had been up a year ago, and the two brightest windows left were a payday lender's and a job club's, side by side, both promising to help. Outside the corner shop there was a queue of five people, and I didn't understand it until I saw what they were holding: the plastic keys you top up for a prepayment meter. A woman at the front was counting coins into her palm and then counting them again, as if they might have changed.
@@ -180,7 +182,7 @@ He almost smiled. "Same machine."
 
 "Same machine."
 
-His mum did two cleaning jobs, he said, mornings at an office and evenings at a hotel, and in between she worried. Their flat was on the Wharf Road estate. The council had sent a letter about a regeneration scheme in partnership with a private developer, and a list of blocks to be demolished in phase one, and theirs was on it. Nobody could tell them where they'd go, or when, or whether they'd ever afford to come back.
+His mum did two cleaning jobs, he said, and in between she worried. Their block on the Wharf Road estate was on the council's list for demolition, for a regeneration scheme with a private developer, and nobody could tell them where they'd go, or whether they'd ever afford to come back.
 
 "*Consultation*," Jack said, and put the word in quotation marks with his voice. "They're consulting us. Means they've decided."
 
@@ -193,6 +195,8 @@ He went by Jordan online, he told me, when I glanced at his screen. Jordan Pryce
 "Which is always."
 
 "Which is always."
+
+He stayed Jack to me.
 
 What I'd glanced at was a message thread: long, patient paragraphs from someone whose name I didn't catch, the kind of writing that sounds like listening, and agrees with everything you'd already decided while you were too tired to argue. Jack saw me looking and locked the phone, not quickly, the way you'd close a door on a room you weren't ashamed of yet.
 

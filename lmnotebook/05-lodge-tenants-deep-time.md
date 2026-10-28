@@ -1,7 +1,7 @@
 # The Lodge, the Tenants and deep time
 
 *Urban Paranoia source pack for NotebookLM. Private: contains the full canon and ending.*
-*Assembled from: `bible/the-lodge.md`, `bible/the-tenants.md`, `bible/deep-time.md`, `bible/the-ladder.md`, `bible/canon-decisions.md`, `bible/artefacts-register.md`, `bible/open-questions.md`. Built 2026-10-28, commit 92c8132.*
+*Assembled from: `bible/the-lodge.md`, `bible/the-tenants.md`, `bible/deep-time.md`, `bible/the-ladder.md`, `bible/canon-decisions.md`, `bible/artefacts-register.md`, `bible/open-questions.md`. Built 2026-10-28, commit 1b0bcf5.*
 
 The secret canon. The canon decisions (D-numbers) settle questions the drafts must not contradict.
 
@@ -325,7 +325,7 @@ Answers to the canon questions raised while drafting Phase 1–2. Each entry giv
 | One | **Faith** | Founder One's seat (Founder One d. 1976) |
 | Two | **Assembly** (organised labour) | Founder Two's seat (d. 2001) |
 | Three | **Signal** (media and attention) | Founder Three's seat (d. 2001). She noticed the counsel never says "I". |
-| Four | **Ledger** (money and prices) | Current holder seated 1979; the active antagonist |
+| Four | **Ledger** (money and prices) | Current holder seated 1979, the chair's second holder (the first was one of the nine seated by 1971); the active antagonist |
 | Five | **Engine** (technology) | Oversaw the move from teletype to exchange to data centre |
 | Six | **Border** (manufacturing conflict *about* migration) | Decoy work only. Migrants are never part of the plan. |
 | Seven | **Hearth** (family, housing) | Marguerite Aldane's seat, empty since 1987 |

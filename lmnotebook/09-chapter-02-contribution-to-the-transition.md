@@ -1,7 +1,7 @@
 # Chapter 2: Contribution to the Transition
 
 *Urban Paranoia source pack for NotebookLM. Private: contains the full canon and ending.*
-*Assembled from: `book/chapters/02-contribution-to-the-transition.md`. Built 2026-10-28, commit 92c8132.*
+*Assembled from: `book/chapters/02-contribution-to-the-transition.md`. Built 2026-10-28, commit 1b0bcf5.*
 
 
 ## Editor's summary
@@ -102,6 +102,8 @@ It said there would be a final project before the end of my notice. The company'
 They wanted the person they were letting go to decide what to keep.
 
 ---
+
+**APRIL 2026**
 
 The archive was in a storage unit by the old rail yard, in a row of identical units with roller doors and fluorescent strips that took a moment to make up their minds. You let yourself in with a keycard. It beeped when you went in and beeped when you came out, which I noticed the first day and stopped noticing by the second. You stop hearing what a building says about you if it says it politely enough.
 

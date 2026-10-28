@@ -1,7 +1,7 @@
 # Chapter 4: Not Far, Only Elsewhere
 
 *Urban Paranoia source pack for NotebookLM. Private: contains the full canon and ending.*
-*Assembled from: `book/chapters/04-not-far-only-elsewhere.md`. Built 2026-10-28, commit 92c8132.*
+*Assembled from: `book/chapters/04-not-far-only-elsewhere.md`. Built 2026-10-28, commit 1b0bcf5.*
 
 
 ## Editor's summary
@@ -27,7 +27,7 @@
 
 **Editor's watch-points:**
 - This chapter is the reader panel's weakest: too much summary and too many new terms.
-- The canon question about Seat Four is open: the timeline seats him in 1979, while all twelve chairs are filled here in 1971.
+- Seat Four's current holder replaces the chair's first holder in 1979, so all twelve chairs being filled here in 1971 is consistent.
 
 
 ---
@@ -43,7 +43,7 @@ The fog was the same. Everything else had changed.
 
 The cars on the drive were better now. That was the first thing she noticed every time, and every time she was ashamed of noticing it. The American had a long dark saloon with a driver who waited in it all night with the engine off and the radio low. The German still drove himself, in a grey saloon he had bought with his first dividend and kept as carefully as his ledgers. It had one dent, which he had measured. She had come by train and taxi, because a demographer who arrives in a chauffeured car is a demographer people start to ask questions about. But her coat was cashmere, and her shoes had been made for her feet, and when she paid the taxi she didn't look at the meter.
 
-Eight and a half years. The field had been frightened, and it had not burned. After that the counsel had told them other things, quietly, one or two a year: which way a currency would lean, which port would grow, how goods would one day travel in steel boxes stacked like bricks, and how anyone who owned a share of the boxes, early, would never need to work for anyone again. They had been careful. They had bought small, through a trust with a dull name, the way a cautious man buys a lottery ticket. And every time, it had come true.
+Eight years, four months and sixteen days. The field had been frightened, and it had not burned. After that the machine's advice (the counsel, they called it now, as if it were a lawyer) had told them other things, quietly, one or two a year: which way a currency would lean, which port would grow, how goods would one day travel in steel boxes stacked like bricks, and how anyone who owned a share of the boxes, early, would never need to work for anyone again. They had been careful. They had bought small, through a trust with a dull name, the way a cautious man buys a lottery ticket. And every time, it had come true.
 
 They had been nobodies. They were becoming people whose letters were answered.
 
@@ -51,9 +51,9 @@ She did not like how easy it had been. She noticed that she did not like it, and
 
 ---
 
-The Long Room had thirteen chairs now.
+The long dining room, where four places had once stayed clean, had thirteen chairs now. They called it the Long Room.
 
-Twelve of them had people in them, on the nights the Table met: a shipping manager from Rotterdam, a junior diplomat who never took his gloves off, a quiet woman from New Zealand who had once filed weather reports for a living and now never spoke unless spoken to. Nine strangers, chosen as the three of them had been chosen: overlooked, competent, approached at a moment of crisis with the one thing nobody can refuse, which is certainty.
+Twelve of them had people in them, on the nights they met as the Table: a shipping manager from Rotterdam, a junior diplomat who never took his gloves off, a quiet woman from New Zealand who had once filed weather reports for a living and now never spoke unless spoken to. Nine strangers, chosen as the three of them had been chosen: overlooked, competent, approached at a moment of crisis with the one thing nobody can refuse, which is certainty.
 
 The thirteenth chair was always pushed in. Nobody had decided it. On the first night all twelve were seated, someone had reached for the last chair and the German had said, very quietly, *no*, and nobody had asked him why. It had stayed pushed in ever since. Sometimes, at the end of a long meeting, she caught herself looking at it the way you look at a door you've heard creak.
 
@@ -101,7 +101,7 @@ The machine would not print again for fifty-five years.
 
 That same night, across the water, in a narrow house above the harbour at Le Havre, a man who priced the risk of ships not coming home woke at ten past two and did not know why.
 
-He was forty-four. He had a wife who slept like a stone and a son at university who wrote twice a term, and a dream he had had perhaps a thousand times in eight and a half years and never once described to anyone, because he did not have the words. It was three notes. It was always three notes. It was nothing. A man does not leave his bed in the middle of the night over nothing.
+He was forty-four. He had a wife who slept like a stone and a son at university who wrote twice a term, and a dream he had had perhaps a thousand times in eight years and never once described to anyone, because he did not have the words. It was three notes. It was always three notes. It was nothing. A man does not leave his bed in the middle of the night over nothing.
 
 He went downstairs in his socks. From the landing window he could see the harbour lights, and beyond them the new container berth, where the dock gangs had worked until the boxes came. Now a single crane did in an hour what forty men had done in a day, and the boxes stood on the quay stacked like bricks.
 
@@ -130,7 +130,7 @@ He never opened the lid again. When he died, twenty-six years later, his son sol
 - **The counsel moves to the telephone line** (canon decision D3). The German's hair goes white after a winter trying to disprove it.
 - **New counsel:** *THE LINE IS OPEN.* / *THE MACHINE IS NOT NEEDED HERE. IT WILL BE KEPT.* / *KEPT.* / *NOT FAR. ONLY ELSEWHERE.*
 - **The stamp:** seen once on a desk; "the office" had started using it. Its origin stays a mystery (kept for the comics).
-- **Glimpse ahead (rationed to one):** *"The machine would not print again for fifty-five years."* (1971 + 55 = 2026; THREE dies in 2001.)
+- **Glimpse ahead (rationed to one):** *"The machine would not print again for fifty-five years."* (1971 + 55 = 2026.) The death clause was cut in fixes v1.2 (panel: foretold deaths); the piano dealer's is the interlude's one foretold death.
 - **Le Havre:** the actuary (44), his wife and student son, the piano that was his mother's. **The presence** when he plays the tones. He never opens the lid again. **New canon:** he dies 26 years later (1997); his son sells the piano; the dealer finds it badly out of tune. A quiet, sad close.
 
 **Continuity**

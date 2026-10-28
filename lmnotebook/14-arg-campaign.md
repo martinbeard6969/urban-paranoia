@@ -1,7 +1,7 @@
 # The ARG campaign: plan, puzzles and in-world content
 
 *Urban Paranoia source pack for NotebookLM. Private: contains the full canon and ending.*
-*Assembled from: `campaign/campaign-plan.md`, `campaign/puzzle-map.md`, `campaign/moderation-and-safety.md`, `content/phase-1/post-01-for-the-long-weather.md`, `content/phase-1/post-02-day-zero.md`, `content/phase-1/post-03-count-forwards.md`, `content/phase-2/dead-drop-01-6b6e70.md`, `content/phase-2/harlow-vane-site.md`, `content/phase-2/post-04-the-card-index.md`, `content/phase-2/post-05-i-am-old-and-slow.md`, `content/phase-2/weather-report-01-the-canaries.md`. Built 2026-10-28, commit 92c8132.*
+*Assembled from: `campaign/campaign-plan.md`, `campaign/puzzle-map.md`, `campaign/moderation-and-safety.md`, `content/phase-1/post-01-for-the-long-weather.md`, `content/phase-1/post-02-day-zero.md`, `content/phase-1/post-03-count-forwards.md`, `content/phase-2/dead-drop-01-6b6e70.md`, `content/phase-2/harlow-vane-site.md`, `content/phase-2/post-04-the-card-index.md`, `content/phase-2/post-05-i-am-old-and-slow.md`, `content/phase-2/weather-report-01-the-canaries.md`. Built 2026-10-28, commit 1b0bcf5.*
 
 In-world posts are written as if real; each has out-of-world production notes at the end. Every puzzle resolves to a campaign-owned page.
 
@@ -383,7 +383,7 @@ Beneath it, in the driver's hand:
 
 > *Delivered & installed. Gent at door said would be "needed from tomorrow." Odd sort of party — 7 cars on the drive, no staff.*
 
-I've read that line more times than my redundancy letter. *Needed from tomorrow.* Seven cars and nobody to park them. A teletype carried into that house on a Saturday, the day before the counting started. Eight and a half years later, perhaps the same machine came back out, unweighed, unbilled and stamped.
+I've read that line more times than my redundancy letter. *Needed from tomorrow.* Seven cars and nobody to park them. A teletype carried into that house on a Saturday, the day before the counting started. Eight years and four months later, perhaps the same machine came back out, unweighed, unbilled and stamped.
 
 As far as I can tell, "Harlow-Vane Inst." is the **Harlow-Vane Institute for Systems Studies**, which sounds as dull as it was presumably meant to. It closed years ago. I'll come back to it.
 

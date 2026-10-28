@@ -18,3 +18,13 @@ Every fixes file in this folder is logged here once handled, so nothing is appli
 | 2026-10-26 | `fixes-v1.2.md` | A1–A5 | **Applied** | `9b52ee4` | A1 is a reorder only. |
 | 2026-10-26 | `fixes-v1.2.md` | B1–B7 | **Applied** | `9b52ee4` | "The way" counts in the body text afterwards: ch 1: 5, ch 2: 6, ch 3: 5 (the critic says 4; a counting difference, not a missed cut), ch 4: 4, ch 5: 5, ch 6: 4. Ch 1–6 rebuilt. |
 | 2026-10-26 | `fixes-v1.2.md` | C1, C2 | **Applied** (Martin ticked both) | `3d4ce7b` | C2: "his face did the thing" occurs twice (ch 5 ×1, ch 6 ×1), not three times. |
+| 2026-10-28 | `fixes-v1.2.md` (revised) | P1, P2a–g, P5 | **Applied** | `1b0bcf5` | |
+| 2026-10-28 | `fixes-v1.2.md` (revised) | P3 | **Applied with changes** (Martin) | `1b0bcf5` | "set down to do my job" instead of "beside my desk": the cabinet is in the comms room, not by Nell's desk. |
+| 2026-10-28 | `fixes-v1.2.md` (revised) | P4a, P4b | **Applied** | `1b0bcf5` | |
+| 2026-10-28 | `fixes-v1.2.md` (revised) | P4c | **Applied with changes** (Martin) | `1b0bcf5` | "on the nights they met as the Table:", since the sentence already opens "Twelve of them". |
+| 2026-10-28 | `fixes-v1.2.md` (revised) | P4d | **Declined** (Martin) | — | Superseded by the 27 Oct reader-panel edits: the line keeps "the three of them" and "the small panelled room they now called the Listening Room", without naming the Founders. |
+| 2026-10-28 | `fixes-v1.2.md` (revised) | P4e, P4f | **Applied** (P4f already done in the 27 Oct edits) | `1b0bcf5` | P4e note reworded to name the piano dealer's as the interlude's one foretold death. |
+| 2026-10-28 | `fixes-v1.2.md` (revised) | C1 | **Applied with changes** (Martin ticked) | `1b0bcf5` | Folded into the existing "No telling ahead" rule, which already covers similes and summing-up lines: adds the closing "sting" and one foretold death per interlude. |
+| 2026-10-28 | `fixes-v1.2.md` (revised) | C2 | Already applied | `3d4ce7b` | Count correction noted; no further change. |
+| 2026-10-28 | `fixes-v1.2.md` (revised) | C3–C6 | **Applied** (Martin ticked) | `1b0bcf5` | C3: labels in ch 2, 5, 6 and the outline table; the outline's label rule now covers time jumps. C5 sits as an Act Two note. |
+| 2026-10-28 | `fixes-v1.2.md` (revised) | Seat Four (writer's query) | **Applied** (Martin) | `1b0bcf5` | The 1979 Seat Four is the chair's second holder, replacing one of the nine seated by 1971. Timeline, characters, canon decisions, outline ch 8 and the lmnotebook notes updated. |

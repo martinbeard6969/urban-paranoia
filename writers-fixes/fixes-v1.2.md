@@ -11,6 +11,8 @@ status: Parts A–B already applied (record only). Part P is new: apply it. Part
 
 # Writer's fixes v1.2 (revised)
 
+**Status: applied 2026-10-28, commit 1b0bcf5 (Parts A–B: 9b52ee4; C1–C2 first issue: 3d4ce7b). See applied-log.md.**
+
 **What changed in this revision.** Martin asked for the reader-panel fixes to be folded into v1.2 rather than issued as v1.3. Parts A and B of the first issue were already applied (`9b52ee4`), so they're kept below **as a record only**. The panel fixes are a new **Part P**, checked against the current text (`5aa6758`). Part C carries the original two style items, corrected and widened, plus four new tick items from the panel.
 
 The reasoning is in two critic files:

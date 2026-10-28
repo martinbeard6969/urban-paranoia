@@ -1,7 +1,7 @@
 # Chapter 1: Day Zero
 
 *Urban Paranoia source pack for NotebookLM. Private: contains the full canon and ending.*
-*Assembled from: `book/chapters/01-day-zero.md`. Built 2026-10-28, commit 92c8132.*
+*Assembled from: `book/chapters/01-day-zero.md`. Built 2026-10-28, commit 1b0bcf5.*
 
 
 ## Editor's summary
@@ -71,7 +71,7 @@ She had come because the letter had used the word *promising*.
 
 Nobody had called her promising for some time. She was thirty-six, a demographer in a government department whose name changed every few years while its work stayed the same. She counted: births, deaths, marriages, households, the slow traffic of a nation coming and going through its own front door. She was good at it in a way that made the men above her uneasy, and so she had stayed where she was, high enough to be useful and low enough to be thanked rather than promoted. *Indispensable*, they said, which she had come to understand meant *we will not be letting you go anywhere*.
 
-The letter came from the Harlow-Vane Institute for Systems Studies, which she had never heard of. It invited her to a residential seminar, three nights, all expenses met, on *the long-range forecasting of settled societies*. There would be six other participants from six other countries, each chosen, it said, for the quality of their work rather than the seniority of their post.
+The letter came from the Harlow-Vane Institute for Systems Studies, which she had never heard of. It invited her to a residential seminar, two nights, all expenses met, on *the long-range forecasting of settled societies*. There would be six other participants from six other countries, each chosen, it said, for the quality of their work rather than the seniority of their post.
 
 She read that sentence several times. It had the effect of a hand placed briefly on the small of the back.
 

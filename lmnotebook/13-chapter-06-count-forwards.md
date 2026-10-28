@@ -1,7 +1,7 @@
 # Chapter 6: Count Forwards
 
 *Urban Paranoia source pack for NotebookLM. Private: contains the full canon and ending.*
-*Assembled from: `book/chapters/06-count-forwards.md`. Built 2026-10-28, commit 92c8132.*
+*Assembled from: `book/chapters/06-count-forwards.md`. Built 2026-10-28, commit 1b0bcf5.*
 
 
 ## Editor's summary
@@ -59,7 +59,7 @@ The blogging platform keeps a history of every change. I'd never looked at it. W
 
 The line had been added at **03:12** on the night I put up my second post: the night after the logs and the soft brown box, the night I'd posted at a quarter to midnight and gone to bed and slept, for once. It had been added by someone who'd logged in with my username and my password.
 
-Three and a half weeks. It had sat there for three and a half weeks under my own words, and hundreds of people had read past it, and so had I.
+Three weeks. It had sat there for three weeks under my own words, and hundreds of people had read past it, and so had I.
 
 I changed my password. Then I changed every password I've ever had, which took most of the afternoon and taught me how many things I'd signed up for in the last decade and forgotten. I switched on every security setting the platform offered, including two I still don't understand. Then I sat very still for a while.
 
@@ -78,6 +78,8 @@ So I reported it. A patient woman on a non-emergency line took the details, gave
 He didn't answer. He didn't need to.
 
 ---
+
+**SATURDAY 23 MAY**
 
 The letter came on the Saturday.
 
@@ -136,6 +138,8 @@ The first was the 1971 manifest, but not the copy I'd found. Mine was the office
 The second was newer. A Coyle's goods-in note, printed, from May last year, for one server cabinet delivered to the comms room at head office: the local box the new routing system ran through. I'd walked past that cabinet a hundred times. We used to joke about it: the grey box in the comms room was our replacement, we said, back when it was something you could joke about. Signed, dated, and weighed.
 
 *144 LB.*
+
+As if one machine had been carried out of that house and the same weight of machine set down to do my job.
 
 I rang Danny. I read him the numbers. There was a pause on the line, and I could hear the warehouse behind him, a beeping forklift, someone shouting a bay number.
 
@@ -202,7 +206,7 @@ Some things you count. And some things you leave on the shelf, so that for one m
 ## AUTHOR'S NOTES (out-of-world, do not publish)
 
 **What this chapter establishes**
-- **The hidden comment found late:** a reader emails on **Tue 19 May 2026 (Day 23,228)**. It was planted at **03:12 on the night of the second post** (late April, ch 3), using Nell's login, and sat unnoticed for about three and a half weeks. *(The ARG finds it the next morning; the novel's delay is deliberate.)*
+- **The hidden comment found late:** a reader emails on **Tue 19 May 2026 (Day 23,228)**. It was planted at **03:12 on the night of the second post** (late April, ch 3), using Nell's login, and sat unnoticed for about three weeks. *(The ARG finds it the next morning; the novel's delay is deliberate.)*
 - **Reported:** Danny insists. The reference number goes on the fridge *"like a fridge magnet from a holiday I didn't remember taking."* Unauthorised access is shown as an event, never as a method.
 - **The letter (Sat 23 May 2026):** the canon text from Post #3, **word for word** (capitals, full stops only, the hyphen exception in "OKAFOR-REYES"; see `voices.md`). The grey band (*"a sky that hasn't decided whether to rain"*) is left unexamined until ch 7. The crossed-out kitchen chair.
 - **Counting forwards:** Day 22,861 = **Sat 17 May 2025**, the croissants. This pays off ch 5's private anniversary: *"I'd thought I was the only one keeping count."*

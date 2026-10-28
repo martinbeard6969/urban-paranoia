@@ -1,7 +1,7 @@
 # Who's who
 
 *Urban Paranoia source pack for NotebookLM. Private: contains the full canon and ending.*
-*Assembled from: `lmnotebook/_written/whos-who.md`, `bible/characters.md`. Built 2026-10-28, commit 92c8132.*
+*Assembled from: `lmnotebook/_written/whos-who.md`, `bible/characters.md`. Built 2026-10-28, commit 1b0bcf5.*
 
 *Ages are as of 2026 unless stated. "First seen" is the first chapter (or ARG item) where the character appears. Full canon entries follow in the appendix.*
 
@@ -27,7 +27,7 @@
 | **Founder TWO (the German)** | West German statistician who checks everything, including the plug. Records the sessions. d. 2001. | Ch 1 | Never named. Said *no* to the thirteenth chair. |
 | **Founder THREE (the demographer)** | British civil-service demographer. Notices the counsel never says "I". Keeps the day-count notebooks. d. 2001. | Ch 1 | Never named. Her last notebook: *"The Frenchman was the lucky one. He closed the lid."* (ch 26) |
 | **Mother Quill (the Listener)** | 96. New Zealand weather-service clerk seated in 1966; Listener since 1976. | Ch 4 (unnamed), ch 15 | Believes she is saving humanity. Dies at 02:09 on Day 23,376 (ch 30). |
-| **Seat Four ("the Ledger")** | About 80. Canadian former insurance regulator, seated 1979; chairs Larkspire Mutual Re. The active antagonist. | Ch 8, ch 15 | Sends Cobb; orders the blog destroyed (ch 22). *Open canon question: how he was seated in 1979 when ch 4 has all twelve chairs filled in 1971.* |
+| **Seat Four ("the Ledger")** | About 80. Canadian former insurance regulator, seated 1979; chairs Larkspire Mutual Re. The active antagonist. | Ch 8, ch 15 | Sends Cobb; orders the blog destroyed (ch 22). The chair's second holder: he replaced one of the nine seated by 1971. |
 | **Seat Seven: Marguerite Aldane** | The Walkout, 16 April 1987: "a gardener still chooses the rows." d. 1987 (drowned). | Dead Drop 01, ch 11 | Her papers fuel the ARG. "Thirteen chairs. Never more." |
 | **Seat Eleven (Commons)** | Present-day Gardener who quietly records doubts. | Ch 15 | Learns their child is not on the list; quotes Marguerite and leaves: the first Seat lost in 39 years (ch 27). |
 | **Cobb** | Steward and fixer. Polite, forgettable, always slightly too close. | Ch 10 | Doesn't know what he serves. A Larkspire tenant himself; signs the strike list (ch 29). |
@@ -114,7 +114,7 @@ All characters are fictional. None is based on a real, identifiable person.
 
 ### Seat Four ("The Ledger")
 - **Role:** the active, hands-on antagonist. Holds the money-and-prices Portfolio.
-- **Background:** a Canadian, about 80. In 1979 he was a mid-level insurance regulator. Seated the same year.
+- **Background:** a Canadian, about 80. In 1979 he was a mid-level insurance regulator. Seated the same year, as the chair's second holder: he replaced one of the nine seated by 1971.
 - **Cover identity:** chair of the fictional **Larkspire Mutual Re** reinsurance group, which holds the Table's stakes in Tollgate and the AI labs.
 - **Family:** two children on the boards of the family foundation; one grandchild works at Lanternwork and has no idea.
 - **Method:** works through Stewards. Sends **Cobb** after Vesper.
