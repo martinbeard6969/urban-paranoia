@@ -34,3 +34,5 @@ Every fixes file in this folder is logged here once handled, so nothing is appli
 | 2026-10-28 | `fixes-v1.3.md` | B2 (outline) | **Applied with changes** (Martin) | `22ca2c0` | Ch 23's optional "care-alarm contractor on Larkspire's books" line dropped (it would make the Lodge the cause; D14, D11). Ch 18: suspects called "her own people" to avoid a clash with the six cards, and Ama's key explained by fear from the feeds. Ch 20: the neighbour and the rainbow family's scene (v1.2 C6) share one meeting. Thread rows added. |
 | 2026-10-28 | `fixes-v1.3.md` | B3 (characters) | **Applied with changes** (Martin) | `22ca2c0` | Ama's note reworded to match D14's timing. |
 | 2026-10-28 | `fixes-v1.3.md` | Wall scene (writer's addition) | **Applied** (Martin) | `22ca2c0` | `book/act-2/scene-the-wall.md` §6 Confessions: the deaths, her own people, the sideways arrows; about +300 words (estimate). |
+| 2026-10-28 | `fixes-v1.4.md` | A1–A5 | **Applied** | `4df7431` | Ch 2 v3.0 now about 2,290 words. Outline and lmnotebook word counts updated. |
+| 2026-10-28 | `fixes-v1.4.md` | C1–C9 | Awaiting Martin's ticks | — | |
