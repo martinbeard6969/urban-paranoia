@@ -15,16 +15,16 @@ canon-refs: [bible/*, book/synopsis, book/chapters/01-day-zero, book/act-2/scene
 
 **Typography rule:** centred capitals (`>`) are reserved for the Tenants. Letters, documents, stamps and notes use `>>` (left-aligned, ruled). Counsel quoted inside a document is set as a document.
 
-**Narrator labels:** every chapter opens with a small-capitals line under its title saying **who is narrating and when**. Nell's chapters give her name, the Lodge day-count and the real date; interludes give the viewpoint character's **role** (Founders stay unnamed), the day-count where it matters, and the place and date. If the viewpoint changes inside a chapter, a section label marks it. Format in the chapter file: a bold, all-capitals block, e.g. `**NELL · DAY 23,220 · MONDAY 11 MAY 2026**`.
+**Narrator labels:** every chapter opens with a small-capitals line under its title saying **who is narrating and when**. Nell's chapters give her name, the Lodge day-count and the real date; interludes give the viewpoint character's **role** (Founders stay unnamed), the day-count where it matters, and the place and date. If the viewpoint changes inside a chapter, a section label marks it. So does a jump in time the reader would otherwise have to count (e.g. `**SATURDAY 23 MAY**`). Format in the chapter file: a bold, all-capitals block, e.g. `**NELL · DAY 23,220 · MONDAY 11 MAY 2026**`.
 
 | Ch | Narrator label (opening line) | Section labels |
 |---|---|---|
 | 1 | HARROWGATE · 13–14 OCTOBER 1962 | THE DEMOGRAPHER (at the second section; the opening needs no label, since its first line names the driver) |
-| 2 | NELL · DAY 22,861 · SATURDAY 17 MAY 2025 | |
+| 2 | NELL · DAY 22,861 · SATURDAY 17 MAY 2025 | APRIL 2026 (the archive) |
 | 3 | NELL · DAY 23,200 · TUESDAY 21 APRIL 2026 | |
 | 4 | THE DEMOGRAPHER · DAY 3,061 · HARROWGATE, 2 MARCH 1971 | THE ACTUARY · LE HAVRE, THE SAME NIGHT |
-| 5 | NELL · DAY 23,220 · MONDAY 11 MAY 2026 | |
-| 6 | NELL · DAY 23,228 · TUESDAY 19 MAY 2026 | |
+| 5 | NELL · DAY 23,220 · MONDAY 11 MAY 2026 | SATURDAY 16 MAY (the Mission Hall) |
+| 6 | NELL · DAY 23,228 · TUESDAY 19 MAY 2026 | SATURDAY 23 MAY (the letter) |
 | 7, 9, 10, 12–14, 16–20, 22, 23, 25, 26, 28, 29 | NELL · DAY [n] · [date] | |
 | 8 | HOLLIS CRANE · HARROWGATE, 1979 | |
 | 11 | MARGUERITE ALDANE · DAY 8,950 · 16 APRIL 1987 | EMMANUEL OKAFOR · THE SAME NIGHT |
@@ -61,7 +61,7 @@ The line in the source code at 03:12. The typed letter. Day 22,861: the croissan
 The colour-pick. `/6b6e70`. Fragment Four, Marguerite's note, HG-68. The tones hit Nell physically, through cheap laptop speakers: the same "too pure" sound as chapter 1. *Ends:* *EVEN FOR THE ONES WHO ANSWERED THE TELEPHONE.*
 
 **8. Interlude: Liaison** *(1979)*
-Hollis Crane, 34, is brought to Harrowgate as the new liaison and sits with the machine for the first time. He's dazzled. He does the arithmetic overnight and is proud of it by dawn. That week a Canadian insurance regulator is seated as Seat Four. *Function:* makes Crane sympathetic, and culpable, before Nell meets him.
+Hollis Crane, 34, is brought to Harrowgate as the new liaison and sits with the machine for the first time. He's dazzled. He does the arithmetic overnight and is proud of it by dawn. That week a Canadian insurance regulator is seated as Seat Four, replacing the chair's first holder. *Function:* makes Crane sympathetic, and culpable, before Nell meets him. Crane's overnight arithmetic should be an argument a reasonable reader could half-accept (the panel's literary-political and thriller readers want "a reasoned villain"). It is the book's strongest case for the plan, made before anyone answers it.
 
 **9. Card 0144**
 The Harlow-Vane site, the card, the counter climbing (*"viewed 1 time"* → 400 → 9,000). Crane's first email. They meet for tea in a station café: hymns, kindness, precise memory. He gives her context she couldn't find alone. *Dramatic irony at chapter end:* Crane, on the train home, phones a number and tells a polite voice (a **Factor**) everything she said.
@@ -72,6 +72,8 @@ The Harlow-Vane site, the card, the counter climbing (*"viewed 1 time"* → 400 
 ---
 
 ## ACT TWO: THIRTEEN CHAIRS (chapters 11–20, ~26,000–30,000 words)
+
+*Act note:* at least one clue leads nowhere or the wrong way and costs Nell time (e.g. Graham's grey door, ch 6 → 7). The panel found the trail "interlocking a little too neatly".
 
 **11. Interlude: The Walkout** *(16 April 1987, Day 8,950)*
 Marguerite at the Table. "A gardener still chooses the rows." Mother Quill's kindness. Crane silent in the corner. That night a Coyle's office clerk, **Emmanuel Okafor**, takes a phone call about a "per instr." run and, for the first time in eight years, says no. *Function:* two people stand up on the same night, one loudly and one in silence.
@@ -101,7 +103,7 @@ Six cards, the counsel, the names, the threads that only run sideways. "Where's 
 10:00. Two men from Larkspire "property services". One of them is Cobb, who admires her wall, which she didn't take down. He leaves a card with no name on it. Then the Archivist's post: **card 0212**. *Reliable. Asks no questions. Declined further work following S.7 matter.* Her father **stopped**. That night she opens his crossword dictionary (closed unread in ch 6): the small pencil numbers in its margins are **Lodge day-counts**, the runs he phoned through, kept privately. After the last one there is no number, only a single word he looked up and underlined (word to be found in drafting). He counted too, and he stopped. And: *Daughter: Coyle's analyst post. Placement noted.* Was her whole career arranged? *Ends:* she can't tell, and that's the worst of it.
 
 **20. Thursday**
-The first Mission Hall meeting: eleven people, bad tea, a broken urn, awkwardness, then something. Neighbours from opposite sides of the Wall sit at one table, which the Outrage Engine exists to prevent. Jack doesn't come. Nell posts *"Every arrow on my wall points sideways"*, with no names. *Ends Act Two:* the post spreads, and at a family office somewhere warm a Factor flags it red.
+The first Mission Hall meeting: eleven people, bad tea, a broken urn, awkwardness, then something. Neighbours from opposite sides of the Wall sit at one table, which the Outrage Engine exists to prevent. Jack doesn't come. Nell posts *"Every arrow on my wall points sideways"*, with no names. *Ends Act Two:* the post spreads, and at a family office somewhere warm a Factor flags it red. *Also:* a member of the family behind the rainbow (ch 5–6) gets a full scene and speaks for themselves: specific, funny, not a spokesperson. A person, never a category; no real group named.
 
 ---
 

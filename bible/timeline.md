@@ -37,7 +37,7 @@ Real trends are atmosphere. They are **never** attributed to real people or real
 | 🟥 2 Apr 1973 | Hollis Crane joins the Harlow-Vane Institute's C.S.S. ("Carrying-capacity & Social Stability") as a Junior Fellow. 📄 *Harlow-Vane card 0144* |
 | 🟥 1976 | The Listener role changes hands. Founder One dies. Mother Quill (then 46) takes the role. |
 | 🟥 1979 | Crane becomes Senior Fellow and H.H. liaison, sitting in on contact sessions. |
-| 🟥 1979 | Seat Four (a Canadian insurance regulator) is seated and takes the Ledger Portfolio. The Table takes a pre-launch stake in **Pellucid** via a nominee. |
+| 🟥 1979 | Seat Four (a Canadian insurance regulator) is seated, replacing the chair's first holder (one of the nine seated by 1971), and takes the Ledger Portfolio. The Table takes a pre-launch stake in **Pellucid** via a nominee. |
 
 ## 1980s: Unbind, continued
 

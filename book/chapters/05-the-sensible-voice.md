@@ -6,7 +6,7 @@ title: "The Sensible Voice"
 setting: Nell's flat; the streets between; the Mission Hall at the end of her road. Mid-May 2026
 pov: Nell Okafor-Reyes, first person, past tense
 canon-refs: [bible/characters/danny-kessler, bible/characters/pastor-ama, bible/characters/jordan-pryce, bible/characters/longweather-account, bible/modern-pressures, bible/locations-and-organisations/mission-hall, bible/locations-and-organisations/larkspire, content/phase-1/post-02-day-zero]
-status: draft v2.2 (revised 26–27 Oct 2026: writers' fixes v1.0–v1.2 and reader-panel edits)
+status: draft v2.2 (revised 26–28 Oct 2026: writers' fixes v1.0–v1.2 revised and reader-panel edits)
 ---
 
 # Five: The Sensible Voice
@@ -72,6 +72,8 @@ When Dad died, Danny decided, without consulting me, that I was now his responsi
 He looked at the screen. He had the grace to look ashamed for nearly two seconds. "Well. Now they can stop calling you Vesper. Sounds like a scooter."
 
 ---
+
+**SATURDAY 16 MAY**
 
 On Saturday he walked me to the Mission Hall. It's at the end of my road, and I'd lived there six years without once going in. You stop seeing the buildings you pass every day. That morning, walking beside Danny, I started seeing them again.
 
@@ -155,7 +157,7 @@ He almost smiled. "Same machine."
 
 "Same machine."
 
-His mum did two cleaning jobs, he said, mornings at an office and evenings at a hotel, and in between she worried. Their flat was on the Wharf Road estate. The council had sent a letter about a regeneration scheme in partnership with a private developer, and a list of blocks to be demolished in phase one, and theirs was on it. Nobody could tell them where they'd go, or when, or whether they'd ever afford to come back.
+His mum did two cleaning jobs, he said, and in between she worried. Their block on the Wharf Road estate was on the council's list for demolition, for a regeneration scheme with a private developer, and nobody could tell them where they'd go, or whether they'd ever afford to come back.
 
 "*Consultation*," Jack said, and put the word in quotation marks with his voice. "They're consulting us. Means they've decided."
 
@@ -168,6 +170,8 @@ He went by Jordan online, he told me, when I glanced at his screen. Jordan Pryce
 "Which is always."
 
 "Which is always."
+
+He stayed Jack to me.
 
 What I'd glanced at was a message thread: long, patient paragraphs from someone whose name I didn't catch, the kind of writing that sounds like listening, and agrees with everything you'd already decided while you were too tired to argue. Jack saw me looking and locked the phone, not quickly, the way you'd close a door on a room you weren't ashamed of yet.
 

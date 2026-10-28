@@ -93,7 +93,7 @@ These rules keep the campaign effective, legally safe and ethically sound. Apply
 - **Show, don't assert.** Present patterns, documents and coincidences and let the audience connect them. Vesper doubts themself often, and that doubt is part of the hook.
 - **Grounded texture:** use real *trends* (wage stagnation, automation, union decline, inflation) as atmosphere, described accurately. The fiction is the *explanation*, not the facts.
 - **Similes:** at most two "the way…" similes per chapter; vary the shape (a plain statement, "like", or a concrete detail). Interludes avoid Nell's "the way you'd…" habit altogether.
-- **No telling ahead:** no retrospective hooks ("I didn't know then…", "It would. But not yet", "she realised later", who dies when). Let scenes end on an image or action; at most one summing-up line as a section ending per chapter. *(Reader panel, Oct 2026: 5 of 6 readers.)*
+- **No telling ahead:** no retrospective hooks ("I didn't know then…", "It would. But not yet", "she realised later", who dies when). Let scenes end on an image or action; at most one summing-up line or closing "sting" per chapter, and at most one foretold death per interlude. *(Reader panel, Oct 2026: 5 of 6 readers.)*
 - **Formats:** blog posts (600–1,200 words), forum posts, redacted memos, transcripts, cipher puzzles, audio scripts, comic panel breakdowns, marketing copy.
 
 ---

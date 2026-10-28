@@ -6,7 +6,7 @@ title: "Contribution to the Transition"
 setting: Coyle Brothers Haulage, head office and archive; Nell's flat. Saturday 17 May 2025 – Monday 20 April 2026 (Day 23,199)
 pov: Nell Okafor-Reyes, first person, past tense
 canon-refs: [bible/characters/vesper, bible/characters/danny-kessler, bible/characters/pete, bible/locations-and-organisations/coyles-sites, bible/locations-and-organisations/larkspire, bible/canon-decisions/D5, content/phase-1/post-01-for-the-long-weather]
-status: draft v1.2 (revised 26–27 Oct 2026: writers' fixes v1.0–v1.2 and reader-panel edits)
+status: draft v1.2 (revised 26–28 Oct 2026: writers' fixes v1.0–v1.2 revised and reader-panel edits)
 ---
 
 # Two: Contribution to the Transition
@@ -78,6 +78,8 @@ It said there would be a final project before the end of my notice. The company'
 They wanted the person they were letting go to decide what to keep.
 
 ---
+
+**APRIL 2026**
 
 The archive was in a storage unit by the old rail yard, in a row of identical units with roller doors and fluorescent strips that took a moment to make up their minds. You let yourself in with a keycard. It beeped when you went in and beeped when you came out, which I noticed the first day and stopped noticing by the second. You stop hearing what a building says about you if it says it politely enough.
 

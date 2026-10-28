@@ -6,7 +6,7 @@ title: "Reconciliation"
 setting: Nell's flat; the Coyle's archive; a café near the old depot. Tuesday 21 April – early May 2026
 pov: Nell Okafor-Reyes, first person, past tense
 canon-refs: [bible/characters/len, bible/characters/vesper, bible/timeline/1962-delivery, bible/timeline/1971-manifest, bible/canon-decisions/D3, content/phase-1/post-02-day-zero, book/chapters/01-day-zero]
-status: draft v1.2 (revised 26–27 Oct 2026: writers' fixes v1.0–v1.2 and reader-panel edits)
+status: draft v1.2 (revised 26–28 Oct 2026: writers' fixes v1.0–v1.2 revised and reader-panel edits)
 ---
 
 # Three: Reconciliation
@@ -57,7 +57,7 @@ I did the sum by hand first, in pencil on the back of an invoice, the way Pete t
 
 I knew that date. Anyone old enough remembers that autumn, and everyone younger has seen the documentaries: the week the whole world sat very still in front of its radios and waited to find out whether there would be a next week. I'm not going to write about it. I didn't then, either. I just sat in a storage unit by a railway line with a pencil in my hand, and felt something very old and very cold go down the back of my neck.
 
-Somebody had started counting a week before the world held its breath. And somebody had still been counting, carefully, eight and a half years later.
+Somebody had started counting a week before the world held its breath. And somebody had still been counting, carefully, eight years and four months later.
 
 ---
 

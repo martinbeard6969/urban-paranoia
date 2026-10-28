@@ -6,7 +6,7 @@ title: "Day Zero"
 setting: Harrowgate House, Saturday 13 – Sunday 14 October 1962
 pov: close third, the British demographer (THREE); a short opening section from the Coyle's driver
 canon-refs: [bible/the-lodge/origins, bible/the-tenants, bible/deep-time/the-counters, bible/artefacts-register/minutes-fragment-1, bible/locations-and-organisations/harrowgate-house, content/phase-1/post-02-day-zero]
-status: draft v2.3 (revised 26–27 Oct 2026: writers' fixes v1.0–v1.2 and reader-panel edits)
+status: draft v2.3 (revised 26–28 Oct 2026: writers' fixes v1.0–v1.2 revised and reader-panel edits)
 words: ~2,900
 ---
 
@@ -44,7 +44,7 @@ She had come because the letter had used the word *promising*.
 
 Nobody had called her promising for some time. She was thirty-six, a demographer in a government department whose name changed every few years while its work stayed the same. She counted: births, deaths, marriages, households, the slow traffic of a nation coming and going through its own front door. She was good at it in a way that made the men above her uneasy, and so she had stayed where she was, high enough to be useful and low enough to be thanked rather than promoted. *Indispensable*, they said, which she had come to understand meant *we will not be letting you go anywhere*.
 
-The letter came from the Harlow-Vane Institute for Systems Studies, which she had never heard of. It invited her to a residential seminar, three nights, all expenses met, on *the long-range forecasting of settled societies*. There would be six other participants from six other countries, each chosen, it said, for the quality of their work rather than the seniority of their post.
+The letter came from the Harlow-Vane Institute for Systems Studies, which she had never heard of. It invited her to a residential seminar, two nights, all expenses met, on *the long-range forecasting of settled societies*. There would be six other participants from six other countries, each chosen, it said, for the quality of their work rather than the seniority of their post.
 
 She read that sentence several times. It had the effect of a hand placed briefly on the small of the back.
 

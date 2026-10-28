@@ -56,7 +56,7 @@ All characters are fictional. None is based on a real, identifiable person.
 
 ### Seat Four ("The Ledger")
 - **Role:** the active, hands-on antagonist. Holds the money-and-prices Portfolio.
-- **Background:** a Canadian, about 80. In 1979 he was a mid-level insurance regulator. Seated the same year.
+- **Background:** a Canadian, about 80. In 1979 he was a mid-level insurance regulator. Seated the same year, as the chair's second holder: he replaced one of the nine seated by 1971.
 - **Cover identity:** chair of the fictional **Larkspire Mutual Re** reinsurance group, which holds the Table's stakes in Tollgate and the AI labs.
 - **Family:** two children on the boards of the family foundation; one grandchild works at Lanternwork and has no idea.
 - **Method:** works through Stewards. Sends **Cobb** after Vesper.

@@ -56,7 +56,7 @@ Beneath it, in the driver's hand:
 
 > *Delivered & installed. Gent at door said would be "needed from tomorrow." Odd sort of party — 7 cars on the drive, no staff.*
 
-I've read that line more times than my redundancy letter. *Needed from tomorrow.* Seven cars and nobody to park them. A teletype carried into that house on a Saturday, the day before the counting started. Eight and a half years later, perhaps the same machine came back out, unweighed, unbilled and stamped.
+I've read that line more times than my redundancy letter. *Needed from tomorrow.* Seven cars and nobody to park them. A teletype carried into that house on a Saturday, the day before the counting started. Eight years and four months later, perhaps the same machine came back out, unweighed, unbilled and stamped.
 
 As far as I can tell, "Harlow-Vane Inst." is the **Harlow-Vane Institute for Systems Studies**, which sounds as dull as it was presumably meant to. It closed years ago. I'll come back to it.
 
