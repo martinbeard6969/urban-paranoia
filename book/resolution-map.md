@@ -44,6 +44,17 @@ Every open question in Book 1, and where it is answered. **Rule:** a question ra
 | **Nell and the chair** | Book 2: with Mother Quill dead, the Table, or the Tenants, offer Nell the Listener's chair |
 | **The purple stamp** | Never found. Reserved for the comics anthology |
 
+### Book 2 setting (Martin, 28 Oct 2026; reference only)
+
+- **When:** about ten years after Book 1, so around 2036.
+- **Where:** America. Civil war has broken out on the East and West coasts. Vesper (Nell) has moved to **Washington** (DC or the state: to confirm, open question 16).
+- **Guardrails (hard rules 1, 2, 4, 5 and 9):**
+  - The war is **invented**. Its sides, leaders, militias and flashpoints are fictional composites, never mapped onto real US parties, movements, states' politics or real people.
+  - The twist holds: the Lodge feeds **every side at once**, and no real group is ever the war's cause or instrument.
+  - No real US event (an election, attack, riot or disaster) is retold or blamed on the Lodge or the Tenants.
+  - It's **book only** until decided otherwise. No ARG content about an American civil war goes into real US political conversations, hashtags or communities.
+  - Book 1's setting rule (no real present-day towns or institutions) would have to change for Book 2 to name Washington (open question 17).
+
 ## Never resolved (by design)
 
 | Question | Why |

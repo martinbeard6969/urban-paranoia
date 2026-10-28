@@ -1,7 +1,7 @@
 # Book plan: synopsis, outline and resolution map
 
 *Urban Paranoia source pack for NotebookLM. Private: contains the full canon and ending.*
-*Assembled from: `book/synopsis.md`, `book/outline.md`, `book/resolution-map.md`, `book/act-2/scene-the-wall.md`. Built 2026-10-28, commit 78bda27.*
+*Assembled from: `book/synopsis.md`, `book/outline.md`, `book/resolution-map.md`, `book/act-2/scene-the-wall.md`. Built 2026-10-28, commit 3d3589f.*
 
 Chapters 1-6 are drafted; 7-30 and the epilogue are planned. The outline's 'Threads and payoffs' table tracks every set-up.
 
@@ -76,7 +76,7 @@ The book does not end with the Table destroyed or the lease broken. It ends with
 
 **The spine:** Nell moves from *collecting evidence* (Act 1), to *seeing the shape* (Act 2, ending at the Wall), to *acting with other people* (Act 3). The Table is never defeated. It's **surprised**.
 
-**Drafting priorities:** a sinister, compelling plot; variable pacing; memorable characters; at award-winning SF novella standard (full rules in `CLAUDE.md`, Voice & style).
+**Drafting priorities:** a sinister, compelling plot; variable pacing; memorable characters; at the standard of a Nebula Award-winning novella (full rules in `CLAUDE.md`, Voice & style).
 
 **Pacing rule:** every chapter knows its speed. **Slow** stretches disclose (history, a document, Crane's context, an interlude). **Fast** stretches thrill: action, less information, short paragraphs, nothing explained until afterwards, if at all. Alternate them across the book and within chapters, and never let two slow chapters run back to back in the present day. Act One's fast beats: the Coyle's keycard (ch 6), Graham's door (ch 7), the night at DC-3 and the bus stop (ch 10).
 
@@ -353,6 +353,17 @@ Every open question in Book 1, and where it is answered. **Rule:** a question ra
 | **Is the cull cancelled?** | Postponed, not cancelled |
 | **Nell and the chair** | Book 2: with Mother Quill dead, the Table, or the Tenants, offer Nell the Listener's chair |
 | **The purple stamp** | Never found. Reserved for the comics anthology |
+
+### Book 2 setting (Martin, 28 Oct 2026; reference only)
+
+- **When:** about ten years after Book 1, so around 2036.
+- **Where:** America. Civil war has broken out on the East and West coasts. Vesper (Nell) has moved to **Washington** (DC or the state: to confirm, open question 16).
+- **Guardrails (hard rules 1, 2, 4, 5 and 9):**
+  - The war is **invented**. Its sides, leaders, militias and flashpoints are fictional composites, never mapped onto real US parties, movements, states' politics or real people.
+  - The twist holds: the Lodge feeds **every side at once**, and no real group is ever the war's cause or instrument.
+  - No real US event (an election, attack, riot or disaster) is retold or blamed on the Lodge or the Tenants.
+  - It's **book only** until decided otherwise. No ARG content about an American civil war goes into real US political conversations, hashtags or communities.
+  - Book 1's setting rule (no real present-day towns or institutions) would have to change for Book 2 to name Washington (open question 17).
 
 ## Never resolved (by design)
 
