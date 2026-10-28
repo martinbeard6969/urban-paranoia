@@ -6,7 +6,7 @@ title: "The Sensible Voice"
 setting: Nell's flat; the streets between; the Mission Hall at the end of her road. Mid-May 2026
 pov: Nell Okafor-Reyes, first person, past tense
 canon-refs: [bible/characters/danny-kessler, bible/characters/pastor-ama, bible/characters/jordan-pryce, bible/characters/longweather-account, bible/modern-pressures, bible/locations-and-organisations/mission-hall, bible/locations-and-organisations/larkspire, content/phase-1/post-02-day-zero]
-status: draft v2 — rewritten with the neighbourhood's pressures woven throughout
+status: draft v2.2 (revised 26–27 Oct 2026: writers' fixes v1.0–v1.2 and reader-panel edits)
 ---
 
 # Five: The Sensible Voice

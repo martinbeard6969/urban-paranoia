@@ -7,7 +7,7 @@ type: interlude
 setting: Harrowgate House; Le Havre. Tuesday 2 – Wednesday 3 March 1971 (Day 3,061)
 pov: close third: the British demographer (THREE); then the French actuary
 canon-refs: [bible/the-lodge/then-and-now, bible/the-lodge/structure, bible/artefacts-register/HG-71, bible/canon-decisions/D3, bible/timeline/1971-manifest, book/chapters/01-day-zero]
-status: draft v1
+status: draft v1.2 (revised 26–27 Oct 2026: writers' fixes v1.0–v1.2 and reader-panel edits)
 ---
 
 # Four: Not Far, Only Elsewhere

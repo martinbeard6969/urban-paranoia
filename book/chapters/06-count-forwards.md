@@ -6,7 +6,7 @@ title: "Count Forwards"
 setting: Nell's flat. Tuesday 19 – Saturday 23 May 2026
 pov: Nell Okafor-Reyes, first person, past tense
 canon-refs: [bible/characters/the-archivist, bible/characters/emmanuel-okafor, bible/characters/danny-kessler, bible/timeline/day-22861, bible/canon-decisions/D5, content/phase-1/post-03-count-forwards, bible/voices/archivist]
-status: draft v1
+status: draft v1.1 (revised 26–27 Oct 2026: writers' fixes v1.0–v1.2 and reader-panel edits)
 ---
 
 # Six: Count Forwards

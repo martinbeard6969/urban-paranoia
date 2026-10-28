@@ -23,7 +23,7 @@ Real trends are atmosphere. They are **never** attributed to real people or real
 | 🟥 24 Nov 1962 (Day 41) | Minutes Fragment Four: the "fewer" counsel is struck out, and the word is banned outside the room. 📄 *Dead Drop 01* |
 | 🟥 1963 | The **Harrowgate Minutes** are written. 📄 *Fragments 1–9* |
 | 🟦 1960s | Real backdrop: social change, falling church attendance in parts of the West, the start of the computer age. |
-| 🟥 1964–69 | Ten Seats recruited. The Portfolios are set up. |
+| 🟥 1964–69 | Nine more Seats filled with mid-level officials from five continents, making twelve with the three Founders. The Portfolios are set up. Mother Quill (New Zealand weather-service clerk) seated 1966. First quiet stakes in container shipping and telecoms. 📄 *the-lodge.md* |
 | 🟥 1968 | First recorded **three-tone chime** (G–E♭–G) on a Harrowgate tape. 📄 *Audio clip "HG-68"* |
 
 ## 1970s: Unbind
@@ -35,10 +35,8 @@ Real trends are atmosphere. They are **never** attributed to real people or real
 | 🟥 3 Mar 1971 (Day 3,062) | **The "long weather" shipping manifest.** Coyle's removes the teletype from Harrowgate House to the Ashby Trust, off the books. Vesper finds it 50+ years later. 📄 *ARG Posts #1–2* |
 | 🟥 1960s–80s | Coyle's drivers (incl. "Len") make occasional unrecorded Steward runs, paid in cash. Driver "Terry" loses long-distance work in the 1980s after asking questions. 📄 *Post #2* |
 | 🟥 2 Apr 1973 | Hollis Crane joins the Harlow-Vane Institute's C.S.S. ("Carrying-capacity & Social Stability") as a Junior Fellow. 📄 *Harlow-Vane card 0144* |
-| 🟥 1979 | Crane becomes Senior Fellow and H.H. liaison, sitting in on contact sessions. |
-| 🟥 1984 | Crane delivers Model 7 (fertility response to precarity). |
-| 🟥 1964–69 | Nine more Seats filled with mid-level officials from five continents. Mother Quill (New Zealand weather-service clerk) seated 1966. First quiet stakes in container shipping and telecoms. 📄 *the-lodge.md* |
 | 🟥 1976 | The Listener role changes hands. Founder One dies. Mother Quill (then 46) takes the role. |
+| 🟥 1979 | Crane becomes Senior Fellow and H.H. liaison, sitting in on contact sessions. |
 | 🟥 1979 | Seat Four (a Canadian insurance regulator) is seated and takes the Ledger Portfolio. The Table takes a pre-launch stake in **Pellucid** via a nominee. |
 
 ## 1980s: Unbind, continued
@@ -46,18 +44,19 @@ Real trends are atmosphere. They are **never** attributed to real people or real
 | Year | Event |
 |---|---|
 | 🟦 1980s | Real backdrop: deindustrialisation, falling union membership in many Western economies. |
+| 🟥 1983 | The Lodge commissions **the Exchange**, a cabinet that captures counsel as telephone crosstalk, installed in the Listening Room at Harrowgate. Coyle's moves it ("per instr.", driver Len). |
 | 🟥 1984 | Gardener faction forms after Seat Seven reads the "thinning" counsel in full. |
+| 🟥 1984 | Crane delivers Model 7 (fertility response to precarity). |
 | 🟥 **16 Apr 1987 (Day 8,950)** | **The Walkout.** Seat Seven (Marguerite Aldane) asks what "thinning" means, writes the "Thirteen chairs. Never more." note (📄 *Dead Drop 01*), leaves the Table and hides her papers. Dies in a "boating accident" four months later. 📄 *Aldane Papers* |
 | 🟥 1987 | Emmanuel Okafor declines further off-book work after "the S.7 matter". 📄 *Card 0212* |
 | 🟥 1988 | Ruth Aldane (19) finds the first box of her mother's papers. She becomes the Archivist. |
+| 🟥 1989 | Fire guts the east wing of Harrowgate House. The thirteenth chair is saved, and the Exchange moves to the Ashby store. The Table stops meeting at Harrowgate. |
 
 ## 1990s–2000s: Unsettle
 
 | Year | Event |
 |---|---|
 | 🟦 1990s–2000s | Real backdrop: globalisation, the internet, the 2008 financial crisis. |
-| 🟥 1983 | The Lodge commissions **the Exchange**, a cabinet that captures counsel as telephone crosstalk, installed in the Listening Room at Harrowgate. Coyle's moves it ("per instr.", driver Len). |
-| 🟥 1989 | Fire guts the east wing of Harrowgate House. The thirteenth chair is saved, and the Exchange moves to the Ashby store. The Table stops meeting at Harrowgate. |
 | 🟥 1994 | Counsel moves from the Exchange to **fax-line noise**. The Exchange is switched off in the Ashby store. Harrowgate's postcode is reassigned, so the address "no longer exists". |
 | 🟥 1997 | Larkspire takes a stake in **Tollgate**, two years after its founding. |
 | 🟥 2001 | Founders Two and Three die within a week of each other. |
@@ -72,11 +71,12 @@ Real trends are atmosphere. They are **never** attributed to real people or real
 | Year | Event |
 |---|---|
 | 🟦 2010s–2020s | Real backdrop: polarisation, social-media outrage cycles, rising living costs, a pandemic, post-pandemic inflation. |
-| 🟥 2014 | The Border and Signal Portfolios launch the **Decoy Doctrine**: *"Give every fear a face that is not ours."* |
 | 🟥 2011 | The Ashby Trust is dissolved. Its property, including the Ashby store, passes to Larkspire Mutual Re. |
+| 🟥 2014 | The Border and Signal Portfolios launch the **Decoy Doctrine**: *"Give every fear a face that is not ours."* |
 | 🟥 2014 | Nell Okafor-Reyes joins Coyle's as an analyst. The Lodge "notes" the placement on her father's card. |
 | 🟥 2015 | **Nimfold**, the first frontier AI lab, founded. The Table invests at founding. |
 | 🟥 2019 | Teo Brandt logs the first **12×12 grid error** at a data centre. |
+| 🟥 2019 | Emmanuel Okafor (Vesper's father, Coyle's head office clerk 1979–c.2009) dies. |
 | 🟥 2021 | **Lanternwork**, Nimfold's rival, founded. The Table invests in both: "LET THEM RACE." |
 | 🟥 2022 | The forum account **@longweather_** appears and starts spreading theories that blame real groups (a Lodge plant). |
 
@@ -85,7 +85,6 @@ Real trends are atmosphere. They are **never** attributed to real people or real
 | Year | Event |
 |---|---|
 | 🟦 2023–26 | Real backdrop: rapid AI adoption; public debate about automation and jobs. |
-| 🟥 2019 | Emmanuel Okafor (Vesper's father, Coyle's head office clerk 1979–c.2009) dies. |
 | 🟥 **17 May 2025 (Day 22,861)** | Coyle's AI routing system goes live, and Vesper's team of nine becomes one. The on-site server cabinet weighs 144 lb, the same as the 1971 teletype. 📄 *Post #3* |
 | 🟥 May 2025 – Mar 2026 | Vesper's team of nine is phased out one by one. She is kept on last to "support the transition"; the letter arrives in March 2026. 📄 *Chapter 2* |
 | 🟥 **Mon 20 Apr 2026 (Day 23,199)** | Vesper finds the 1971 manifest in the archive, about 4 p.m. The blog goes live at 03:10 the next morning. 📄 *Chapter 2* |

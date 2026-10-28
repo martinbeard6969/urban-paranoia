@@ -6,7 +6,7 @@ title: "Day Zero"
 setting: Harrowgate House, Saturday 13 – Sunday 14 October 1962
 pov: close third, the British demographer (THREE); a short opening section from the Coyle's driver
 canon-refs: [bible/the-lodge/origins, bible/the-tenants, bible/deep-time/the-counters, bible/artefacts-register/minutes-fragment-1, bible/locations-and-organisations/harrowgate-house, content/phase-1/post-02-day-zero]
-status: draft v2.1 — copy-edited
+status: draft v2.3 (revised 26–27 Oct 2026: writers' fixes v1.0–v1.2 and reader-panel edits)
 words: ~2,900
 ---
 

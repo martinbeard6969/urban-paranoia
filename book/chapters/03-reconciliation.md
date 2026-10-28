@@ -6,7 +6,7 @@ title: "Reconciliation"
 setting: Nell's flat; the Coyle's archive; a café near the old depot. Tuesday 21 April – early May 2026
 pov: Nell Okafor-Reyes, first person, past tense
 canon-refs: [bible/characters/len, bible/characters/vesper, bible/timeline/1962-delivery, bible/timeline/1971-manifest, bible/canon-decisions/D3, content/phase-1/post-02-day-zero, book/chapters/01-day-zero]
-status: draft v1
+status: draft v1.2 (revised 26–27 Oct 2026: writers' fixes v1.0–v1.2 and reader-panel edits)
 ---
 
 # Three: Reconciliation

@@ -1,103 +1,189 @@
 ---
 title: Writer's fixes
-version: 1.2
+version: 1.2 (revised: reader-panel fixes folded in)
 date: 2026-10-26
 from: creative critic (up-creative-critic)
-source-version: 68de6b9
-covers: chapters 1–6, from the whole-book re-review of 26 Oct 2026
-supersedes: nothing (v1.0 and v1.1 are fully applied; see applied-log.md)
-status: Part A apply; Part B apply unless Martin strikes an item; Part C needs Martin's tick
+source-version: 5aa6758 (after v1.2 Parts A–B were applied in 9b52ee4)
+covers: chapters 1–6 and Post #2; from the whole-book re-review and the reader-panel assessment of 26 Oct 2026
+supersedes: the first issue of v1.2 (same day). Replace that file with this one.
+status: Parts A–B already applied (record only). Part P is new: apply it. Part C needs Martin's tick.
 ---
 
-**Status: Parts A and B applied 2026-10-26, commit 9b52ee4. Part C ticked by Martin and applied in 3d4ce7b. See applied-log.md.**
+# Writer's fixes v1.2 (revised)
 
-# Writer's fixes v1.2
+**What changed in this revision.** Martin asked for the reader-panel fixes to be folded into v1.2 rather than issued as v1.3. Parts A and B of the first issue were already applied (`9b52ee4`), so they're kept below **as a record only**. The panel fixes are a new **Part P**, checked against the current text (`5aa6758`). Part C carries the original two style items, corrected and widened, plus four new tick items from the panel.
 
-For the writing agent. The reasoning is in `up-creative-critic/reviews/whole-work/2026-10-26-rereview-ch01-06.md`, issues #1–6. Every "Find" string was checked against commit `68de6b9` and occurs exactly once in its file. No two items touch the same sentence.
+The reasoning is in two critic files:
+- `up-creative-critic/reviews/whole-work/2026-10-26-rereview-ch01-06.md`
+- `up-creative-critic/reviews/whole-work/2026-10-26-reader-panel-assessment.md`
 
 **How to use this**
-- **Part A:** one structural fix and four one-line corrections. Apply them.
-- **Part B:** thinning the "the way…" similes (re-review issue #2). Apply unless Martin strikes an item.
-- **Part C:** a standing style rule for future chapters. Apply only if Martin ticks it.
-- Then rebuild **chapters 1–6**, log the result in `applied-log.md`, and leave v1.2 in place.
+- **Parts A and B:** already applied. Don't reapply.
+- **Part P:** apply. Every Find string was checked by script against `5aa6758` and occurs exactly once.
+- **Part C:** apply only the items Martin ticks.
+- Then rebuild **chapters 1, 4, 5 and 6** (plus 2 if C3 is ticked), log the result in `applied-log.md` against this revision, and leave the file in place.
 
 ---
 
-## Part A — Apply
+## Parts A and B — Already applied in `9b52ee4` (record only)
 
-### A1. Chapter 5: move the message-thread paragraph (re-review #1, Medium)
+| Item | What | Status |
+|---|---|---|
+| A1 | Ch 5: thread paragraph moved after the "Which is always." exchange | ✓ applied |
+| A2 | Ch 1: "It didn't seem to matter yet." | ✓ applied |
+| A3 | Ch 4: "until the boxes came" | ✓ applied |
+| A4 | Ch 6: the goods-in sentence, one colon | ✓ applied |
+| A5 | Ch 3: "Anyone old enough remembers that autumn" | ✓ applied |
+| B1–B7 | Seven "the way…" cuts (ch 2, 3, 5, 6) | ✓ applied |
 
-**Problem.** The v1.0 D16 paragraph sits between "Everybody called him Jordan." and Danny's "Except me." Danny's joke now seems to answer Jack locking his phone, not the name. Moving the paragraph lets the name joke run unbroken, and the scene then ends on the locked phone, which is the stronger last beat before "That night the comments changed."
+**Critic's corrections to the first issue** (the writer's applied-log was right on both counts):
+- Ch 3's "the way" count after B4 is **5**, not 4. My earlier figure didn't count one non-simile use. No missed cut.
+- "His face did the thing" occurs **twice** (ch 5 ×1, ch 6 ×1), not three times. My count included Ama's "she did the thing almost nobody can do". C2 below is corrected.
+
+---
+
+## Part P — Reader-panel fixes (apply)
+
+### P1. Chapter 5: settle Jack's name (panel: "Jack becoming Jordan without warning")
+
+The casual reader didn't know which name to hold onto. With A1 applied, the name joke now runs unbroken; one plain line after it settles the matter before the thread paragraph.
 
 File: `book/chapters/05-the-sensible-voice.md`
 
-**Find** (this whole block):
+**Find:**
 
 ```
-He went by Jordan online, he told me, when I glanced at his screen. Jordan Pryce. It had been a joke when he was sixteen and it had stuck. Everybody called him Jordan.
-
-What I'd glanced at was a message thread: long, patient paragraphs from someone whose name I didn't catch, the kind of writing that sounds like listening, and agrees with everything you'd already decided while you were too tired to argue. Jack saw me looking and locked the phone, not quickly, the way you'd close a door on a room you weren't ashamed of yet.
-
-"Except me," said Danny.
-
-"Except Danny. When he's cross with me."
-
 "Which is always."
 
 "Which is always."
+
+What I'd glanced at
 ```
 
 **Replace with:**
 
 ```
-He went by Jordan online, he told me, when I glanced at his screen. Jordan Pryce. It had been a joke when he was sixteen and it had stuck. Everybody called him Jordan.
-
-"Except me," said Danny.
-
-"Except Danny. When he's cross with me."
-
 "Which is always."
 
 "Which is always."
 
-What I'd glanced at was a message thread: long, patient paragraphs from someone whose name I didn't catch, the kind of writing that sounds like listening, and agrees with everything you'd already decided while you were too tired to argue. Jack saw me looking and locked the phone, not quickly, the way you'd close a door on a room you weren't ashamed of yet.
+He stayed Jack to me.
+
+What I'd glanced at
 ```
 
-No words change; only the order does. The section break (`---`) and "That night the comments changed." follow as before.
+### P2. Date corrections (panel: hard-SF reader; all three confirmed by the critic)
 
-### A2–A5. One-line corrections
-
-| # | File | Find | Replace with | Why (re-review #) |
-|---|---|---|---|---|
-| A2 | `book/chapters/01-day-zero.md` | `It didn't seem the most pressing point.` | `It didn't seem to matter yet.` | #3: "most pressing point" appears twice in two sentences. The second (the American's) stays, because it echoes Fragment Four. |
-| A3 | `book/chapters/04-not-far-only-elsewhere.md` | `where the dock gangs had worked when he was a boy` | `where the dock gangs had worked until the boxes came` | #4: the gangs worked until a few years before 1971, not decades before. |
-| A4 | `book/chapters/06-count-forwards.md` | `A Coyle's goods-in note, printed, from May last year: delivery of one server cabinet to the comms room at head office: the local box the new routing system ran through.` | `A Coyle's goods-in note, printed, from May last year, for one server cabinet delivered to the comms room at head office: the local box the new routing system ran through.` | #5: two colons in one sentence. |
-| A5 | `book/chapters/03-reconciliation.md` | `Everyone of a certain age knows that autumn` | `Anyone old enough remembers that autumn` | #6: a stock phrase, and anyone who remembers 1962 is now over seventy. |
-
----
-
-## Part B — Thin the "the way…" similes (apply unless struck)
-
-**Problem (re-review #2).** "The way…" appears 36 times in 14,431 words, about once every 400 words. Some of those uses aren't similes ("the way Pete taught me", "on the way out"), but the simile form has become the narration's default, and it makes the interludes sound like Nell. These seven cuts target the densest places (ch 2 has 9, ch 5 has 7, and ch 6 has three within a page). The best images are kept: the hotel croissants, the darkening room, the sea, the glass about to break, the dog, the cold under the door. After this pass: ch 2 has 6, ch 3 has 4, ch 5 has 5 and ch 6 has 4.
+Oct 1962 to March 1971 is **8 years, 4 months** (to 2 March: 8 years, 4 months and 16 days), not eight and a half. The seminar runs Saturday to Monday, which is **two** nights. The 03:12 edit (~27 April) to 19 May is about **three** weeks.
 
 | # | File | Find | Replace with |
 |---|---|---|---|
-| B1 | `book/chapters/02-contribution-to-the-transition.md` | `The contractor talked about both the way people talk about plumbing: something you only think about when it fails.` | `The contractor talked about both as if they were plumbing: something you only think about when it fails.` |
-| B2 | same file | `I read it until the words came apart, the way a word does if you say it too often.` | `I read it until the words came apart.` |
-| B3 | same file | `it smelled the way old paper smells: of nothing, almost, and then of dust and something sweeter underneath, like a church.` | `it smelled of old paper: of nothing, almost, and then of dust and something sweeter underneath, like a church.` |
-| B4 | `book/chapters/03-reconciliation.md` | `in a small grey number at the top of the screen, the way a hospital monitor tells you your pulse.` | `in a small grey number at the top of the screen, like a pulse on a hospital monitor.` |
-| B5 | `book/chapters/05-the-sensible-voice.md` | `quickly, the way he does everything, and posted it` | `quickly, and posted it` |
-| B6 | same file | `turned, the way a road turns without warning, and ended` | `turned without warning, and ended` |
-| B7 | `book/chapters/06-count-forwards.md` | `I knew before I got there, the way you know which stair creaks.` | `I knew before I got there.` |
+| P2a | `book/chapters/01-day-zero.md` | `It invited her to a residential seminar, three nights, all expenses met,` | `It invited her to a residential seminar, two nights, all expenses met,` |
+| P2b | `book/chapters/03-reconciliation.md` | `And somebody had still been counting, carefully, eight and a half years later.` | `And somebody had still been counting, carefully, eight years and four months later.` |
+| P2c | `book/chapters/04-not-far-only-elsewhere.md` | `Eight and a half years. The field had been frightened` | `Eight years, four months and sixteen days. The field had been frightened` |
+| P2d | same file | `a dream he had had perhaps a thousand times in eight and a half years` | `a dream he had had perhaps a thousand times in eight years` |
+| P2e | `book/chapters/06-count-forwards.md` | `Three and a half weeks. It had sat there for three and a half weeks under my own words` | `Three weeks. It had sat there for three weeks under my own words` |
+| P2f | same file (author's notes) | `and sat unnoticed for about three and a half weeks` | `and sat unnoticed for about three weeks` |
+| P2g | `content/phase-1/post-02-day-zero.md` | `Eight and a half years later, perhaps the same machine came back out` | `Eight years and four months later, perhaps the same machine came back out` |
 
-**Check after B2:** the next sentence ("*Contribution*, as if I'd put money in a tin.") still follows naturally. No other change is needed.
+P2c gives THREE the exact count a demographer would keep. P2d leaves the actuary's rounding loose, as a non-counter's would be.
+
+### P3. Chapter 6: say why 144 lb is eerie (panel: casual reader)
+
+File: `book/chapters/06-count-forwards.md`
+
+**Find:**
+
+```
+*144 LB.*
+
+I rang Danny.
+```
+
+**Replace with:**
+
+```
+*144 LB.*
+
+As if one machine had been carried out of that house and the same weight of machine set down beside my desk.
+
+I rang Danny.
+```
+
+This is Nell's image, not a claim. Danny's "heavy office kit is heavy office kit" still answers it, and canon decision D5's reveal ("the server *was* the new teletype") stays for ch 23.
+
+### P4. Chapter 4: introduce terms gently, and cut one foretold death (panel: "too many names and terms", 4 of 6; "the narrator tells how people will die")
+
+Ch 4 brings in *counsel, the Long Room, the Table, the Listening Room* and *the Founders*, all canon names, without a gloss. Keep every name, but explain each one at first use. And of the two foretold deaths in ch 4, keep the piano dealer's and cut THREE's.
+
+File: `book/chapters/04-not-far-only-elsewhere.md`
+
+| # | Find | Replace with |
+|---|---|---|
+| P4a | `After that the counsel had told them other things` | `After that the machine's advice (the counsel, they called it now, as if it were a lawyer) had told them other things` |
+| P4b | `The Long Room had thirteen chairs now.` | `The long dining room, where four places had once stayed clean, had thirteen chairs now. They called it the Long Room.` |
+| P4c | `on the nights the Table met:` | `on the nights the twelve of them met as the Table:` |
+| P4d | `Only the three of them were in the Listening Room. That was the rule now, for the old machine: the Founders, and nobody else.` | `Only the three of them were in the small panelled room, which the others called the Listening Room. That was the rule now, for the old machine: the three who had stayed in 1962, the Founders, and nobody else.` |
+| P4e | (author's notes) `*"The machine would not print again for fifty-five years. By then she would have been dead for twenty-five of them."* (1971 + 55 = 2026; THREE dies in 2001.)` | `*"The machine would not print again for fifty-five years."* (1971 + 55 = 2026.) The death clause was cut in fixes v1.2 (panel: foretold deaths).` |
+
+**P4f.** The sentence in P4e also appears in the chapter text, so use this two-paragraph anchor.
+
+**Find:**
+
+```
+and would be kept.
+
+The machine would not print again for fifty-five years. By then she would have been dead for twenty-five of them.
+```
+
+**Replace with:**
+
+```
+and would be kept.
+
+The machine would not print again for fifty-five years.
+```
+
+P4b ties the Long Room back to ch 1's dining table, "still set for seven". **Same paragraph as P2c:** P4a and P2c are both in the "Eight and a half years…" paragraph. Their Find strings don't overlap, so apply both.
+
+### P5. Chapter 5: trim the Wharf Road exposition (panel: "ch 5 is a catalogue", 4 of 6)
+
+File: `book/chapters/05-the-sensible-voice.md`
+
+**Find:**
+
+```
+His mum did two cleaning jobs, he said, mornings at an office and evenings at a hotel, and in between she worried. Their flat was on the Wharf Road estate. The council had sent a letter about a regeneration scheme in partnership with a private developer, and a list of blocks to be demolished in phase one, and theirs was on it. Nobody could tell them where they'd go, or when, or whether they'd ever afford to come back.
+```
+
+**Replace with:**
+
+```
+His mum did two cleaning jobs, he said, and in between she worried. Their block on the Wharf Road estate was on the council's list for demolition, for a regeneration scheme with a private developer, and nobody could tell them where they'd go, or whether they'd ever afford to come back.
+```
+
+The private developer (secretly a Larkspire fund) and the demolition list both stay. Jack's next line ("*Consultation*… Means they've decided.") still follows naturally.
 
 ---
 
 ## Part C — Martin to tick
 
-- [x] **C1. A style ceiling for new chapters.** Add to `CLAUDE.md` § "Voice & style": `**Similes:** at most two "the way…" similes per chapter; vary the shape (a plain statement, "like", or a concrete detail). Interludes avoid Nell's "the way you'd…" habit altogether.`
-- [x] **C2. Retire a tic.** Danny's "his face did the thing" appears three times (ch 5 ×2, ch 6). Add to `bible/voices.md` under Danny: `"His face did the thing" is used up (ch 5–6). Find a new tell for him from ch 7.`
+### Style rules
+- [ ] **C1. Similes, stings and foretold deaths** (widened from the first issue). Add to `CLAUDE.md` § "Voice & style": `**Restraint devices:** at most two "the way…" similes per chapter (interludes avoid Nell's "the way you'd…" habit); at most one closing aphorism or "sting" per chapter; at most one foretold death per interlude.`
+- [ ] **C2. Retire Danny's tic** (count corrected). In `bible/voices.md`, under Danny: `"His face did the thing" is used up (ch 5, ch 6). Find a new tell for him from ch 7.`
+
+### Date labels at time jumps (panel: the casual reader "counted on his fingers")
+- [ ] **C3.** Add section labels where a chapter jumps in time. The builder already supports them (`LABEL = ^\*\*([^*a-z]+)\*\*$`). Each goes on its own line directly after the `---` that opens the section:
+  - Ch 2, before `The archive was in a storage unit by the old rail yard`: `**APRIL 2026**`
+  - Ch 5, before `On Saturday he walked me to the Mission Hall.`: `**SATURDAY 16 MAY**`
+  - Ch 6, before `The letter came on the Saturday.`: `**SATURDAY 23 MAY**`
+
+  Then note them in the outline's narrator-labels table. Keep the day-counts in the chapter labels: ch 2's 22,861 pays off for close readers in ch 6.
+
+### Outline notes (`book/outline.md`; no chapter text yet)
+- [ ] **C4. Ch 8 makes the best case for the plan.** Add to the ch 8 entry: `Crane's overnight arithmetic should be an argument a reasonable reader could half-accept (the panel's literary-political and thriller readers want "a reasoned villain"). It is the book's strongest case for the plan, made before anyone answers it.`
+- [ ] **C5. One false clue in Act Two.** Add under Act Two: `At least one clue leads nowhere or the wrong way and costs Nell time (e.g. Graham's grey door, ch 6 → 7). The panel found the trail "interlocking a little too neatly".`
+- [ ] **C6. Give the blamed a voice (critic's idea #5).** Add to ch 20 (or 17): `A member of the family behind the rainbow (ch 5–6) gets a full scene and speaks for themselves: specific, funny, not a spokesperson. A person, never a category; no real group named.`
 
 ---
 
@@ -105,15 +191,19 @@ No words change; only the order does. The section break (`---`) and "That night 
 
 | Check | Result |
 |---|---|
-| A1 vs B5 and B6 (all in ch 5) | Different paragraphs. A1 only reorders; B5 and B6 edit lines outside the moved block. ✓ |
-| A1's moved paragraph keeps "the way you'd close a door…" | Kept on purpose: it's one of the strongest images, and ch 5 still has 5 after Part B. ✓ |
-| A2 vs v1.0 D4 (the Fragment Four echo) | The echo ("told her it was not the most pressing point") is untouched. ✓ |
-| A3 vs v1.0 D10 (container berth) | Only the timing phrase changes; the image stays. ✓ |
-| A4 vs v1.1 A5c and canon decision D5 | Same meaning, one colon. ✓ |
-| A5 and B4 (both in ch 3) | Different paragraphs. ✓ |
-| B7 vs v1.1 A3 (the Danny flicker, ch 6) | Different section; the flicker's two similes are kept. ✓ |
-| Hard rules | No content changes; style only. ✓ |
-| All Find strings | Checked against `68de6b9`; each occurs once in its file. ✓ |
+| Part P vs the applied A1–A5 and B1–B7 | No overlap. P1 anchors on A1's new order; nothing else touches an applied sentence. ✓ |
+| P1, P5 (ch 5) | Separate paragraphs. P1's line is plain, not a hindsight tease. ✓ |
+| P2c vs P4a (same ch 4 paragraph) | Different sentences; apply both. ✓ |
+| P2d vs A3 (ch 4 Le Havre) | Different paragraphs. ✓ |
+| P2e, P2f, P3 (ch 6) vs A4, B7 | Five distinct places. P3 anchors on the second `*144 LB.*` (followed by "I rang Danny."). ✓ |
+| P2b (ch 3) vs A5, B4 | Different paragraphs. ✓ |
+| P4 vs canon names (bible: Long Room, Listening Room, Founders, the Table) | All names kept; only glossed. ✓ |
+| P4f vs the ch 24 setup | "Would not print again for fifty-five years" kept. ✓ |
+| P2g | The ARG's Post #2 is corrected to match the book. ✓ |
+| P3 vs canon decision D5 | Image only; the reveal stays in ch 23. ✓ |
+| C3 vs the builder | Labels match the `LABEL` regex. ✓ |
+| Hard rules | No content risk. C6 has its guard written in. ✓ |
+| All Part P Find strings | Script-checked against `5aa6758`; each occurs once. ✓ |
 
 ---
 
@@ -123,4 +213,5 @@ No words change; only the order does. The section break (`---`) and "That night 
 |---|---|---|---|
 | 1.0 | 2026-10-26 | Creative critic | First issue (applied in `a9ea277`). |
 | 1.1 | 2026-10-26 | Creative critic | Chapter 6 fixes, idea #4 (applied in `2dd2f71`). |
-| 1.2 | 2026-10-26 | Creative critic | Re-review issues #1–6: ch 5 paragraph order, four one-line fixes, seven simile cuts, two optional style rules. |
+| 1.2 | 2026-10-26 | Creative critic | Re-review issues #1–6 (Parts A–B applied in `9b52ee4`; C1–C2 awaiting tick). |
+| 1.2 rev. | 2026-10-26 | Creative critic | Reader-panel fixes folded in at Martin's request as Part P. C1 widened, C2 count corrected, C3–C6 added. |

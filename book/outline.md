@@ -39,22 +39,22 @@ canon-refs: [bible/*, book/synopsis, book/chapters/01-day-zero, book/act-2/scene
 
 ## ACT ONE: THE LONG WEATHER (chapters 1–10, ~22,000–24,000 words)
 
-**1. Day Zero** *(1962; interlude-style opener; drafted v2.2, ~3,000)*
+**1. Day Zero** *(1962; interlude-style opener; drafted v2.3, ~2,950)*
 The Coyle's driver delivers the teletype. Seven mid-level officials come to a seminar. At 02:10 it begins: *SIT. THERE IS TIME.* Four leave; three stay for the prediction. The demographer writes *Day 0*. → [chapter file](chapters/01-day-zero.md)
 
-**2. Contribution to the Transition** *(April 2026, Day 23,199; drafted v1.1, ~2,500)* → [chapter file](chapters/02-contribution-to-the-transition.md)
+**2. Contribution to the Transition** *(April 2026, Day 23,199; drafted v1.2, ~2,500)* → [chapter file](chapters/02-contribution-to-the-transition.md)
 Nell's redundancy, told through the croissants and the letter. The archive by the rail yard; the sorting eye. The 1971 manifest: no weight, no charge, *D. 3062*, the purple stamp. That night she starts a blog, because writing things down is the one thing left. *Ends:* she hits "publish" and the post sits there, unread, *"like a lantern in a field."*
 
-**3. Reconciliation** *(drafted v1.1, ~2,500)* → [chapter file](chapters/03-reconciliation.md)
+**3. Reconciliation** *(drafted v1.2, ~2,350)* → [chapter file](chapters/03-reconciliation.md)
 Vehicle logs, the 1962 box, the driver's note (chapter 1's words, seen again sixty-four years later; readers feel the click). Day 0 solved. **Len** over coffee: the cash man, the wardrobe that hummed, Terry. *Ends:* *"You notice it for forty years."*
 
-**4. Interlude: Not Far, Only Elsewhere** *(2 March 1971, Day 3,061; drafted v1.1, ~1,450)* → [chapter file](chapters/04-not-far-only-elsewhere.md)
+**4. Interlude: Not Far, Only Elsewhere** *(2 March 1971, Day 3,061; drafted v1.2, ~1,450)* → [chapter file](chapters/04-not-far-only-elsewhere.md)
 The last session at Harrowgate before the machine is moved. The three Founders, now quietly wealthy from their first container-shipping stakes, uneasy at how easy it was. The machine prints *NOT FAR. ONLY ELSEWHERE.* (recording HG-71). Cut to Le Havre: the French actuary plays three notes on his piano and closes the lid forever. *Function:* shows the Table's first riches and first guilt. They were nobodies once.
 
-**5. The Sensible Voice** *(drafted v2.1, ~2,800)* → [chapter file](chapters/05-the-sensible-voice.md)
+**5. The Sensible Voice** *(drafted v2.2, ~2,800)* → [chapter file](chapters/05-the-sensible-voice.md)
 **Danny** in Nell's kitchen: "It's a tax dodge, Nell." The **Mission Hall** and **Pastor Ama**. **Jack Prentice ("Jordan")**, 19, his apprenticeship cut and his mum's flat on the Wharf Road list. The first **@longweather_** comments, described and deleted. *Ends:* Danny's line, "Don't let anyone tell you it's the people down your street," spoken while a Larkspire letting agent's van idles outside.
 
-**6. Count Forwards** *(drafted v1, ~2,250)* → [chapter file](chapters/06-count-forwards.md)
+**6. Count Forwards** *(drafted v1.1, ~2,300)* → [chapter file](chapters/06-count-forwards.md)
 The line in the source code at 03:12. The typed letter. Day 22,861: the croissants again. **144 lb.** Her father, the man who knew where everything was. *Ends:* *"I'm going to stop this paragraph here,"* as she stares at her father's crossword dictionary.
 
 **7. The Grey Door**
