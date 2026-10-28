@@ -1,7 +1,7 @@
 # Book plan: synopsis, outline and resolution map
 
 *Urban Paranoia source pack for NotebookLM. Private: contains the full canon and ending.*
-*Assembled from: `book/synopsis.md`, `book/outline.md`, `book/resolution-map.md`, `book/act-2/scene-the-wall.md`. Built 2026-10-28, commit a4b9281.*
+*Assembled from: `book/synopsis.md`, `book/outline.md`, `book/resolution-map.md`, `book/act-2/scene-the-wall.md`. Built 2026-10-28, commit 78bda27.*
 
 Chapters 1-6 are drafted; 7-30 and the epilogue are planned. The outline's 'Threads and payoffs' table tracks every set-up.
 
@@ -75,6 +75,10 @@ The book does not end with the Table destroyed or the lease broken. It ends with
 **Shape:** 30 chapters in three acts, plus a short epilogue. Present-day chapters (spring–autumn 2026) are in **Nell's first person**. Seven **interludes** step back into the Table's history in close third person, each a short, self-contained story that shifts how the reader sees the present. The book opens on **Day 0** (14 Oct 1962) and closes on the 64th anniversary, **Day 23,376** (Wed 14 Oct 2026).
 
 **The spine:** Nell moves from *collecting evidence* (Act 1), to *seeing the shape* (Act 2, ending at the Wall), to *acting with other people* (Act 3). The Table is never defeated. It's **surprised**.
+
+**Drafting priorities:** a sinister, compelling plot; variable pacing; memorable characters; at award-winning SF novella standard (full rules in `CLAUDE.md`, Voice & style).
+
+**Pacing rule:** every chapter knows its speed. **Slow** stretches disclose (history, a document, Crane's context, an interlude). **Fast** stretches thrill: action, less information, short paragraphs, nothing explained until afterwards, if at all. Alternate them across the book and within chapters, and never let two slow chapters run back to back in the present day. Act One's fast beats: the Coyle's keycard (ch 6), Graham's door (ch 7), the night at DC-3 and the bus stop (ch 10).
 
 **Rhythm rule:** whenever the Tenants speak, long observed paragraphs are broken by single centred lines of counsel (as in chapter 1).
 

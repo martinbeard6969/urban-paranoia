@@ -1,7 +1,7 @@
 # Chapter 6: Count Forwards
 
 *Urban Paranoia source pack for NotebookLM. Private: contains the full canon and ending.*
-*Assembled from: `book/chapters/06-count-forwards.md`. Built 2026-10-28, commit a4b9281.*
+*Assembled from: `book/chapters/06-count-forwards.md`. Built 2026-10-28, commit 78bda27.*
 
 
 ## Editor's summary

@@ -11,6 +11,10 @@ canon-refs: [bible/*, book/synopsis, book/chapters/01-day-zero, book/act-2/scene
 
 **The spine:** Nell moves from *collecting evidence* (Act 1), to *seeing the shape* (Act 2, ending at the Wall), to *acting with other people* (Act 3). The Table is never defeated. It's **surprised**.
 
+**Drafting priorities:** a sinister, compelling plot; variable pacing; memorable characters; at award-winning SF novella standard (full rules in `CLAUDE.md`, Voice & style).
+
+**Pacing rule:** every chapter knows its speed. **Slow** stretches disclose (history, a document, Crane's context, an interlude). **Fast** stretches thrill: action, less information, short paragraphs, nothing explained until afterwards, if at all. Alternate them across the book and within chapters, and never let two slow chapters run back to back in the present day. Act One's fast beats: the Coyle's keycard (ch 6), Graham's door (ch 7), the night at DC-3 and the bus stop (ch 10).
+
 **Rhythm rule:** whenever the Tenants speak, long observed paragraphs are broken by single centred lines of counsel (as in chapter 1).
 
 **Typography rule:** centred capitals (`>`) are reserved for the Tenants. Letters, documents, stamps and notes use `>>` (left-aligned, ruled). Counsel quoted inside a document is set as a document.

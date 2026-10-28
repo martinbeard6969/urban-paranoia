@@ -89,6 +89,8 @@ These rules keep the campaign effective, legally safe and ethically sound. Apply
 
 ## Voice & style
 
+- **Drafting priorities (Martin, 28 Oct 2026), in order:** (1) a **sinister, compelling plot**; (2) **variable pacing**: slow passages disclose information (history, documents, explanation), fast passages carry the thrill with less information and more action, shorter paragraphs and fewer explanations; (3) **memorable characters**, each with a voice, a want and a detail a reader keeps. The style below stays the same.
+- **Standard:** the prose quality of an award-winning SF novella (Hugo, Nebula, Locus level). This is a quality bar, not a length: the book stays a 70,000–80,000-word novel (`/book/outline.md`, "Length").
 - **Tone:** quiet dread over shouting. Unsettling, plausible, literate. *Night Vale* calm meets *X-Files* paranoia.
 - **Show, don't assert.** Present patterns, documents and coincidences and let the audience connect them. Vesper doubts themself often, and that doubt is part of the hook.
 - **Grounded texture:** use real *trends* (wage stagnation, automation, union decline, inflation) as atmosphere, described accurately. The fiction is the *explanation*, not the facts.
