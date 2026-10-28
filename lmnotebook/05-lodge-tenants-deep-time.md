@@ -1,7 +1,7 @@
 # The Lodge, the Tenants and deep time
 
 *Urban Paranoia source pack for NotebookLM. Private: contains the full canon and ending.*
-*Assembled from: `bible/the-lodge.md`, `bible/the-tenants.md`, `bible/deep-time.md`, `bible/the-ladder.md`, `bible/canon-decisions.md`, `bible/artefacts-register.md`, `bible/open-questions.md`. Built 2026-10-28, commit 22ca2c0.*
+*Assembled from: `bible/the-lodge.md`, `bible/the-tenants.md`, `bible/deep-time.md`, `bible/the-ladder.md`, `bible/canon-decisions.md`, `bible/artefacts-register.md`, `bible/open-questions.md`. Built 2026-10-28, commit a4b9281.*
 
 The secret canon. The canon decisions (D-numbers) settle questions the drafts must not contradict.
 
@@ -669,6 +669,7 @@ Canon and production decisions that are still open. When one is settled, move th
 
 ## Settled (log)
 
+- **Book and ARG paper differ, on purpose** (28 Oct 2026). The book's Act One shows only two documents (the 1971 manifest and the Archivist's letter); the blog keeps every scan, log and drop, because Vesper's blog is where Nell posts her paper. The ARG posts are unchanged. Where the book tells a find through a person (the driver's note via Len, 144 lb via the cabinet plate), the blog may still show the scan.
 - **Day 0** = 14 Oct 1962.
 - **Archivist planted the Post #2 comment**; 22,8xx = Day 22,861 = 17 May 2025.
 - **Walkout date** = Day 8,950 = 16 Apr 1987 (corrected from an earlier "9,0xx").

@@ -1,7 +1,7 @@
 # Chapter 5: The Sensible Voice
 
 *Urban Paranoia source pack for NotebookLM. Private: contains the full canon and ending.*
-*Assembled from: `book/chapters/05-the-sensible-voice.md`. Built 2026-10-28, commit 22ca2c0.*
+*Assembled from: `book/chapters/05-the-sensible-voice.md`. Built 2026-10-28, commit a4b9281.*
 
 
 ## Editor's summary
@@ -28,6 +28,8 @@
 - The missing knock (D14): the old man's tartan flask (he is death 1, ch 13) and Danny's ninety-second door timer (explained in ch 18).
 
 **Editor's watch-points:** this chapter is held to strict care rules: victims shown with dignity, no slurs quoted, abuse met only with support, and no group named. Readers split on whether the neighbourhood tour runs long.
+
+**Revision pending (Act One pacing, 28 Oct 2026):** Jack moves to ch 7 and @longweather_ to ch 6; the room goes to Danny, Ama and suspense; Cobb is the van's driver (sighting 2). See the brief under this chapter in the outline (source 07). The full text below is the current draft.
 
 
 ---

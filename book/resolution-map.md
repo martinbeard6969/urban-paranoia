@@ -16,7 +16,7 @@ Every open question in Book 1, and where it is answered. **Rule:** a question ra
 | Who is the faceless man / Cobb, and what is he? | ch 1, 10 | ch 19, **ch 29** | A Steward under Seat Twelve (Ward), who never knew the design. He's also a Larkspire tenant: in ch 29 Nell sees his name on the strike list from another estate. He signed. He never speaks to her again. |
 | Is Crane a handler or a defector? | ch 9 | **ch 25** | Both, in turn: sent to handle her, stopped weeks ago without telling anyone, now defecting with the Model 7 workbooks |
 | Did Nell's father know? | ch 6 | **ch 19** | No ("Weather ✗"). He phoned drivers for eight years, then quietly refused after the 1987 Walkout |
-| Was Marguerite murdered? | ch 7, 11 | **ch 25** | No. An accident the Table let everyone believe was murder, because fear was useful |
+| Was Marguerite murdered? | ch 11, 12 | **ch 25** | No. An accident the Table let everyone believe was murder, because fear was useful |
 | Who runs @longweather_, and how does it know what Nell reads? | ch 5 | **ch 23** | A Steward team for the Signal and Border Seats, text drafted by a system trained on Lodge briefings (hence no "I"). The 144 lb server logs her keycard. |
 | Who runs Clearfell and Frostline? | ch 16 | **ch 23** | The same rented office. Jack sees both recruiters never say "I". |
 | What happens to Jack? | ch 5, 16 | ch 23, **ch 28** | He leaves Clearfell, then speaks at Wharf Road as both Jordan and Jack |

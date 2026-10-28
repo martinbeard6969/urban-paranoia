@@ -44,7 +44,7 @@ The Tenants' real weapon is **division**. Every crisis is designed to turn neigh
 - **Act Two, Thirteen Chairs (ch 11–20):** seeing the shape; the midpoint is the Wall (ch 18).
 - **Act Three, Interesting (ch 21–30):** acting with other people.
 - Present-day chapters are in Nell's first person. Seven interludes step back into the Table's history in close third.
-- **Status (28 Oct 2026):** chapters 1–6 drafted, about 14,400 words. Chapter 7, *The Grey Door*, is planned next.
+- **Status (28 Oct 2026):** chapters 1–6 drafted, about 14,400 words. Chapter 7, *The Grey Door*, is planned next. An Act One pacing revision (28 Oct 2026) cuts the act's on-page documents to two, spreads ch 5's introductions out, and gives Cobb three unnamed sightings before ch 10; chapters 2, 3, 5 and 6 await redrafting to match.
 - The title phrase "urban paranoia" appears **once** in the novel, in ch 25, as the Lodge's U.P. measure of suspicion between neighbours.
 
 ## The campaign (ARG)

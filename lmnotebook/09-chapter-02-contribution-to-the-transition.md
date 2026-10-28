@@ -1,7 +1,7 @@
 # Chapter 2: Contribution to the Transition
 
 *Urban Paranoia source pack for NotebookLM. Private: contains the full canon and ending.*
-*Assembled from: `book/chapters/02-contribution-to-the-transition.md`. Built 2026-10-28, commit 22ca2c0.*
+*Assembled from: `book/chapters/02-contribution-to-the-transition.md`. Built 2026-10-28, commit a4b9281.*
 
 
 ## Editor's summary
@@ -26,6 +26,8 @@
 - Danny's first lines: "It's a tax dodge."
 
 **Editor's watch-points:** the ARG's Post #1 covers the same moment from the blog side. Keep the two consistent.
+
+**Revision pending (Act One pacing, 28 Oct 2026):** the manifest stays; the archive inventory is to be shortened so she finds it by hand. See the brief under this chapter in the outline (source 07). The full text below is the current draft.
 
 
 ---

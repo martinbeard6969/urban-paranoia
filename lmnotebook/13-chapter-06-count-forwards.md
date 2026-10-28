@@ -1,7 +1,7 @@
 # Chapter 6: Count Forwards
 
 *Urban Paranoia source pack for NotebookLM. Private: contains the full canon and ending.*
-*Assembled from: `book/chapters/06-count-forwards.md`. Built 2026-10-28, commit 22ca2c0.*
+*Assembled from: `book/chapters/06-count-forwards.md`. Built 2026-10-28, commit a4b9281.*
 
 
 ## Editor's summary
@@ -28,6 +28,8 @@
 **Editor's watch-points:**
 - The Archivist's letter is set as a document (`>>`), never in the Tenants' centred style.
 - In the ARG's Post #3, Nell redacts her surname.
+
+**Revision pending (Act One pacing, 28 Oct 2026):** @longweather_ opens the chapter; the 03:12 line and both enclosures are cut, the letter carries the count and the 144 lb; the man with the dog is Cobb (sighting 3); Nell reads 144 LB on the cabinet at Coyle's on Mon 25 May, where her keycard still works. See the brief under this chapter in the outline (source 07). The full text below is the current draft.
 
 
 ---

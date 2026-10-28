@@ -15,6 +15,10 @@ canon-refs: [bible/*, book/synopsis, book/chapters/01-day-zero, book/act-2/scene
 
 **Typography rule:** centred capitals (`>`) are reserved for the Tenants. Letters, documents, stamps and notes use `>>` (left-aligned, ruled). Counsel quoted inside a document is set as a document.
 
+**Paper rule (Act One pacing, 28 Oct 2026):** in Act One only **two documents** appear on the page: the 1971 manifest (ch 2) and the Archivist's letter (ch 6). Everything else Nell finds through people, places, her own skill and her senses: what someone remembers, what she does, what she hears. Logs, screenshots and enclosures are told in a line of her working, never reproduced. The ARG keeps its scans and puzzles, because the blog is where Nell posts her paper (see `bible/open-questions.md`, Settled).
+
+**Cobb before he speaks:** Cobb appears three times, unnamed, before ch 10: at the next table in Len's café (ch 3), at the wheel of the bird-logo van (ch 5), and walking a dog past Nell's window (ch 6). Each time he's described too plainly to stick on first reading; on rereading he's obvious. In ch 10 he lets her know it was him each time.
+
 **Narrator labels:** every chapter opens with a small-capitals line under its title saying **who is narrating and when**. Nell's chapters give her name, the Lodge day-count and the real date; interludes give the viewpoint character's **role** (Founders stay unnamed), the day-count where it matters, and the place and date. If the viewpoint changes inside a chapter, a section label marks it. So does a jump in time the reader would otherwise have to count (e.g. `**SATURDAY 23 MAY**`). Format in the chapter file: a bold, all-capitals block, e.g. `**NELL · DAY 23,220 · MONDAY 11 MAY 2026**`.
 
 | Ch | Narrator label (opening line) | Section labels |
@@ -39,35 +43,45 @@ canon-refs: [bible/*, book/synopsis, book/chapters/01-day-zero, book/act-2/scene
 
 ## ACT ONE: THE LONG WEATHER (chapters 1–10, ~22,000–24,000 words)
 
+*Act note:* discovery is active. Nell finds things by doing her job (reconciling), by asking people, and by going places, not by opening envelopes. Chapters 2, 3, 5 and 6 are drafted but **revision is pending** against the briefs below; until then their text differs from this plan.
+
 **1. Day Zero** *(1962; interlude-style opener; drafted v2.3, ~2,950)*
 The Coyle's driver delivers the teletype. Seven mid-level officials come to a seminar. At 02:10 it begins: *SIT. THERE IS TIME.* Four leave; three stay for the prediction. The demographer writes *Day 0*. → [chapter file](chapters/01-day-zero.md)
 
 **2. Contribution to the Transition** *(April 2026, Day 23,199; drafted v1.2, ~2,500)* → [chapter file](chapters/02-contribution-to-the-transition.md)
-Nell's redundancy, told through the croissants and the letter. The archive by the rail yard; the sorting eye. The 1971 manifest: no weight, no charge, *D. 3062*, the purple stamp. That night she starts a blog, because writing things down is the one thing left. *Ends:* she hits "publish" and the post sits there, unread, *"like a lantern in a field."*
+Nell's redundancy, told through the croissants and the letter. The archive by the rail yard; the sorting eye. The 1971 manifest: no weight, no charge, *D. 3062*, the purple stamp. That night she starts a blog, because writing things down is the one thing left. *Ends:* she hits "publish" and the post sits there, unread, *"like a lantern in a field."* 
+
+**Revision brief (Act One pacing, 28 Oct 2026):** the manifest stays as the act's first document. Shorten the archive inventory; let her find the manifest with her hands (a soft box, a wrong weight, a stamp) rather than in a list.
 
 **3. Reconciliation** *(drafted v1.2, ~2,350)* → [chapter file](chapters/03-reconciliation.md)
-Vehicle logs, the 1962 box, the driver's note (chapter 1's words, seen again sixty-four years later; readers feel the click). Day 0 solved. **Len** over coffee: the cash man, the wardrobe that hummed, Terry. *Ends:* *"You notice it for forty years."*
+Vehicle logs, the 1962 box, the driver's note (chapter 1's words, seen again sixty-four years later; readers feel the click). Day 0 solved. **Len** over coffee: the cash man, the wardrobe that hummed, Terry. *Ends:* *"You notice it for forty years."* 
+
+**Revision brief (Act One pacing, 28 Oct 2026):** no logs or second manifest reproduced. Day 0 is solved by the owl reader's guess and Nell's own night of reconciling the 1971 vehicle logs, told in one paragraph of her working, as a skill rather than a reading. The click back to ch 1 comes **through Len**: he tells her what Old Tommy used to say about a 1962 run, seven cars on the drive, no staff, a machine "needed from tomorrow". The 1962 delivery manifest isn't shown; Len's memory carries the note's words. **Cobb, sighting 1:** a polite man at the next table, reading nothing. Len goes quiet while he's there and afterwards can't say what he looked like (the same face that "didn't stick"). The ending is unchanged.
 
 **4. Interlude: Not Far, Only Elsewhere** *(2 March 1971, Day 3,061; drafted v1.2, ~1,450)* → [chapter file](chapters/04-not-far-only-elsewhere.md)
 The last session at Harrowgate before the machine is moved. The three Founders, now quietly wealthy from their first container-shipping stakes, uneasy at how easy it was. The machine prints *NOT FAR. ONLY ELSEWHERE.* (recording HG-71). Cut to Le Havre: the French actuary plays three notes on his piano and closes the lid forever. *Function:* shows the Table's first riches and first guilt. They were nobodies once.
 
 **5. The Sensible Voice** *(drafted v2.2, ~2,800)* → [chapter file](chapters/05-the-sensible-voice.md)
-**Danny** in Nell's kitchen: "It's a tax dodge, Nell." The **Mission Hall** and **Pastor Ama**. **Jack Prentice ("Jordan")**, 19, his apprenticeship cut and his mum's flat on the Wharf Road list. The first **@longweather_** comments, described and deleted. *Ends:* Danny's line, "Don't let anyone tell you it's the people down your street," spoken while a Larkspire letting agent's van idles outside.
+**Danny** in Nell's kitchen: "It's a tax dodge, Nell." The **Mission Hall** and **Pastor Ama**. **Jack Prentice ("Jordan")**, 19, his apprenticeship cut and his mum's flat on the Wharf Road list. The first **@longweather_** comments, described and deleted. *Ends:* Danny's line, "Don't let anyone tell you it's the people down your street," spoken while a Larkspire letting agent's van idles outside. 
+
+**Revision brief (Act One pacing, 28 Oct 2026):** lighten the load. **Jack moves to ch 7** (with the name joke and "He stayed Jack to me"), and **@longweather_ moves to ch 6**. Ch 5 keeps Danny, the walk (trimmed), Ama and the hall, the queue flare-up and the old man's flask (D14). Use the room for human interest and suspense: Danny's granddaughter and his warehouse nights, his ninety-second door timer, the young woman in sunglasses taken into the back room, and the van. **Cobb, sighting 2:** the man at the wheel of the bird-logo van, who lifts two fingers from the wheel to Danny as if they knew each other. Danny doesn't know him. The ending is unchanged.
 
 **6. Count Forwards** *(drafted v1.1, ~2,300)* → [chapter file](chapters/06-count-forwards.md)
-The line in the source code at 03:12. The typed letter. Day 22,861: the croissants again. **144 lb.** Her father, the man who knew where everything was. *Ends:* she takes down her father's crossword dictionary, sees his pencil marks, and closes it unread: *"Some things you count. And some things you leave on the shelf…"*
+The line in the source code at 03:12. The typed letter. Day 22,861: the croissants again. **144 lb.** Her father, the man who knew where everything was. *Ends:* she takes down her father's crossword dictionary, sees his pencil marks, and closes it unread: *"Some things you count. And some things you leave on the shelf…"* 
+
+**Revision brief (Act One pacing, 28 Oct 2026):** **@longweather_ opens the chapter** (moved from ch 5): comments that blame her neighbours and know about the last Tuesday of her notice. Cut the reader's email and the 03:12 source line: the **letter** says it has been in her account and knows her password was her father's birthday, and she checks the post history once. The letter now carries the count the source line held (*22,8xx days in*), so she can still count forwards to Day 22,861 and the croissants. The letter is the act's second and last document. Cut both enclosures; instead the letter says the 1971 machine weighed **144 lb** and asks what came to her desk. **Cobb, sighting 3:** in the window scene, the man with the dog is a man she's never seen on the street before, and he doesn't look up. On **Monday 25 May (Day 23,234)** she goes back to Coyle's to hand in her keycard, finds it **still opens the doors**, and reads *144 LB* on the plate of the routing system's server cabinet herself (seeds D5's keycard logs). Then home, and the dictionary, closed unread. The chapter's day-count label stays; the date range runs to 25 May.
 
 **7. The Grey Door**
-The colour-pick. `/6b6e70`. Fragment Four, Marguerite's note, HG-68. The tones hit Nell physically, through cheap laptop speakers: the same "too pure" sound as chapter 1. *Ends:* *EVEN FOR THE ONES WHO ANSWERED THE TELEPHONE.*
+Danny takes Nell to Wharf Road. **Jack Prentice**, 19 (moved from ch 5): the name joke ("Jordan"), "He stayed Jack to me", his cut Coyle's apprenticeship, his mum at the table with a "consultation" letter nobody reads aloud, and a patient message thread on his phone. Then the **false clue** (v1.2 C5): the letter's grey band matches **Graham's front door**. Nell knocks. Graham is a real person with a real story (to be found in drafting: specific, funny, sad) and nothing to do with any of it. She loses a day and a little pride. That night she sees the grey is a colour code, `/6b6e70`, and finds a near-empty page: one recording, **HG-68**, and one line. The tones hit her physically through cheap laptop speakers: the same "too pure" sound as chapter 1. Fragment Four and Marguerite's note are held back for ch 12's parcel. *Ends:* the page's only line, *EVEN FOR THE ONES WHO ANSWERED THE TELEPHONE.*
 
 **8. Interlude: Liaison** *(1979)*
 Hollis Crane, 34, is brought to Harrowgate as the new liaison and sits with the machine for the first time. He's dazzled. He does the arithmetic overnight and is proud of it by dawn. That week a Canadian insurance regulator is seated as Seat Four, replacing the chair's first holder. *Function:* makes Crane sympathetic, and culpable, before Nell meets him. Crane's overnight arithmetic should be an argument a reasonable reader could half-accept (the panel's literary-political and thriller readers want "a reasoned villain"). It is the book's strongest case for the plan, made before anyone answers it.
 
 **9. Card 0144**
-The Harlow-Vane site, the card, the counter climbing (*"viewed 1 time"* → 400 → 9,000). Crane's first email. They meet for tea in a station café: hymns, kindness, precise memory. He gives her context she couldn't find alone. *Dramatic irony at chapter end:* Crane, on the train home, phones a number and tells a polite voice (a **Factor**) everything she said.
+By morning her readers have found **card 0144** in the page's code, and the Harlow-Vane card's view counter is climbing (one line, not a screenshot). The card names Hollis Crane. He writes to her before she can write to him, and they meet for tea in a station café: hymns, kindness, precise memory. The chapter is the meeting. He gives her context she couldn't find alone, and she likes him. *Dramatic irony at chapter end:* Crane, on the train home, phones a number and tells a polite voice (a **Factor**) everything she said.
 
 **10. Canaries**
-**Teo**, the night technician at DC-3: 12×12 grids in the error logs, power drawn by "idle" racks rented next to Lanternwork's. Nell's Weather report on the hiring gap. Then **Cobb**, at a bus stop, kindly reciting her Tuesday back to her. *Ends Act One:* she realises she's being **watched**, and that the watchers aren't hiding it.
+**Teo**, the night technician at DC-3, lets Nell in on a night shift. He shows her rather than tells her: "idle" racks rented next to Lanternwork's, drawing full power, humming like the wardrobe Len described; a 12×12 grid on his screen for a second before he closes it. Nell's Weather report on the hiring gap goes out (one line). Then **Cobb**, at a bus stop, kindly reciting her Tuesday back to her, and then the café, the van and the dog. She realises it was the same man each time. *Ends Act One:* she realises she's being **watched**, and that the watchers aren't hiding it.
 
 ---
 
@@ -79,7 +93,7 @@ The Harlow-Vane site, the card, the counter climbing (*"viewed 1 time"* → 400 
 Marguerite at the Table. "A gardener still chooses the rows." Mother Quill's kindness. Crane silent in the corner. That night a Coyle's office clerk, **Emmanuel Okafor**, takes a phone call about a "per instr." run and, for the first time in eight years, says no. *Function:* two people stand up on the same night, one loudly and one in silence.
 
 **12. Forty Pages**
-A parcel: the surviving Minutes fragments, with the Archivist's note *NOW YOU HAVE WHAT I HAVE.* Nell reads them in one night: *LET THEM RENT THE GROUND THEY STAND ON*, *LET THEM RACE*, *GIVE EVERY FEAR A FACE THAT IS NOT OURS*. The plan has a shape now. At 4 a.m., reading about the oldest writing in the world to stay awake, she learns a real fact: some of the earliest writing was accounting, tallies of grain and labour. *"The first thing anyone ever wrote down was who owed what."* (Real backdrop only; never claimed as the Tenants' doing.) *Ends:* she reads her own tenancy agreement and laughs until it frightens her. *Missing knock (D14):* *GIVE EVERY FEAR A FACE THAT IS NOT OURS* is the counsel the strand runs on.
+A parcel: the surviving Minutes fragments, with the Archivist's note *NOW YOU HAVE WHAT I HAVE.* Nell reads them in one night: *LET THEM RENT THE GROUND THEY STAND ON*, *LET THEM RACE*, *GIVE EVERY FEAR A FACE THAT IS NOT OURS*. The plan has a shape now. At 4 a.m., reading about the oldest writing in the world to stay awake, she learns a real fact: some of the earliest writing was accounting, tallies of grain and labour. *"The first thing anyone ever wrote down was who owed what."* (Real backdrop only; never claimed as the Tenants' doing.) *Ends:* she reads her own tenancy agreement and laughs until it frightens her. *Missing knock (D14):* *GIVE EVERY FEAR A FACE THAT IS NOT OURS* is the counsel the strand runs on. *Act One pacing:* the parcel now also carries **Fragment Four** and **Marguerite's 1987 note**, held back from ch 7.
 
 **13. The Ferris Library**
 A talk is cancelled, then reinstated, and both sides get threats. Nell deletes scapegoating comments and is accused of censorship. Danny and Ama on protecting people versus protecting ideas. The **Hush** at street level: everyone afraid to speak, for opposite reasons. *Ends:* she notices that threats against both sides used the same odd phrasing. *Missing knock (D14):* **death 1:** the old man with the tartan flask (ch 5) is found after a fall, three days late. Nell hears at the hall. **Danny** mentions he left a parcel on that doorstep on the Tuesday. **Ama** lets slip that she gave the man's spare key back a fortnight ago, and won't say why. Nobody suspects anything yet. It's a sad, ordinary death.
@@ -186,19 +200,21 @@ Invented composites only; real leaders appear only as unnamed background. See [p
 
 | Thread | Planted | Paid off |
 |---|---|---|
-| The driver's note | ch 1 | ch 3 (Nell reads it in 2026) |
+| The driver's note | ch 1 | ch 3 (Len tells it: Old Tommy's 1962 run) |
 | "Needed from tomorrow" | ch 1 | ch 30 (02:10, sixty-four years on) |
 | No "I" | ch 1 (THREE notices) | ch 23 (Jack and Nell expose @longweather_) |
-| 144 lb | ch 6 | ch 23 (the server was watching) |
+| 144 lb | ch 6 (the letter's weight; the cabinet plate) | ch 23 (the server was watching) |
 | The faceless man at the door | ch 1 | ch 10, 19 (Cobb); ch 29 (Cobb signs the strike list) |
+| Cobb before he speaks | ch 3 (café), ch 5 (van), ch 6 (dog) | ch 10 (he names all three) |
+| The keycard still works | ch 6 (Coyle's, 25 May) | ch 23 (the logs, D5); ch 26 (Crane's keycard) |
 | Never says "I" | ch 1 | Epilogue: the machine types *I* |
 | Emmanuel's silence | ch 6 | ch 11, 19 (he stood up too) |
 | "Which rows" | ch 11 | ch 27 (Seat Eleven stands up) |
-| Marguerite's death | ch 7 | ch 25 (an accident; manufactured fear) |
+| Marguerite's death | ch 11 (the Walkout), ch 12 (her note) | ch 25 (an accident; manufactured fear) |
 | The thirteenth chair | ch 1 (four unused place settings) | ch 26 (the real chair), ch 29 (more chairs than thirteen) |
 | The inspection | ch 18 (Larkspire's 3:40 a.m. text) | ch 26 (the Freeholder's, explained), ch 28–29 (nobody opens the door), epilogue (the notice arrives) |
 | The first writing was a receipt | ch 12 | ch 26 (the older ledger) |
-| "Fewer" | ch 1, Fragment Four | ch 25 (it was always a date) |
+| "Fewer" | ch 1, ch 12 (Fragment Four) | ch 25 (it was always a date) |
 | **The title** | The cover | ch 25: the U.P. column, "urban paranoia", the Lodge's own measure of neighbours' suspicion. It falls, unspoken, in ch 29. |
 | Crane's arithmetic | ch 8 | ch 25 (Model 7; "the people who stayed") |
 | Dad's dictionary margins | ch 6 (closed unread) | ch 19 (day-counts; one word) |

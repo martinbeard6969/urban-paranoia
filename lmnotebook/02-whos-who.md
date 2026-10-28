@@ -1,7 +1,7 @@
 # Who's who
 
 *Urban Paranoia source pack for NotebookLM. Private: contains the full canon and ending.*
-*Assembled from: `lmnotebook/_written/whos-who.md`, `bible/characters.md`. Built 2026-10-28, commit 22ca2c0.*
+*Assembled from: `lmnotebook/_written/whos-who.md`, `bible/characters.md`. Built 2026-10-28, commit a4b9281.*
 
 *Ages are as of 2026 unless stated. "First seen" is the first chapter (or ARG item) where the character appears. Full canon entries follow in the appendix.*
 
@@ -126,6 +126,7 @@ All characters are fictional. None is based on a real, identifiable person.
 ### Cobb
 - **Role:** fixer, Lodge Steward.
 - **Function:** physical threat in the audio series and the film. Polite, forgettable, always slightly too close.
+- **Before he speaks (Act One pacing):** three unnamed sightings: at the next table in Len's café (ch 3), at the wheel of the bird-logo van (ch 5), walking a dog past Nell's window (ch 6). Plain enough not to stick; in ch 10 he lets her know it was him each time.
 - **Twist:** Cobb doesn't know what the Lodge is either. He is a victim of the design too.
 - **Missing knock (D14):** seen on death 3's street the day before (ch 17). Explained in ch 20: as "a man from the letting agent", he was the only one who knocked. Not complicit.
 

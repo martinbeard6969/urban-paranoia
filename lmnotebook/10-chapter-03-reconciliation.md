@@ -1,7 +1,7 @@
 # Chapter 3: Reconciliation
 
 *Urban Paranoia source pack for NotebookLM. Private: contains the full canon and ending.*
-*Assembled from: `book/chapters/03-reconciliation.md`. Built 2026-10-28, commit 22ca2c0.*
+*Assembled from: `book/chapters/03-reconciliation.md`. Built 2026-10-28, commit a4b9281.*
 
 
 ## Editor's summary
@@ -26,6 +26,8 @@
 - The Exchange (canon decision D3).
 
 **Editor's watch-points:** the Archivist's hidden 03:12 comment is planted this night but not shown. The reader discovers it with Nell in ch 6.
+
+**Revision pending (Act One pacing, 28 Oct 2026):** no logs or second manifest on the page; Len tells Old Tommy's 1962 story (the click to ch 1); Cobb's first unnamed sighting at the next table. See the brief under this chapter in the outline (source 07). The full text below is the current draft.
 
 
 ---
