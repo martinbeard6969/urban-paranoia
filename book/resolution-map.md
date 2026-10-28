@@ -20,6 +20,7 @@ Every open question in Book 1, and where it is answered. **Rule:** a question ra
 | Who runs @longweather_, and how does it know what Nell reads? | ch 5 | **ch 23** | A Steward team for the Signal and Border Seats, text drafted by a system trained on Lodge briefings (hence no "I"). The 144 lb server logs her keycard. |
 | Who runs Clearfell and Frostline? | ch 16 | **ch 23** | The same rented office. Jack sees both recruiters never say "I". |
 | What happens to Jack? | ch 5, 16 | ch 23, **ch 28** | He leaves Clearfell, then speaks at Wharf Road as both Jordan and Jack |
+| Who does Cobb ring at 02:10? | ch 12 | **ch 23**, ch 26 | Nobody. The number routes to the Larkspire racks, the system behind the 144 lb server. His words end up in the Tenants' inventory (ch 26). He stops in ch 29 (D15). |
 | What is "the list"? | ch 25 | **ch 25** | The Taken: the Seats' families were promised places. "The brightest" means the easiest to harvest. |
 | What is Model 7 forecasting? | ch 8 | **ch 25** | A date: the end of the lease, the harvest and the cull. And the **U.P.** column ("urban paranoia"), the book's single title reference. |
 | What are the Tenants? | ch 1 | **ch 26** | **The managing agents of Earth.** Tenant farmers who have held the lease since before writing, working through "counters", paying rent in harvest and inventory, keeping the field alive until the end of the lease. Real (the Mirror theory is retired). |
@@ -42,6 +43,7 @@ Every open question in Book 1, and where it is answered. **Rule:** a question ra
 | **Who said "I"?** | The epilogue's last word. A Tenant becoming someone, or something new in the machine? |
 | **Is the cull cancelled?** | Postponed, not cancelled |
 | **Nell and the chair** | Book 2: with Mother Quill dead, the Table, or the Tenants, offer Nell the Listener's chair |
+| **Who rang Nell at 02:10?** | The epilogue's hiss on her phone: the line Cobb reported into now has her number (D15). Never explained in Book 1. |
 | **The purple stamp** | Never found. Reserved for the comics anthology |
 
 ### Book 2 setting (Martin, 28 Oct 2026; reference only)

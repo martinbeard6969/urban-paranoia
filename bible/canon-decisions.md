@@ -197,6 +197,39 @@ It stays "withheld" on the Harlow-Vane site until then.
 - **@longweather_ is never quoted.** Nell paraphrases it.
 - **Book and film only.** No ARG post, drop or account mentions the deaths or a pattern of deaths. The ARG may echo the rumour's *tone* at most.
 
+## D15. The line: Cobb's reports
+
+*Martin, 28 Oct 2026.* Cobb reports into a telephone line that answers in noise. It's a thread of suspense and wonder through Acts Two and Three, and it ends with the line reaching Nell in the epilogue. The Freeholder stays out of it.
+
+**Principle: easy to understand, hard to fathom.** Every beat is clear on the page: where Cobb is, what he says, what Nell hears. What it *means* stays just out of reach until ch 23, and the epilogue reopens it. Each appearance must thrill or unsettle; none explains.
+
+- **The habit.** Once a week, at **02:10** (the machine's hour, though Cobb has never been told why), Cobb rings a number from **the old phone box on Nell's road**. It's one of the last kiosks with a working phone; the others nearby were turned into a book swap and a defibrillator cabinet (a real trend, as backdrop). He has done it for years (length fixed in drafting; estimate: about twenty). The day of the week is fixed in drafting.
+- **Only his side is clear.** He reports in short, plain sentences, in garden words: *quieter*, *not speaking*, *thinner*. The other end is hiss with the rhythm of speech and no words, sometimes with something like the three notes underneath. When it stops, he says *"Understood,"* though nothing in it could be understood.
+- **He reports. He never receives counsel.** Only the Listener hears the Tenants directly (`the-lodge.md`). Cobb believes he's ringing someone in Seat Twelve's (Ward's) office on a bad line. He has never heard a word back.
+- **Where it goes (ch 23).** Nobody picks up. The number routes to the racks Larkspire rents, to the system behind the 144 lb server: the one that drafts @longweather_ and never says "I". A machine has been taking his reports for years.
+- **What it becomes.** His sentences surface, unattributed, in the Factors' briefing (ch 15) and, in ch 26, in the cells of Teo's 12×12 grid: the Tenants' **inventory**, the record of the field they pay rent in. A man's plain words, counted in rows.
+- **The ladder in one man.** Cobb is a Larkspire tenant (ch 29). For years he has been counting his own rung for the people above it. His signature on the strike list is the moment he stops.
+
+**On the page: two calls, one silence, one echo**
+
+| Ch | Beat | Speed |
+|---|---|---|
+| 12 | **Call 1.** At 02:10, mid-way through her night with the fragments, Nell sees the phone box lit and the man from the bus stop inside it. She goes down in her socks and stands behind the box in the dark. His side: *"Wharf Road's quieter. Two more households not speaking… She's reading. Tonight. All of it… Yes. Thinner."* Hiss. *"Understood."* He walks away without looking back. She goes back up and reads until four. | Fast |
+| 15 | **The echo upstairs.** One line in the Factor's briefing, among the figures, in Cobb's words: *Wharf Road quieter.* The reader recognises it; nobody at the Table does. | Beat |
+| 22 | **Call 2.** Same box, same hour, and this time she's waiting, phone recording in her pocket. He reports her readers leaving and the hate in her inbox. Mid-report he stops for three seconds, the first time he has hesitated, then: *"She's still there."* | Fast |
+| 23 | **The answer.** Teo runs her recording. The hiss carries the same signature as the Larkspire racks. Nobody was on the line. | Reveal |
+| 26 | **The inventory.** In the 12×12 grid, a row for her street. The cells hold words, not numbers: *quieter*, *thinner*, *still there*. | Wonder |
+| 29 | **The silence.** On his night, at 02:10, the box is lit and the phone in it **rings**. Nobody answers. It rings until it stops. The next day Nell finds his name on the strike list. | Still, then a jolt |
+| Epilogue | **The line reaches Nell.** At 02:10 her phone rings. For about a second, before Teo speaks, there's the hiss with the rhythm of speech. Then Teo: *"It's printing."* She doesn't mention it. Unexplained: whatever Cobb reported to now has her number. | Jolt |
+
+**Guardrails**
+- **Mood and division only.** He reports on quiet, silence between neighbours, Nell's readers. Never deaths, numbers or methods, and **never the D14 streets or victims**. Ch 15's *welfare-check rates* line is Ward's, not Cobb's, and stays separate. Call 1 (ch 12) comes before the first death; call 2 (ch 22) comes after ch 20 has cleared him as "the only one who knocked".
+- **The voice never forms words**, in the book, the epilogue or any adaptation. The teletype's *I* stays the only "I".
+- **No real phone network, company or emergency line** is named or imitated. The number is never printed.
+- **No real-world call to action:** nothing invites readers to visit, ring or watch real phone boxes (rule 5).
+- **Two calls only.** A third would make it a routine.
+- **Book and audio drama.** A Phase 3 audio leak of call 1 (one side clear, the other pure texture) may be proposed later, with the fiction trail (rules 7–8). Nothing in Phase 1–2.
+
 ---
 
 ## Knock-on changes made
@@ -207,3 +240,4 @@ It stays "withheld" on the Harlow-Vane site until then.
 - [open-questions.md](open-questions.md): questions 5–14 moved to "Settled".
 - D14 (fixes v1.3): [characters.md](characters.md), [outline](../book/outline.md) ch 12–29 and the threads table, [the Wall scene](../book/act-2/scene-the-wall.md) updated.
 - D10 replaced and D11–D13 added on the user's instruction: [the-tenants.md](the-tenants.md), [deep-time.md](deep-time.md), [the-ladder.md](the-ladder.md), [the-lodge.md](the-lodge.md) updated.
+- D15 (Martin, 28 Oct 2026): [characters.md](characters.md) (Cobb), [outline](../book/outline.md) ch 12, 15, 22, 23, 26, 29, the epilogue and the threads table, [resolution map](../book/resolution-map.md), [timeline.md](timeline.md).

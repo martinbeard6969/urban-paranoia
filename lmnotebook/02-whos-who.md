@@ -1,7 +1,7 @@
 # Who's who
 
 *Urban Paranoia source pack for NotebookLM. Private: contains the full canon and ending.*
-*Assembled from: `lmnotebook/_written/whos-who.md`, `bible/characters.md`. Built 2026-10-28, commit f5e4c8e.*
+*Assembled from: `lmnotebook/_written/whos-who.md`, `bible/characters.md`. Built 2026-10-28, commit 20f3d49.*
 
 *Ages are as of 2026 unless stated. "First seen" is the first chapter (or ARG item) where the character appears. Full canon entries follow in the appendix.*
 
@@ -129,6 +129,7 @@ All characters are fictional. None is based on a real, identifiable person.
 - **Before he speaks (Act One pacing):** three unnamed sightings: at the next table in Len's café (ch 3), at the wheel of the bird-logo van (ch 5), walking a dog past Nell's window (ch 6). Plain enough not to stick; in ch 10 he lets her know it was him each time.
 - **Twist:** Cobb doesn't know what the Lodge is either. He is a victim of the design too.
 - **Missing knock (D14):** seen on death 3's street the day before (ch 17). Explained in ch 20: as "a man from the letting agent", he was the only one who knocked. Not complicit.
+- **The line (D15):** once a week at 02:10 he rings a number from the old phone box on Nell's road and reports in plain garden words (*quieter*, *thinner*). The other end is wordless hiss. He believes he reports to Ward's office; nobody is on the line but the machine (ch 23). Overheard twice (ch 12, 22). In ch 29 the box rings and he doesn't answer: he has stopped counting his own rung.
 
 ---
 

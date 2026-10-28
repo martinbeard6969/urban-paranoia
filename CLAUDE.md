@@ -89,7 +89,7 @@ These rules keep the campaign effective, legally safe and ethically sound. Apply
 
 ## Voice & style
 
-- **Drafting priorities (Martin, 28 Oct 2026), in order:** (1) a **sinister, compelling plot**; (2) **variable pacing**: slow passages disclose information (history, documents, explanation), fast passages carry the thrill with less information and more action, shorter paragraphs and fewer explanations; (3) **memorable characters**, each with a voice, a want and a detail a reader keeps. The style below stays the same.
+- **Drafting priorities (Martin, 28 Oct 2026), in order:** (1) a **sinister, compelling plot**; (2) **variable pacing**: slow passages disclose information (history, documents, explanation), fast passages carry the thrill with less information and more action, shorter paragraphs and fewer explanations. Pace varies but is **never slow or boring**: suspense, wonder or thrill is present at all times, and information is easy to understand while its meaning stays hard to fathom; (3) **memorable characters**, each with a voice, a want and a detail a reader keeps. The style below stays the same.
 - **Standard:** the prose quality of a **Nebula Award-winning novella**. This is a quality bar, not a length: the book stays a 70,000–80,000-word novel (`/book/outline.md`, "Length").
 - **Tone:** quiet dread over shouting. Unsettling, plausible, literate. *Night Vale* calm meets *X-Files* paranoia.
 - **Show, don't assert.** Present patterns, documents and coincidences and let the audience connect them. Vesper doubts themself often, and that doubt is part of the hook.

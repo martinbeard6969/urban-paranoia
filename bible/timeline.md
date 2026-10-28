@@ -109,6 +109,7 @@ Real trends are atmosphere. They are **never** attributed to real people or real
 |---|---|
 | Book, Act 2 | Vesper reads the full Harrowgate Minutes. |
 | Book, Act 3 | Mother Quill falls ill, and the succession crisis begins. The Gardeners make a move. |
+| Book ch 12–29 (2026) | **The line (D15):** Cobb's weekly 02:10 reports from the phone box on Nell's road, overheard in ch 12 and recorded in ch 22. In ch 23 Teo shows nobody is on the line. In ch 29 the box rings unanswered. |
 | Book ch 24 (Sept 2026) | Mother Quill dying. The Ashby teletype prints *THE CHAIR IS NOT A REWARD.* |
 | Book ch 26 | The older ledger is found in the Ashby store safe: "We weren't the first Table." |
 | Book ch 27 | Seat Eleven (Commons), learning their child isn't on the list, quotes Marguerite and leaves the Table: the first Seat lost in thirty-nine years. |
