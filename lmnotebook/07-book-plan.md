@@ -1,7 +1,7 @@
 # Book plan: synopsis, outline and resolution map
 
 *Urban Paranoia source pack for NotebookLM. Private: contains the full canon and ending.*
-*Assembled from: `book/synopsis.md`, `book/outline.md`, `book/resolution-map.md`, `book/act-2/scene-the-wall.md`. Built 2026-10-28, commit 47a0980.*
+*Assembled from: `book/synopsis.md`, `book/outline.md`, `book/resolution-map.md`, `book/act-2/scene-the-wall.md`. Built 2026-10-28, commit 68d59dd.*
 
 Chapters 1-6 are drafted; 7-30 and the epilogue are planned. The outline's 'Threads and payoffs' table tracks every set-up.
 
@@ -112,7 +112,7 @@ The book does not end with the Table destroyed or the lease broken. It ends with
 
 ## ACT ONE: THE LONG WEATHER (chapters 1–10, ~22,000–24,000 words)
 
-*Act note:* discovery is active. Nell finds things by doing her job (reconciling), by asking people, and by going places, not by opening envelopes. Chapter 2 is redrafted (v3.0). Chapters 3, 4, 5 and 6 are drafted but **revision is pending** against the briefs below (ch 4: one continuous scene rather than summary, per the reader panel); until then their text differs from this plan.
+*Act note:* discovery is active. Nell finds things by doing her job (reconciling), by asking people, and by going places, not by opening envelopes. Chapters 2 and 3 are redrafted (v3.0). Chapters 4, 5 and 6 are drafted but **revision is pending** against the briefs below (ch 4: one continuous scene rather than summary, per the reader panel); until then their text differs from this plan.
 
 *Rewrite notes for ch 3 onwards (fixes v1.4 Part C):*
 - **Style ceilings** (C9): at most two "the way…" similes and one closing sting per chapter, and no telling ahead, matching ch 2 v3.0.
@@ -128,10 +128,10 @@ Nell's redundancy, told through the croissants and the letter. The archive by th
 
 **Act One pacing:** done in v3.0. The manifest is the only document; the find is fast and hands-first; she notices the archive camera's red light as she leaves (D5).
 
-**3. Reconciliation** *(drafted v1.2, ~2,350)* → [chapter file](chapters/03-reconciliation.md)
+**3. Reconciliation** *(redrafted v3.0, ~2,300)* → [chapter file](chapters/03-reconciliation.md)
 Vehicle logs, the 1962 box, the driver's note (chapter 1's words, seen again sixty-four years later; readers feel the click). Day 0 solved. **Len** over coffee: the cash man, the wardrobe that hummed, Terry. *Ends:* *"You notice it for forty years."* 
 
-**Revision brief (Act One pacing, 28 Oct 2026):** no logs or second manifest reproduced. Day 0 is solved by the owl reader's guess and Nell's own night of reconciling the 1971 vehicle logs, told in one paragraph of her working, as a skill rather than a reading. The click back to ch 1 comes **through Len**: he tells her what Old Tommy used to say about a 1962 run, seven cars on the drive, no staff, a machine "needed from tomorrow". The 1962 delivery manifest isn't shown; Len's memory carries the note's words. **Cobb, sighting 1:** a polite man at the next table, reading nothing. Len goes quiet while he's there and afterwards can't say what he looked like (the same face that "didn't stick"). The ending is unchanged. **Opens fast** (v1.4 C1): ch 2 ends slow and ch 4 is a slow interlude, so open on action, Nell's night of reconciling told as a race or Cobb's first sighting; Len's talk is the slow centre. **The red light** (v1.4 C2): one glance at it on a later archive visit before her notice ends. If it's ever off, that's a clue.
+**Act One pacing:** done in v3.0. Fast open (the ledger race finds 3 March 1971); the owl and the sum; the father beat; Len, with **Cobb, sighting 1** at the next table; Old Tommy's 1962 story told by Len; the red light glimpsed (v1.4 C2). No documents on the page.
 
 **4. Interlude: Not Far, Only Elsewhere** *(2 March 1971, Day 3,061; drafted v1.2, ~1,450)* → [chapter file](chapters/04-not-far-only-elsewhere.md)
 The last session at Harrowgate before the machine is moved. The three Founders, now quietly wealthy from their first container-shipping stakes, uneasy at how easy it was. The machine prints *NOT FAR. ONLY ELSEWHERE.* (recording HG-71). Cut to Le Havre: the French actuary plays three notes on his piano and closes the lid forever. *Function:* shows the Table's first riches and first guilt. They were nobodies once.
