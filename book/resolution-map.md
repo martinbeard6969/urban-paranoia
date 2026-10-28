@@ -47,7 +47,7 @@ Every open question in Book 1, and where it is answered. **Rule:** a question ra
 ### Book 2 setting (Martin, 28 Oct 2026; reference only)
 
 - **When:** about ten years after Book 1, so around 2036.
-- **Where:** America. Civil war has broken out on the East and West coasts. Vesper (Nell) has moved to **Washington** (DC or the state: to confirm, open question 16).
+- **Where:** America. Civil war has broken out on the East and West coasts. Vesper (Nell) has moved to **Washington, DC**, the capital, between the two fronts (Martin, 28 Oct 2026).
 - **Guardrails (hard rules 1, 2, 4, 5 and 9):**
   - The war is **invented**. Its sides, leaders, militias and flashpoints are fictional composites, never mapped onto real US parties, movements, states' politics or real people.
   - The twist holds: the Lodge feeds **every side at once**, and no real group is ever the war's cause or instrument.

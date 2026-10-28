@@ -25,12 +25,12 @@ Canon and production decisions that are still open. When one is settled, move th
 | 14 | **Book 2: Nell and the chair** | The Listener's chair offered to Nell. |
 | 15 | **Epilogue's last line** | Nell's first thought after the "I". About choosing sides, not fear. To be found in drafting. |
 | 11 | Is a **Fragment counsel for WATCHED** ever found? | Left deliberately blank in "The Wall". Decide whether a later drop or Act 3 supplies one, or it stays blank. |
-| 16 | **Book 2: which Washington?** | Book 2 (about 2036): civil war on America's East and West coasts; Vesper has moved to Washington. DC (the capital, between the fronts) or Washington state (on the West coast)? See the [resolution map](../book/resolution-map.md). |
 | 17 | **Book 2: real places?** | Book 1 names no real present-day towns or institutions (`public-figures.md` rule 5). Naming Washington needs a Book 2 version of that rule: real cities as setting, with institutions, officials and factions still invented. |
 | 9 | Founders' **names** | Never given in published work so far. Decide whether the book names them. |
 
 ## Settled (log)
 
+- **Book 2: which Washington** (was question 16): **Washington, DC**, between the East and West coast fronts (Martin, 28 Oct 2026).
 - **Book and ARG paper differ, on purpose** (28 Oct 2026). The book's Act One shows only two documents (the 1971 manifest and the Archivist's letter); the blog keeps every scan, log and drop, because Vesper's blog is where Nell posts her paper. The ARG posts are unchanged. Where the book tells a find through a person (the driver's note via Len, 144 lb via the cabinet plate), the blog may still show the scan.
 - **Day 0** = 14 Oct 1962.
 - **Archivist planted the Post #2 comment**; 22,8xx = Day 22,861 = 17 May 2025.

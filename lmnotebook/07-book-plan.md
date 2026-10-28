@@ -1,7 +1,7 @@
 # Book plan: synopsis, outline and resolution map
 
 *Urban Paranoia source pack for NotebookLM. Private: contains the full canon and ending.*
-*Assembled from: `book/synopsis.md`, `book/outline.md`, `book/resolution-map.md`, `book/act-2/scene-the-wall.md`. Built 2026-10-28, commit 3d3589f.*
+*Assembled from: `book/synopsis.md`, `book/outline.md`, `book/resolution-map.md`, `book/act-2/scene-the-wall.md`. Built 2026-10-28, commit c778b75.*
 
 Chapters 1-6 are drafted; 7-30 and the epilogue are planned. The outline's 'Threads and payoffs' table tracks every set-up.
 
@@ -112,15 +112,15 @@ The book does not end with the Table destroyed or the lease broken. It ends with
 
 ## ACT ONE: THE LONG WEATHER (chapters 1–10, ~22,000–24,000 words)
 
-*Act note:* discovery is active. Nell finds things by doing her job (reconciling), by asking people, and by going places, not by opening envelopes. Chapters 2, 3, 5 and 6 are drafted but **revision is pending** against the briefs below; until then their text differs from this plan.
+*Act note:* discovery is active. Nell finds things by doing her job (reconciling), by asking people, and by going places, not by opening envelopes. Chapter 2 is redrafted (v3.0). Chapters 3, 4, 5 and 6 are drafted but **revision is pending** against the briefs below (ch 4: one continuous scene rather than summary, per the reader panel); until then their text differs from this plan.
 
 **1. Day Zero** *(1962; interlude-style opener; drafted v2.3, ~2,950)*
 The Coyle's driver delivers the teletype. Seven mid-level officials come to a seminar. At 02:10 it begins: *SIT. THERE IS TIME.* Four leave; three stay for the prediction. The demographer writes *Day 0*. → [chapter file](chapters/01-day-zero.md)
 
-**2. Contribution to the Transition** *(April 2026, Day 23,199; drafted v1.2, ~2,500)* → [chapter file](chapters/02-contribution-to-the-transition.md)
+**2. Contribution to the Transition** *(April 2026, Day 23,199; redrafted v3.0, ~2,330)* → [chapter file](chapters/02-contribution-to-the-transition.md)
 Nell's redundancy, told through the croissants and the letter. The archive by the rail yard; the sorting eye. The 1971 manifest: no weight, no charge, *D. 3062*, the purple stamp. That night she starts a blog, because writing things down is the one thing left. *Ends:* she hits "publish" and the post sits there, unread, *"like a lantern in a field."* 
 
-**Revision brief (Act One pacing, 28 Oct 2026):** the manifest stays as the act's first document. Shorten the archive inventory; let her find the manifest with her hands (a soft box, a wrong weight, a stamp) rather than in a list.
+**Act One pacing:** done in v3.0. The manifest is the only document; the find is fast and hands-first; she notices the archive camera's red light as she leaves (D5).
 
 **3. Reconciliation** *(drafted v1.2, ~2,350)* → [chapter file](chapters/03-reconciliation.md)
 Vehicle logs, the 1962 box, the driver's note (chapter 1's words, seen again sixty-four years later; readers feel the click). Day 0 solved. **Len** over coffee: the cash man, the wardrobe that hummed, Terry. *Ends:* *"You notice it for forty years."* 
@@ -357,7 +357,7 @@ Every open question in Book 1, and where it is answered. **Rule:** a question ra
 ### Book 2 setting (Martin, 28 Oct 2026; reference only)
 
 - **When:** about ten years after Book 1, so around 2036.
-- **Where:** America. Civil war has broken out on the East and West coasts. Vesper (Nell) has moved to **Washington** (DC or the state: to confirm, open question 16).
+- **Where:** America. Civil war has broken out on the East and West coasts. Vesper (Nell) has moved to **Washington, DC**, the capital, between the two fronts (Martin, 28 Oct 2026).
 - **Guardrails (hard rules 1, 2, 4, 5 and 9):**
   - The war is **invented**. Its sides, leaders, militias and flashpoints are fictional composites, never mapped onto real US parties, movements, states' politics or real people.
   - The twist holds: the Lodge feeds **every side at once**, and no real group is ever the war's cause or instrument.
