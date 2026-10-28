@@ -10,7 +10,7 @@ status: Part A requested by Martin ("generate fixes file"): apply. Part C needs 
 
 # Writer's fixes v1.4: chapter 2 (v3.0) and notes for the rewrite
 
-**Status: Part A applied 2026-10-28, commit 4df7431. Part C awaiting Martin's ticks. See applied-log.md.**
+**Status: applied 2026-10-28, commits 4df7431 (Part A) and b5a4f3a (Part C, all ticked). See applied-log.md.**
 
 **What this is.** These are the fixes from the critic's review of chapter 2 v3.0. That review was redrafted on the basis that chapters 3 onwards will be rewritten. **Part A** fixes chapter 2 itself. **Part C** turns what chapter 2 now commits the rewrite to into notes for the outline's revision briefs, so the new chapters are drafted against them rather than corrected afterwards.
 

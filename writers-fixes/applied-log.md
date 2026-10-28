@@ -35,4 +35,4 @@ Every fixes file in this folder is logged here once handled, so nothing is appli
 | 2026-10-28 | `fixes-v1.3.md` | B3 (characters) | **Applied with changes** (Martin) | `22ca2c0` | Ama's note reworded to match D14's timing. |
 | 2026-10-28 | `fixes-v1.3.md` | Wall scene (writer's addition) | **Applied** (Martin) | `22ca2c0` | `book/act-2/scene-the-wall.md` §6 Confessions: the deaths, her own people, the sideways arrows; about +300 words (estimate). |
 | 2026-10-28 | `fixes-v1.4.md` | A1–A5 | **Applied** | `4df7431` | Ch 2 v3.0 now about 2,290 words. Outline and lmnotebook word counts updated. |
-| 2026-10-28 | `fixes-v1.4.md` | C1–C9 | Awaiting Martin's ticks | — | |
+| 2026-10-28 | `fixes-v1.4.md` | C1–C9 | **Applied** (Martin ticked all) | `b5a4f3a` | Outline only: C1 and C2 in the ch 3 brief (C2's fallback in ch 6), C3–C5 and C9's shop parade in ch 5, C6, C7 and C9's ceilings as Act One rewrite notes, C8 as a thread-table row. |
