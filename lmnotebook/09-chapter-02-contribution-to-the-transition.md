@@ -1,7 +1,7 @@
 # Chapter 2: Contribution to the Transition
 
 *Urban Paranoia source pack for NotebookLM. Private: contains the full canon and ending.*
-*Assembled from: `book/chapters/02-contribution-to-the-transition.md`. Built 2026-10-28, commit c778b75.*
+*Assembled from: `book/chapters/02-contribution-to-the-transition.md`. Built 2026-10-28, commit da4c126.*
 
 
 ## Editor's summary
@@ -9,7 +9,7 @@
 **Label:** NELL · DAY 22,861 · SATURDAY 17 MAY 2025
 **Narration:** Nell Okafor-Reyes, first person, past tense.
 **Dates:** Saturday 17 May 2025 (the routing system goes live) to Monday 20 April 2026 (Day 23,199) and the early hours of 21 April.
-**Length:** about 2,330 words. Draft v3.0.
+**Length:** about 2,290 words. Draft v3.0.
 
 **What happens**
 - At a weekend briefing with hotel croissants, Coyle's AI routing system goes live. Nell's team of nine is told nobody is "losing their job today", and over eleven months the team is phased down to one.
@@ -65,7 +65,7 @@ By Christmas there were two of us and a contractor in a time zone I had to keep 
 
 I was kept on to *support the transition*. That meant sitting beside the routing system eight hours a day and telling it when it was wrong. It was hardly ever wrong, and when it was, it was wrong in ways I'd have been wrong too. It learned from me faster than I'd ever learned from anyone. I was training my replacement, and my replacement was a very good student.
 
-It ran on something called Nimfold, which I'd seen on the news, through a cloud I'd also seen on the news. The contractor talked about both as if they were plumbing. *Nimfold's pushing an update tonight. The cloud's slow in the mornings.* It was everywhere and nowhere, and it had my job.
+It ran on something called Nimfold, which I'd seen on the news, through a cloud I'd also seen on the news. The contractor talked about both as if they were plumbing. *Nimfold's pushing an update tonight. The cloud's slow in the mornings.*
 
 ---
 
@@ -85,7 +85,7 @@ Not why the system had done it. Nobody had told it about the cheese stall, becau
 
 I fixed it. Old habits, Pete would have said. But I remember those four seconds. They were the first time in eleven months I'd seen the shape of the thing: not a machine taking my job, but a world quietly arranging itself so that no one would be left to notice what was lost.
 
-The fish arrived on time. Nobody said thank you, because nobody knew.
+The fish arrived on time.
 
 ---
 
@@ -145,8 +145,6 @@ I didn't feel afraid. I'd like to say I did; it would make me sound wiser. What 
 
 I did what I'd have done with any discrepancy. I went through the rest of the box, then the two boxes either side of it, every sheet, fast, the way you check the other tyres after a puncture. Ordinary manifests. Weights, rates, initials. Not one more pencil line. Not one more stamp. Whoever had pressed it had done it many times, somewhere. Just not here.
 
-It was the least important document in the building. It was the first thing in a year that had needed me.
-
 I put it in a plastic sleeve and into my bag, which was almost certainly against company policy. At the door I swiped out. The keycard beeped.
 
 Above the door, tucked into the corner where the roller housing met the wall, a small red light was on.
@@ -159,7 +157,7 @@ Then I pulled the roller door down and went home.
 
 I couldn't sleep, so at eleven I rang Danny.
 
-Danny Kessler was a union rep for twenty years, until there was no union left to represent, and now he delivers parcels for an app that rates him out of five. He answered on the second ring, still in the van, the engine ticking as it cooled. People who drive for apps don't sleep either. He was on 4.9, which he called the most stressful number of his life.
+Danny Kessler was a union rep for twenty years, until there was no union left to represent, and now he delivers parcels for an app that rates him out of five. He answered on the second ring, just in from the van, still in his jacket. People who drive for apps don't sleep either. He was on 4.9, which he called the most stressful number of his life.
 
 I read it to him twice.
 
@@ -175,7 +173,7 @@ It had been in my head since four o'clock.
 
 ---
 
-At one in the morning I opened my laptop at the kitchen table, under my father's dictionary and beside my bird-logo coaster, and started a blog.
+At one in the morning I opened my laptop at the kitchen table, opposite my father's dictionary and beside my rent-statement coaster, and started a blog.
 
 I want to say I had a plan. What I had was a sheet of paper that didn't add up, a skill nobody wanted, and the feeling I'd had all my working life that if something isn't written down, it hasn't happened. The routing system could plan a route. It could not, as far as I knew, sit at a kitchen table at one in the morning and type *I know how this sounds.*
 
@@ -213,7 +211,8 @@ Then I sat and looked at it: out in the dark, with nobody reading it, like a lan
 - **Cut for "no telling ahead":** "because everything afterwards depends on it, and because I've since learned…", and "which I didn't. Yet."
 - **"The way…" similes:** one ("the way you check the other tyres after a puncture"); five in v1.2.
 - **New character beats:** the man from head office takes the croissants home ("He was right about everything"); Nell checks the neighbouring boxes for a second stamp and finds none (the stamp was used often, but elsewhere: Len has seen it "on the odd job"); Danny in the van on 4.9; Nell twice nearly deletes the post.
-- Length: about 2,330 words (v1.2: about 2,515).
+- Length: about 2,290 words (v1.2: about 2,515).
+- **Fixes v1.4 Part A:** three closing stings cut (the cloud, the fish, "the least important document"), Danny placed at home for the kettle, and the bird logo named only once (on the coaster).
 
 **Seeds planted**
 - **The keycard beep and the red light:** canon decision D5. The logs later show the Lodge watching her. *"You stop hearing what a building says about you if it says it politely enough."* Her keycard still works in ch 6.

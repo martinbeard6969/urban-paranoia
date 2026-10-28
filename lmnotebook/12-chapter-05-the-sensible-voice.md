@@ -1,7 +1,7 @@
 # Chapter 5: The Sensible Voice
 
 *Urban Paranoia source pack for NotebookLM. Private: contains the full canon and ending.*
-*Assembled from: `book/chapters/05-the-sensible-voice.md`. Built 2026-10-28, commit c778b75.*
+*Assembled from: `book/chapters/05-the-sensible-voice.md`. Built 2026-10-28, commit da4c126.*
 
 
 ## Editor's summary

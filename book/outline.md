@@ -52,7 +52,7 @@ canon-refs: [bible/*, book/synopsis, book/chapters/01-day-zero, book/act-2/scene
 **1. Day Zero** *(1962; interlude-style opener; drafted v2.3, ~2,950)*
 The Coyle's driver delivers the teletype. Seven mid-level officials come to a seminar. At 02:10 it begins: *SIT. THERE IS TIME.* Four leave; three stay for the prediction. The demographer writes *Day 0*. → [chapter file](chapters/01-day-zero.md)
 
-**2. Contribution to the Transition** *(April 2026, Day 23,199; redrafted v3.0, ~2,330)* → [chapter file](chapters/02-contribution-to-the-transition.md)
+**2. Contribution to the Transition** *(April 2026, Day 23,199; redrafted v3.0, ~2,290)* → [chapter file](chapters/02-contribution-to-the-transition.md)
 Nell's redundancy, told through the croissants and the letter. The archive by the rail yard; the sorting eye. The 1971 manifest: no weight, no charge, *D. 3062*, the purple stamp. That night she starts a blog, because writing things down is the one thing left. *Ends:* she hits "publish" and the post sits there, unread, *"like a lantern in a field."* 
 
 **Act One pacing:** done in v3.0. The manifest is the only document; the find is fast and hands-first; she notices the archive camera's red light as she leaves (D5).
