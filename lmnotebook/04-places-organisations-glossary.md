@@ -1,7 +1,7 @@
 # Places, organisations and glossary
 
 *Urban Paranoia source pack for NotebookLM. Private: contains the full canon and ending.*
-*Assembled from: `bible/locations-and-organisations.md`, `bible/glossary.md`. Built 2026-10-28, commit 20f3d49.*
+*Assembled from: `bible/locations-and-organisations.md`, `bible/glossary.md`. Built 2026-10-28, commit 3ec56fc.*
 
 Every company, place and body here is fictional unless marked as real backdrop.
 

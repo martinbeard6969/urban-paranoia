@@ -5,8 +5,8 @@ chapter: 3
 title: "Reconciliation"
 setting: the Coyle's archive; Nell's flat; the old head office; a café near the old depot. Tuesday 21 April – Thursday 30 April 2026
 pov: Nell Okafor-Reyes, first person, past tense
-canon-refs: [bible/characters/len, bible/characters/vesper, bible/characters/cobb, bible/timeline/1962-delivery, bible/timeline/1971-manifest, bible/canon-decisions/D3, bible/canon-decisions/D5, content/phase-1/post-02-day-zero, book/chapters/01-day-zero]
-status: draft v3.0 (redrafted 28 Oct 2026 for Act One pacing: a fast open, no documents on the page, the driver's note told by Len, Cobb's first sighting)
+canon-refs: [bible/characters/len, bible/characters/vesper, bible/characters/cobb, bible/timeline/1962-delivery, bible/timeline/1971-manifest, bible/canon-decisions/D3, bible/canon-decisions/D5, content/phase-1/post-01-for-the-long-weather, content/phase-1/post-02-day-zero, book/chapters/01-day-zero]
+status: draft v3.1 (28 Oct 2026: v3.0's Act One pacing, plus Nell's mistake, the Monday update, and a menace bigger than the mistake)
 ---
 
 # Three: Reconciliation
@@ -33,129 +33,135 @@ I stood very still with the ledger on my arm. Harrowgate House. Per instruction.
 
 I wrote the date on the back of my hand, because there was nothing else to write on, and put March back on the shelf.
 
+When I let myself out, the red light was off.
+
 ---
 
-By then the blog had readers.
-
-Eleven on the first day. I knew because the platform shows you a small grey number at the top of the screen, and I refreshed it while my toast burned. Thirteen. One of them was almost certainly me on my phone. By the end of the week it was four hundred, and I couldn't have told you how.
-
-There were comments. A man in a city I'd never been to explained, at length and with great confidence, that the stamp was obviously a brand of Victorian fertiliser. A woman wrote just *I believe you*, and I didn't know what to do with that, because I hadn't claimed anything. One stranger offered, politely, to have me sectioned.
-
-And on the Friday, a reader with a cartoon owl for a picture wrote one line:
+By the end of the week the blog had four hundred readers, and I couldn't have told you how. A man explained at length that the stamp was obviously a brand of Victorian fertiliser. A woman wrote *I believe you*, though I hadn't claimed anything. And on the Friday a reader with a cartoon owl for a picture wrote one line:
 
 *Could D. 3062 be a count of days? Like a ship's log?*
 
-I said *oh* out loud, at the kitchen counter, in the voice you use when your glasses turn out to be on your head. I'd spent eleven years with dates. A stranger with an owl had seen it in a morning.
+I said *oh* out loud, at the kitchen counter. Eleven years with dates, and a stranger with an owl had seen it in a morning. I was annoyed. I want that on the record.
 
-I was annoyed. I want that on the record.
-
-Then I sat down at the kitchen table with a pencil and the back of an envelope. If the third of March 1971 was day 3,062, then day nought was 3,062 days before it. Years first, then the leap years, then the months, then the remainder, each line checked before I trusted the next. Then again on my phone. Then, because I no longer trusted anything I'd only checked twice, by hand again.
+I did the sum on the back of an envelope: years, leap years, months, remainder, each line checked before I trusted the next. Then on my phone. Then, because I no longer trusted anything I'd only checked twice, by hand again.
 
 *The fourteenth of October, 1962.*
 
-Somebody had started counting a week before the world held its breath. And somebody had still been counting, carefully, eight years and four months later.
-
-Anyone old enough remembers that autumn, and everyone younger has seen the documentaries: the week the whole world sat in front of its radios and waited to find out whether there would be a next week. I didn't write about it. I sat at my kitchen table with the envelope, and felt something very old and very cold go down the back of my neck.
+Somebody had started counting a week before the world held its breath. Anyone old enough remembers that autumn, and everyone younger has seen the documentaries: the week the whole world sat by its radios to find out whether there would be a next week. And somebody had still been counting, carefully, eight years and four months later.
 
 ---
 
-On the Sunday I walked past the old head office, because my feet decided to.
+On the Sunday my feet took me past the old head office. It's flats now, the lettering chiselled off the stone. My father worked on the second floor for thirty years. Anyone at Coyle's who'd lost a document, in any year between 1979 and 2009, was told *ask Emmanuel*, and he'd have told them the shelf, the box and the colour of the folder. He did the crossword in pen and never crossed anything out. He'd have done my sum before the kettle boiled.
 
-It's flats now, near the goods yard: the lettering chiselled off the stone, the windows replaced with the kind that don't open. My father worked on the second floor for thirty years. If you'd asked anyone at Coyle's where a document was, in any year between 1979 and 2009, they'd have said *ask Emmanuel*, and he'd have taken off his reading glasses and told you the shelf, the box, and probably the colour of the folder.
-
-He did the crossword in pen, every evening, and never once crossed anything out. He'd have done my sum in his head before the kettle boiled. He'd have known about the 1971 logs. He'd have known which drivers did the runs that never went on the board.
-
-I stood across the road with my bag on my shoulder and took out my phone to ring him.
-
-I got as far as his name before I remembered. Seven years, and it still happens: a half-second where he's alive, and then the floor goes. I've never deleted the number. I don't know who has it now. Some days I think about ringing it to find out, and some days I'm afraid someone will answer.
-
-I put the phone away and walked home the long way.
+I took out my phone to ring him, and got as far as his name before I remembered. Seven years, and it still happens. I've never deleted the number. Some days I'm afraid someone will answer.
 
 ---
 
 There were two retired drivers I still had numbers for. On the Monday I rang them both.
 
-The first one laughed. *Long weather? Sounds like my ex-wife.* He'd never heard of it, and I believed him, and we talked about his allotment for twenty minutes instead.
+The first one laughed. *Long weather? Sounds like my ex-wife.* We talked about his allotment for twenty minutes.
 
 The second one went quiet.
 
-I'll call him Len, which is nothing like his name. He'd driven for Coyle's for forty-six years and retired the year I joined. When I said *for the long weather* there was a silence long enough that I thought the line had gone. Then he said he'd meet me for a coffee, but not at his house. "The caff by the old depot. Thursday. Ten." He rang off before I could thank him.
+I'll call him Len, which is nothing like his name. He'd driven for Coyle's for forty-six years. When I said *for the long weather* there was a silence long enough that I thought the line had gone. Then he said he'd seen it on the odd job, and asked after my mum. I told him she'd died, ten years ago. He said he was sorry, he hadn't known, and then he said he'd meet me for a coffee, but not at his house. "The caff by the old depot. Thursday. Ten." He rang off before I could thank him.
+
+That night I did the stupid thing.
+
+I opened the first post and added a paragraph at the bottom, under the questions. I'd asked two retired drivers who knew everything, I wrote. One laughed. The other went quiet, said he'd seen it on the odd job, and asked about my mum. *I'm not reading anything into that.* And then, because it was midnight and four hundred people were reading me and I was pleased with the line: *(I'm reading something into that.)*
+
+I didn't name him. I didn't name the café. I thought that was being careful.
+
+By the morning forty-one people had read it. I sat with my finger over *delete* for a long time, and didn't press it, because a deletion is the loudest thing you can do on the internet. It would have looked like exactly what it was.
+
+On the Wednesday an email came from the people who used to be Human Resources, reminding me to return all company property on my last day. There was a list: laptop, work phone, lanyard, parking permit. I read it three times. The keycard wasn't on it.
 
 Thursday was the last day of my notice. Nobody asked for the keycard back, and I didn't offer it.
 
 ---
 
-The café by the old depot has been about to close since 1985. Formica tables, a laminated menu with photographs the food has never lived up to, a radio playing to itself. Len was already there, in the corner seat with his back to the wall, and I understood without being told that he'd chosen it.
+The café by the old depot has been about to close since 1985. Formica tables, a laminated menu with photographs the food has never lived up to, a radio playing to itself. Len was already there, in the corner seat with his back to the wall.
 
-He was a big man gone thin: the frame still there, the weight gone somewhere else. He had a mug of tea in both hands and a driver's habits he'd never put down. He'd parked facing out. He'd taken the seat that saw the door. When I sat, he moved the sugar so it wasn't between us, as if clearing a cab for a passenger. When I slid my phone across with the photo of the manifest, he didn't look at it for a long time. Then he held it at arm's length, the way people hold photographs of the dead.
+He was a big man gone thin: the frame still there, the weight gone somewhere else. He'd parked facing out. He'd taken the seat that saw the door. When I sat, he moved the sugar so it wasn't between us, as if clearing a cab for a passenger. Then he put his phone on the table, face up, with my paragraph on it.
 
-"Twice a year, maybe," he said. "Never on the board. The office'd ring you at home the night before. You'd not get the job sheet in the cab. You'd collect, you'd deliver, and a fella'd meet you at the far end and pay you, separate. Cash. Polite. Good suit. You'd not remember his face after. Not a bad face. Just one that didn't stick."
+"Bloke at the allotments showed me that," he said. "Tuesday. *Is this you, Len?*"
 
-He turned the phone face down on the table, gently, as if it might wake.
+"I didn't name you."
+
+"You said a driver went quiet." He kept his voice low and level, which was worse than shouting. "How many drivers d'you think went quiet, love? There's about six of us left."
+
+I opened my mouth and nothing useful came out. I was thinking about him. Then, a beat too late and ashamed of it, I was thinking about me. In May I'd signed a settlement with a paragraph about company records in it that I hadn't read twice, and every time I'd gone into that archive my keycard had written my name down.
+
+"I'll take it off," I said.
+
+"Leave it. Taking it off's worse." He turned his phone over. "You learn that."
+
+I slid my own phone across, with the photo of the manifest. He didn't look at it for a long time. Then he held it at arm's length, the way people hold photographs of the dead.
+
+"Twice a year, maybe," he said. "Never on the board. The office'd ring you at home the night before. You'd collect, you'd deliver, and a fella'd meet you at the far end and pay you, separate. Cash. Polite. Good suit. You'd not remember his face after. Not a bad face. Just one that didn't stick."
 
 I asked what he'd carried.
 
-"Machines, mostly." Teletypes, early on. Later, "them fax things". And once, in the eighties, something the size of a wardrobe, in a crate, that took four men to lift, out to the country house the old drivers called H.H. "And it hummed," he said. "With the power off. You could feel it through the seat. Like a fridge, but there was no plug on it." He heard himself say it, and looked at his tea as if the tea had been talking. "I'm probably remembering it wrong."
+"Machines, mostly." Teletypes, early on. Later, "them fax things". And once, in the eighties, something the size of a wardrobe, in a crate, that took four men to lift, out to the country house the old drivers called H.H. "And it hummed," he said. "With the power off. You could feel it through the seat." He heard himself say it, and looked at his tea as if the tea had been talking.
 
 The door opened.
 
-A man came in and sat at the table next to ours. Ordinary height, an ordinary coat, a newspaper folded under his arm that he put on the table and didn't open. He ordered a tea. He said please and thank you. He sat facing the window, half turned from us, and looked at the street as if he were waiting for a bus that might not come.
+A man came in and sat at the table next to ours. Ordinary height, an ordinary coat, a newspaper folded under his arm that he put down and didn't open. He ordered a tea. He said please and thank you. He sat facing the window, half turned from us, and looked at the street as if he were waiting for a bus.
 
 Len stopped talking.
 
-He didn't look at the man. He picked up the laminated menu and read it, carefully, though he'd have known it by heart for forty years. Then he asked me whether my mum was keeping well. I told him she'd died, ten years ago. He said he was sorry, he hadn't known, and then he told me about his allotment, the same allotment I'd heard about on Monday from the other driver, or one exactly like it, and I let him, because something in his face had shut like a door.
+He didn't look at the man. He picked up the laminated menu and read it, carefully, though he'd have known it by heart for forty years. Then he told me about his allotment, the same allotment I'd heard about on Monday from the other driver, or one exactly like it, and I let him, because something in his face had shut like a door.
 
-The man drank his tea. It took about ten minutes. He left a coin on the saucer, picked up his unopened paper and went out, and the bell over the door rang behind him.
+The man drank his tea. It took about ten minutes. He left a coin on the saucer, picked up his unopened paper and went out, and the bell rang behind him.
 
-Len didn't turn round. He watched the window instead, the dark strip of it beside the door where the street showed back to front, until the coat had gone past it and out of the frame. Then he watched a little longer, in case it came back.
+Len didn't turn round. He watched the dark strip of window beside the door, where the street showed back to front, until the coat had gone past it. Then he watched a little longer, in case it came back.
 
 It didn't. Nobody got on a bus. There wasn't a stop on that side of the road.
 
-Len put the menu down.
+Len put the menu down. "Who else did you tell?"
+
+"Nobody. I didn't say where. I didn't say when."
+
+He looked at me for a long moment. Not angry any more. Something worse: sorry for me.
 
 "Did you know him?" I said.
 
-"Who?"
-
-I looked at him. He looked back, quite steadily.
-
 "Never seen him before," he said. "Couldn't tell you what he looked like."
 
-Neither could I. I tried, later, in the car, with my notebook on the steering wheel, the way I'd describe a load for a manifest: height, build, colour, distinguishing marks. A coat. A newspaper. Please and thank you. I sat with the pen over the page for a long time. That was all I had.
+Neither could I. I tried, later, in the car, with my notebook on the steering wheel, the way I'd describe a load for a manifest: height, build, colour, distinguishing marks. A coat. A newspaper. Please and thank you. That was all I had.
+
+Then, because I couldn't help it, I opened the blog. Forty-one had become three hundred and twelve. Somebody had copied my paragraph, just that one, and posted it on its own from an account with no picture and no name, and no other posts, ever.
 
 ---
 
-I asked Len about the first run. Harrowgate. 1962.
+I asked Len about the first run. Harrowgate, 1962.
 
-"Before my time, that one. Old Tommy did it." Len turned his mug a quarter-turn. "First one, they reckoned. Never talked about it, not for years. Then when he got old he never talked about anything else. We thought he'd gone soft."
+"Before my time. Old Tommy did it." Len turned his mug a quarter-turn. "Never talked about it, not for years. Then when he got old he never talked about anything else."
 
 "What did he say?"
 
-"Same thing, every time. Took a machine out to a big house in the fog, on a Saturday. Seven cars on the drive and no staff to park them. Fella at the door, no face to speak of, says it'll be *needed from tomorrow*." Len shook his head. "Tommy said he wrote that on the docket. Didn't need to. Nobody'd asked him. Wrote it down so it'd be somewhere, he said, because it bothered him and he'd nowhere else to put it."
+"Same thing every time. Took a machine out to a big house in the fog, on a Saturday. Seven cars on the drive and no staff to park them. Fella at the door, no face to speak of, says it'll be *needed from tomorrow*." Len shook his head. "Tommy wrote that on the docket. Nobody'd asked him. Wrote it down so it'd be somewhere, he said, because it bothered him and he'd nowhere else to put it."
 
-I didn't say anything. I'd been carrying that house around in my bag for ten days, and here, at last, was somebody in it: a young man in a cab, in 1962, with a pencil, putting a thing that bothered him on the only paper he had. Sixty-four years later a stranger was hearing it in a café, from a man who'd heard it from a man who'd gone soft.
+I'd been carrying that house around in my bag for ten days, and here, at last, was somebody in it: a young man in a cab, in 1962, with a pencil, putting a thing that bothered him on the only paper he had.
 
 *Needed from tomorrow.* A machine carried into that house on the Saturday. The counting started on the Sunday.
 
-"Died, what, ten years since," Len said. "I didn't go to the funeral. Should have."
+A man with no face at the door in 1962. A cash man whose face didn't stick in the eighties. A man at the next table whose face I couldn't keep for ten minutes. I made myself stop there.
 
-A man with no face at the door in 1962. A cash man whose face didn't stick in the eighties. Two drivers, twenty years apart, describing the same man, or the same kind of man, which I found I liked even less. I thought about the man at the next table, and his paper that he never opened, and then I made myself stop.
-
-So I asked Len why he'd gone quiet on the phone.
+"Why did you go quiet," I said, "on the phone?"
 
 He lined his mug up with the edge of the table, like a man squaring a stack of paper.
 
-"Because my mate Terry asked," he said. "Back in the eighties. Asked the office who the cash man was. Just asked. Friendly, like. And then Terry wasn't on long-distance any more. Nothing nasty. Nobody shouted. He just never got the good runs again. Local stuff till he retired. Never knew why, and never asked anything else, ever." A quarter-turn of the mug. "Lucky, really, Terry. Lost the good runs and kept his sleep."
+"Because my mate Terry asked," he said. "Back in the eighties. Asked the office who the cash man was. Just asked. Friendly, like." A quarter-turn of the mug. "And then Terry wasn't on long-distance any more. Nothing nasty. Nobody shouted. He just never got the good runs again, and he never asked anything else, ever. Lucky, really, Terry. Lost the good runs and kept his sleep."
 
-He looked at me then, properly, for the first time.
+He looked at my phone, face down on the Formica, and then at me.
 
-"You notice that sort of thing. You notice it for forty years."
+"You asked on the internet, love."
 
 He stood up and put on his coat, which took a while, and left a two-pound coin for his tea even though I'd said I'd pay. At the door he turned round, and I thought he was going to say goodbye.
 
-"You'll notice it too, now," he said. "That's what I'm telling you, love. Once you've seen it, that's you. That's the rest of your life."
+"You'll notice it now," he said. "That's what I'm telling you. Once you've seen it, that's you. That's the rest of your life."
 
-The bell rang. The radio played to itself. I sat with a cold coffee and my phone face down on the Formica, and I understood that he hadn't been warning me off.
+The bell rang. The radio played to itself. I sat with a cold coffee and my phone face down on the table, and understood that he hadn't been warning me off.
 
 He'd been welcoming me.
 
@@ -166,32 +172,38 @@ He'd been welcoming me.
 ## AUTHOR'S NOTES (out-of-world, do not publish)
 
 **What this chapter establishes**
-- **The date, by her own skill.** On Tuesday 21 April (Day 23,200) Nell races the 1971 vehicle logs before her notice ends and finds **Wed 3 Mar 1971**: *H.H. — per instr.* She has a date before she knows what *D. 3062* means.
-- **Readers find Vesper.** Eleven, then four hundred. On Friday 24 April the owl-avatar reader suggests "D. 3062" is a day-count; Nell's sum gives **Day 0 = 14 Oct 1962**. The crisis is alluded to ("the week the world held its breath"), never named, with no real people (rule 2).
-- **The father beat** (Sunday 26 April): the old head office, now flats; she nearly rings her father (seven years dead, 2019) and has never deleted his number. Sets up ch 6.
-- **Len** (Thursday 30 April, Day 23,209, the last day of her notice): drove for Coyle's 1968–2014. The cash runs, the office calls (her father, ch 6), the cash man "with a face that didn't stick" (a Steward, not Cobb), the wardrobe that hummed (the Exchange, 1983; canon decision D3), and Terry.
-- **Old Tommy's story, told by Len:** the 1962 run, seven cars, no staff, a faceless man at the door, *needed from tomorrow*, and the note Tommy wrote on the docket "so it'd be somewhere". This is the click back to ch 1, now in a human voice. Tommy died about 2016.
-- **Cobb, sighting 1:** the man at the next table: ordinary coat, unopened newspaper, please and thank you. He sits looking at the street "as if waiting for a bus"; there is no stop on that side. Len goes quiet, watches him leave in the window's reflection, reads the menu, talks about his allotment, and afterwards "couldn't tell you what he looked like". Neither can Nell. He isn't named, and the narration doesn't dwell. Cobb names the café in ch 10.
-- **The ending:** *"You notice it for forty years… You'll notice it too, now."* Len isn't warning her. He's **welcoming** her. The chapter's one closing sting.
+- **The date, by her own skill.** On Tuesday 21 April (Day 23,200) Nell races the 1971 vehicle logs before her notice ends and finds **Wed 3 Mar 1971**: *H.H. — per instr.*
+- **The red light** (v1.4 C2): on as she goes in; **off when she comes out**. A clue, unexplained (D5: the keycard and camera logs, ch 23).
+- **Readers and the sum.** Four hundred readers; on Friday 24 April the owl-avatar reader suggests "D. 3062" is a day-count; Nell's sum gives **Day 0 = 14 Oct 1962**. The crisis is alluded to, never named, with no real people (rule 2).
+- **The father beat** (Sunday 26 April): the old head office; she nearly rings her father (dead since 2019) and has never deleted his number. Sets up ch 6.
+- **The mistake** (Monday 27 April, new in v3.1). After ringing the drivers, Nell adds a paragraph to Post #1: two drivers, one laughed, the other went quiet, saw it "on the odd job" and asked about her mum, *"(I'm reading something into that.)"* No name, no place. Forty-one readers by morning. She doesn't delete it: "a deletion is the loudest thing you can do on the internet."
+- **The cost.** At the café Len confronts her: a man at the allotments showed him the post. *"How many drivers d'you think went quiet, love? There's about six of us left."* Nell fears for him, then, ashamed, for herself: the settlement she signed in May has a clause about company records, and the keycard logs every archive visit. Len: *"Leave it. Taking it off's worse."*
+- **Len's memories:** the cash runs, the office calls (her father, ch 6), the cash man "with a face that didn't stick" (a Steward, not Cobb), the wardrobe that hummed (the Exchange, 1983; D3).
+- **The keycard left off the list** (Wednesday 29 April): HR's return-of-property email lists laptop, phone, lanyard and permit, not the keycard (D5).
+- **Cobb, sighting 1, and a menace bigger than the mistake.** The man at the next table: ordinary coat, unopened newspaper, please and thank you, "waiting for a bus" where there's no stop. Afterwards Len asks *"Who else did you tell?"* She never said where or when. Her post explains why someone is interested, not how he found the café. Neither of them can describe him. In the car, the paragraph has been copied and posted on its own by a nameless account with no other posts (left open; it may be paid off in ch 10 or ch 23). Cobb names the café in ch 10.
+- **Old Tommy's story, told by Len:** the 1962 run, seven cars, no staff, the faceless man, *needed from tomorrow*, the note written "so it'd be somewhere".
+- **Terry as a warning:** he asked, "friendly, like", and lost the good runs. *"You asked on the internet, love."*
+- **The ending (unchanged):** *"He'd been welcoming me."* The chapter's one closing sting.
 
-**v3.0 redraft (28 Oct 2026, Act One pacing; fixes v1.4 C1, C2)**
-- **Speed map:** **fast open** (the ledger race, short paragraphs, standing at the shelf); quick and wry (readers, the owl, the sum in one paragraph of working); slow (the father beat); quick (the phone calls); **slow centre with a tense interruption** (Len, then the man at the next table); slow close (Tommy, Terry, the welcome).
-- **Paper rule:** no document is set on the page. The log entry is one italic phrase in the narration; the 1962 box and its manifest are not shown (the ARG's Post #2 keeps the scan). Len holds a photo on her phone, not a printed scan.
-- **The red light** (v1.4 C2): she looks up at it on the way in. It's on.
-- **The keycard:** "Nobody asked for the keycard back" sets up ch 6, where it still works on 25 May.
-- **Cut:** the 1962 box scene, the man with the dog outside the flats (the dog belongs to Cobb in ch 6), the retrospective "It didn't occur to me… to wonder", and Pete in the sum (v1.4 C6: Pete stays one memory).
+**v3.1 (28 Oct 2026: Martin, "ch 3 is still slow")**
+- **Why:** v3.0's middle had about 1,000 words with no threat, and Nell only received. Now she acts, gets it wrong, and pays: fear for Len, fear of exposure, and a menace her mistake can't explain.
+- **Speed map:** fast open (the ledger race; the light off); quick (readers, owl, sum, compressed); a short still beat (the father); quick and rising (the calls, **the mistake**, the unpressed delete); **tense** (Len's confrontation, Cobb, "Who else did you tell?"); slower but cold (Tommy, Terry as warning, the welcome).
+- **Compressed:** the readers, comments and owl; the sum; the Sunday walk. The "very old and very cold" line and some of the head-office description are cut.
+- **Moved:** Len asks after her mum on the phone (matching ARG Post #1), not at the café; at the café he dodges with the allotment.
 - **"The way…" similes:** two (photographs of the dead; describing a load for a manifest).
-- **The second post** (Post #2: the date, the log, Len) goes up after this chapter ends, on the night of 30 April. The Archivist's access to her account that night is revealed by the letter in ch 6.
-- Length: about 2,300 words (v1.2: about 2,380).
-- **Character beats added:** Len's driver's habits (parked facing out, the seat that sees the door, moving the sugar); Emmanuel's crossword in pen; Nell trying to describe the man as a load for a manifest.
+- Length: about 2,250 words (v3.0: about 2,300).
+
+**ARG alignment**
+- **Fixes the old mismatch.** ARG Post #1 already contains the drivers paragraph. In the book it is now a Monday update to Post #1, so the two agree. *Optional:* mark the paragraph *(Added Monday)* in `content/phase-1/post-01-for-the-long-weather.md`.
+- **Post #2** (the night of 30 April) stays as it is: her careful public version leaves out Len's fear and the man at the next table. That's the first real entry in the thread **"What Nell keeps off the blog"**.
 
 **Continuity**
-- Her notice ends Thursday 30 April 2026. Her keycard is never collected (canon decision D5: the logs).
-- Len's question about her mum: Nell's mother died around 2015 (`characters.md`, "about ten years ago").
-- Post #2 in the ARG covers the same ground with scans; the novel shows it from inside (open questions, Settled: book and ARG paper differ on purpose). Post #1 already mentions the two drivers; that small ARG/book order difference predates this redraft.
+- Her notice ends Thursday 30 April 2026. Her keycard is never collected (D5).
+- Nell's mother died around 2015 (`characters.md`). Her settlement matches ARG Post #1 ("a fair settlement").
+- Len's informant ("bloke at the allotments") is unnamed; no new character.
+- The ch 6 letter (Archivist in her account since the night of Post #2) and D15 (Cobb's "She's reading") are unaffected.
 
 **Rule checks**
-- No real present-day place names; the city stays unnamed ("a city I'd never been to", "the old depot").
+- No real present-day place names; the city stays unnamed.
 - No real people; the 1962 crisis is unnamed.
-- No telling ahead. Nell doubts herself ("I was annoyed. I want that on the record."; "I made myself stop").
-- No book-only themes.
+- The settlement clause is story stakes, not legal advice.

@@ -1,7 +1,7 @@
 # Book plan: synopsis, outline and resolution map
 
 *Urban Paranoia source pack for NotebookLM. Private: contains the full canon and ending.*
-*Assembled from: `book/synopsis.md`, `book/outline.md`, `book/resolution-map.md`, `book/act-2/scene-the-wall.md`. Built 2026-10-28, commit 20f3d49.*
+*Assembled from: `book/synopsis.md`, `book/outline.md`, `book/resolution-map.md`, `book/act-2/scene-the-wall.md`. Built 2026-10-28, commit 3ec56fc.*
 
 Chapters 1-6 are drafted; 7-30 and the epilogue are planned. The outline's 'Threads and payoffs' table tracks every set-up.
 
@@ -128,10 +128,10 @@ Nell's redundancy, told through the croissants and the letter. The archive by th
 
 **Act One pacing:** done in v3.0. The manifest is the only document; the find is fast and hands-first; she notices the archive camera's red light as she leaves (D5).
 
-**3. Reconciliation** *(redrafted v3.0, ~2,300)* → [chapter file](chapters/03-reconciliation.md)
+**3. Reconciliation** *(redrafted v3.1, ~2,250)* → [chapter file](chapters/03-reconciliation.md)
 Vehicle logs, the 1962 box, the driver's note (chapter 1's words, seen again sixty-four years later; readers feel the click). Day 0 solved. **Len** over coffee: the cash man, the wardrobe that hummed, Terry. *Ends:* *"You notice it for forty years."* 
 
-**Act One pacing:** done in v3.0. Fast open (the ledger race finds 3 March 1971); the owl and the sum; the father beat; Len, with **Cobb, sighting 1** at the next table; Old Tommy's 1962 story told by Len; the red light glimpsed (v1.4 C2). No documents on the page.
+**Act One pacing:** done in v3.0. Fast open (the ledger race finds 3 March 1971); the owl and the sum; the father beat; Len, with **Cobb, sighting 1** at the next table; Old Tommy's 1962 story told by Len; the red light glimpsed (v1.4 C2). No documents on the page. **v3.1 (Martin: "still slow"):** Nell acts and gets it wrong. On Monday she adds the drivers paragraph to Post #1 (now matching the ARG), and doesn't delete it. HR's property list leaves out the keycard. Len confronts her ("There's about six of us left"), and her settlement clause and keycard logs frighten her. Cobb's arrival is a menace bigger than the mistake: "Who else did you tell?" "Nobody. I didn't say where." Her paragraph is reposted by a nameless account. Terry becomes a warning: "You asked on the internet, love." The red light is off when she leaves.
 
 **4. Interlude: Not Far, Only Elsewhere** *(2 March 1971, Day 3,061; redrafted v3.0, ~2,000)* → [chapter file](chapters/04-not-far-only-elsewhere.md)
 The last session at Harrowgate before the machine is moved. The three Founders, now quietly wealthy from their first container-shipping stakes, uneasy at how easy it was. The machine prints *NOT FAR. ONLY ELSEWHERE.* (recording HG-71). Cut to Le Havre: the French actuary plays three notes on his piano and closes the lid forever. *Function:* shows the Table's first riches and first guilt. They were nobodies once.
@@ -283,7 +283,7 @@ Invented composites only; real leaders appear only as unnamed background. See [p
 | The faceless man at the door | ch 1 | ch 10, 19 (Cobb); ch 29 (Cobb signs the strike list) |
 | Cobb before he speaks | ch 3 (café), ch 5 (van), ch 6 (dog) | ch 10 (he names all three) |
 | The line (D15) | ch 12 (call 1, the phone box at 02:10) | ch 15 (his words in the briefing), ch 22 (call 2, recorded), ch 23 (nobody on the line), ch 26 (his words in the inventory), ch 29 (the box rings unanswered), epilogue (the hiss on Nell's phone) |
-| What Nell keeps off the blog | ch 2 (the red light) | ch 18 (the Wall) or ch 22 (the smear campaign) |
+| What Nell keeps off the blog | ch 2 (the red light), ch 3 (Len's fear and the man at the next table, after her Monday update goes wrong) | ch 18 (the Wall) or ch 22 (the smear campaign) |
 | The keycard still works | ch 6 (Coyle's, 25 May) | ch 23 (the logs, D5); ch 26 (Crane's keycard) |
 | Never says "I" | ch 1 | Epilogue: the machine types *I* |
 | Emmanuel's silence | ch 6 | ch 11, 19 (he stood up too) |
