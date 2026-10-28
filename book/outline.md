@@ -47,7 +47,7 @@ canon-refs: [bible/*, book/synopsis, book/chapters/01-day-zero, book/act-2/scene
 
 ## ACT ONE: THE LONG WEATHER (chapters 1–10, ~22,000–24,000 words)
 
-*Act note:* discovery is active. Nell finds things by doing her job (reconciling), by asking people, and by going places, not by opening envelopes. Chapters 2 and 3 are redrafted (v3.0). Chapters 4, 5 and 6 are drafted but **revision is pending** against the briefs below (ch 4: one continuous scene rather than summary, per the reader panel); until then their text differs from this plan.
+*Act note:* discovery is active. Nell finds things by doing her job (reconciling), by asking people, and by going places, not by opening envelopes. Chapters 2, 3 and 4 are redrafted (v3.0). Chapters 5 and 6 are drafted but **revision is pending** against the briefs below; until then their text differs from this plan.
 
 *Rewrite notes for ch 3 onwards (fixes v1.4 Part C):*
 - **Style ceilings** (C9): at most two "the way…" similes and one closing sting per chapter, and no telling ahead, matching ch 2 v3.0.
@@ -68,8 +68,9 @@ Vehicle logs, the 1962 box, the driver's note (chapter 1's words, seen again six
 
 **Act One pacing:** done in v3.0. Fast open (the ledger race finds 3 March 1971); the owl and the sum; the father beat; Len, with **Cobb, sighting 1** at the next table; Old Tommy's 1962 story told by Len; the red light glimpsed (v1.4 C2). No documents on the page.
 
-**4. Interlude: Not Far, Only Elsewhere** *(2 March 1971, Day 3,061; drafted v1.2, ~1,450)* → [chapter file](chapters/04-not-far-only-elsewhere.md)
+**4. Interlude: Not Far, Only Elsewhere** *(2 March 1971, Day 3,061; redrafted v3.0, ~2,000)* → [chapter file](chapters/04-not-far-only-elsewhere.md)
 The last session at Harrowgate before the machine is moved. The three Founders, now quietly wealthy from their first container-shipping stakes, uneasy at how easy it was. The machine prints *NOT FAR. ONLY ELSEWHERE.* (recording HG-71). Cut to Le Havre: the French actuary plays three notes on his piano and closes the lid forever. *Function:* shows the Table's first riches and first guilt. They were nobodies once.
+**Act One pacing:** done in v3.0. One continuous scene from her taxi to 02:10: the toast "To the boxes", the Rotterdam dock gang of forty (*39* in her margin), the telephone ringing once, Mother Quill's "the glass was falling", the German's grain-scale weighing (**144 lb**, so ch 6's letter lands as dramatic irony), and *Day 3,062* written at midnight. Le Havre gains the closed dockers' café. The 55-year forward glance is cut (no telling ahead).
 
 **5. The Sensible Voice** *(drafted v2.2, ~2,800)* → [chapter file](chapters/05-the-sensible-voice.md)
 **Danny** in Nell's kitchen: "It's a tax dodge, Nell." The **Mission Hall** and **Pastor Ama**. **Jack Prentice ("Jordan")**, 19, his apprenticeship cut and his mum's flat on the Wharf Road list. The first **@longweather_** comments, described and deleted. *Ends:* Danny's line, "Don't let anyone tell you it's the people down your street," spoken while a Larkspire letting agent's van idles outside. 

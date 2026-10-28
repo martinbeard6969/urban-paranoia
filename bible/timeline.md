@@ -31,7 +31,7 @@ Real trends are atmosphere. They are **never** attributed to real people or real
 | Year | Event |
 |---|---|
 | 🟦 1970s | Real backdrop: oil shocks, high inflation, major industrial disputes. |
-| 🟥 2 Mar 1971 (Day 3,061) | The last Harrowgate teletype session (HG-71): *THE MACHINE IS NOT NEEDED HERE. IT WILL BE KEPT.* / *NOT FAR. ONLY ELSEWHERE.* The same night in Le Havre, the French actuary plays the three tones and closes his piano for good. 📄 *Chapter 4* |
+| 🟥 2 Mar 1971 (Day 3,061) | The last Harrowgate teletype session (HG-71): *THE MACHINE IS NOT NEEDED HERE. IT WILL BE KEPT.* / *NOT FAR. ONLY ELSEWHERE.* The same night in Le Havre, the French actuary plays the three tones and closes his piano for good. The German has weighed the machine on a borrowed grain scale: **144 lb**. 📄 *Chapter 4* |
 | 🟥 3 Mar 1971 (Day 3,062) | **The "long weather" shipping manifest.** Coyle's removes the teletype from Harrowgate House to the Ashby Trust, off the books. Vesper finds it 50+ years later. 📄 *ARG Posts #1–2* |
 | 🟥 1960s–80s | Coyle's drivers (incl. "Len") make occasional unrecorded Steward runs, paid in cash. Driver "Terry" loses long-distance work in the 1980s after asking questions. 📄 *Post #2* |
 | 🟥 2 Apr 1973 | Hollis Crane joins the Harlow-Vane Institute's C.S.S. ("Carrying-capacity & Social Stability") as a Junior Fellow. 📄 *Harlow-Vane card 0144* |

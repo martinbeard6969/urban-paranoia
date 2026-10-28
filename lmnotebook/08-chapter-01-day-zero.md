@@ -1,7 +1,7 @@
 # Chapter 1: Day Zero
 
 *Urban Paranoia source pack for NotebookLM. Private: contains the full canon and ending.*
-*Assembled from: `book/chapters/01-day-zero.md`. Built 2026-10-28, commit c6708dd.*
+*Assembled from: `book/chapters/01-day-zero.md`. Built 2026-10-28, commit f5e4c8e.*
 
 
 ## Editor's summary
