@@ -82,6 +82,7 @@ Then the **fictional evidence**, one thread per card, in Vesper's analyst shorth
 ### 6. Confessions (≈700 words)
 - **Danny** finally repeats, quietly, what he said at the confrontation. *(Off the page: the reader is told he said it and how it felt, not the words themselves.)* He says he believed it at the time. He says he still has the fear underneath it, even now he knows the fear was being *used*. Vesper doesn't tell him the fear was fake. The pressures are real, but the target was wrong.
 - **Vesper** tells Danny about card 0212 and her father: *"Reliable. Asks no questions."* She's afraid she's her father's daughter in the wrong way: someone who keeps the paperwork tidy for people she never sees.
+- **The missing knock (D14).** Below the six cards, Nell has pinned the three deaths and her own people: Danny, Ama, Jack, Crane, Cobb, and her own post. She maps who *didn't* knock, and every arrow runs sideways, at a neighbour. Danny explains the parcels (the app's ninety-second door timer, ch 5). Ama's reason for the key comes by text or in Danny's telling: the old man asked for it back because the feeds had made him afraid of visitors. Vesper sees she has done what the letter warned against. *(Estimate: about +300 words, which puts this section at about 1,000.)*
 - Neither consoles the other well. That's the point. They stay in the room anyway.
 
 ### 7. The building (≈500 words). The Larkspire reveal.

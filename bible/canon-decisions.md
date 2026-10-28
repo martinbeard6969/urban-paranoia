@@ -181,10 +181,29 @@ It stays "withheld" on the Harlow-Vane site until then.
 
 ---
 
+## D14. The missing knock: safeguard
+
+*Fixes v1.3 (idea #6), accepted by Martin 28 Oct 2026.* Three ordinary deaths are spun into a rumour that "someone is killing people like us". It gives outline ch 17's "crime that never happened" its content, and runs on the ch 12 counsel *GIVE EVERY FEAR A FACE THAT IS NOT OURS*. No new Tenant line, no new major character.
+
+- **The deaths are natural.** Three people die in Act Two (ch 13, 16, 17): a fall, a fire, a heart attack or similar. Nobody causes them. The Lodge's guilt is the **story** told about them, not the deaths.
+- **What links them is missing help:** a neighbour who stopped knocking, a spare key taken back, a parcel left on a step. Before the deaths, people stop knocking because of the **general fear the feeds already stir up** (Frostline, the Hush threats of ch 13, Danny's *"Everyone's frightened"* in ch 5). The killing rumour comes **after** the deaths and feeds on them.
+- **No service fails on purpose.** No company, Lodge-owned or not, withdraws help, changes a rota or causes a death. If a care-alarm or welfare-check firm is named, it's invented and goes on the name-clearance list (open question 1). Never real emergency services or the NHS, and never a hint that real health or care services fail on purpose.
+- **Reported, never shown.** Nell learns of each death second-hand. There's no death scene and no point of view from a victim.
+- **No group selection.** Each victim is a specific person, with one planted detail while alive. The rumour sorts them into "sides"; the book shows the sorting is false.
+- **Nobody the reader suspects is a killer.** The suspects (see `characters.md`, "Missing knock") are innocent or complicit only in small, human ways.
+- **The plywood-window family is never one of the reader's suspects.** Only the rumour targets them. The book directs the reader's suspicion at Nell's own circle, so the reader's guilt lands on themselves, never on a group.
+- **No real events.** The rumour, its wording and the crowd must not echo any specific real rumour-led disorder or attack (hard rule 4).
+- **The Tenants never order deaths.** The only counsel involved is ch 12's. The Table and Ward read it their own way (D13: humans own what they build). Ch 15's *welfare-check rates down eleven per cent* is a number nobody reacts to; nobody orders, causes or welcomes a death.
+- **@longweather_ is never quoted.** Nell paraphrases it.
+- **Book and film only.** No ARG post, drop or account mentions the deaths or a pattern of deaths. The ARG may echo the rumour's *tone* at most.
+
+---
+
 ## Knock-on changes made
 
 - [the-lodge.md](the-lodge.md): seat table and the empty thirteenth chair added.
 - [characters.md](characters.md): Crane, Marguerite and Emmanuel updated.
 - [timeline.md](timeline.md): the Exchange (1983), the move to fax (1994), and card 0212 timing added.
 - [open-questions.md](open-questions.md): questions 5–14 moved to "Settled".
+- D14 (fixes v1.3): [characters.md](characters.md), [outline](../book/outline.md) ch 12–29 and the threads table, [the Wall scene](../book/act-2/scene-the-wall.md) updated.
 - D10 replaced and D11–D13 added on the user's instruction: [the-tenants.md](the-tenants.md), [deep-time.md](deep-time.md), [the-ladder.md](the-ladder.md), [the-lodge.md](the-lodge.md) updated.

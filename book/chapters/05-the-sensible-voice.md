@@ -13,7 +13,7 @@ status: draft v2.2 (revised 26–28 Oct 2026: writers' fixes v1.0–v1.2 revised
 
 **NELL · DAY 23,220 · MONDAY 11 MAY 2026**
 
-Danny read both posts standing up, in my kitchen, in his delivery jacket, with his phone buzzing in his pocket every forty seconds to tell him he was late.
+Danny read both posts standing up, in my kitchen, in his delivery jacket, with his phone buzzing in his pocket every forty seconds to tell him he was late. The app gave him ninety seconds at each door. Every second over came off his rating.
 
 He'd texted *tax dodge x* the morning after I first rang him about the manifest, three weeks before, and as far as I knew he hadn't read a word since. This was the first time.
 
@@ -139,6 +139,8 @@ He watched the queue for a long moment.
 
 "Everyone's frightened," he said. "And nobody knows who of. So they pick whoever's nearest."
 
+The old man didn't drink his tea. He tipped it into a tartan flask from his coat pocket and screwed the lid down tight, for later. Danny said he'd done that every Saturday since his wife died.
+
 ---
 
 The lad stacking tins at the back was Jack.
@@ -222,7 +224,7 @@ I told myself that was a coincidence too.
 | The walk to the hall | Closed shops, a payday lender, the prepayment-meter queue (*"Like feeding a meter in a car park, except it's your kids' heating"*), and a **racist attack**: the plywood window and the child's rainbow left in place |
 | The noticeboard | Debt advice, a job club, energy bills, hate-crime reporting in four languages, Marek's window-repair card |
 | Ama and the young woman in sunglasses | **Domestic abuse**, shown only through support: the folded note, the back room, nobody watching the door, the card *"You are not on your own. Ask Ama."* |
-| The queue flare-up | Fear turning sideways, in two short lines (*"I was here first." / "No, you weren't."*). Ama's radiator line; half the queue jumps anyway. Danny: *"Everyone's frightened. And nobody knows who of. So they pick whoever's nearest."* |
+| The queue flare-up | Fear turning sideways, in two short lines (*"I was here first." / "No, you weren't."*). Ama's radiator line; half the queue jumps anyway. Danny: *"Everyone's frightened. And nobody knows who of. So they pick whoever's nearest."* The old man's tartan flask and Danny's ninety-second door timer seed the missing knock (canon decision D14; the old man dies in ch 13). |
 | Jack | Lost apprenticeship, his mum's two cleaning jobs, Wharf Road phase one |
 | @longweather_ | It **feeds on these same pressures**, sounds almost like Danny for a sentence, then turns them into blame on neighbours |
 | Danny's final line | Now names the costs: *"Not for the rent, not for the jobs, not for that window."* |
