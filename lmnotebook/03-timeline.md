@@ -1,7 +1,7 @@
 # Timeline
 
 *Urban Paranoia source pack for NotebookLM. Private: contains the full canon and ending.*
-*Assembled from: `bible/timeline.md`. Built 2026-10-28, commit 68d59dd.*
+*Assembled from: `bible/timeline.md`. Built 2026-10-28, commit c6708dd.*
 
 Key: 🟦 real-world trend (backdrop only) · 🟥 fictional canon event · 📄 ARG artefact source. Day-counts run from Day 0 = Sunday 14 October 1962.
 

@@ -1,7 +1,7 @@
 # Chapter 3: Reconciliation
 
 *Urban Paranoia source pack for NotebookLM. Private: contains the full canon and ending.*
-*Assembled from: `book/chapters/03-reconciliation.md`. Built 2026-10-28, commit 68d59dd.*
+*Assembled from: `book/chapters/03-reconciliation.md`. Built 2026-10-28, commit c6708dd.*
 
 
 ## Editor's summary
