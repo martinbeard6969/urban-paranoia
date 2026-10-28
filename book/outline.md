@@ -55,7 +55,7 @@ The last session at Harrowgate before the machine is moved. The three Founders, 
 **Danny** in Nell's kitchen: "It's a tax dodge, Nell." The **Mission Hall** and **Pastor Ama**. **Jack Prentice ("Jordan")**, 19, his apprenticeship cut and his mum's flat on the Wharf Road list. The first **@longweather_** comments, described and deleted. *Ends:* Danny's line, "Don't let anyone tell you it's the people down your street," spoken while a Larkspire letting agent's van idles outside.
 
 **6. Count Forwards** *(drafted v1.1, ~2,300)* → [chapter file](chapters/06-count-forwards.md)
-The line in the source code at 03:12. The typed letter. Day 22,861: the croissants again. **144 lb.** Her father, the man who knew where everything was. *Ends:* *"I'm going to stop this paragraph here,"* as she stares at her father's crossword dictionary.
+The line in the source code at 03:12. The typed letter. Day 22,861: the croissants again. **144 lb.** Her father, the man who knew where everything was. *Ends:* she takes down her father's crossword dictionary, sees his pencil marks, and closes it unread: *"Some things you count. And some things you leave on the shelf…"*
 
 **7. The Grey Door**
 The colour-pick. `/6b6e70`. Fragment Four, Marguerite's note, HG-68. The tones hit Nell physically, through cheap laptop speakers: the same "too pure" sound as chapter 1. *Ends:* *EVEN FOR THE ONES WHO ANSWERED THE TELEPHONE.*
