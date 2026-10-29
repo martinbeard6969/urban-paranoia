@@ -1,7 +1,7 @@
 # Hard rules, voices and modern pressures
 
 *Urban Paranoia source pack for NotebookLM. Private: contains the full canon and ending.*
-*Assembled from: `CLAUDE.md`, `bible/public-figures.md`, `bible/voices.md`, `bible/modern-pressures.md`. Built 2026-10-29, commit ecee6ee.*
+*Assembled from: `CLAUDE.md`, `bible/public-figures.md`, `bible/voices.md`, `bible/modern-pressures.md`. Built 2026-10-29, commit cfd69f1.*
 
 The rules every chapter and ARG post must pass. From CLAUDE.md only the hard rules and the voice and style section are included.
 

@@ -1,7 +1,7 @@
 # Book plan: synopsis, outline and resolution map
 
 *Urban Paranoia source pack for NotebookLM. Private: contains the full canon and ending.*
-*Assembled from: `book/synopsis.md`, `book/outline.md`, `book/resolution-map.md`, `book/act-2/scene-the-wall.md`. Built 2026-10-29, commit ecee6ee.*
+*Assembled from: `book/synopsis.md`, `book/outline.md`, `book/resolution-map.md`, `book/act-2/scene-the-wall.md`. Built 2026-10-29, commit cfd69f1.*
 
 Chapters 1-6 are drafted; 7-30 and the epilogue are planned. The outline's 'Threads and payoffs' table tracks every set-up.
 

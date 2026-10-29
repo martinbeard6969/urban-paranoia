@@ -249,7 +249,7 @@ It stays "withheld" on the Harlow-Vane site until then.
 **Never revealed.** No character learns or states any of this, and no narration explains it, in Book 1, Book 2, the film or the audio drama. **The ARG never hints at it at all.** It may only be felt through hints like these, each deniable on its own:
 - **The list's heading (ch 25):** the Seats' list is headed *KEPT BACK*, a farmer's phrase that the Lodge reads as rescue.
 - **The older ledger (ch 26):** Nell, a reconciler, sees that the earlier Table's names are set out like a stock list, under the same heading, each with a mark she can't read.
-- **A line of counsel** that reads as a farming proverb: *THE BEST OF THE CROP IS NOT EATEN.*
+- **A line of counsel** that reads as a farming proverb: *THE BEST OF THE CROP IS NOT CONSUMED.*
 - **The epilogue's notice** arrives the way post comes through an agent's office: someone holds paperwork on many houses.
 
 **Guardrails**
