@@ -53,6 +53,7 @@ The Lodge isn't the first circle of letting agents.
 - In the **Ashby store safe**, beside copies 1 and 2 of the Harrowgate Minutes, is **the older ledger**: a bound book in a dead script, dated by a **different day-count** that began long before 1962. It records counsel in the same farming language, with the same absence of "I" (see the [artefacts register](artefacts-register.md)).
 - **The question it raises (ch 26):** *"We weren't the first Table."* What happened to the last one?
 - **The implied answer, never confirmed:** each earlier Table was retired when its season ended. Its counters were promised to be Taken. Whether they were, nobody knows.
+- **Writers' room only (D16):** they were. Their records were kept back as seed for other fields, and they themselves stayed behind. In ch 26 the older ledger's names are set out like a stock list under *KEPT BACK*; nothing more is ever shown.
 - **Writers' room only:** there have been at least four earlier Tables in recorded history. None is ever identified with a real organisation, place or people.
 
 ## 6. Every age's revolt
@@ -62,6 +63,8 @@ The Lodge isn't the first circle of letting agents.
 - **Why the Tenants have never finished the inventory:** sideways connection is the one yield that can't be written down. Every revolt left a gap in the ledger.
 
 ## 7. Now: the last season
+
+*(For what the yield is for and where it goes, see canon decision D16, writers' room only.)*
 
 - Machines that can count everything, devices in every pocket and models trained on everything people say mean that, for the first time, **the inventory can be completed**.
 - That's why the counsel quickened after 1962, why the Table funds the AI race (*LET THEM RACE*), and why the end of this lease feels close: the harvest, the cull (book and film only; see canon decision D11), and the Taken.

@@ -63,6 +63,7 @@ Every open question in Book 1, and where it is answered. **Rule:** a question ra
 |---|---|
 | **"Placement noted":** was Nell's job arranged? | Canon decision D8: the Table only noticed. Nell never learns this. The not-knowing is part of who she is. |
 | **The Founders' names** | Left unnamed in Book 1. Decide for the comics or never. |
+| **What happens to the Taken, and where the yield goes** | Canon decision D16 (writers' room only): the Taken's records are seed for new fields on the Freeholder's estate, and the yield serves accumulation. Never revealed in any book, film or audio; only hinted (*KEPT BACK*, ch 25–26). The ARG never hints at it. |
 
 ## The teaser: why epilogue plus ARG drop
 

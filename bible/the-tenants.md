@@ -59,13 +59,15 @@ The Tenants are a non-human intelligence. Their nature is **never confirmed on t
 
 **The Taken.** Before the end of the lease, the **brightest and most attractive** are taken and the rest are left to the thinning.
 - **"Attractive" means attractive to the harvest**: whoever draws the most attention, data and influence. It never means physical appearance, and the selection is **never** by race, ethnicity, religion, nationality, gender, disability or any real group (canon decision D12).
-- **What "taken" means is never confirmed:** copied whole into the inventory, or carried off when the lease ends.
+- **What "taken" means is never confirmed on the page:** copied whole into the inventory, or carried off when the lease ends. *Writers' room only (D16):* their complete records are kept back as **seed** and used to plant households in new fields on the Freeholder's estate; the originals stay behind. Never revealed, only hinted (*KEPT BACK*, ch 25–26). The seed is a record, never a body.
 - **The Lodge's real motive:** its members were promised their families would be Taken. The list, not the money, is why nobodies served for sixty years.
 - **The twist:** the "best" are simply **the easiest to harvest**, the most legible and most fully captured. To the Tenants, being Taken means being finished. The people they *can't* inventory are ordinary, stubborn people who choose each other.
 
 **The cull (book and film only).** At the end of the lease, the Tenants mean to **clear the field**: keep the harvest and reduce the occupants to whatever makes the house easy to hand back. "Fewer" was always a **date**. Crane's Model 7 was forecasting it. **Its method is never shown and never linked to any real-world mechanism** (canon decision D11).
 
 **Why they're afraid.** They've been evicted before. They're tenants too, and an **inspection** is coming. A loud, crowded, ungovernable household fails.
+
+**The hidden engine (writers' room only, never revealed):** the currency is the count; only the bottom rung makes anything; the inventory is the check-out inventory; a lease ends with the household handed on or cleared; the Taken are seed; the yield goes to the Freeholder's estate, for accumulation and nothing more. See canon decision D16.
 
 **What *INTERESTING* means (ch 30).** The Tenants see something that isn't on any inventory and can't be harvested: tenants on every rung refusing an inspection together. Either it threatens the lease, or it's the first thing on this farm worth keeping. The cull is **postponed, not cancelled**.
 

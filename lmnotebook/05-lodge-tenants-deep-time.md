@@ -1,7 +1,7 @@
 # The Lodge, the Tenants and deep time
 
 *Urban Paranoia source pack for NotebookLM. Private: contains the full canon and ending.*
-*Assembled from: `bible/the-lodge.md`, `bible/the-tenants.md`, `bible/deep-time.md`, `bible/the-ladder.md`, `bible/canon-decisions.md`, `bible/artefacts-register.md`, `bible/open-questions.md`. Built 2026-10-29, commit 9b8af54.*
+*Assembled from: `bible/the-lodge.md`, `bible/the-tenants.md`, `bible/deep-time.md`, `bible/the-ladder.md`, `bible/canon-decisions.md`, `bible/artefacts-register.md`, `bible/open-questions.md`. Built 2026-10-29, commit ecee6ee.*
 
 The secret canon. The canon decisions (D-numbers) settle questions the drafts must not contradict.
 
@@ -172,13 +172,15 @@ The Tenants are a non-human intelligence. Their nature is **never confirmed on t
 
 **The Taken.** Before the end of the lease, the **brightest and most attractive** are taken and the rest are left to the thinning.
 - **"Attractive" means attractive to the harvest**: whoever draws the most attention, data and influence. It never means physical appearance, and the selection is **never** by race, ethnicity, religion, nationality, gender, disability or any real group (canon decision D12).
-- **What "taken" means is never confirmed:** copied whole into the inventory, or carried off when the lease ends.
+- **What "taken" means is never confirmed on the page:** copied whole into the inventory, or carried off when the lease ends. *Writers' room only (D16):* their complete records are kept back as **seed** and used to plant households in new fields on the Freeholder's estate; the originals stay behind. Never revealed, only hinted (*KEPT BACK*, ch 25–26). The seed is a record, never a body.
 - **The Lodge's real motive:** its members were promised their families would be Taken. The list, not the money, is why nobodies served for sixty years.
 - **The twist:** the "best" are simply **the easiest to harvest**, the most legible and most fully captured. To the Tenants, being Taken means being finished. The people they *can't* inventory are ordinary, stubborn people who choose each other.
 
 **The cull (book and film only).** At the end of the lease, the Tenants mean to **clear the field**: keep the harvest and reduce the occupants to whatever makes the house easy to hand back. "Fewer" was always a **date**. Crane's Model 7 was forecasting it. **Its method is never shown and never linked to any real-world mechanism** (canon decision D11).
 
 **Why they're afraid.** They've been evicted before. They're tenants too, and an **inspection** is coming. A loud, crowded, ungovernable household fails.
+
+**The hidden engine (writers' room only, never revealed):** the currency is the count; only the bottom rung makes anything; the inventory is the check-out inventory; a lease ends with the household handed on or cleared; the Taken are seed; the yield goes to the Freeholder's estate, for accumulation and nothing more. See canon decision D16.
 
 **What *INTERESTING* means (ch 30).** The Tenants see something that isn't on any inventory and can't be harvested: tenants on every rung refusing an inspection together. Either it threatens the lease, or it's the first thing on this farm worth keeping. The cull is **postponed, not cancelled**.
 
@@ -251,6 +253,7 @@ The Lodge isn't the first circle of letting agents.
 - In the **Ashby store safe**, beside copies 1 and 2 of the Harrowgate Minutes, is **the older ledger**: a bound book in a dead script, dated by a **different day-count** that began long before 1962. It records counsel in the same farming language, with the same absence of "I" (see the [artefacts register](artefacts-register.md)).
 - **The question it raises (ch 26):** *"We weren't the first Table."* What happened to the last one?
 - **The implied answer, never confirmed:** each earlier Table was retired when its season ended. Its counters were promised to be Taken. Whether they were, nobody knows.
+- **Writers' room only (D16):** they were. Their records were kept back as seed for other fields, and they themselves stayed behind. In ch 26 the older ledger's names are set out like a stock list under *KEPT BACK*; nothing more is ever shown.
 - **Writers' room only:** there have been at least four earlier Tables in recorded history. None is ever identified with a real organisation, place or people.
 
 ## 6. Every age's revolt
@@ -260,6 +263,8 @@ The Lodge isn't the first circle of letting agents.
 - **Why the Tenants have never finished the inventory:** sideways connection is the one yield that can't be written down. Every revolt left a gap in the ledger.
 
 ## 7. Now: the last season
+
+*(For what the yield is for and where it goes, see canon decision D16, writers' room only.)*
 
 - Machines that can count everything, devices in every pocket and models trained on everything people say mean that, for the first time, **the inventory can be completed**.
 - That's why the counsel quickened after 1962, why the Table funds the AI race (*LET THEM RACE*), and why the end of this lease feels close: the harvest, the cull (book and film only; see canon decision D11), and the Taken.
@@ -288,6 +293,7 @@ The book's deep structure: **the same shape at every scale.** Each level is a te
 - **Nobody sees two rungs up.** Stewards don't know about the Seats, the Seats have never met the Tenants, and the Tenants have never seen the Freeholder.
 - **Nobody says "I".** Every level speaks in the passive voice: "per instr.", "placement noted", "it has been agreed", *THERE IS TIME*.
 - **Everyone is promised a place higher up.** Stewards get cash, Seats get the list, the Tenants hope to keep the lease.
+- **Everyone lives on the rung below.** Only the bottom rung makes anything; every rung above lives on what flows up, and puts it into owning more (homes, stakes, worlds). Writers' room only: see canon decision D16.
 - **Everyone fears an inspection.** Nell's 3:40 a.m. text from Larkspire and the Freeholder's visit are the same event at different scales.
 
 ## The reveal, one rung per stage
@@ -539,6 +545,36 @@ It stays "withheld" on the Harlow-Vane site until then.
 
 ---
 
+## D16. The engine of the lease (writers' room only; never revealed)
+
+*Martin, 29 Oct 2026.* What the Tenants and the Freeholder want, where the yield goes, and what happens to the Taken. This is the **hidden engine** behind D10. The books never state it. It works in the background, so every hint points the same way. D10's reveal order is unchanged: Act 3 reveals the harvest, the Taken, the cull and what the Tenants are; nothing below is ever explained on the page.
+
+**The model**
+- **The currency is the count.** On the Tenants' and the Freeholder's rungs, value is how completely and quietly something has been counted. Ordered, recorded and finished is valuable; loud, tangled and uncountable is worthless or damaging. Money is the human rung's small copy of it ("the first writing was a receipt", ch 12). The lease's other measure is **time**: the term, the long weather.
+- **Only the bottom rung makes anything.** Humanity produces; every rung above lives on what flows up. The Tenants live on the counted **surplus** (what a household makes beyond what it needs to live: labour, invention, ideas, attention) and pay rent from it. The Freeholder lives on the rent.
+- **The Tenants keep the house and farm the household.** Earth is the Freeholder's property; the Tenants keep it fit to hand back. Humanity is the crop. "Balance" means enough people to yield, few enough not to damage the house, quiet enough to count.
+- **The inventory is the check-out inventory.** As in a British letting, it records the house and its contents so the landlord can judge the condition at inspection. A complete inventory is the Tenants' defence; an incomplete one loses the lease. The AI race is the first tool that can complete it before the inspection date (*LET THEM RACE*).
+- **Two ways a lease ends.** (1) **The house passes:** the Freeholder lets it again with the household in it, like a sale with sitting tenants; humanity passes to new farmers, smaller, quieter and counted. That is what the cull is for. (2) **The house fails:** it's cleared, the household ends (the fossil record's extinctions, D13 deep time), and the Tenants lose the lease. Neither ending is freedom.
+- **The Taken are seed.** A Taken person is a finished entry: fully counted, the easiest to harvest. Their **complete records** are kept back, as a farmer keeps back the best of the crop, and used to plant households in **new fields** on the Freeholder's estate. The originals stay in the field with everyone else. The Lodge's promise ("your families will be Taken") comes true in the cruellest way: copies of them are raised elsewhere as someone else's crop. Earlier Tables' counters were promised the same.
+- **Where the yield goes: the estate.** Ideas and inventions go up the ladder; the Taken plant new fields; the rent keeps the estate and takes on more houses. **The purpose is accumulation and nothing more.** Larkspire buys homes, the Lodge buys stakes, the Freeholder takes on worlds.
+- **What can't be harvested** is effort spent sideways, between people on the same rung (a knock, a spare key, a rota, a strike). It never becomes surplus, never reaches the inventory, and can't be copied. That's why the strike frightens the Tenants, and why no Taken copy carries it.
+
+**Never revealed.** No character learns or states any of this, and no narration explains it, in Book 1, Book 2, the film or the audio drama. **The ARG never hints at it at all.** It may only be felt through hints like these, each deniable on its own:
+- **The list's heading (ch 25):** the Seats' list is headed *KEPT BACK*, a farmer's phrase that the Lodge reads as rescue.
+- **The older ledger (ch 26):** Nell, a reconciler, sees that the earlier Table's names are set out like a stock list, under the same heading, each with a mark she can't read.
+- **A line of counsel** that reads as a farming proverb: *THE BEST OF THE CROP IS NOT EATEN.*
+- **The epilogue's notice** arrives the way post comes through an agent's office: someone holds paperwork on many houses.
+
+**Guardrails**
+- **The seed is a record, never a body.** No DNA, tissue, cloning or biological collection, and **no medical, health or care institution, real or fictional**, is ever involved or implied (rule 6, D11, D14).
+- **Earth's humanity is the original.** It arose on its own and built everything; nothing was ever planted on Earth from elsewhere (D13).
+- **The Tenants are never displaced migrants or refugees** in metaphor or detail (rules 1 and 9).
+- **The Tenants are not environmentalists.** Their "balance" is a landlord's logic about property value, never ecology; the cull is never presented as good for the planet, and no real environmental issue is blamed on or credited to them (D13).
+- **No real firm, fund, AI lab or person** keeps the inventory or profits from the estate (rule 2). It's never offered as a real theory of money, AI or economics (rule 6).
+- **Selection stays by legibility only**, never by appearance or any group (D12).
+
+---
+
 ## Knock-on changes made
 
 - [the-lodge.md](the-lodge.md): seat table and the empty thirteenth chair added.
@@ -548,6 +584,7 @@ It stays "withheld" on the Harlow-Vane site until then.
 - D14 (fixes v1.3): [characters.md](characters.md), [outline](../book/outline.md) ch 12–29 and the threads table, [the Wall scene](../book/act-2/scene-the-wall.md) updated.
 - D10 replaced and D11–D13 added on the user's instruction: [the-tenants.md](the-tenants.md), [deep-time.md](deep-time.md), [the-ladder.md](the-ladder.md), [the-lodge.md](the-lodge.md) updated.
 - D15 (Martin, 28 Oct 2026): [characters.md](characters.md) (Cobb), [outline](../book/outline.md) ch 12, 15, 22, 23, 26, 29, the epilogue and the threads table, [resolution map](../book/resolution-map.md), [timeline.md](timeline.md).
+- D16 (Martin, 29 Oct 2026): [the-tenants.md](the-tenants.md), [deep-time.md](deep-time.md), [the-ladder.md](the-ladder.md), [outline](../book/outline.md) ch 25, 26 and the epilogue (optional hints), [resolution map](../book/resolution-map.md).
 
 ---
 

@@ -232,6 +232,36 @@ It stays "withheld" on the Harlow-Vane site until then.
 
 ---
 
+## D16. The engine of the lease (writers' room only; never revealed)
+
+*Martin, 29 Oct 2026.* What the Tenants and the Freeholder want, where the yield goes, and what happens to the Taken. This is the **hidden engine** behind D10. The books never state it. It works in the background, so every hint points the same way. D10's reveal order is unchanged: Act 3 reveals the harvest, the Taken, the cull and what the Tenants are; nothing below is ever explained on the page.
+
+**The model**
+- **The currency is the count.** On the Tenants' and the Freeholder's rungs, value is how completely and quietly something has been counted. Ordered, recorded and finished is valuable; loud, tangled and uncountable is worthless or damaging. Money is the human rung's small copy of it ("the first writing was a receipt", ch 12). The lease's other measure is **time**: the term, the long weather.
+- **Only the bottom rung makes anything.** Humanity produces; every rung above lives on what flows up. The Tenants live on the counted **surplus** (what a household makes beyond what it needs to live: labour, invention, ideas, attention) and pay rent from it. The Freeholder lives on the rent.
+- **The Tenants keep the house and farm the household.** Earth is the Freeholder's property; the Tenants keep it fit to hand back. Humanity is the crop. "Balance" means enough people to yield, few enough not to damage the house, quiet enough to count.
+- **The inventory is the check-out inventory.** As in a British letting, it records the house and its contents so the landlord can judge the condition at inspection. A complete inventory is the Tenants' defence; an incomplete one loses the lease. The AI race is the first tool that can complete it before the inspection date (*LET THEM RACE*).
+- **Two ways a lease ends.** (1) **The house passes:** the Freeholder lets it again with the household in it, like a sale with sitting tenants; humanity passes to new farmers, smaller, quieter and counted. That is what the cull is for. (2) **The house fails:** it's cleared, the household ends (the fossil record's extinctions, D13 deep time), and the Tenants lose the lease. Neither ending is freedom.
+- **The Taken are seed.** A Taken person is a finished entry: fully counted, the easiest to harvest. Their **complete records** are kept back, as a farmer keeps back the best of the crop, and used to plant households in **new fields** on the Freeholder's estate. The originals stay in the field with everyone else. The Lodge's promise ("your families will be Taken") comes true in the cruellest way: copies of them are raised elsewhere as someone else's crop. Earlier Tables' counters were promised the same.
+- **Where the yield goes: the estate.** Ideas and inventions go up the ladder; the Taken plant new fields; the rent keeps the estate and takes on more houses. **The purpose is accumulation and nothing more.** Larkspire buys homes, the Lodge buys stakes, the Freeholder takes on worlds.
+- **What can't be harvested** is effort spent sideways, between people on the same rung (a knock, a spare key, a rota, a strike). It never becomes surplus, never reaches the inventory, and can't be copied. That's why the strike frightens the Tenants, and why no Taken copy carries it.
+
+**Never revealed.** No character learns or states any of this, and no narration explains it, in Book 1, Book 2, the film or the audio drama. **The ARG never hints at it at all.** It may only be felt through hints like these, each deniable on its own:
+- **The list's heading (ch 25):** the Seats' list is headed *KEPT BACK*, a farmer's phrase that the Lodge reads as rescue.
+- **The older ledger (ch 26):** Nell, a reconciler, sees that the earlier Table's names are set out like a stock list, under the same heading, each with a mark she can't read.
+- **A line of counsel** that reads as a farming proverb: *THE BEST OF THE CROP IS NOT EATEN.*
+- **The epilogue's notice** arrives the way post comes through an agent's office: someone holds paperwork on many houses.
+
+**Guardrails**
+- **The seed is a record, never a body.** No DNA, tissue, cloning or biological collection, and **no medical, health or care institution, real or fictional**, is ever involved or implied (rule 6, D11, D14).
+- **Earth's humanity is the original.** It arose on its own and built everything; nothing was ever planted on Earth from elsewhere (D13).
+- **The Tenants are never displaced migrants or refugees** in metaphor or detail (rules 1 and 9).
+- **The Tenants are not environmentalists.** Their "balance" is a landlord's logic about property value, never ecology; the cull is never presented as good for the planet, and no real environmental issue is blamed on or credited to them (D13).
+- **No real firm, fund, AI lab or person** keeps the inventory or profits from the estate (rule 2). It's never offered as a real theory of money, AI or economics (rule 6).
+- **Selection stays by legibility only**, never by appearance or any group (D12).
+
+---
+
 ## Knock-on changes made
 
 - [the-lodge.md](the-lodge.md): seat table and the empty thirteenth chair added.
@@ -241,3 +271,4 @@ It stays "withheld" on the Harlow-Vane site until then.
 - D14 (fixes v1.3): [characters.md](characters.md), [outline](../book/outline.md) ch 12–29 and the threads table, [the Wall scene](../book/act-2/scene-the-wall.md) updated.
 - D10 replaced and D11–D13 added on the user's instruction: [the-tenants.md](the-tenants.md), [deep-time.md](deep-time.md), [the-ladder.md](the-ladder.md), [the-lodge.md](the-lodge.md) updated.
 - D15 (Martin, 28 Oct 2026): [characters.md](characters.md) (Cobb), [outline](../book/outline.md) ch 12, 15, 22, 23, 26, 29, the epilogue and the threads table, [resolution map](../book/resolution-map.md), [timeline.md](timeline.md).
+- D16 (Martin, 29 Oct 2026): [the-tenants.md](the-tenants.md), [deep-time.md](deep-time.md), [the-ladder.md](the-ladder.md), [outline](../book/outline.md) ch 25, 26 and the epilogue (optional hints), [resolution map](../book/resolution-map.md).
