@@ -1,7 +1,7 @@
 # Chapter 5: The Sensible Voice
 
 *Urban Paranoia source pack for NotebookLM. Private: contains the full canon and ending.*
-*Assembled from: `book/chapters/05-the-sensible-voice.md`. Built 2026-10-29, commit 0173f96.*
+*Assembled from: `book/chapters/05-the-sensible-voice.md`. Built 2026-10-29, commit d6b4816.*
 
 
 ## Editor's summary
@@ -9,7 +9,7 @@
 **Label:** NELL · DAY 23,220 · MONDAY 11 MAY 2026
 **Narration:** Nell, first person.
 **Dates:** Monday 11 to Saturday 16 May 2026 (Days 23,220–23,225).
-**Length:** about 2,700 words. Draft v3.0 (29 Oct 2026: Act One pacing).
+**Length:** about 2,700 words. Draft v3.1 (29 Oct 2026: Act One pacing; polish pass).
 
 **What happens**
 - **Fast open:** Danny Kessler, 57, reads Post #1 on Nell's doorstep while his delivery app's **ninety-second door timer** runs down: the same app that rates him 4.9. *"It knows I'm at this door. It knows I'm not knocking."* From the drivers paragraph he names Len in seconds.
@@ -75,7 +75,7 @@ He handed the laptop back, put the parcel on the mat for downstairs, and was hal
 
 He came at six with chips, because he'd decided I wasn't eating, and he was right.
 
-I'd known him since I was nine. He used to come on Sunday afternoons to argue with my father about cricket and pensions, in that order, at volume, and leave with half a cake. My father would shut the door behind him and say *that man will save the world or die trying, and I'd put money on the second*, and then laugh, because he loved him. Danny was a union rep until there was no union left to represent. Nobody abolished it. It thinned: fewer members, then fewer meetings, then one year nobody stood for branch secretary. Nothing ended. It stopped happening.
+I'd known him since I was nine. He used to come on Sunday afternoons to argue with my father about cricket and pensions, in that order, at volume, and leave with half a cake. My father would shut the door behind him and say *that man will save the world or die trying, and I'd put money on the second*, and then laugh, because he loved him. Nobody ever abolished Danny's union. It thinned: fewer members, then fewer meetings, then one year nobody stood for branch secretary, and he was a rep with nothing left to represent. Nothing ended. It stopped happening.
 
 When Dad died, Danny decided, without consulting me, that I was now his responsibility. He has never once mentioned it, and he has never once missed a week.
 
@@ -244,6 +244,8 @@ I had seen the driver's face. I'd seen it, and it was gone: an ordinary face, un
 
 
 ## AUTHOR'S NOTES (out-of-world, do not publish)
+
+**v3.1 polish pass (29 Oct 2026):** Danny's union history reworded so it no longer repeats ch 2's "until there was no union left to represent".
 
 - **v3.0 (29 Oct 2026), Act One pacing.** Redrafted to the outline's revision brief. About 2,700 words (v2.2: about 3,050 of text).
 - **Moved out:** Jack Prentice and "Jordan" (to ch 7, with the name joke and "He stayed Jack to me"); @longweather_ (to ch 6, which it now opens). The "last Tuesday" comment moves with it.

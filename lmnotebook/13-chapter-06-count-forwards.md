@@ -1,7 +1,7 @@
 # Chapter 6: Count Forwards
 
 *Urban Paranoia source pack for NotebookLM. Private: contains the full canon and ending.*
-*Assembled from: `book/chapters/06-count-forwards.md`. Built 2026-10-29, commit 0173f96.*
+*Assembled from: `book/chapters/06-count-forwards.md`. Built 2026-10-29, commit d6b4816.*
 
 
 ## Editor's summary
@@ -9,7 +9,7 @@
 **Label:** NELL · DAY 23,228 · TUESDAY 19 MAY 2026
 **Narration:** Nell, first person.
 **Dates:** Tuesday 19 to Monday 25 May 2026 (Days 23,228–23,234).
-**Length:** about 2,600 words. Draft v3.0 (29 Oct 2026: Act One pacing).
+**Length:** about 2,600 words. Draft v3.1 (29 Oct 2026: Act One pacing; polish pass). She spends the 17 May anniversary alone.
 
 **What happens**
 - **The comments:** from 2 a.m., **@longweather_** posts long, fluent comments that feed on the neighbourhood's pressures and end pointing down the street (paraphrased, never quoted). One uses *Nell*. The account dates from 2022. The seventh says she *"stood at the shelves for an hour and forty minutes, on the Tuesday"*. She never told anyone. Danny: *"Keep deleting them… Then keep the door locked as well."*
@@ -57,7 +57,7 @@ I had. Tuesday the twenty-first of April, the 1971 logs, the ledger open on my f
 
 I told myself it was a guess. I'm a reconciler. I know what a guess looks like.
 
-I deleted it, and then I sat with the deleted space where it had been until the comments stopped, at a quarter to four, as if whoever it was had gone to bed.
+I deleted it, and then sat looking at the gap where it had been until the comments stopped, at a quarter to four, as if whoever it was had gone to bed.
 
 At seven I sent Danny a screenshot of the seventh. He rang back from the van.
 
@@ -127,7 +127,7 @@ I didn't have to look for it. It was in there the way a stone is in a shoe.
 
 Somebody had put a machine leaving that house in 1971 and the system that replaced me on the same line of arithmetic, fifty-four years apart, like two entries in one ledger. And they'd been so sure I'd find the day that they hadn't bothered to tell me which it was.
 
-Last Sunday had been a year to the day. Danny had brought chips. Neither of us had said it out loud. I'd thought I was the only one keeping count.
+Last Sunday had been a year to the day. I'd spent it on my own and told nobody what day it was. I'd thought I was the only one keeping count.
 
 *ASK WHAT CAME TO YOUR DESK. ASK WHAT IT WEIGHS.*
 
@@ -228,6 +228,8 @@ Some things you count. And some things you leave on the shelf, so that for one m
 
 
 ## AUTHOR'S NOTES (out-of-world, do not publish)
+
+**v3.1 polish pass (29 Oct 2026):** continuity: Danny's chips were Monday 11 May (ch 5 v3.0), so "last Sunday" (17 May, the anniversary) is now spent alone; a repeated "deleted" removed.
 
 - **v3.0 (29 Oct 2026), Act One pacing.** Redrafted to the outline's revision brief. About 2,600 words of text (v1.1: about 2,450). The extra length is the new Monday scene at Coyle's.
 - **Cut:** the reader's email, the 03:12 source-code line, the police report and the fridge reference number, both enclosures (the consignee's 1971 copy and the 2025 goods-in note) and Danny's "heavy office kit" phone call. The ARG's Post #3 keeps all of these; the book and the blog now differ here by design (see the timeline).

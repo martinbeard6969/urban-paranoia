@@ -6,7 +6,7 @@ title: "Count Forwards"
 setting: Nell's flat; Coyle's head office. Tuesday 19 – Monday 25 May 2026
 pov: Nell Okafor-Reyes, first person, past tense
 canon-refs: [bible/characters/the-archivist, bible/characters/longweather-account, bible/characters/cobb, bible/characters/emmanuel-okafor, bible/characters/danny-kessler, bible/timeline/day-22861, bible/canon-decisions/D5, content/phase-1/post-03-count-forwards, bible/voices/archivist]
-status: draft v3.0 (redrafted 29 Oct 2026 for Act One pacing)
+status: draft v3.1 (29 Oct 2026: polish pass)
 ---
 
 # Six: Count Forwards
@@ -31,7 +31,7 @@ I had. Tuesday the twenty-first of April, the 1971 logs, the ledger open on my f
 
 I told myself it was a guess. I'm a reconciler. I know what a guess looks like.
 
-I deleted it, and then I sat with the deleted space where it had been until the comments stopped, at a quarter to four, as if whoever it was had gone to bed.
+I deleted it, and then sat looking at the gap where it had been until the comments stopped, at a quarter to four, as if whoever it was had gone to bed.
 
 At seven I sent Danny a screenshot of the seventh. He rang back from the van.
 
@@ -101,7 +101,7 @@ I didn't have to look for it. It was in there the way a stone is in a shoe.
 
 Somebody had put a machine leaving that house in 1971 and the system that replaced me on the same line of arithmetic, fifty-four years apart, like two entries in one ledger. And they'd been so sure I'd find the day that they hadn't bothered to tell me which it was.
 
-Last Sunday had been a year to the day. Danny had brought chips. Neither of us had said it out loud. I'd thought I was the only one keeping count.
+Last Sunday had been a year to the day. I'd spent it on my own and told nobody what day it was. I'd thought I was the only one keeping count.
 
 *ASK WHAT CAME TO YOUR DESK. ASK WHAT IT WEIGHS.*
 
@@ -202,6 +202,8 @@ Some things you count. And some things you leave on the shelf, so that for one m
 ---
 
 ## AUTHOR'S NOTES (out-of-world, do not publish)
+
+**v3.1 polish pass (29 Oct 2026):** continuity: Danny's chips were Monday 11 May (ch 5 v3.0), so "last Sunday" (17 May, the anniversary) is now spent alone; a repeated "deleted" removed.
 
 - **v3.0 (29 Oct 2026), Act One pacing.** Redrafted to the outline's revision brief. About 2,600 words of text (v1.1: about 2,450). The extra length is the new Monday scene at Coyle's.
 - **Cut:** the reader's email, the 03:12 source-code line, the police report and the fridge reference number, both enclosures (the consignee's 1971 copy and the 2025 goods-in note) and Danny's "heavy office kit" phone call. The ARG's Post #3 keeps all of these; the book and the blog now differ here by design (see the timeline).

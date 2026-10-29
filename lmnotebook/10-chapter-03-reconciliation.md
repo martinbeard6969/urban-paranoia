@@ -1,7 +1,7 @@
 # Chapter 3: Reconciliation
 
 *Urban Paranoia source pack for NotebookLM. Private: contains the full canon and ending.*
-*Assembled from: `book/chapters/03-reconciliation.md`. Built 2026-10-29, commit 0173f96.*
+*Assembled from: `book/chapters/03-reconciliation.md`. Built 2026-10-29, commit d6b4816.*
 
 
 ## Editor's summary
@@ -9,7 +9,7 @@
 **Label:** NELL · DAY 23,200 · TUESDAY 21 APRIL 2026
 **Narration:** Nell, first person.
 **Dates:** Tuesday 21 April to Thursday 30 April 2026 (Day 23,209), the last day of her notice.
-**Length:** about 2,250 words. Draft v3.1 (28 Oct 2026: Act One pacing, plus Nell's mistake and a menace bigger than the mistake).
+**Length:** about 2,250 words. Draft v3.2 (28–29 Oct 2026: Act One pacing, Nell's mistake and a menace bigger than it; polish pass). Her settlement was signed in March.
 
 **What happens**
 - **Fast open:** with nine days of notice left, Nell races the 1971 vehicle logs, standing at the shelf, and finds Wednesday 3 March 1971: *H.H. — per instr.* The red camera light is on when she goes in, and **off when she comes out**.
@@ -121,7 +121,7 @@ He was a big man gone thin: the frame still there, the weight gone somewhere els
 
 "You said a driver went quiet." He kept his voice low and level, which was worse than shouting. "How many drivers d'you think went quiet, love? There's about six of us left."
 
-I opened my mouth and nothing useful came out. I was thinking about him. Then, a beat too late and ashamed of it, I was thinking about me. In May I'd signed a settlement with a paragraph about company records in it that I hadn't read twice, and every time I'd gone into that archive my keycard had written my name down.
+I opened my mouth and nothing useful came out. I was thinking about him. Then, a beat too late and ashamed of it, I was thinking about me. In March I'd signed a settlement with a paragraph about company records in it that I hadn't read twice, and every time I'd gone into that archive my keycard had written my name down.
 
 "I'll take it off," I said.
 
@@ -165,7 +165,7 @@ Then, because I couldn't help it, I opened the blog. Forty-one had become three 
 
 ---
 
-I asked Len about the first run. Harrowgate, 1962.
+Before he left, I'd asked Len about the first run. Harrowgate, 1962.
 
 "Before my time. Old Tommy did it." Len turned his mug a quarter-turn. "Never talked about it, not for years. Then when he got old he never talked about anything else."
 
@@ -203,13 +203,15 @@ He'd been welcoming me.
 
 ## AUTHOR'S NOTES (out-of-world, do not publish)
 
+**v3.2 polish pass (29 Oct 2026):** the settlement is now signed **in March** (with the redundancy letter, ch 2), not May; the return to the café after the car flash-forward is marked ("Before he left, I'd asked Len about the first run"). Checked against ch 1 v2.5: Old Tommy's account matches the driver's note and ch 1's "seven cars, no staff"; Len alone tells the driver's later life (v1.5 C4).
+
 **What this chapter establishes**
 - **The date, by her own skill.** On Tuesday 21 April (Day 23,200) Nell races the 1971 vehicle logs before her notice ends and finds **Wed 3 Mar 1971**: *H.H. — per instr.*
 - **The red light** (v1.4 C2): on as she goes in; **off when she comes out**. A clue, unexplained (D5: the keycard and camera logs, ch 23).
 - **Readers and the sum.** Four hundred readers; on Friday 24 April the owl-avatar reader suggests "D. 3062" is a day-count; Nell's sum gives **Day 0 = 14 Oct 1962**. The crisis is alluded to, never named, with no real people (rule 2).
 - **The father beat** (Sunday 26 April): the old head office; she nearly rings her father (dead since 2019) and has never deleted his number. Sets up ch 6.
 - **The mistake** (Monday 27 April, new in v3.1). After ringing the drivers, Nell adds a paragraph to Post #1: two drivers, one laughed, the other went quiet, saw it "on the odd job" and asked about her mum, *"(I'm reading something into that.)"* No name, no place. Forty-one readers by morning. She doesn't delete it: "a deletion is the loudest thing you can do on the internet."
-- **The cost.** At the café Len confronts her: a man at the allotments showed him the post. *"How many drivers d'you think went quiet, love? There's about six of us left."* Nell fears for him, then, ashamed, for herself: the settlement she signed in May has a clause about company records, and the keycard logs every archive visit. Len: *"Leave it. Taking it off's worse."*
+- **The cost.** At the café Len confronts her: a man at the allotments showed him the post. *"How many drivers d'you think went quiet, love? There's about six of us left."* Nell fears for him, then, ashamed, for herself: the settlement she signed in March has a clause about company records, and the keycard logs every archive visit. Len: *"Leave it. Taking it off's worse."*
 - **Len's memories:** the cash runs, the office calls (her father, ch 6), the cash man "with a face that didn't stick" (a Steward, not Cobb), the wardrobe that hummed (the Exchange, 1983; D3).
 - **The keycard left off the list** (Wednesday 29 April): HR's return-of-property email lists laptop, phone, lanyard and permit, not the keycard (D5).
 - **Cobb, sighting 1, and a menace bigger than the mistake.** The man at the next table: ordinary coat, unopened newspaper, please and thank you, "waiting for a bus" where there's no stop. Afterwards Len asks *"Who else did you tell?"* She never said where or when. Her post explains why someone is interested, not how he found the café. Neither of them can describe him. In the car, the paragraph has been copied and posted on its own by a nameless account with no other posts (left open; it may be paid off in ch 10 or ch 23). Cobb names the café in ch 10.

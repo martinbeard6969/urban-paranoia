@@ -1,7 +1,7 @@
 # Chapter 4: Not Far, Only Elsewhere
 
 *Urban Paranoia source pack for NotebookLM. Private: contains the full canon and ending.*
-*Assembled from: `book/chapters/04-not-far-only-elsewhere.md`. Built 2026-10-29, commit 0173f96.*
+*Assembled from: `book/chapters/04-not-far-only-elsewhere.md`. Built 2026-10-29, commit d6b4816.*
 
 
 ## Editor's summary
@@ -9,7 +9,7 @@
 **Label:** THE DEMOGRAPHER · DAY 3,061 · HARROWGATE, 2 MARCH 1971 (section label: THE ACTUARY · LE HAVRE, THE SAME NIGHT)
 **Narration:** interlude, close third person. First the demographer (THREE), then the French actuary who left in 1962.
 **Dates:** the night of Tuesday 2 – Wednesday 3 March 1971 (Day 3,061; the counsel arrives at 02:10 on Day 3,062). Coyle's collects the machine in the morning.
-**Length:** about 2,000 words. Draft v3.0 (redrafted 28 Oct 2026 as one continuous scene).
+**Length:** about 2,000 words. Draft v3.1 (redrafted 28 Oct 2026 as one continuous scene; polished 29 Oct).
 
 **What happens**
 - The demographer arrives by taxi in a cashmere coat and made shoes, pays without looking at the meter, then goes back to count the change. The American's driver waits all night; the German's grey saloon has a measured dent. There are still no staff: the twelve carry their own plates.
@@ -55,7 +55,7 @@ Inside there were still no staff. There couldn't be. The twelve of them carried 
 
 The long dining room, where four places had once stayed clean all morning, had thirteen chairs now. They called it the Long Room. On the nights they met as the Table, twelve of the chairs were filled: the three of them, and nine strangers chosen as they had been chosen. Overlooked, competent, approached at a moment of crisis with the one thing nobody can refuse, which is certainty.
 
-The thirteenth chair was pushed in. It always was. Nobody had decided that. On the first night all twelve were seated, the junior diplomat who never took his gloves off had reached for it to hang his coat on, and the German had said, very quietly, *no*. Nobody had asked him why. Nobody had touched it since.
+The thirteenth chair was pushed in. It always was. Nobody had decided that. On the first night that all twelve were seated, the junior diplomat who never took his gloves off had reached for it to hang his coat on, and the German had said, very quietly, *no*. Nobody had asked him why. Nobody had touched it since.
 
 Tonight the shipping manager from Rotterdam had brought figures. He didn't show them. He kept them folded by his plate and gave them out loud, a little apologetically, the way a man reports fine weather to people whose crops have failed.
 
@@ -95,7 +95,7 @@ Across the table the woman from New Zealand was looking at the thirteenth chair.
 
 The demographer said she didn't know.
 
-The woman nodded, as if that were the answer she'd expected from an honest person. "At home we'd say the glass was falling." She went back to her soup.
+The woman nodded. It seemed to be the answer she'd expected from an honest person. "At home we'd say the glass was falling." She went back to her soup.
 
 At midnight the nine went up to their rooms or out to their cars, and the three of them went through the library into the small panelled room beyond. They called it the Listening Room. Only the three of them went in now; that was the rule, for the old machine. The others got the counsel afterwards, typed up as minutes, or didn't get it at all.
 
@@ -124,7 +124,7 @@ The reels turned. Nobody looked at the telephone, which was how she knew they we
 
 > KEPT.
 
-He nodded, as though receiving an instruction from a superior who was too busy to explain. Then he said aloud what they had already arranged, because saying it made it an arrangement and not an order. Coyle's would come in the morning, the same haulage firm that had brought the machine in. A lorry, a driver, no charge. No weight on the driver's sheet.
+He nodded, a man receiving an instruction from a superior too busy to explain. Then he said aloud what they had already arranged, because saying it made it an arrangement and not an order. Coyle's would come in the morning, the same haulage firm that had brought the machine in. A lorry, a driver, no charge. No weight on the driver's sheet.
 
 The German, who knew the weight to the ounce, said nothing.
 
@@ -168,6 +168,8 @@ He never opened the lid again. When he died, twenty-six years later, his son sol
 
 
 ## AUTHOR'S NOTES (out-of-world, do not publish)
+
+**v3.1 polish pass (29 Oct 2026):** "On the first night that all twelve were seated" (grammar); two "as if / as though" frames recast. Checked against ch 1 v2.5: the counsel never says *we*; the Frenchman's dream and house above the harbour are introduced here only (v1.5 C4); 02:10 exact.
 
 **What this chapter establishes**
 - **The Table's rise, shown through objects:** the American's saloon with a driver waiting all night; the German's grey saloon with its measured dent; her cashmere coat and made shoes; the taxi meter she doesn't look at (then goes back to count the change); the wine the German once read about in a dentist's waiting room. Container shipping is toasted ("To the boxes"), bought small through "a trust with a dull name" (the Ashby Trust). *"They had been nobodies. They were becoming people whose letters were answered."*

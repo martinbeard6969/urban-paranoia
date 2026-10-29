@@ -1,7 +1,7 @@
 # Chapter 2: Contribution to the Transition
 
 *Urban Paranoia source pack for NotebookLM. Private: contains the full canon and ending.*
-*Assembled from: `book/chapters/02-contribution-to-the-transition.md`. Built 2026-10-29, commit 0173f96.*
+*Assembled from: `book/chapters/02-contribution-to-the-transition.md`. Built 2026-10-29, commit d6b4816.*
 
 
 ## Editor's summary
@@ -9,7 +9,7 @@
 **Label:** NELL · DAY 22,861 · SATURDAY 17 MAY 2025
 **Narration:** Nell Okafor-Reyes, first person, past tense.
 **Dates:** Saturday 17 May 2025 (the routing system goes live) to Monday 20 April 2026 (Day 23,199) and the early hours of 21 April.
-**Length:** about 2,290 words. Draft v3.0.
+**Length:** about 2,290 words. Draft v3.1 (29 Oct 2026: polish pass).
 
 **What happens**
 - At a weekend briefing with hotel croissants, Coyle's AI routing system goes live. Nell's team of nine is told nobody is "losing their job today", and over eleven months the team is phased down to one.
@@ -41,7 +41,7 @@
 
 They called us in on a Saturday, which should have told me everything.
 
-There were almond croissants on the boardroom table, fanned out on a white plate as if for a photograph. Nobody touched them. Nine of us sat round the table in weekend clothes, and the croissants sat in the middle like a tenth person who'd come to the wrong meeting and was too polite to leave.
+There were almond croissants on the boardroom table, fanned out on a white plate. Nobody touched them. Nine of us sat round the table in weekend clothes, and the croissants sat in the middle like a tenth person who'd come to the wrong meeting and was too polite to leave.
 
 The man from head office had a lanyard and a clicker. He was younger than any of us and very kind, which was the worst part. He put a map of the country on the big screen, every Coyle's depot a small amber dot, and pressed the clicker, and the dots began to move.
 
@@ -109,7 +109,7 @@ Inside was eighty years of paper in cardboard boxes gone soft at the corners: ma
 
 People think archive work is boring, and they're right, but in the wrong way. After the first few hundred sheets your eyes stop reading and start *sorting*. Paper from the same year weighs the same in your hand. Same typeface, same tired clerk's initials in the corner. Your attention goes quiet, and all that's left is a low hum that only changes when something doesn't fit.
 
-I worked like that for three weeks. I ate my lunch on an upturned crate and listened to trains I couldn't see. For the first time in a year I was good at something nobody could do better, because nobody else had been asked.
+I worked like that for three weeks, eating lunch on an upturned crate and listening to trains I couldn't see. For the first time in a year I was good at something nobody could do better, because nobody else had been asked.
 
 On Monday the twentieth of April, at about four in the afternoon, the hum changed.
 
@@ -192,6 +192,8 @@ Then I sat and looked at it: out in the dark, with nobody reading it, like a lan
 
 
 ## AUTHOR'S NOTES (out-of-world, do not publish)
+
+**v3.1 polish pass (29 Oct 2026):** "as if for a photograph" cut (two similes in one paragraph); the archive weeks' two short sentences joined for pace. Checked against ch 1 v2.5: no conflicts.
 
 **What this chapter establishes**
 - **Nell's voice in the novel:** first person, past tense, dry, exact and quietly devastated. It's more intimate than the blog. It echoes Post #1 (the croissants, the letter, the pencil line, the wedding-invitation purple, "I know how this sounds") without copying it, so ARG players recognise the moment from the inside.

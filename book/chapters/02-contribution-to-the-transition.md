@@ -6,7 +6,7 @@ title: "Contribution to the Transition"
 setting: Coyle Brothers Haulage, head office and archive; Nell's flat. Saturday 17 May 2025 – Monday 20 April 2026 (Day 23,199)
 pov: Nell Okafor-Reyes, first person, past tense
 canon-refs: [bible/characters/vesper, bible/characters/danny-kessler, bible/characters/pete, bible/locations-and-organisations/coyles-sites, bible/locations-and-organisations/larkspire, bible/canon-decisions/D5, content/phase-1/post-01-for-the-long-weather]
-status: draft v3.0 (redrafted 28 Oct 2026 for Act One pacing: the manifest is the only document; a faster find; the camera light)
+status: draft v3.1 (29 Oct 2026: polish pass)
 ---
 
 # Two: Contribution to the Transition
@@ -15,7 +15,7 @@ status: draft v3.0 (redrafted 28 Oct 2026 for Act One pacing: the manifest is th
 
 They called us in on a Saturday, which should have told me everything.
 
-There were almond croissants on the boardroom table, fanned out on a white plate as if for a photograph. Nobody touched them. Nine of us sat round the table in weekend clothes, and the croissants sat in the middle like a tenth person who'd come to the wrong meeting and was too polite to leave.
+There were almond croissants on the boardroom table, fanned out on a white plate. Nobody touched them. Nine of us sat round the table in weekend clothes, and the croissants sat in the middle like a tenth person who'd come to the wrong meeting and was too polite to leave.
 
 The man from head office had a lanyard and a clicker. He was younger than any of us and very kind, which was the worst part. He put a map of the country on the big screen, every Coyle's depot a small amber dot, and pressed the clicker, and the dots began to move.
 
@@ -83,7 +83,7 @@ Inside was eighty years of paper in cardboard boxes gone soft at the corners: ma
 
 People think archive work is boring, and they're right, but in the wrong way. After the first few hundred sheets your eyes stop reading and start *sorting*. Paper from the same year weighs the same in your hand. Same typeface, same tired clerk's initials in the corner. Your attention goes quiet, and all that's left is a low hum that only changes when something doesn't fit.
 
-I worked like that for three weeks. I ate my lunch on an upturned crate and listened to trains I couldn't see. For the first time in a year I was good at something nobody could do better, because nobody else had been asked.
+I worked like that for three weeks, eating lunch on an upturned crate and listening to trains I couldn't see. For the first time in a year I was good at something nobody could do better, because nobody else had been asked.
 
 On Monday the twentieth of April, at about four in the afternoon, the hum changed.
 
@@ -166,6 +166,8 @@ Then I sat and looked at it: out in the dark, with nobody reading it, like a lan
 ---
 
 ## AUTHOR'S NOTES (out-of-world, do not publish)
+
+**v3.1 polish pass (29 Oct 2026):** "as if for a photograph" cut (two similes in one paragraph); the archive weeks' two short sentences joined for pace. Checked against ch 1 v2.5: no conflicts.
 
 **What this chapter establishes**
 - **Nell's voice in the novel:** first person, past tense, dry, exact and quietly devastated. It's more intimate than the blog. It echoes Post #1 (the croissants, the letter, the pencil line, the wedding-invitation purple, "I know how this sounds") without copying it, so ARG players recognise the moment from the inside.
