@@ -10,7 +10,7 @@ status: Part A requested by Martin ("generate fixes file for chapter 1"): apply.
 
 # Writer's fixes v1.5: chapter 1 (v2.4)
 
-**Status: Part A applied 2026-10-29, commit f211d75. Part C awaits Martin's ticks. See applied-log.md.**
+**Status: applied 2026-10-29, commits f211d75 (Part A) and 700be11 (Part C: C1a, C2, C3, C4). See applied-log.md.**
 
 **What this is.** These are the fixes from the critic's review of chapter 1 v2.4. The redrafts of chapters 3 and 4 now carry beats that chapter 1 still gives away, and the chapter has one real-history timing error. **Part A** fixes chapter 1 and cuts about 70 words. **Part C** holds the options that need Martin's ruling.
 

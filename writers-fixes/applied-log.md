@@ -37,4 +37,4 @@ Every fixes file in this folder is logged here once handled, so nothing is appli
 | 2026-10-28 | `fixes-v1.4.md` | A1–A5 | **Applied** | `4df7431` | Ch 2 v3.0 now about 2,290 words. Outline and lmnotebook word counts updated. |
 | 2026-10-28 | `fixes-v1.4.md` | C1–C9 | **Applied** (Martin ticked all) | `b5a4f3a` | Outline only: C1 and C2 in the ch 3 brief (C2's fallback in ch 6), C3–C5 and C9's shop parade in ch 5, C6, C7 and C9's ceilings as Act One rewrite notes, C8 as a thread-table row. |
 | 2026-10-29 | `fixes-v1.5.md` | A1–A9 | **Applied** | `f211d75` | Ch 1 now v2.5, rebuilt. A2's note that ch 3 ends on "You notice it for forty years" is inaccurate (ch 3 v3.1 ends "He'd been welcoming me"), but A2 stands on Len's "never talked about anything else". |
-| 2026-10-29 | `fixes-v1.5.md` | C1–C4 | **Pending** (awaiting Martin's ticks) | — | |
+| 2026-10-29 | `fixes-v1.5.md` | C1a, C2, C3, C4 | **Applied** (Martin ticked) | `700be11` | C1a: one line added to the ch 12 brief (outline); C1b not used, so ch 1 keeps "Never *we*". C4: notes added under the outline's Act One rewrite notes. |
