@@ -6,7 +6,7 @@ title: "Day Zero"
 setting: Harrowgate House, Saturday 13 – Sunday 14 October 1962
 pov: close third, the British demographer (THREE); a short opening section from the Coyle's driver
 canon-refs: [bible/the-lodge/origins, bible/the-tenants, bible/deep-time/the-counters, bible/artefacts-register/minutes-fragment-1, bible/locations-and-organisations/harrowgate-house, content/phase-1/post-02-day-zero]
-status: draft v2.4 (revised 26–29 Oct 2026: writers' fixes v1.0–v1.2, reader-panel edits, grammar pass)
+status: draft v2.5 (revised 26–29 Oct 2026: writers' fixes v1.0–v1.2 and v1.5, reader-panel edits, grammar pass)
 words: ~2,900
 ---
 
@@ -32,9 +32,9 @@ The driver had installed teletypes before, in shipping agents' back rooms and on
 
 "Thank you. That will be all."
 
-In the cab he filled in his sheet, because if it wasn't on the sheet it hadn't happened. *Delivered & installed.* Then, because something about the place wanted writing down: *Gent at door said would be "needed from tomorrow." Odd sort of party — 7 cars on the drive, no staff.*
+In the cab he filled in his sheet, because if it wasn't on the sheet it hadn't happened. *Delivered & installed.* Then, because the place seemed to want writing down: *Gent at door said would be "needed from tomorrow." Odd sort of party — 7 cars on the drive, no staff.*
 
-He drove out between the raked lines of gravel and did not think about the house again for almost forty years. Then he thought about it every day.
+He drove out between the raked lines of gravel, and in the mirror the fog closed over the house.
 
 ---
 
@@ -52,7 +52,7 @@ She read that sentence several times. It had the effect of a hand placed briefly
 
 There were seven of them at dinner, and no one to serve it.
 
-The man from the Institute, a Mr Somebody whose name each of them would afterwards remember differently, had shown them their rooms, the dining room where cold food waited under white cloths, and the library, where the fire was now lit. The house was theirs, he said, until Monday. The first session would be at ten. Then he buttoned his coat and walked away down the drive into the fog, and they listened to his footsteps on the gravel for a long time, as if the valley were reluctant to let him go.
+The man from the Institute, a Mr Somebody whose name each of them would afterwards remember differently, had shown them their rooms, the dining room where cold food waited under white cloths, and the library, where the fire was now lit. The house was theirs, he said, until Monday. The first session would be at ten. Then he buttoned his coat and walked away down the drive into the fog, and they listened to his footsteps on the gravel for a long time.
 
 "Well," said the American. "That's the most British thing I've ever seen."
 
@@ -70,11 +70,11 @@ The last of them was a Frenchman from Le Havre, an actuary for a marine insurer,
 
 She woke at ten past two because something in the house was typing.
 
-A sound she had heard all her working life was unmistakable when it arrived where it didn't belong. The iron chatter of a teletype, the carriage flinging itself across the page and back, the bell at the end of each line like a small cry of surprise. She lay in the dark and named it. Then she lay a little longer and named what was wrong with it: there was no reason on earth for a machine in a fogbound valley to be receiving anything at ten past two in the morning.
+She had heard that sound all her working life, and it was never more unmistakable than where it didn't belong. The iron chatter of a teletype, the carriage flinging itself across the page and back, the bell at the end of each line like a small cry of surprise. She lay in the dark and named it. Then she lay a little longer and named what was wrong with it: there was no reason on earth for a machine in a fogbound valley to be receiving anything at ten past two in the morning.
 
 She put on her dressing gown and went down.
 
-The others were already there, or most of them. The American stood in the library doorway in his shirtsleeves. The German was in the little room, bent over the wall with a torch. The man from Tokyo stood very still by the bookcases, hands clasped in front of him as if at a funeral. The clerk from Rio held his arm across his chest as if he were cold. The Frenchman sat by the dead fire with his eyes closed. The man from Delhi came down the stairs behind her, still putting on his spectacles.
+The others were already there, or most of them. The American stood in the library doorway in his shirtsleeves. The German was in the little room, bent over the wall with a torch. The man from Tokyo stood very still by the bookcases, hands clasped in front of him as if at a funeral. The clerk from Rio held his arm across his chest. The Frenchman sat by the dead fire with his eyes closed. The man from Delhi came down the stairs behind her, still putting on his spectacles.
 
 The dust sheet lay on the floor. The machine was printing.
 
@@ -120,7 +120,7 @@ The clerk from Rio left at about three. He didn't speak. He touched the photogra
 
 ---
 
-It told them very little that first night. Later there would be forty pages of it, then decades, then a whole architecture of meaning built on a few hundred lines of capitals. But that night it was brief, as though it were introducing itself, or measuring how much they could carry.
+It told them very little that first night. Later there would be forty pages of it, then decades, then a whole architecture of meaning built on a few hundred lines of capitals. But that night it was brief. It seemed to be measuring how much they could carry.
 
 It spoke about fields. She noticed it later, reading the pages over and over in her room. It talked about the world the way her grandfather had talked about his allotment: rows and soil and seasons, things that grew too close and choked each other, things that needed thinning. There was nothing cruel in the language, and that was what frightened her. It was the voice of something that had grown things for a very long time.
 
@@ -136,7 +136,7 @@ But the machine had stopped, and into the stopping came a sound none of them had
 
 Three notes. A high one, a lower one, the high one again. They weren't loud. They didn't seem to come from the machine, or the room, or anywhere in particular. They were simply *there*, the way a smell is there before you've decided whether you like it. Every sound she had ever heard had something else in it, a scratch or a breath or an echo, the grain of the place it came from. These had none. They were like a line drawn with a ruler on a page where everything else had been drawn by hand.
 
-When they stopped, the Frenchman put both hands over his ears, though there was nothing left to hear. He stood like that for some time. Then he said, very calmly, "I think I would like to go home now," and went upstairs. For the rest of his life, thirty-five years in a narrow house above the harbour at Le Havre, he would dream of those three notes.
+When they stopped, the Frenchman put both hands over his ears, though there was nothing left to hear. He stood like that for some time. Then he said, very calmly, "I think I would like to go home now," and went upstairs.
 
 The man from Delhi was the last to go. He stood beside her at the window and watched the fog begin to grey with dawn. At last he said, quietly, so the American wouldn't hear: "It said we were not important. Did you notice it didn't say why that was useful?"
 
@@ -156,7 +156,7 @@ The others' cars were gone when she came down. The gravel showed where they had 
 
 They sat at one end of the long dining table, which was still set for seven. Nobody moved the other places. Four plates, four cups, four folded napkins, all clean.
 
-The American had the night's pages in front of him, squared into a neat pile. He kept touching the edges. "Eight days," he said at last. "Something frightens everyone in eight days, and it doesn't burn. That's specific. That's a forecast. We are three forecasters. We'll know in eight days."
+The American had the night's pages in front of him, squared into a neat pile. He kept touching the edges. "Eight days," he said at last. "Everyone will be frightened in eight days, and it doesn't burn. That's specific. That's a forecast. We are three forecasters. We'll know in eight days."
 
 "And if it does not happen?" said the German.
 
@@ -170,7 +170,7 @@ She was thinking about the thing it hadn't said. By four that morning she had no
 
 She didn't say so. It didn't seem to matter yet. Later, when she said it and the American told her it was not the most pressing point, she insisted it be minuted.
 
-Outside, the fog was lifting. A long way off, an aeroplane had flown that morning very high over an island and taken photographs that were even now being carried, in sealed canisters, towards people who would not sleep for thirteen days. The field was about to be frightened. It would not burn.
+Outside, the fog was lifting. A long way off, where it was still night, an aeroplane was flying very high towards an island, to take photographs for people who would not sleep for thirteen days. The field was about to be frightened. It would not burn.
 
 She took out her notebook, the cheap ruled kind her department issued in boxes of fifty, with a crest on the cover that nobody ever looked at. She opened it to a clean page. She was a counter of people. She had spent her life writing down when things began.
 
@@ -183,6 +183,8 @@ At the top of the page, in her small, neat hand, she wrote:
 ---
 
 ## AUTHOR'S NOTES (out-of-world, do not publish)
+
+**v2.5 (29 Oct 2026), writers' fixes v1.5 Part A:** the reconnaissance flight is now still in the air at breakfast (A1); the driver's section ends on the fog closing over the house, since Len owns his later life in ch 3 (A2); the Frenchman's foretold dream is cut, since ch 4 owns it, leaving one foretold death (A3); three repeated "as if / as though" frames cut (A4–A6); three line edits (A7–A9; the driver's note itself is unchanged and still matches Post #2).
 
 **v2.4 grammar pass (29 Oct 2026):** a comma after "When he returned"; "footsteps had faded" (was a second "gone"); a comma splice mended ("made by someone; she never discovered who"); both "the way you'd…" similes recast (the interlude voice avoids them), leaving two "the way…" similes. The forward glance about the photographs ("though none of them would know it for a week") was cut earlier the same day.
 
