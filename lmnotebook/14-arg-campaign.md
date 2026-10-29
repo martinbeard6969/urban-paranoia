@@ -1,7 +1,7 @@
 # The ARG campaign: plan, puzzles and in-world content
 
 *Urban Paranoia source pack for NotebookLM. Private: contains the full canon and ending.*
-*Assembled from: `campaign/campaign-plan.md`, `campaign/puzzle-map.md`, `campaign/moderation-and-safety.md`, `content/phase-1/post-01-for-the-long-weather.md`, `content/phase-1/post-02-day-zero.md`, `content/phase-1/post-03-count-forwards.md`, `content/phase-2/dead-drop-01-6b6e70.md`, `content/phase-2/harlow-vane-site.md`, `content/phase-2/post-04-the-card-index.md`, `content/phase-2/post-05-i-am-old-and-slow.md`, `content/phase-2/weather-report-01-the-canaries.md`. Built 2026-10-29, commit 3aa7377.*
+*Assembled from: `campaign/campaign-plan.md`, `campaign/puzzle-map.md`, `campaign/moderation-and-safety.md`, `content/phase-1/post-01-for-the-long-weather.md`, `content/phase-1/post-02-day-zero.md`, `content/phase-1/post-03-count-forwards.md`, `content/phase-2/dead-drop-01-6b6e70.md`, `content/phase-2/harlow-vane-site.md`, `content/phase-2/post-04-the-card-index.md`, `content/phase-2/post-05-i-am-old-and-slow.md`, `content/phase-2/weather-report-01-the-canaries.md`. Built 2026-10-29, commit 0173f96.*
 
 In-world posts are written as if real; each has out-of-world production notes at the end. Every puzzle resolves to a campaign-owned page.
 

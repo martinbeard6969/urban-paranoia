@@ -1,7 +1,7 @@
 # Chapter 1: Day Zero
 
 *Urban Paranoia source pack for NotebookLM. Private: contains the full canon and ending.*
-*Assembled from: `book/chapters/01-day-zero.md`. Built 2026-10-29, commit 3aa7377.*
+*Assembled from: `book/chapters/01-day-zero.md`. Built 2026-10-29, commit 0173f96.*
 
 
 ## Editor's summary
@@ -85,7 +85,7 @@ The man from the Institute, a Mr Somebody whose name each of them would afterwar
 
 He was forty or so, broad and quick, a planner for a telephone company in the middle of his country. Over the cold beef he told the table how many miles of wire it took to connect a city of a million people to itself, and how few of the men above him understood that number. He was impatient in the way of people who are usually right and seldom listened to. She liked him at once and did not trust him at all.
 
-The German was older, perhaps fifty, a statistician from a ministry in Bonn, and he checked things. Once, early in his career, he had signed off a set of figures without checking them, and a bridge had been built on them; he did not say what had happened to the bridge. Since then he checked everything. He checked the date on the wine before he poured it. He checked the programme against his invitation and found a discrepancy in the timings, which he mentioned.
+The German was older, perhaps fifty, a statistician from a ministry in Bonn, and he checked things. Once, early in his career, he had signed off a set of figures without checking them, and a bridge had been built on them; he did not say what had happened to the bridge. Since then he checked everything. He checked the date on the wine before he poured it. He checked the programme against his invitation and found a discrepancy in the timings: the programme listed a session on Sunday with no time against it. He mentioned it. Nobody knew what it meant.
 
 The others she would remember less clearly. An economist from a trade ministry in Tokyo, who carried the fountain pen he had been given for his first published paper and uncapped it whenever anyone said a number, and who asked the best questions of the evening. A young clerk from the currency office in Rio, who had been married eleven days and showed them a photograph of his wife before the soup was finished.
 
@@ -141,7 +141,7 @@ It was the man from Tokyo who asked the question that ended his part in the stor
 
 > YOU ARE NOT IMPORTANT. THAT IS WHY.
 
-He read it and nodded slowly, as if he had been told the price of something he had already decided not to buy. Then he walked out of the room and up the stairs, and they heard his door close. In the morning he would be gone. In the polite, increasingly anxious letters he wrote to the Institute over the following year, he would describe a dream about an empty chair and ask, each time, whether anyone else had had it.
+He read it and nodded slowly, as if he had been told the price of something he had already decided not to buy. Then he walked out of the room and up the stairs, and they heard his door close. In the polite, increasingly anxious letters he wrote to the Institute over the following year, he would describe a dream about an empty chair and ask, each time, whether anyone else had had it.
 
 The clerk from Rio left at about three. He didn't speak. He touched the photograph in his breast pocket, as a man in the dark touches a wall to know where he is, and went.
 
@@ -211,7 +211,7 @@ At the top of the page, in her small, neat hand, she wrote:
 
 ## AUTHOR'S NOTES (out-of-world, do not publish)
 
-**v2.5 (29 Oct 2026), writers' fixes v1.5 Part A:** the reconnaissance flight is now still in the air at breakfast (A1); the driver's section ends on the fog closing over the house, since Len owns his later life in ch 3 (A2); the Frenchman's foretold dream is cut, since ch 4 owns it, leaving one foretold death (A3); three repeated "as if / as though" frames cut (A4–A6); three line edits (A7–A9; the driver's note itself is unchanged and still matches Post #2).
+**v2.5 (29 Oct 2026), writers' fixes v1.5 Part A:** the reconnaissance flight is now still in the air at breakfast (A1); the driver's section ends on the fog closing over the house, since Len owns his later life in ch 3 (A2); the Frenchman's foretold dream is cut, since ch 4 owns it, leaving one foretold death (A3); three repeated "as if / as though" frames cut (A4–A6); three line edits (A7–A9; the driver's note itself is unchanged and still matches Post #2). **Part C:** the German's untimed Sunday session (C2); "In the morning he would be gone" cut (C3).
 
 **v2.4 grammar pass (29 Oct 2026):** a comma after "When he returned"; "footsteps had faded" (was a second "gone"); a comma splice mended ("made by someone; she never discovered who"); both "the way you'd…" similes recast (the interlude voice avoids them), leaving two "the way…" similes. The forward glance about the photographs ("though none of them would know it for a week") was cut earlier the same day.
 

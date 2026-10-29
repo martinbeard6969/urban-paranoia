@@ -1,7 +1,7 @@
 # Book plan: synopsis, outline and resolution map
 
 *Urban Paranoia source pack for NotebookLM. Private: contains the full canon and ending.*
-*Assembled from: `book/synopsis.md`, `book/outline.md`, `book/resolution-map.md`, `book/act-2/scene-the-wall.md`. Built 2026-10-29, commit 3aa7377.*
+*Assembled from: `book/synopsis.md`, `book/outline.md`, `book/resolution-map.md`, `book/act-2/scene-the-wall.md`. Built 2026-10-29, commit 0173f96.*
 
 Chapters 1-6 are drafted; 7-30 and the epilogue are planned. The outline's 'Threads and payoffs' table tracks every set-up.
 
@@ -120,7 +120,12 @@ The book does not end with the Table destroyed or the lease broken. It ends with
 - **"It had seen the future" stays unremarked** (C7) until ch 23 ("the new teletype"). No later chapter underlines it.
 - **What Nell keeps off the blog** (C8): each thing she withholds is a small, deliberate choice, starting with the red light (ch 2). See the threads table.
 
-**1. Day Zero** *(1962; interlude-style opener; drafted v2.3, ~2,950)*
+*Rewrite notes from ch 1 (fixes v1.5 C4):*
+- **Len (ch 3) owns the driver's later life;** don't restate it elsewhere.
+- **Ch 4 owns the Frenchman's dream** and his house above the harbour.
+- **02:10 is a motif** (ch 1's contact, the ch 4 waking, D15 call 1), so keep the time exact everywhere.
+
+**1. Day Zero** *(1962; interlude-style opener; drafted v2.5, ~2,900)*
 The Coyle's driver delivers the teletype. Seven mid-level officials come to a seminar. At 02:10 it begins: *SIT. THERE IS TIME.* Four leave; three stay for the prediction. The demographer writes *Day 0*. → [chapter file](chapters/01-day-zero.md)
 
 **2. Contribution to the Transition** *(April 2026, Day 23,199; redrafted v3.0, ~2,290)* → [chapter file](chapters/02-contribution-to-the-transition.md)
@@ -173,7 +178,7 @@ By morning her readers have found **card 0144** in the page's code, and the Harl
 Marguerite at the Table. "A gardener still chooses the rows." Mother Quill's kindness. Crane silent in the corner. That night a Coyle's office clerk, **Emmanuel Okafor**, takes a phone call about a "per instr." run and, for the first time in eight years, says no. *Function:* two people stand up on the same night, one loudly and one in silence.
 
 **12. Forty Pages**
-A parcel: the surviving Minutes fragments, with the Archivist's note *NOW YOU HAVE WHAT I HAVE.* Nell reads them in one night: *LET THEM RENT THE GROUND THEY STAND ON*, *LET THEM RACE*, *GIVE EVERY FEAR A FACE THAT IS NOT OURS*. The plan has a shape now. At 4 a.m., reading about the oldest writing in the world to stay awake, she learns a real fact: some of the earliest writing was accounting, tallies of grain and labour. *"The first thing anyone ever wrote down was who owed what."* (Real backdrop only; never claimed as the Tenants' doing.) *Ends:* she reads her own tenancy agreement and laughs until it frightens her. *Missing knock (D14):* *GIVE EVERY FEAR A FACE THAT IS NOT OURS* is the counsel the strand runs on. *Act One pacing:* the parcel now also carries **Fragment Four** and **Marguerite's 1987 note**, held back from ch 7. *The line (D15):* **call 1.** At 02:10, mid-way through the fragments, she sees the old phone box on her road lit, with the man from the bus stop inside. She goes down in her socks and listens from behind the box: *"Wharf Road's quieter… She's reading. Tonight. All of it… Yes. Thinner."* Hiss with the rhythm of speech, no words. *"Understood."* A fast beat in a slow chapter; then she reads until four.
+A parcel: the surviving Minutes fragments, with the Archivist's note *NOW YOU HAVE WHAT I HAVE.* Nell reads them in one night: *LET THEM RENT THE GROUND THEY STAND ON*, *LET THEM RACE*, *GIVE EVERY FEAR A FACE THAT IS NOT OURS*. The plan has a shape now. At 4 a.m., reading about the oldest writing in the world to stay awake, she learns a real fact: some of the earliest writing was accounting, tallies of grain and labour. *"The first thing anyone ever wrote down was who owed what."* (Real backdrop only; never claimed as the Tenants' doing.) *Ends:* she reads her own tenancy agreement and laughs until it frightens her. *Missing knock (D14):* *GIVE EVERY FEAR A FACE THAT IS NOT OURS* is the counsel the strand runs on. *The voice's first possessive (fixes v1.5 C1a):* Nell notices, in one line and with no explanation, that *NOT OURS* is the only time the voice owns anything, and what it owns is not being blamed. (Progression: no *I* or *we* in 1962, then *OURS*, then the epilogue's *I*.) *Act One pacing:* the parcel now also carries **Fragment Four** and **Marguerite's 1987 note**, held back from ch 7. *The line (D15):* **call 1.** At 02:10, mid-way through the fragments, she sees the old phone box on her road lit, with the man from the bus stop inside. She goes down in her socks and listens from behind the box: *"Wharf Road's quieter… She's reading. Tonight. All of it… Yes. Thinner."* Hiss with the rhythm of speech, no words. *"Understood."* A fast beat in a slow chapter; then she reads until four.
 
 **13. The Ferris Library**
 A talk is cancelled, then reinstated, and both sides get threats. Nell deletes scapegoating comments and is accused of censorship. Danny and Ama on protecting people versus protecting ideas. The **Hush** at street level: everyone afraid to speak, for opposite reasons. *Ends:* she notices that threats against both sides used the same odd phrasing. *Missing knock (D14):* **death 1:** the old man with the tartan flask (ch 5) is found after a fall, three days late. Nell hears at the hall. **Danny** mentions he left a parcel on that doorstep on the Tuesday. **Ama** lets slip that she gave the man's spare key back a fortnight ago, and won't say why. Nobody suspects anything yet. It's a sad, ordinary death.
