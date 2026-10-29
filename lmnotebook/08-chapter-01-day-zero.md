@@ -1,7 +1,7 @@
 # Chapter 1: Day Zero
 
 *Urban Paranoia source pack for NotebookLM. Private: contains the full canon and ending.*
-*Assembled from: `book/chapters/01-day-zero.md`. Built 2026-10-29, commit cfd69f1.*
+*Assembled from: `book/chapters/01-day-zero.md`. Built 2026-10-29, commit d5b34c9.*
 
 
 ## Editor's summary
@@ -197,7 +197,7 @@ She was thinking about the thing it hadn't said. By four that morning she had no
 
 She didn't say so. It didn't seem to matter yet. Later, when she said it and the American told her it was not the most pressing point, she insisted it be minuted.
 
-Outside, the fog was lifting. A long way off, though none of them would know it for a week, an aeroplane had flown that morning very high over an island and taken photographs that were even now being carried, in sealed canisters, towards people who would not sleep for thirteen days. The field was about to be frightened. It would not burn.
+Outside, the fog was lifting. A long way off, an aeroplane had flown that morning very high over an island and taken photographs that were even now being carried, in sealed canisters, towards people who would not sleep for thirteen days. The field was about to be frightened. It would not burn.
 
 She took out her notebook, the cheap ruled kind her department issued in boxes of fifty, with a crest on the cover that nobody ever looked at. She opened it to a clean page. She was a counter of people. She had spent her life writing down when things began.
 
