@@ -42,7 +42,7 @@ All characters are fictional. None is based on a real, identifiable person.
 - **Function:** keeps the story grounded. He argues the "plan" is just ordinary greed and policy, and he is often right. He also voices the cost of the scapegoating the Lodge stirs up, because his neighbourhood is torn by it.
 - **Arc:** the novel's emotional heart. He helps rebuild a small, mixed community network that the Lodge cannot divide.
 - **History with the Okafors:** a family friend since Nell was nine. He argued with Emmanuel on Sunday afternoons about cricket and pensions. He was the union rep across the table at Coyle's first cuts. After Emmanuel's death in 2019 he made Nell his responsibility, without saying so. (Ch 5; he may know something about Emmanuel's 1987 refusal, to use in ch 19.)
-- **Details:** **57** (in 2026); a **granddaughter** at the local school, in the same class as the child of the family whose window was bricked (ch 5); works **nights at a warehouse** three times a week as a second job, for the same company he delivers for. Delivers for an app, rated 4.9 ("the most stressful number of my life"). Shows care through action: chips, "ring me when you've eaten".
+- **Details:** **57** (in 2026); a **granddaughter, Esme** (7), at the local school, in the same class as the child of the family whose window was bricked; she rings him every night at seven, before his warehouse shift (ch 5); works **nights at a warehouse** three times a week as a second job, for the same company he delivers for. Delivers for an app, rated 4.9 ("the most stressful number of my life"). Shows care through action: chips, "ring me when you've eaten".
 - **Missing knock (D14):** he was at all three doors the week before (ch 13, 16, 17). Explained in ch 18: the app's ninety-second door timer (ch 5); he left the parcels. Complicit a little: the system punished knocking, and he obeyed it.
 
 ---
@@ -68,7 +68,7 @@ All characters are fictional. None is based on a real, identifiable person.
 ### Cobb
 - **Role:** fixer, Lodge Steward.
 - **Function:** physical threat in the audio series and the film. Polite, forgettable, always slightly too close.
-- **Before he speaks (Act One pacing):** three unnamed sightings: at the next table in Len's café (ch 3), at the wheel of the bird-logo van (ch 5), walking a dog past Nell's window (ch 6). Plain enough not to stick; in ch 10 he lets her know it was him each time.
+- **Before he speaks (Act One pacing):** three unnamed sightings: at the next table in Len's café (ch 3), at the wheel of the bird-logo van, lifting two fingers to Danny as if they knew each other, and indicating at an empty corner (ch 5), walking a dog past Nell's window (ch 6). Plain enough not to stick; in ch 10 he lets her know it was him each time.
 - **Twist:** Cobb doesn't know what the Lodge is either. He is a victim of the design too.
 - **Missing knock (D14):** seen on death 3's street the day before (ch 17). Explained in ch 20: as "a man from the letting agent", he was the only one who knocked. Not complicit.
 - **The line (D15):** once a week at 02:10 he rings a number from the old phone box on Nell's road and reports in plain garden words (*quieter*, *thinner*). The other end is wordless hiss. He believes he reports to Ward's office; nobody is on the line but the machine (ch 23). Overheard twice (ch 12, 22). In ch 29 the box rings and he doesn't answer: he has stopped counting his own rung.

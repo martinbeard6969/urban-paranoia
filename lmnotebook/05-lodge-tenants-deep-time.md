@@ -1,7 +1,7 @@
 # The Lodge, the Tenants and deep time
 
 *Urban Paranoia source pack for NotebookLM. Private: contains the full canon and ending.*
-*Assembled from: `bible/the-lodge.md`, `bible/the-tenants.md`, `bible/deep-time.md`, `bible/the-ladder.md`, `bible/canon-decisions.md`, `bible/artefacts-register.md`, `bible/open-questions.md`. Built 2026-10-28, commit 3ec56fc.*
+*Assembled from: `bible/the-lodge.md`, `bible/the-tenants.md`, `bible/deep-time.md`, `bible/the-ladder.md`, `bible/canon-decisions.md`, `bible/artefacts-register.md`, `bible/open-questions.md`. Built 2026-10-29, commit f6845fb.*
 
 The secret canon. The canon decisions (D-numbers) settle questions the drafts must not contradict.
 
