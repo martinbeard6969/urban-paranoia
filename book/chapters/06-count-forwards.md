@@ -3,67 +3,57 @@ medium: novel
 author: Martin Defries (pen name)
 chapter: 6
 title: "Count Forwards"
-setting: Nell's flat. Tuesday 19 – Saturday 23 May 2026
+setting: Nell's flat; Coyle's head office. Tuesday 19 – Monday 25 May 2026
 pov: Nell Okafor-Reyes, first person, past tense
-canon-refs: [bible/characters/the-archivist, bible/characters/emmanuel-okafor, bible/characters/danny-kessler, bible/timeline/day-22861, bible/canon-decisions/D5, content/phase-1/post-03-count-forwards, bible/voices/archivist]
-status: draft v1.1 (revised 26–28 Oct 2026: writers' fixes v1.0–v1.2 revised and reader-panel edits)
+canon-refs: [bible/characters/the-archivist, bible/characters/longweather-account, bible/characters/cobb, bible/characters/emmanuel-okafor, bible/characters/danny-kessler, bible/timeline/day-22861, bible/canon-decisions/D5, content/phase-1/post-03-count-forwards, bible/voices/archivist]
+status: draft v3.0 (redrafted 29 Oct 2026 for Act One pacing)
 ---
 
 # Six: Count Forwards
 
 **NELL · DAY 23,228 · TUESDAY 19 MAY 2026**
 
-The email came on a Tuesday morning, from a reader who signed off with an initial and an apology.
+The comments started just after two in the morning, and I was awake for all of them.
 
-*Sorry if this is a stupid question,* it said, *but what did you mean by the note in the source? The one at the bottom of your second post?*
+They came from an account with no picture, called **@longweather_**, and they were long: whole paragraphs, fluent and patient and sure of themselves. They knew the neighbourhood's troubles as well as Danny did. Rents. Bills. The jobs that had gone. The meter keys in the queue. For a sentence or two they sounded almost like him, and that was the worst part, because then every one of them turned, without a seam, and came to rest in the same place: on a group of ordinary people, people you might live next door to, who were apparently to blame for all of it. It didn't matter where a comment started. It always ended pointing down the street.
 
-I read it twice and then I read it a third time, because I didn't understand any of the words in the order they came. The source. A note. The bottom of my second post, which I had written myself, at the kitchen table, in my socks, and which I could have recited to you.
+I'm not going to repeat them. I deleted them. They kept coming, every nine or ten minutes, and I kept deleting them, and somewhere around the fifth I noticed my hands were cold.
 
-I wrote back and asked what she meant. She sent me a screenshot.
+The sixth used my name. Not Vesper. *Nell*. Danny's comment had been up eight days, and this was the first thing to pick it up and use it.
 
-I hadn't known that web pages had a source: that underneath the words you see, there's a second layer of words you don't, instructions to the machine about fonts and spacing and where the pictures go. I had to look it up while she waited. And there, at the bottom of my second post, in the part of the page nobody is meant to read, someone had left a line:
+I looked the account up. It had existed since 2022, years before my blog. Somebody had chosen the words *long weather* long before I'd found them stamped in purple on a sheet of paper in a box.
 
-*3062 days out. 22,8xx days in. still counting.*
+The seventh comment was different. It was shorter, and it was about me.
 
-I hadn't written it. I didn't know how to write it. I sat at the kitchen table with my laptop and my cooling tea and that line, and the flat was very quiet, and I became aware, in a way I hadn't been for years, of the sound of my own breathing.
+It didn't threaten anything. It mentioned, in passing, halfway through a sentence about something else, that I'd *stood at the shelves for an hour and forty minutes, on the Tuesday*. Then it went back to blaming the people down the street.
 
----
+I had. Tuesday the twenty-first of April, the 1971 logs, the ledger open on my forearm because I hadn't wanted to sit down and waste the time. I'd never written how long I was there. I'd never said it. I hadn't known it myself until I read it, and then I knew it was right, because I remembered the light going in the high window and the time on my phone when I came out.
 
-The blogging platform keeps a history of every change. I'd never looked at it. Why would you? It's like checking the guest book in your own house.
+I told myself it was a guess. I'm a reconciler. I know what a guess looks like.
 
-The line had been added at **03:12** on the night I put up my second post: the night after the logs and the soft brown box, the night I'd posted at a quarter to midnight and gone to bed and slept, for once. It had been added by someone who'd logged in with my username and my password.
+I deleted it, and then I sat with the deleted space where it had been until the comments stopped, at a quarter to four, as if whoever it was had gone to bed.
 
-Three weeks. It had sat there for three weeks under my own words, and hundreds of people had read past it, and so had I.
+At seven I sent Danny a screenshot of the seventh. He rang back from the van.
 
-I changed my password. Then I changed every password I've ever had, which took most of the afternoon and taught me how many things I'd signed up for in the last decade and forgotten. I switched on every security setting the platform offered, including two I still don't understand. Then I sat very still for a while.
+"Keep deleting them," he said. "And don't read them at night."
 
-Danny came round after his shift. He read the screenshot standing up, still in his jacket, and his face did the thing.
+"It knew how long I was in there."
 
-"You'll report it," he said.
+A pause, with the indicator ticking in it.
 
-"It's probably just—"
-
-"You'll report it." He had the look he used to give managers who said the pension scheme was *fine*. "Someone got into your house, Nell. It doesn't matter that the house is a website. You report it, and you get a number, and then there's a piece of paper that says it happened."
-
-So I reported it. A patient woman on a non-emergency line took the details, gave me a reference number, and told me kindly that it was very unlikely anything would come of it. I wrote the number on the back of an envelope and stuck it to the fridge, where it sat like a fridge magnet from a holiday I didn't remember taking.
-
-"Probably a bored kid," I said to Danny, "with a program that guesses passwords."
-
-He didn't answer. He didn't need to.
+"Then keep the door locked as well," he said, and I could hear him trying to make it sound like a joke, and not managing.
 
 ---
 
 **SATURDAY 23 MAY**
 
-The letter came on the Saturday.
+The letter came on the Saturday, in among a pizza menu and a charity bag and something from the council about bins.
 
-I almost didn't notice it. It was in among the usual: a pizza menu, a charity bag, something from the council about bins. A plain white envelope, second-class stamp, the postmark smudged into a grey thumbprint. My full name and my address, typed.
+A plain white envelope, second-class stamp, the postmark smudged to a grey thumbprint. My full name and my address, typed. Not *Nell*, which anyone could have by now. All of it. And my home address, which has never been on the blog or anything else of mine that I could find. I looked, that evening, for a long time.
 
-My full name: not *Nell*, which @longweather_ had already picked up, but all of it. And my **home** address. Which has never been on the blog, or on anything of mine that I could find, and I looked, that evening, for a long time.
+One sheet, folded twice. It had been typed on a real typewriter: under the kitchen light you could see where each key had bitten into the page, the capitals pressed deeper than the full stops. Across the top ran a thin band of grey, the colour of a sky that hasn't decided whether to rain. No letterhead. No sender. No date.
 
-Inside was one sheet of paper, folded twice. It had been typed on a real typewriter: under the kitchen light you could see where each key had bitten into the page, the capitals pressed deeper than the full stops. Across the top ran a thin band of grey, the colour of a sky that hasn't decided whether to rain. There was no other letterhead, no sender's address, no date.
-
-I'm going to set it down exactly as it is. I've read it more times than I've read anything, including my redundancy letter, and that's saying something.
+I'll set it down exactly as it is.
 
 >> MS OKAFOR-REYES.
 
@@ -71,105 +61,139 @@ I'm going to set it down exactly as it is. I've read it more times than I've rea
 
 >> 3062 DAYS OUT. THAT WAS THE MACHINE LEAVING HARROWGATE.
 
->> 22861 DAYS IN. THAT WAS THE MACHINE ARRIVING AT YOUR DESK.
+>> 228XX DAYS IN. YOU WILL KNOW WHICH DAY.
 
->> THE WEIGHT WAS ALWAYS THE SAME. SEE ENCLOSED.
+>> THE MACHINE THAT LEFT THAT HOUSE WEIGHED 144 LB. ASK WHAT CAME TO YOUR DESK. ASK WHAT IT WEIGHS.
 
->> I AM SORRY ABOUT YOUR WEBSITE. YOUR PASSWORD WAS YOUR FATHERS BIRTHDAY. YOU SHOULD CHANGE IT. YOU SHOULD ALSO ASK WHY I KNOW IT.
+>> I HAVE BEEN IN YOUR ACCOUNT. I AM SORRY. YOUR PASSWORD WAS YOUR FATHERS BIRTHDAY. YOU SHOULD CHANGE IT. YOU SHOULD ALSO ASK WHY I KNOW IT.
 
 >> DO NOT BLAME ANYONE YOU CAN SEE FROM YOUR WINDOW. THAT IS WHAT THEY WANT.
 
 >> WHEN YOU ARE READY THE DOOR IS GREY.
 
-It wasn't signed. At the foot of the page there was a small drawing in black ink of a chair: a plain wooden kitchen chair, the kind every family I grew up with had four of, slightly mismatched. Through it, one clean line.
+It wasn't signed. At the foot of the page was a small drawing in black ink of a chair: a plain wooden kitchen chair, the kind every family I grew up with had four of, slightly mismatched. Through it, one clean line.
 
-Yes. My password had been my father's birthday. I know. He'd have been disappointed in me, though not surprised.
+Yes. My password had been my father's birthday. He'd have been disappointed in me, though not surprised.
 
----
+I opened the laptop and did the one thing I'd never thought to do, which was look at the blog's own history. It keeps a record of every time anyone signs in. You'd no more check it than you'd check the guest book in your own house.
 
-Day 0 was the fourteenth of October, 1962. Count forwards 22,861 days.
+There was one line I hadn't made. *Friday 1 May. 03:12. Signed in. Drafts opened. Signed out, 03:19.*
 
-I didn't need a spreadsheet. I knew before I got there. I did it anyway, by hand, on the back of the council letter about bins, because that's who I am.
+The night of my second post. Seven minutes in my drafts folder, where I kept the things I didn't publish: Len's face in the café, *Who else did you tell?*, the man at the next table, half a page about my father that I'd never finish. Somebody had sat in the dark and read all of it, and changed nothing, and left.
 
-*Saturday, 17 May 2025.*
+I changed my password. Then every password I've ever had, which took the rest of the afternoon. And somewhere in the middle of it, typing a new one with my teeth clenched, I understood the thing that frightened me more than the letter.
 
-The croissants. The man with the lanyard and the clicker. Nine of us round a boardroom table in weekend clothes, and the amber dots beginning to move across the map, and the lorry leaving the northern depot by a road I'd never have chosen. *It's live. As of this morning.*
+The Tuesday wasn't in my drafts. I'd never written down how long I stood at those shelves. Whoever had been in my account at 03:12 couldn't have told @longweather_. Someone else knew.
 
-*22861 DAYS IN. THAT WAS THE MACHINE ARRIVING AT YOUR DESK.*
-
-Somebody had put the teletype leaving that house in 1971 and the system that replaced me on the same line of arithmetic, fifty-four years apart, like two entries in the same ledger. And somebody had known the date of my redundancy briefing well enough to count to it.
-
-I thought about the previous Sunday: Danny and the chips, the seventeenth of May, a year to the day. Neither of us had said it out loud. I'd thought it was a private anniversary. I'd thought I was the only one keeping count.
+Two of them, then. One who wrote to me in capitals and said sorry. And one who didn't need to get in at all.
 
 ---
 
-There were two photocopies in the envelope, folded inside the letter.
+*228XX DAYS IN.*
 
-The first was the 1971 manifest, but not the copy I'd found. Mine was the office copy; Len had as good as told me so. This one had come from the other end: the copy that travelled with the machine, signed for in a small, cramped hand, *recd. Ashby Tst.* Same consignment, same date that wasn't a date, the same purple stamp pressed harder, as if whoever held it had been in a temper that day. And on this copy, the weight box wasn't crossed through. Someone at the far end had weighed it in and written it down:
+Day 0 was the fourteenth of October, 1962. I counted forwards on the back of the council letter about bins, because that's who I am. Day 22,800 fell on Monday the seventeenth of March, 2025. Day 22,899 fell on Tuesday the twenty-fourth of June.
 
-*144 LB.*
+Fourteen weeks, then. Somewhere in those fourteen weeks, a day I would know.
 
-The second was newer. A Coyle's goods-in note, printed, from May last year, for one server cabinet delivered to the comms room at head office: the local box the new routing system ran through. I'd walked past that cabinet a hundred times. We used to joke about it: the grey box in the comms room was our replacement, we said, back when it was something you could joke about. Signed, dated, and weighed.
+I didn't have to look for it. It was in there the way a stone is in a shoe.
 
-*144 LB.*
+*Saturday, 17 May 2025.* Day 22,861. The croissants. The man with the lanyard and the clicker. Nine of us round a boardroom table in weekend clothes, and the amber dots beginning to move across the map. *It's live. As of this morning.*
 
-As if one machine had been carried out of that house and the same weight of machine set down to do my job.
+Somebody had put a machine leaving that house in 1971 and the system that replaced me on the same line of arithmetic, fifty-four years apart, like two entries in one ledger. And they'd been so sure I'd find the day that they hadn't bothered to tell me which it was.
 
-I rang Danny. I read him the numbers. There was a pause on the line, and I could hear the warehouse behind him, a beeping forklift, someone shouting a bay number.
+Last Sunday had been a year to the day. Danny had brought chips. Neither of us had said it out loud. I'd thought I was the only one keeping count.
 
-"That's about what a small rack cabinet weighs," he said. "And those old teletypes weren't light. Heavy office kit is heavy office kit, Nell."
+*ASK WHAT CAME TO YOUR DESK. ASK WHAT IT WEIGHS.*
 
-He was right. A hundred and forty-four pounds is a perfectly ordinary weight for a heavy box. A coincidence is nothing. I'd seen a thousand coincidences in eleven years of freight, and most of them were just the world being a smaller place than it looks.
+I knew what had come to my desk. Nothing had. That was the point. What came was a grey cabinet in the comms room at head office, the size of a small wardrobe, with a fan you could hear through the wall. The routing system's local box. We used to joke it was our replacement, back when it was something you could joke about. I'd walked past it a hundred times.
 
-But someone had found both of those pieces of paper, fifty-four years apart. Someone had copied them, folded them into a plain envelope, and posted them to an address I'd never given any of my readers, so that I'd notice.
-
-The coincidence might be nothing. The noticing was arranged.
+I had no idea what it weighed.
 
 ---
 
-After I put the phone down, I went to the window.
+I went to the window because the letter had told me to, in its way. *Do not blame anyone you can see from your window.* I'd read it as a warning. Standing there, I started to read it as an instruction to look.
 
-I don't know why. The letter had told me to, I suppose, in its way. *Do not blame anyone you can see from your window.* I'd read it as a warning. Standing there, I started to read it as an instruction to look.
+It was early evening and the street was doing what streets do. Graham opposite was out on his step watering his hanging basket, a ridiculous explosion of fuchsias that drips on the postman. He has a grey front door. I'd lived across from it for six years and never once noticed what colour it was.
 
-It was a Saturday afternoon, and the street was doing what streets do. Across the road Graham was out on his step, watering the hanging basket he's prouder of than anything else in his life, a ridiculous explosion of fuchsias that drips on the postman. He has a grey front door. I'd never noticed the colour of it before.
+Further down, the young mother from the food bank queue was wrestling her pushchair over the kerb that's too high for pushchairs. Two lads from the estate sat on the wall outside the shop, laughing at a phone. At the end of the road, if I leaned, I could see the corner of the block with the plywood window, and I knew without seeing it that the rainbow was still there.
 
-Further down, the young mother from the food bank queue was wrestling her pushchair over the kerb, the one that was too high for pushchairs and had been reported to the council, by my count, four times. Two lads I half recognised from the estate were sitting on the low wall outside the shop, sharing a bag of something, laughing at a phone. The man from the flats with the dog was walking the dog. At the end of the road, if I leaned, I could see the corner of the block with the plywood window, and I knew without seeing it that the rainbow was still taped to the glass.
+And a man was walking a dog.
 
-Ordinary people. Tired people. People who had been told, every day, by every screen they owned, which of the others to be afraid of.
+A small brown terrier on a short lead, trotting at heel. I didn't know him. I know most of the dog people on my road by their dogs if not their faces, and I'd never seen this one. He walked the length of the street on the far side at an even pace, and the dog didn't stop at a single lamppost, which a dog always does, and he didn't look up. Everybody looks up at a lit window, just for a second, without meaning to. He didn't. He went past Graham, past the shop, past the lads, and round the corner, and he never once looked at my side of the street, as if he already knew exactly what was in it.
+
+Ordinary people. Tired people. People who'd been told, every day, by every screen they owned, which of the others to be afraid of.
 
 *Do not blame anyone you can see from your window. That is what they want.*
 
-I'd heard that sentence before. Danny, in my kitchen, a week ago, with chips going cold on the counter: *Don't let anyone tell you it's the people down your street.*
+I'd heard that sentence before. Danny, at this same window, a week ago: *Don't let anyone tell you it's the people down your street.*
 
-And for one second, at that window, the thought came in the way cold comes under a door. Danny knew where I lived. Danny had known my father's birthday for nearly thirty years; he'd eaten half the cake at most of them. Danny had said it first.
+And for one second the thought came in, like cold under a door. Danny knew where I lived. Danny had known my father's birthday for thirty years; he'd eaten half the cake at most of them. Danny had said it first.
 
-I said "No," out loud, to the empty flat, the way you'd tell a dog to get down.
+I said "No," out loud, to the empty flat.
 
-I didn't know what to do with any of it. I still don't, entirely. But I stood at the window until Graham went in and the street lights came on, and I didn't blame anyone.
+I stood at the window until Graham went in and the street lights came on, and I didn't blame anyone. It took effort, and I hadn't known it would.
 
 ---
 
+**MONDAY 25 MAY**
+
+On Monday I took the keycard back.
+
+I told myself that was why I was going. Coyle's head office is a glass box on a business park, twenty minutes on the bus, with a car park three-quarters empty since the transition. I'd been planning what to say to whoever was on reception: that I'd found it in a coat, that I was sorry, that nobody had asked.
+
+Nobody was on reception. There was a tablet on a stand that said *Welcome! Please sign in*, and a bowl of mints, and a plant that was either very healthy or plastic.
+
+I held the card up, the way you do when you're about to hand something over and there's no one to hand it to. Then, because there was no one, I touched it to the reader on the inner door.
+
+It beeped. Green.
+
+My notice had ended twenty-five days before. My laptop had gone back, my phone, my lanyard, my parking permit. Payroll had sent me my P45. And the door to the corridor opened for me as if I'd only been out for lunch.
+
+I should have left the card on the desk next to the mints. I know that. Instead I walked down the corridor I'd walked every working day for years, past the planners' room, where there used to be nine of us and was now one man in headphones who didn't turn round, to the door at the end with no sign on it.
+
+The comms room. I'd never once had a reason to go in.
+
+I touched the card to the reader. Green.
+
+It was cold inside, and loud with fans, and the grey cabinet stood against the far wall exactly where I'd always pictured it through the plasterboard: chest-high, featureless, a row of small lights on its door going about their business. In the corner, above the door I'd come in by, a camera. Its red light was on.
+
+On the side of the cabinet, near the floor, there was a metal plate, riveted on, the kind nobody reads: a serial number, a voltage, a date of manufacture. I crouched down to it. It's what I do. I read the small print on things.
+
+*NET WT 65 KG.*
+
+And underneath, for the export market, in smaller letters:
+
+*144 LB.*
+
+I stayed crouched there long enough for my knees to hurt. The cabinet hummed. It was a deep, steady sound, felt as much as heard, and I thought, before I could stop myself, of Len saying *hummed with the power off*.
+
+When I stood up, the red light was still on. It was the only thing in the room looking at me.
+
+I left the way I'd come. I didn't run. The man in headphones didn't turn round. I walked past the tablet and the mints and the plant and out into the car park, and it was only at the bus stop that I found the keycard still in my hand, warm from holding it.
+
+I'd forgotten to hand it in. That's what I told myself.
+
+---
+
+That night I sat at the kitchen table with the letter and the grey band catching the light, and asked the question it had told me to ask.
+
 *You should also ask why I know it.*
 
-So I asked. Sitting at the kitchen table, with the letter in front of me and the grey band catching the light, I asked myself all the questions I'd been carefully not asking for a month.
+My father worked at Coyle's head office for thirty years. *Ask Emmanuel*, people said, and he'd tell you the shelf, the box and the colour of the folder. He was kind. He was quiet. He did the crossword every evening in pen, which he said was the only arrogant thing about him, and as far as I knew he never kept a secret in his life.
 
-My father worked in the head office at Coyle's for thirty years, from 1979 until he retired. He started as a clerk and became a senior clerk, and then he became something there wasn't a job title for: the man who knew where everything was. If you wanted a document from any year, any depot, any driver, you asked Emmanuel, and he took off his reading glasses and told you the shelf. It's how I got my interview there: the director who hired me said, *If you're half as tidy as your father, we'll manage.*
+As far as I knew.
 
-He was kind. He was quiet. He did the cryptic crossword every evening in pen, which he said was the only arrogant thing about him, and he never kept a secret in his life that I knew of.
-
-That I knew of.
-
-Len had said the office would ring the drivers at home, the night before one of those runs. No job sheet in the cab. Collect, deliver, cash at the far end from a man with a face that didn't stick.
+Len had said the office would ring the drivers at home, the night before one of those runs.
 
 The office would ring.
 
-I got up. I didn't decide to. I found myself standing at the shelf, with my hand on my father's crossword dictionary, the one with the spine broken in three places from forty years of opening at the same letters.
+I got up. I didn't decide to. I found myself at the shelf with my hand on my father's crossword dictionary, the spine broken in three places from forty years of opening at the same letters.
 
-I took it down. It fell open on its own, the way old books do, at the pages he'd used most, and there in the margins, in his small, upright pencil, were his marks: a tick here, a dot there, a word underlined, a number written very small beside a clue I'd never see.
+I took it down. It fell open by itself at the pages he'd used most, and there in the margins, in his small upright pencil, were his marks: a tick here, a dot there, a word underlined, a number written very small beside a clue I'd never see.
 
-I could have read them. They were right there. A man's private notes, beside the words he'd looked up most in forty years, and I'm a reconciler: reading what other people wrote in the margins is the thing I'm for.
+I could have read them. They were right there. I'm a reconciler. Reading what other people wrote in the margins is the thing I'm for.
 
-I closed it. I put it back on the shelf with the spine facing out, the way he always had.
+I closed it. I put it back on the shelf with the spine facing out, as he always had.
 
 Some things you count. And some things you leave on the shelf, so that for one more night the man who knew where everything was is still just your father, finishing the crossword, in pen.
 
@@ -179,22 +203,27 @@ Some things you count. And some things you leave on the shelf, so that for one m
 
 ## AUTHOR'S NOTES (out-of-world, do not publish)
 
-**What this chapter establishes**
-- **The hidden comment found late:** a reader emails on **Tue 19 May 2026 (Day 23,228)**. It was planted at **03:12 on the night of the second post** (late April, ch 3), using Nell's login, and sat unnoticed for about three weeks. *(The ARG finds it the next morning; the novel's delay is deliberate.)*
-- **Reported:** Danny insists. The reference number goes on the fridge *"like a fridge magnet from a holiday I didn't remember taking."* Unauthorised access is shown as an event, never as a method.
-- **The letter (Sat 23 May 2026):** the canon text from Post #3, **word for word** (capitals, full stops only, the hyphen exception in "OKAFOR-REYES"; see `voices.md`). The grey band (*"a sky that hasn't decided whether to rain"*) is left unexamined until ch 7. The crossed-out kitchen chair.
-- **Counting forwards:** Day 22,861 = **Sat 17 May 2025**, the croissants. This pays off ch 5's private anniversary: *"I'd thought I was the only one keeping count."*
-- **144 lb ×2:** the 1971 consignee's copy (signed for at the Ashby Trust) and the May 2025 server cabinet goods-in note. Danny: *"Heavy office kit is heavy office kit."* Nell: *"The coincidence might be nothing. The noticing was arranged."*
-- **The window (new scene):** Nell reads *"Do not blame anyone you can see from your window"* as an instruction to look. Graham and his fuchsias (**his grey front door**, noticed for the first time, which seeds ch 7), the young mother from the queue, lads on the wall, the man with the dog, the plywood window. She realises Danny and the stranger said the same thing within seven days. *"…and I didn't blame anyone."*
-- **Emmanuel:** head office 1979–2009, *"the man who knew where everything was"*, the crossword in pen. **New detail:** the director who hired Nell said *"If you're half as tidy as your father, we'll manage."* (It seeds "Placement noted", canon decision D8, which is never resolved.)
-- **The ending:** the crossword dictionary with his pencil marks in the margins, which she closes unread. *"Some things you count. And some things you leave on the shelf…"* It replaces the blog's *"I'm going to stop this paragraph here."*
+- **v3.0 (29 Oct 2026), Act One pacing.** Redrafted to the outline's revision brief. About 2,600 words of text (v1.1: about 2,450). The extra length is the new Monday scene at Coyle's.
+- **Cut:** the reader's email, the 03:12 source-code line, the police report and the fridge reference number, both enclosures (the consignee's 1971 copy and the 2025 goods-in note) and Danny's "heavy office kit" phone call. The ARG's Post #3 keeps all of these; the book and the blog now differ here by design (see the timeline).
+- **@longweather_ opens the chapter** (moved from ch 5): night comments that feed on the neighbourhood's pressures and end pointing down the street, never quoted; *Nell* picked up from Danny's comment; the account dates from 2022. Its seventh comment knows she *"stood at the shelves for an hour and forty minutes, on the Tuesday"* (Tue 21 Apr, ch 3). That comes from the keycard and camera logs (D5, ch 23), not the drafts.
+- **The letter** (the act's second and last document): the Archivist's voice rules hold (capitals, full stops only, the hyphen kept in the name). It now carries **228XX DAYS IN. YOU WILL KNOW WHICH DAY.** (the count the source line held), the 1971 weight (**144 LB**), *"ASK WHAT CAME TO YOUR DESK. ASK WHAT IT WEIGHS."* and *"I HAVE BEEN IN YOUR ACCOUNT. I AM SORRY."* The rest is as in Post #3.
+- **She checks the history once:** *Friday 1 May. 03:12. Signed in. Drafts opened. Signed out, 03:19.* (the small hours after Post #2 went up on Thu 30 Apr). The Archivist read what Nell keeps off the blog (Len, the man at the next table, her father). **Two watchers:** the Tuesday was never in her drafts, so @longweather_ knows by another route.
+- **Counting forwards:** Day 22,800 = Mon 17 Mar 2025; Day 22,899 = Tue 24 Jun 2025; inside the window, Day 22,861 = Sat 17 May 2025, the croissants. Nell finds the day herself.
+- **The window:** Graham's grey door (seeds ch 7), the young mother, the lads, the rainbow. **Cobb, sighting 3:** a man she's never seen on the street, with a terrier that doesn't stop at lampposts; he never looks up "as if he already knew exactly what was in it". The Danny suspicion: one second, then "No."
+- **Monday 25 May (Day 23,234):** Coyle's head office, nobody on reception; the dead keycard opens the inner door and the comms room. The camera's red light is on (v1.4 C2, second showing). The plate: *NET WT 65 KG / 144 LB*. The hum recalls Len's wardrobe (ch 3). She leaves with the card (D5's logs now record this visit too; ch 23).
+- **The ending is unchanged:** the dictionary, closed unread.
+- **Speed map:** fast and cold (the comments); still and precise (the letter, the history line, two watchers); quick (the count); slow and uneasy (the window, the dog); tense (head office); quiet (the dictionary).
+- **Style checks:** "the way…" similes: "the way a stone is in a shoe" and "the way you do when you're about to hand something over" (two). No telling ahead. One closing line.
 
 **Continuity**
-- Days: 19 May 2026 = Day 23,228 (Tuesday); 23 May = Saturday; 17 May 2025 = Day 22,861 (Saturday).
-- Nell's notice ended about 30 Apr; the edit was made before that, so there's no keycard issue.
-- Danny's warehouse nights (ch 5) give the background noise on the phone.
+- 19 May 2026 = Day 23,228 (Tuesday); 23 May = Saturday; 25 May 2026 = Day 23,234 (Monday); 17 May 2025 = Day 22,861 (Saturday).
+- Her notice ended Thu 30 Apr; the keycard was never collected (ch 3, D5). Twenty-five days later it still works.
+- Danny's line at the window was Saturday 16 May (ch 5).
+- 144 lb = 65.3 kg.
 
 **Rule checks**
-- No real people, places or firms. The reporting line is generic ("a non-emergency line").
-- Nell doubts herself ("Probably a bored kid", "A coincidence is nothing", "That I knew of.").
-- No book-only themes. The title phrase isn't used.
+- No real people, places or firms; the cabinet's maker is unnamed. Unauthorised access is shown as an event, never as a method.
+- No real-world call to action: the keycard and comms room are fictional and Nell's own former workplace.
+- @longweather_ is never quoted and no group is named.
+- Nell doubts herself ("I told myself it was a guess", "That's what I told myself", "As far as I knew").
+- The title phrase isn't used.

@@ -1,7 +1,7 @@
 # Book plan: synopsis, outline and resolution map
 
 *Urban Paranoia source pack for NotebookLM. Private: contains the full canon and ending.*
-*Assembled from: `book/synopsis.md`, `book/outline.md`, `book/resolution-map.md`, `book/act-2/scene-the-wall.md`. Built 2026-10-29, commit f6845fb.*
+*Assembled from: `book/synopsis.md`, `book/outline.md`, `book/resolution-map.md`, `book/act-2/scene-the-wall.md`. Built 2026-10-29, commit 9b8af54.*
 
 Chapters 1-6 are drafted; 7-30 and the epilogue are planned. The outline's 'Threads and payoffs' table tracks every set-up.
 
@@ -112,7 +112,7 @@ The book does not end with the Table destroyed or the lease broken. It ends with
 
 ## ACT ONE: THE LONG WEATHER (chapters 1–10, ~22,000–24,000 words)
 
-*Act note:* discovery is active. Nell finds things by doing her job (reconciling), by asking people, and by going places, not by opening envelopes. Chapters 2–5 are redrafted (v3.0; ch 3 is v3.1). Chapter 6 is drafted but **revision is pending** against its brief below; until then its text differs from this plan.
+*Act note:* discovery is active. Nell finds things by doing her job (reconciling), by asking people, and by going places, not by opening envelopes. Chapters 2–6 are redrafted (v3.0; ch 3 is v3.1). Chapter 1 stands as drafted.
 
 *Rewrite notes for ch 3 onwards (fixes v1.4 Part C):*
 - **Style ceilings** (C9): at most two "the way…" similes and one closing sting per chapter, and no telling ahead, matching ch 2 v3.0.
@@ -144,10 +144,12 @@ The last session at Harrowgate before the machine is moved. The three Founders, 
 
 **Act One pacing:** done in v3.0. Fast open: Danny reads Post #1 on her doorstep against the ninety-second timer ("It knows I'm not knocking") and names Len from the drivers paragraph. The kitchen: "A man had a cup of tea"; "Still a tax dodge"; **Esme**'s seven o'clock spelling call; he names Nell in a comment, and at 1 a.m. she rereads the settlement clause and puts the keycard back on the hook. The walk (meter keys, the rainbow window); Ama listens and asks "Who's knocking on Len's door this week?"; the bolt on the back room; the flare-up, in which Nell leans too; the flask. Ending at dusk: Danny's line at the window while the bird-logo van idles; the driver (**Cobb, sighting 2**) lifts two fingers to Danny, who waves back by reflex; *Who was that?*; a face she can't keep.
 
-**6. Count Forwards** *(drafted v1.1, ~2,300)* → [chapter file](chapters/06-count-forwards.md)
+**6. Count Forwards** *(redrafted v3.0, ~2,600)* → [chapter file](chapters/06-count-forwards.md)
 The line in the source code at 03:12. The typed letter. Day 22,861: the croissants again. **144 lb.** Her father, the man who knew where everything was. *Ends:* she takes down her father's crossword dictionary, sees his pencil marks, and closes it unread: *"Some things you count. And some things you leave on the shelf…"* 
 
 **Revision brief (Act One pacing, 28 Oct 2026):** **@longweather_ opens the chapter** (moved from ch 5): comments that blame her neighbours and know about the last Tuesday of her notice. Cut the reader's email and the 03:12 source line: the **letter** says it has been in her account and knows her password was her father's birthday, and she checks the post history once. The letter now carries the count the source line held (*22,8xx days in*), so she can still count forwards to Day 22,861 and the croissants. The letter is the act's second and last document. Cut both enclosures; instead the letter says the 1971 machine weighed **144 lb** and asks what came to her desk. **Cobb, sighting 3:** in the window scene, the man with the dog is a man she's never seen on the street before, and he doesn't look up. On **Monday 25 May (Day 23,234)** she goes back to Coyle's to hand in her keycard, finds it **still opens the doors**, and reads *144 LB* on the plate of the routing system's server cabinet herself (seeds D5's keycard logs). If ch 3 doesn't show the red light again, a camera light here does it instead (v1.4 C2). Then home, and the dictionary, closed unread. The chapter's day-count label stays; the date range runs to 25 May.
+
+**Act One pacing:** done in v3.0. Night comments from @longweather_ (paraphrased; *Nell* picked up from Danny's comment); the seventh knows she *"stood at the shelves for an hour and forty minutes, on the Tuesday"* (21 Apr). The letter: *228XX DAYS IN. YOU WILL KNOW WHICH DAY.*, the 1971 machine's **144 LB**, *ASK WHAT CAME TO YOUR DESK. ASK WHAT IT WEIGHS.*, *I HAVE BEEN IN YOUR ACCOUNT. I AM SORRY.* The history shows one session, *03:12, drafts opened*: the Archivist read what she keeps off the blog. The Tuesday was never in her drafts, so there are **two watchers**. She finds Day 22,861 inside the 228XX window herself. The window: Graham's grey door; **Cobb, sighting 3**, with a terrier that doesn't stop at lampposts, never looking up; the one-second suspicion of Danny. **Mon 25 May:** nobody on reception; the keycard opens the inner door and the comms room; the red light is on; the plate reads *NET WT 65 KG / 144 LB*; the cabinet hums like Len's wardrobe; she leaves with the card. The dictionary, closed unread.
 
 **7. The Grey Door**
 Danny takes Nell to Wharf Road. **Jack Prentice**, 19 (moved from ch 5): the name joke ("Jordan"), "He stayed Jack to me", his cut Coyle's apprenticeship, his mum at the table with a "consultation" letter nobody reads aloud, and a patient message thread on his phone. Then the **false clue** (v1.2 C5): the letter's grey band matches **Graham's front door**. Nell knocks. Graham is a real person with a real story (to be found in drafting: specific, funny, sad) and nothing to do with any of it. She loses a day and a little pride. That night she sees the grey is a colour code, `/6b6e70`, and finds a near-empty page: one recording, **HG-68**, and one line. The tones hit her physically through cheap laptop speakers: the same "too pure" sound as chapter 1. Fragment Four and Marguerite's note are held back for ch 12's parcel. *Ends:* the page's only line, *EVEN FOR THE ONES WHO ANSWERED THE TELEPHONE.*

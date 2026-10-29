@@ -89,7 +89,7 @@ All characters are fictional. None is based on a real, identifiable person.
 | **Teo Brandt** | Data-centre night technician | Notices 12×12 grid errors; becomes Vesper's source for the "machine contact" thread. |
 | **Pastor Ama Lindqvist** | Community minister | Counterweight to "let the gods grow quiet". Practical faith, open doors. **Missing knock (D14):** gave back the old man's spare key and won't say why (ch 13). Explained in ch 18: he asked for it back, afraid of visitors; her silence protects the back room. Complicit a little: she chose the people she was sheltering over checking on him. |
 | **Founders One, Two, Three** | 1962 contactees | Appear only in the Minutes and in flashbacks. Never named in full. |
-| **"@longweather_"** | In-world forum account | Lodge plant spreading decoy theories that blame real groups. Vesper exposes it, which **demonstrates the twist in public**. |
+| **"@longweather_"** | In-world forum account | Lodge plant spreading decoy theories that blame real groups. In the book its first comments open ch 6 and know the length of her 21 April archive visit (D5). Vesper exposes it, which **demonstrates the twist in public**. |
 
 ---
 
