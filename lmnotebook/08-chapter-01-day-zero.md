@@ -1,7 +1,7 @@
 # Chapter 1: Day Zero
 
 *Urban Paranoia source pack for NotebookLM. Private: contains the full canon and ending.*
-*Assembled from: `book/chapters/01-day-zero.md`. Built 2026-10-29, commit d5b34c9.*
+*Assembled from: `book/chapters/01-day-zero.md`. Built 2026-10-29, commit 2a4d5e6.*
 
 
 ## Editor's summary
@@ -125,7 +125,7 @@ Then it typed, without answering him:
 
 > THE ONE WHO CHECKS IS WELCOME. CHECK AGAIN.
 
-He did. The plug, the wall plate, the line, the back of the machine, the window. He went up to the room above, and they heard his footsteps cross the ceiling and come back. When he returned his face was grey, and he sat down on the floor in the doorway, carefully, like a man lowering himself into cold water. He said nothing more that night. But he stayed.
+He did. The plug, the wall plate, the line, the back of the machine, the window. He went up to the room above, and they heard his footsteps cross the ceiling and come back. When he returned, his face was grey, and he sat down on the floor in the doorway, carefully, like a man lowering himself into cold water. He said nothing more that night. But he stayed.
 
 They asked it what it was. It did not say. They asked where it was, and it said:
 
@@ -143,7 +143,7 @@ It was the man from Tokyo who asked the question that ended his part in the stor
 
 He read it and nodded slowly, as if he had been told the price of something he had already decided not to buy. Then he walked out of the room and up the stairs, and they heard his door close. In the morning he would be gone. In the polite, increasingly anxious letters he wrote to the Institute over the following year, he would describe a dream about an empty chair and ask, each time, whether anyone else had had it.
 
-The clerk from Rio left at about three. He didn't speak. He touched the photograph in his breast pocket the way you'd touch a wall in the dark to know where you were, and went.
+The clerk from Rio left at about three. He didn't speak. He touched the photograph in his breast pocket, as a man in the dark touches a wall to know where he is, and went.
 
 ---
 
@@ -171,7 +171,7 @@ She said she had noticed.
 
 "I'm a statistician," he said. "I know what you call a sample chosen because nobody will miss it." He looked at the machine, quiet now, its paper hanging down like a tongue. "I have a daughter. She's four." And he went.
 
-When his footsteps had gone, the room was nearly empty. The American had gone to find more light, and the German had fallen asleep against the doorframe. She was alone with the machine when the carriage moved once more. It typed one line.
+When his footsteps had faded, the room was nearly empty. The American had gone to find more light, and the German had fallen asleep against the doorframe. She was alone with the machine when the carriage moved once more. It typed one line.
 
 > THE ONE WHO COUNTS WILL KEEP THE BOOK.
 
@@ -179,7 +179,7 @@ When his footsteps had gone, the room was nearly empty. The American had gone to
 
 In the morning there were three of them.
 
-The others' cars were gone when she came down. The gravel showed where they had stood: four pale oblongs among the raked lines. The man from the Institute had not come back. There was bread and butter and a pot of tea, made by someone, she never discovered who. She would later suspect the German, who had sat up all night on the floor and needed something to do with his hands.
+The others' cars were gone when she came down. The gravel showed where they had stood: four pale oblongs among the raked lines. The man from the Institute had not come back. There was bread and butter and a pot of tea, made by someone; she never discovered who. She would later suspect the German, who had sat up all night on the floor and needed something to do with his hands.
 
 They sat at one end of the long dining table, which was still set for seven. Nobody moved the other places. Four plates, four cups, four folded napkins, all clean.
 
@@ -191,7 +191,7 @@ The American had the night's pages in front of him, squared into a neat pile. He
 
 "And if it does happen?"
 
-The American didn't answer. She saw his hand flatten on the pile of paper, the way you'd hold down a map in a wind.
+The American didn't answer. She saw his hand flatten on the pile of paper, as if holding down a map in a wind.
 
 She was thinking about the thing it hadn't said. By four that morning she had noticed something the others, she was fairly sure, had not. It had never once said *I*. Not *I am*, not *I want*, not *I advise*. Never *we*, either. Every line was built so that no one was speaking: *THERE IS TIME. THE ONE WHO CHECKS IS WELCOME. TO ADVISE.* It was a voice that had learned, very carefully, how never to stand anywhere.
 
@@ -210,6 +210,8 @@ At the top of the page, in her small, neat hand, she wrote:
 
 
 ## AUTHOR'S NOTES (out-of-world, do not publish)
+
+**v2.4 grammar pass (29 Oct 2026):** a comma after "When he returned"; "footsteps had faded" (was a second "gone"); a comma splice mended ("made by someone; she never discovered who"); both "the way you'd…" similes recast (the interlude voice avoids them), leaving two "the way…" similes. The forward glance about the photographs ("though none of them would know it for a week") was cut earlier the same day.
 
 **v2.1 copy-edit (25 Oct 2026):** two "stood"s and "walked… on foot" removed; "cannot read"; "ended… over" fixed; the guests paragraph split; second-person slip removed; **continuity:** the American is no longer in the room when the counters line prints, so THREE alone reads it.
 
