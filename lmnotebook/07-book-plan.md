@@ -1,7 +1,7 @@
 # Book plan: synopsis, outline and resolution map
 
 *Urban Paranoia source pack for NotebookLM. Private: contains the full canon and ending.*
-*Assembled from: `book/synopsis.md`, `book/outline.md`, `book/resolution-map.md`, `book/act-2/scene-the-wall.md`. Built 2026-10-30, commit 9724751.*
+*Assembled from: `book/synopsis.md`, `book/outline.md`, `book/resolution-map.md`, `book/act-2/scene-the-wall.md`. Built 2026-10-30, commit e9dd87a.*
 
 Chapters 1-6 are drafted; 7-30 and the epilogue are planned. The outline's 'Threads and payoffs' table tracks every set-up.
 
@@ -72,7 +72,7 @@ The book does not end with the Table destroyed or the lease broken. It ends with
 <!-- source: book/outline.md -->
 # Urban Paranoia: chapter outline
 
-**Shape:** 30 chapters in three acts, plus a short epilogue. Present-day chapters (spring–autumn 2026) are in **Nell's first person**. Seven **interludes** step back into the Table's history in close third person, each a short, self-contained story that shifts how the reader sees the present. The book opens on **Day 0** (14 Oct 1962) and closes on the 64th anniversary, **Day 23,376** (Wed 14 Oct 2026).
+**Shape:** 30 chapters in three acts, then a final section, **Epilogue**, with one chapter. Present-day chapters (spring–autumn 2026) are in **Nell's first person**. Seven **interludes** step back into the Table's history in close third person, each a short, self-contained story that shifts how the reader sees the present. The book opens on **Day 0** (14 Oct 1962) and closes on the 64th anniversary, **Day 23,376** (Wed 14 Oct 2026).
 
 **The spine:** Nell moves from *collecting evidence* (Act 1), to *seeing the shape* (Act 2, ending at the Wall), to *acting with other people* (Act 3). The Table is never defeated. It's **surprised**.
 
@@ -259,7 +259,9 @@ Nell reads it on Teo's phone at her kitchen table, in front of a wall with a cro
 
 ---
 
-**Epilogue: Notice** *(November 2026, about 1,000 words or less; Nell, first person)*
+## EPILOGUE (one chapter)
+
+**31. Notice** *(November 2026, about 1,000 words or less; Nell, first person)*
 A few weeks later. The rent strike is holding. Mother Quill is buried. The hall has a rota. Life is smaller and better. Then, at ten past two one morning, her phone rings. For about a second, before Teo speaks, there's the hiss with the rhythm of speech: the line Cobb reported into (D15). She never mentions it. Then Teo: the Ashby teletype is printing, and it isn't counsel. It's a **notice**, formal, in a typeface none of them has seen, addressed *TO THE TENANTS OF THIS HOUSE*. An inspection has been scheduled. The date will follow. Nobody wrote it. Not the Table, not the Tenants. It came *through* them, the way post comes through an agent's office. The machine is silent for an hour. Then, beneath the notice, slowly, it types one character, and stops:
 
 > *I*
