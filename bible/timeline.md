@@ -36,7 +36,7 @@ Real trends are atmosphere. They are **never** attributed to real people or real
 | 🟥 1960s–80s | Coyle's drivers (incl. "Len") make occasional unrecorded Steward runs, paid in cash. Driver "Terry" loses long-distance work in the 1980s after asking questions. 📄 *Post #2* |
 | 🟥 2 Apr 1973 | Hollis Crane joins the Harlow-Vane Institute's C.S.S. ("Carrying-capacity & Social Stability") as a Junior Fellow. 📄 *Harlow-Vane card 0144* |
 | 🟥 1976 | The Listener role changes hands. Founder One dies. Mother Quill (then 46) takes the role. |
-| 🟥 1979 | Crane becomes Senior Fellow and H.H. liaison, sitting in on contact sessions. |
+| 🟥 1979 | Crane becomes Senior Fellow and H.H. liaison, sitting in on contact sessions. His first session: *A FIELD CAN BE THINNED BEFORE THE DROUGHT OR AFTER IT.* His overnight "Before/After" table. 📄 *Chapter 8* |
 | 🟥 1979 | Seat Four (a Canadian insurance regulator) is seated, replacing the chair's first holder (one of the nine seated by 1971), and takes the Ledger Portfolio. The Table takes a pre-launch stake in **Pellucid** via a nominee. |
 
 ## 1980s: Unbind, continued
@@ -93,6 +93,10 @@ Real trends are atmosphere. They are **never** attributed to real people or real
 | 🟥 Tue 19 May 2026 (Day 23,228) | Overnight, **@longweather_** posts its first comments on Nell's blog: blame on neighbours, her name, and the exact length of her 21 April archive visit (from the keycard and camera logs, D5). 📄 *Chapter 6 (in the ARG, @longweather_ is described in Post #2's addition of 20 May and the hidden source comment is found the morning after Post #2)* |
 | 🟥 Sat 23 May 2026 (Day 23,232) | **The Archivist's letter** reaches Nell's home address: *228XX DAYS IN*, the 1971 weight (144 lb), *ASK WHAT CAME TO YOUR DESK*, and an apology for having been in her account. The blog's history shows one session at 03:12 on Fri 1 May with her drafts opened. She counts forwards to Day 22,861. Cobb walks a terrier past her window (sighting 3). 📄 *Chapter 6 (the ARG's Post #3 keeps the source line and the two enclosures)* |
 | 🟥 Mon 25 May 2026 (Day 23,234) | Nell goes to Coyle's head office to return her keycard. Nobody is on reception; the card opens the inner door and the comms room. Under a camera's red light she reads *NET WT 65.3 KG / 144 LB* on the routing system's server cabinet, and leaves with the card (logged; D5, ch 23). 📄 *Chapter 6* |
+| 🟥 Tue 26 May 2026 (Day 23,235) | Nell knocks on Graham's grey door: nothing. Wharf Road with Danny; she meets Jack and Dawn Prentice. At night the band's colour code leads to `/6b6e70` and recording HG-68. 📄 *Chapter 7* |
+| 🟥 Wed 27 May – Sun 31 May 2026 (Days 23,236–23,240) | Readers find card 0144. Crane's first email arrives Sunday 06:02. 📄 *Chapter 9* |
+| 🟥 Thu 4 Jun 2026 (Day 23,244) | Nell and Ama meet Crane at a junction-town station café. Note nine of the Ashby Trust's last accounts: one item of plant at nil value, insured from March 1971. Crane reports to a Factor on the 16:12. 📄 *Chapter 9* |
+| 🟥 Wed 10 Jun 2026 (Day 23,250) | Small hours: Nell at DC-3 with Teo; the idle racks, the 12×12 grid, Sheila's near miss, the red light on a dead camera. 06:40: Cobb speaks to her at the bus stop. Act One ends. 📄 *Chapter 10* |
 | 🟥 **ARG launch** | Vesper's blog goes live. **Post #1: "For the Long Weather."** |
 | 🟥 ARG Phase 1, Post #2 night | The Archivist plants a hidden comment on Vesper's blog, logging in with Vesper's password (her father's birthday, taken from the Aldane Papers). |
 | 🟥 ARG Phase 1, Post #3 | **Archivist first contact.** A typed letter to Vesper's home with 144 lb enclosures and "THE DOOR IS GREY" (→ #6B6E70 → Phase 2 page). |
