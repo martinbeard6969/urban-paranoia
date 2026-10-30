@@ -6,7 +6,7 @@ title: "The Sensible Voice"
 setting: Nell's doorstep and flat; the streets between; the Mission Hall at the end of her road. Mon 11 – Sat 16 May 2026
 pov: Nell Okafor-Reyes, first person, past tense
 canon-refs: [bible/characters/danny-kessler, bible/characters/pastor-ama, bible/characters/cobb, bible/modern-pressures, bible/locations-and-organisations/mission-hall, bible/locations-and-organisations/larkspire, bible/canon-decisions/D14, content/phase-1/post-01-for-the-long-weather, content/phase-1/post-02-day-zero]
-status: draft v3.2 (30 Oct 2026: fixes v1.6)
+status: draft v3.3 (30 Oct 2026: fixes v1.6)
 ---
 
 # Five: The Sensible Voice
@@ -51,7 +51,7 @@ I'd known him since I was nine. He used to come on Sunday afternoons to argue wi
 
 When Dad died, Danny decided, without consulting me, that I was now his responsibility. He has never once mentioned it, and he has never once missed a week.
 
-He read both posts properly this time, sitting down, with the chips going cold. Then I told him the parts that weren't on the blog. Len's face when the man sat down. *Who else did you tell?* My paragraph, copied and posted on its own by an account with no picture and no other posts.
+He read both posts properly this time, sitting down, with the chips going cold. Then I told him the parts that weren't on the blog. Len's face when the man sat down. *Who else did you tell?* My paragraph, copied and posted on its own by an account that was only a string of numbers.
 
 Danny listened to all of it and ate a chip.
 
@@ -183,7 +183,7 @@ Danny called in at nine, on his way to the warehouse. He came up for ten minutes
 
 He stood at my window with his jacket half zipped and looked down at the road.
 
-"Whatever this is," he said, "if it's anything, if it isn't a tax dodge, which it is…" He waited for me to smile. I didn't. "It'll be some bloke in a suit. It always is. Twenty years I sat across tables from them. Always some bloke in a suit, always very polite, and he never, ever pays for anything. Not the rent. Not the jobs. Not that window." He was still looking down at the street. "Don't let anyone tell you it's the people down your street."
+"Whatever this is," he said, "if it's anything, if it isn't a tax dodge, which it is…" He waited for me to smile. I didn't. "It'll be some bloke in a suit. It always is." He was still looking down at the street. "Don't let anyone tell you it's the people down your street."
 
 I went to stand beside him, to see what he was looking at.
 
@@ -208,6 +208,8 @@ Danny stood in the middle of the road and looked at his own hand.
 ---
 
 ## AUTHOR'S NOTES (out-of-world, do not publish)
+
+**v3.3 (fixes v1.6 Part C, 30 Oct 2026):** Danny's lecture cut, his line kept; the reposter is a string of numbers.
 
 **v3.2 (fixes v1.6, 30 Oct 2026):** two recaps trimmed; Nell texts Len, chooses not to look at the back room, and notes the plate; the verdict on Danny and the pension gloss cut; the chapter ends on Danny's hand.
 

@@ -1,7 +1,7 @@
 # Who's who
 
 *Urban Paranoia source pack for NotebookLM. Private: contains the full canon and ending.*
-*Assembled from: `lmnotebook/_written/whos-who.md`, `bible/characters.md`. Built 2026-10-30, commit d8ec1de.*
+*Assembled from: `lmnotebook/_written/whos-who.md`, `bible/characters.md`. Built 2026-10-30, commit b464587.*
 
 *Ages are as of 2026 unless stated. "First seen" is the first chapter (or ARG item) where the character appears. Full canon entries follow in the appendix.*
 

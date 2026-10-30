@@ -1,7 +1,7 @@
 # Chapter 5: The Sensible Voice
 
 *Urban Paranoia source pack for NotebookLM. Private: contains the full canon and ending.*
-*Assembled from: `book/chapters/05-the-sensible-voice.md`. Built 2026-10-30, commit d8ec1de.*
+*Assembled from: `book/chapters/05-the-sensible-voice.md`. Built 2026-10-30, commit b464587.*
 
 
 ## Editor's summary
@@ -9,7 +9,7 @@
 **Label:** NELL · DAY 23,220 · MONDAY 11 MAY 2026
 **Narration:** Nell, first person.
 **Dates:** Monday 11 to Saturday 16 May 2026 (Days 23,220–23,225).
-**Length:** about 2,600 words. Draft v3.2 (29–30 Oct 2026: Act One pacing; polish pass; fixes v1.6).
+**Length:** about 2,600 words. Draft v3.3 (29–30 Oct 2026: Act One pacing; polish pass; fixes v1.6).
 
 **What happens**
 - **Fast open:** Danny Kessler, 57, reads Post #1 on Nell's doorstep while his delivery app's **ninety-second door timer** runs down: the same app that rates him 4.9. *"It knows I'm at this door. It knows I'm not knocking."* From the drivers paragraph he names Len in seconds.
@@ -79,7 +79,7 @@ I'd known him since I was nine. He used to come on Sunday afternoons to argue wi
 
 When Dad died, Danny decided, without consulting me, that I was now his responsibility. He has never once mentioned it, and he has never once missed a week.
 
-He read both posts properly this time, sitting down, with the chips going cold. Then I told him the parts that weren't on the blog. Len's face when the man sat down. *Who else did you tell?* My paragraph, copied and posted on its own by an account with no picture and no other posts.
+He read both posts properly this time, sitting down, with the chips going cold. Then I told him the parts that weren't on the blog. Len's face when the man sat down. *Who else did you tell?* My paragraph, copied and posted on its own by an account that was only a string of numbers.
 
 Danny listened to all of it and ate a chip.
 
@@ -211,7 +211,7 @@ Danny called in at nine, on his way to the warehouse. He came up for ten minutes
 
 He stood at my window with his jacket half zipped and looked down at the road.
 
-"Whatever this is," he said, "if it's anything, if it isn't a tax dodge, which it is…" He waited for me to smile. I didn't. "It'll be some bloke in a suit. It always is. Twenty years I sat across tables from them. Always some bloke in a suit, always very polite, and he never, ever pays for anything. Not the rent. Not the jobs. Not that window." He was still looking down at the street. "Don't let anyone tell you it's the people down your street."
+"Whatever this is," he said, "if it's anything, if it isn't a tax dodge, which it is…" He waited for me to smile. I didn't. "It'll be some bloke in a suit. It always is." He was still looking down at the street. "Don't let anyone tell you it's the people down your street."
 
 I went to stand beside him, to see what he was looking at.
 
@@ -236,6 +236,8 @@ Danny stood in the middle of the road and looked at his own hand.
 
 
 ## AUTHOR'S NOTES (out-of-world, do not publish)
+
+**v3.3 (fixes v1.6 Part C, 30 Oct 2026):** Danny's lecture cut, his line kept; the reposter is a string of numbers.
 
 **v3.2 (fixes v1.6, 30 Oct 2026):** two recaps trimmed; Nell texts Len, chooses not to look at the back room, and notes the plate; the verdict on Danny and the pension gloss cut; the chapter ends on Danny's hand.
 

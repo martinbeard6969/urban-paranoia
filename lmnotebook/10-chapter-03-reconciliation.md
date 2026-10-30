@@ -1,7 +1,7 @@
 # Chapter 3: Reconciliation
 
 *Urban Paranoia source pack for NotebookLM. Private: contains the full canon and ending.*
-*Assembled from: `book/chapters/03-reconciliation.md`. Built 2026-10-30, commit d8ec1de.*
+*Assembled from: `book/chapters/03-reconciliation.md`. Built 2026-10-30, commit b464587.*
 
 
 ## Editor's summary
@@ -9,7 +9,7 @@
 **Label:** NELL · DAY 23,200 · TUESDAY 21 APRIL 2026
 **Narration:** Nell, first person.
 **Dates:** Tuesday 21 April to Thursday 30 April 2026 (Day 23,209), the last day of her notice.
-**Length:** about 2,200 words. Draft v3.3 (28–30 Oct 2026: Act One pacing, Nell's mistake and a menace bigger than it; polish pass; fixes v1.6). Her settlement was signed in March.
+**Length:** about 2,200 words. Draft v3.4 (28–30 Oct 2026: Act One pacing, Nell's mistake and a menace bigger than it; polish pass; fixes v1.6). Her settlement was signed in March.
 
 **What happens**
 - **Fast open:** with nine days of notice left, Nell races the 1971 vehicle logs, standing at the shelf, and finds Wednesday 3 March 1971: *H.H. — per instr.* The red camera light is on when she goes in, and **off when she comes out**.
@@ -161,7 +161,7 @@ He looked at me for a long moment. Not angry any more. Something worse: sorry fo
 
 Neither could I. I tried, later, in the car, with my notebook on the steering wheel, the way I'd describe a load for a manifest: height, build, colour, distinguishing marks. A coat. A newspaper. Please and thank you. That was all I had.
 
-Then, because I couldn't help it, I opened the blog. Forty-one had become three hundred and twelve. Somebody had copied my paragraph, just that one, and posted it on its own from an account with no picture and no name, and no other posts, ever.
+Then, because I couldn't help it, I opened the blog. Forty-one had become three hundred and twelve. Somebody had copied my paragraph, just that one, and posted it on its own from an account whose name was only a string of numbers, with no other posts, ever.
 
 ---
 
@@ -200,6 +200,8 @@ He'd been welcoming me.
 
 
 ## AUTHOR'S NOTES (out-of-world, do not publish)
+
+**v3.4 (fixes v1.6 Part C, 30 Oct 2026):** the reposter's name is a string of numbers, never printed, so it can't be mistaken for @longweather_.
 
 **v3.3 (fixes v1.6, 30 Oct 2026):** Len's face line is now his own words; Nell's three-faces summary cut (the face line appears once, in ch 1).
 

@@ -4,7 +4,7 @@ channel: vesper-blog
 post: 3
 title: "Count Forwards"
 canon-refs: [timeline/day-22861, characters/vesper, characters/the-archivist, characters/danny-kessler, characters/emmanuel-okafor, the-lodge/symbols, the-tenants/tells]
-in-world-date: Spring 2026, ~2 weeks after Post #2
+in-world-date: Tue 26 May 2026 (the day after ch 6's visit to head office)
 status: draft v2 — rewritten to the award-quality standard
 ---
 

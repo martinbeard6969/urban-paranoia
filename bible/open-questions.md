@@ -26,7 +26,7 @@ Canon and production decisions that are still open. When one is settled, move th
 | 15 | **Epilogue's last line** | Nell's first thought after the "I". About choosing sides, not fear. To be found in drafting. |
 | 11 | Is a **Fragment counsel for WATCHED** ever found? | Left deliberately blank in "The Wall". Decide whether a later drop or Act 3 supplies one, or it stays blank. |
 | 17 | **Book 2: real places?** | Book 1 names no real present-day towns or institutions (`public-figures.md` rule 5). Naming Washington needs a Book 2 version of that rule: real cities as setting, with institutions, officials and factions still invented. |
-| 18 | **Who reposted Nell's drivers paragraph?** (ch 3) | A nameless account with no picture and no other posts copies it on its own. Candidates: a Steward team (the @longweather_ office, D4) or the Archivist. Decide by ch 10, where Cobb could quote it, or pay off in ch 23. |
+| 18 | **Who reposted Nell's drivers paragraph?** (ch 3) | An account named only with a string of numbers (never printed), with no other posts, copies it on its own. It is a different account from @longweather_ (fixes v1.6 C5), though the same people could run both. Candidates: a Steward team (the @longweather_ office, D4) or the Archivist. Decide by ch 10, where Cobb could quote it, or pay off in ch 23. |
 | 9 | Founders' **names** | Never given in published work so far. Decide whether the book names them. |
 
 ## Settled (log)

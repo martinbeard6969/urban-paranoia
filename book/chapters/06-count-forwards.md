@@ -6,7 +6,7 @@ title: "Count Forwards"
 setting: Nell's flat; Coyle's head office. Tuesday 19 – Monday 25 May 2026
 pov: Nell Okafor-Reyes, first person, past tense
 canon-refs: [bible/characters/the-archivist, bible/characters/longweather-account, bible/characters/cobb, bible/characters/emmanuel-okafor, bible/characters/danny-kessler, bible/timeline/day-22861, bible/canon-decisions/D5, content/phase-1/post-03-count-forwards, bible/voices/archivist]
-status: draft v3.2 (30 Oct 2026: fixes v1.6)
+status: draft v3.3 (30 Oct 2026: fixes v1.6)
 ---
 
 # Six: Count Forwards
@@ -15,7 +15,7 @@ status: draft v3.2 (30 Oct 2026: fixes v1.6)
 
 The comments started just after two in the morning, and I was awake for all of them.
 
-They came from an account with no picture, called **@longweather_**, and they were long: whole paragraphs, fluent and patient and sure of themselves. They knew the neighbourhood's troubles as well as Danny did. Rents. Bills. The jobs that had gone. The meter keys in the queue. For a sentence or two they sounded almost like him, and that was the worst part, because then every one of them turned, without a seam, and came to rest in the same place: on a group of ordinary people, people you might live next door to, who were apparently to blame for all of it. It didn't matter where a comment started. It always ended pointing down the street.
+They came from an account called **@longweather_**, and they were long: whole paragraphs, fluent and patient and sure of themselves. They knew the neighbourhood's troubles as well as Danny did. Rents. Bills. The jobs that had gone. The meter keys in the queue. For a sentence or two they sounded almost like him, and that was the worst part, because then every one of them turned, without a seam, and came to rest in the same place: on a group of ordinary people, people you might live next door to, who were apparently to blame for all of it. It didn't matter where a comment started. It always ended pointing down the street.
 
 I'm not going to repeat them. I deleted them. They kept coming, every nine or ten minutes, and I kept deleting them, and somewhere around the fifth I noticed my hands were cold.
 
@@ -200,6 +200,8 @@ Some things you count. And some things you leave on the shelf, so that for one m
 ---
 
 ## AUTHOR'S NOTES (out-of-world, do not publish)
+
+**v3.3 (fixes v1.6 Part C, 30 Oct 2026):** "no picture" dropped from @longweather_, so it's distinct from the reposter.
 
 **v3.2 (fixes v1.6, 30 Oct 2026):** the Tuesday now covers the whole day; plate corrected to 65.3 kg; cabinet is fridge-sized (Len's wardrobe is the Exchange); the keycard is answered by *Welcome back*; she doesn't ring Danny.
 

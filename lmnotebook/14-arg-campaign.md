@@ -1,7 +1,7 @@
 # The ARG campaign: plan, puzzles and in-world content
 
 *Urban Paranoia source pack for NotebookLM. Private: contains the full canon and ending.*
-*Assembled from: `campaign/campaign-plan.md`, `campaign/puzzle-map.md`, `campaign/moderation-and-safety.md`, `content/phase-1/post-01-for-the-long-weather.md`, `content/phase-1/post-02-day-zero.md`, `content/phase-1/post-03-count-forwards.md`, `content/phase-2/dead-drop-01-6b6e70.md`, `content/phase-2/harlow-vane-site.md`, `content/phase-2/post-04-the-card-index.md`, `content/phase-2/post-05-i-am-old-and-slow.md`, `content/phase-2/weather-report-01-the-canaries.md`. Built 2026-10-30, commit d8ec1de.*
+*Assembled from: `campaign/campaign-plan.md`, `campaign/puzzle-map.md`, `campaign/moderation-and-safety.md`, `content/phase-1/post-01-for-the-long-weather.md`, `content/phase-1/post-02-day-zero.md`, `content/phase-1/post-03-count-forwards.md`, `content/phase-2/dead-drop-01-6b6e70.md`, `content/phase-2/harlow-vane-site.md`, `content/phase-2/post-04-the-card-index.md`, `content/phase-2/post-05-i-am-old-and-slow.md`, `content/phase-2/weather-report-01-the-canaries.md`. Built 2026-10-30, commit b464587.*
 
 In-world posts are written as if real; each has out-of-world production notes at the end. Every puzzle resolves to a campaign-owned page.
 
@@ -411,6 +411,8 @@ Nobody vanished. Nobody died. A man lost his good shifts for asking a question. 
 
 ## The sensible voice
 
+*Added Wednesday 20 May. A lot has happened under this post, and it belongs here.*
+
 I have a friend I'll call D. He was a union rep for twenty years, until there was no union left to represent, and now he delivers parcels for an app that rates him out of five. D. left a comment under Post #1, which some of you saw before I could do anything about it: *"It's a tax dodge, Nell."*
 
 (Hello. Now you know my first name. Thank you, D.)
@@ -457,6 +459,8 @@ More soon.
 ---
 
 ## PRODUCTION NOTES (out-of-world, do not publish)
+
+**Dating (fixes v1.6 C4):** the body goes live on the night of Thu 30 Apr, so the 03:12 session on Fri 1 May (ch 6, Post #3) and ch 5's "both posts" on 11 May still hold. D.'s comment (11 May), his window line (16 May) and @longweather_ (19 May) come later, so those sections are a dated addition.
 
 **What changed in v2**
 - The same canon, puzzles and order of events as v1, rewritten to the literary standard set in Post #1 v2 and [book/synopsis.md](../../book/synopsis.md).

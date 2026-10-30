@@ -1,7 +1,7 @@
 # Chapter 6: Count Forwards
 
 *Urban Paranoia source pack for NotebookLM. Private: contains the full canon and ending.*
-*Assembled from: `book/chapters/06-count-forwards.md`. Built 2026-10-30, commit d8ec1de.*
+*Assembled from: `book/chapters/06-count-forwards.md`. Built 2026-10-30, commit b464587.*
 
 
 ## Editor's summary
@@ -9,7 +9,7 @@
 **Label:** NELL · DAY 23,228 · TUESDAY 19 MAY 2026
 **Narration:** Nell, first person.
 **Dates:** Tuesday 19 to Monday 25 May 2026 (Days 23,228–23,234).
-**Length:** about 2,600 words. Draft v3.2 (29–30 Oct 2026: Act One pacing; polish pass; fixes v1.6). She spends the 17 May anniversary alone.
+**Length:** about 2,600 words. Draft v3.3 (29–30 Oct 2026: Act One pacing; polish pass; fixes v1.6). She spends the 17 May anniversary alone.
 
 **What happens**
 - **The comments:** from 2 a.m., **@longweather_** posts long, fluent comments that feed on the neighbourhood's pressures and end pointing down the street (paraphrased, never quoted). One uses *Nell*. The account dates from 2022. The seventh says she *"stood at the shelves for six hours and fifty minutes, on the Tuesday, and didn't stop for lunch"*. She never told anyone. Danny: *"Keep deleting them… Then keep the door locked as well."*
@@ -41,7 +41,7 @@
 
 The comments started just after two in the morning, and I was awake for all of them.
 
-They came from an account with no picture, called **@longweather_**, and they were long: whole paragraphs, fluent and patient and sure of themselves. They knew the neighbourhood's troubles as well as Danny did. Rents. Bills. The jobs that had gone. The meter keys in the queue. For a sentence or two they sounded almost like him, and that was the worst part, because then every one of them turned, without a seam, and came to rest in the same place: on a group of ordinary people, people you might live next door to, who were apparently to blame for all of it. It didn't matter where a comment started. It always ended pointing down the street.
+They came from an account called **@longweather_**, and they were long: whole paragraphs, fluent and patient and sure of themselves. They knew the neighbourhood's troubles as well as Danny did. Rents. Bills. The jobs that had gone. The meter keys in the queue. For a sentence or two they sounded almost like him, and that was the worst part, because then every one of them turned, without a seam, and came to rest in the same place: on a group of ordinary people, people you might live next door to, who were apparently to blame for all of it. It didn't matter where a comment started. It always ended pointing down the street.
 
 I'm not going to repeat them. I deleted them. They kept coming, every nine or ten minutes, and I kept deleting them, and somewhere around the fifth I noticed my hands were cold.
 
@@ -226,6 +226,8 @@ Some things you count. And some things you leave on the shelf, so that for one m
 
 
 ## AUTHOR'S NOTES (out-of-world, do not publish)
+
+**v3.3 (fixes v1.6 Part C, 30 Oct 2026):** "no picture" dropped from @longweather_, so it's distinct from the reposter.
 
 **v3.2 (fixes v1.6, 30 Oct 2026):** the Tuesday now covers the whole day; plate corrected to 65.3 kg; cabinet is fridge-sized (Len's wardrobe is the Exchange); the keycard is answered by *Welcome back*; she doesn't ring Danny.
 

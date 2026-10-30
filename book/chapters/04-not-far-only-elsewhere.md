@@ -7,7 +7,7 @@ type: interlude
 setting: Harrowgate House; Le Havre. The night of Tuesday 2 – Wednesday 3 March 1971 (Day 3,061)
 pov: close third: the British demographer (THREE); then the French actuary
 canon-refs: [bible/the-lodge, bible/artefacts-register/HG-71, bible/canon-decisions/D3, bible/canon-decisions/D5, bible/characters/mother-quill, bible/timeline/1971-manifest, book/chapters/01-day-zero]
-status: draft v3.2 (30 Oct 2026: fixes v1.6)
+status: draft v3.3 (30 Oct 2026: fixes v1.6)
 ---
 
 # Four: Not Far, Only Elsewhere
@@ -24,9 +24,9 @@ Inside there were still no staff. There couldn't be. The twelve of them carried 
 
 The long dining room, where four places had once stayed clean all morning, had thirteen chairs now. They called it the Long Room. On the nights they met as the Table, twelve of the chairs were filled: the three of them, and nine strangers chosen as they had been chosen. Overlooked, competent, approached at a moment of crisis with the one thing nobody can refuse, which is certainty.
 
-The thirteenth chair was pushed in. It always was. Nobody had decided that. On the first night that all twelve were seated, the junior diplomat who never took his gloves off had reached for it to hang his coat on, and the German had said, very quietly, *no*. Nobody had asked him why. Nobody had touched it since.
+The thirteenth chair was pushed in. It always was. Nobody had decided that. On the first night that all twelve were seated, the shipping manager from Rotterdam had reached for it to hang his coat on, and the German had said, very quietly, *no*. Nobody had asked him why. Nobody had touched it since.
 
-Tonight the shipping manager from Rotterdam had brought figures. He didn't show them. He kept them folded by his plate and gave them out loud, a little apologetically, the way a man reports fine weather to people whose crops have failed.
+Tonight the man from Rotterdam had brought figures. He didn't show them. He kept them folded by his plate and gave them out loud, a little apologetically, the way a man reports fine weather to people whose crops have failed.
 
 "Tonnage through the boxes is up a third. Again."
 
@@ -56,7 +56,7 @@ At a quarter to eleven the telephone rang in the hall.
 
 Once.
 
-Every conversation at the table stopped and waited for the second ring. There wasn't one. The German laid his knife down very precisely beside his plate. His hair had gone white in a single winter, the winter he spent proving that what came down the line in the small hours could not be coming down the line. Nobody at the table mentioned his hair. Nobody mentioned the telephone. The diplomat smoothed his gloves, and the talk came back, a little louder than before.
+Every conversation at the table stopped and waited for the second ring. There wasn't one. The German laid his knife down very precisely beside his plate. His hair had gone white in a single winter, the winter he spent proving that what came down the line in the small hours could not be coming down the line. Nobody at the table mentioned his hair. Nobody mentioned the telephone. The man from Rotterdam smoothed his folded figures, and the talk came back, a little louder than before.
 
 Across the table the woman from New Zealand was looking at the thirteenth chair. She had kept the records at her country's weather service before the Table found her, which the American still thought was the best joke he'd ever been told. She spoke only when spoken to, and hardly anyone spoke to her, so she watched things instead. She caught the demographer watching her, and didn't look away.
 
@@ -138,6 +138,8 @@ He never opened the lid again. When he died, twenty-six years later, his son sol
 
 ## AUTHOR'S NOTES (out-of-world, do not publish)
 
+**v3.3 (fixes v1.6 Part C, 30 Oct 2026):** the diplomat leaves the page; the coat and the chair go to the Rotterdam man. The diplomat stays in `the-lodge.md`.
+
 **v3.2 (fixes v1.6, 30 Oct 2026):** the no-staff rule now reads "inside after dark", so the American's driver is part of it.
 
 **v3.1 polish pass (29 Oct 2026):** "On the first night that all twelve were seated" (grammar); two "as if / as though" frames recast. Checked against ch 1 v2.5: the counsel never says *we*; the Frenchman's dream and house above the harbour are introduced here only (v1.5 C4); 02:10 exact.
@@ -146,7 +148,7 @@ He never opened the lid again. When he died, twenty-six years later, his son sol
 - **The Table's rise, shown through objects:** the American's saloon with a driver waiting all night; the German's grey saloon with its measured dent; her cashmere coat and made shoes; the taxi meter she doesn't look at (then goes back to count the change); the wine the German once read about in a dentist's waiting room. Container shipping is toasted ("To the boxes"), bought small through "a trust with a dull name" (the Ashby Trust). *"They had been nobodies. They were becoming people whose letters were answered."*
 - **The cost** (critic's T3): the Rotterdam man's dock gang of forty is now "a crane. And the man who drives the crane." She writes *39* in her notebook margin and can't find its column. In Le Havre, the dockers' café has closed: *"Nobody had asked him to price the men."* Containerisation is a real trend, described accurately; the Table invests early and doesn't cause it.
 - **Still no staff:** the twelve carry their own plates, "because nobody who was paid could be allowed inside after dark"; the American's driver waits outside in the car.
-- **The Long Room:** twelve seated, plus a thirteenth chair always pushed in. On the first night the **gloved diplomat** reached for it to hang his coat on and the German said *no* (refines v1.2's "someone").
+- **The Long Room:** twelve seated, plus a thirteenth chair always pushed in. On the first night the **Rotterdam man** reached for it to hang his coat on and the German said *no* (refines v1.2's "someone").
 - **Mother Quill, unnamed:** the woman from New Zealand "had kept the records at her country's weather service" (matches `characters.md`), speaks only when spoken to, watches the thirteenth chair, and gets one line: *"It's going, isn't it… At home we'd say the glass was falling."* It seeds the future Listener as the one who reads signs.
 - **The telephone rings once** at 10.45 p.m. (canon decision D3: counsel moving to the line). The German's hair went white in the winter he spent disproving it. A cream telephone now hangs on the Listening Room wall.
 - **The American is the Listener by 1971** (Founder One holds the role until his death in 1976).

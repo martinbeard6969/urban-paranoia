@@ -6,7 +6,7 @@ title: "Reconciliation"
 setting: the Coyle's archive; Nell's flat; the old head office; a café near the old depot. Tuesday 21 April – Thursday 30 April 2026
 pov: Nell Okafor-Reyes, first person, past tense
 canon-refs: [bible/characters/len, bible/characters/vesper, bible/characters/cobb, bible/timeline/1962-delivery, bible/timeline/1971-manifest, bible/canon-decisions/D3, bible/canon-decisions/D5, content/phase-1/post-01-for-the-long-weather, content/phase-1/post-02-day-zero, book/chapters/01-day-zero]
-status: draft v3.3 (30 Oct 2026: fixes v1.6)
+status: draft v3.4 (30 Oct 2026: fixes v1.6)
 ---
 
 # Three: Reconciliation
@@ -129,7 +129,7 @@ He looked at me for a long moment. Not angry any more. Something worse: sorry fo
 
 Neither could I. I tried, later, in the car, with my notebook on the steering wheel, the way I'd describe a load for a manifest: height, build, colour, distinguishing marks. A coat. A newspaper. Please and thank you. That was all I had.
 
-Then, because I couldn't help it, I opened the blog. Forty-one had become three hundred and twelve. Somebody had copied my paragraph, just that one, and posted it on its own from an account with no picture and no name, and no other posts, ever.
+Then, because I couldn't help it, I opened the blog. Forty-one had become three hundred and twelve. Somebody had copied my paragraph, just that one, and posted it on its own from an account whose name was only a string of numbers, with no other posts, ever.
 
 ---
 
@@ -168,6 +168,8 @@ He'd been welcoming me.
 ---
 
 ## AUTHOR'S NOTES (out-of-world, do not publish)
+
+**v3.4 (fixes v1.6 Part C, 30 Oct 2026):** the reposter's name is a string of numbers, never printed, so it can't be mistaken for @longweather_.
 
 **v3.3 (fixes v1.6, 30 Oct 2026):** Len's face line is now his own words; Nell's three-faces summary cut (the face line appears once, in ch 1).
 
