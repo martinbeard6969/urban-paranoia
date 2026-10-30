@@ -68,7 +68,7 @@ In Post #1 I mentioned two retired drivers. One laughed, and one went quiet. I'l
 
 I took Len a coffee and the new scan. He held it at arm's length the way people do with photographs of the dead. This is as close to his words as I can manage:
 
-> "Twice a year, maybe. Never on the board. The office'd ring you at home the night before. No paperwork in the cab. You'd collect, you'd deliver, and a fella'd meet you at the far end and pay you separate. Cash. Polite. Good suit. You'd not remember his face after. Not a bad face. Just one that didn't stick.
+> "Twice a year, maybe. Never on the board. The office'd ring you at home the night before. No paperwork in the cab. You'd collect, you'd deliver, and a fella'd meet you at the far end and pay you separate. Cash. Polite. Good suit. You'd not remember his face after. Nothing wrong with it. It just slid off you.
 >
 > "The stamp was on the office copy, not yours. You only saw it if you went looking. I went looking the once."
 

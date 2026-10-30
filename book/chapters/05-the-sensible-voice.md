@@ -6,7 +6,7 @@ title: "The Sensible Voice"
 setting: Nell's doorstep and flat; the streets between; the Mission Hall at the end of her road. Mon 11 – Sat 16 May 2026
 pov: Nell Okafor-Reyes, first person, past tense
 canon-refs: [bible/characters/danny-kessler, bible/characters/pastor-ama, bible/characters/cobb, bible/modern-pressures, bible/locations-and-organisations/mission-hall, bible/locations-and-organisations/larkspire, bible/canon-decisions/D14, content/phase-1/post-01-for-the-long-weather, content/phase-1/post-02-day-zero]
-status: draft v3.1 (29 Oct 2026: polish pass)
+status: draft v3.2 (30 Oct 2026: fixes v1.6)
 ---
 
 # Five: The Sensible Voice
@@ -51,7 +51,7 @@ I'd known him since I was nine. He used to come on Sunday afternoons to argue wi
 
 When Dad died, Danny decided, without consulting me, that I was now his responsibility. He has never once mentioned it, and he has never once missed a week.
 
-He read both posts properly this time, sitting down, with the chips going cold. Then I told him the parts that weren't on the blog. Len's face when the man sat down. *Who else did you tell?* The man nobody could describe. My paragraph, copied and posted on its own by an account with no picture and no other posts.
+He read both posts properly this time, sitting down, with the chips going cold. Then I told him the parts that weren't on the blog. Len's face when the man sat down. *Who else did you tell?* My paragraph, copied and posted on its own by an account with no picture and no other posts.
 
 Danny listened to all of it and ate a chip.
 
@@ -61,13 +61,11 @@ Danny listened to all of it and ate a chip.
 
 "A man had a cup of tea in a café, Nell. That's what cafés are for. Len's been frightened of the office since before you were born; you could put a coat on a chair and he'd lower his voice. And the other thing's a bot. Half the internet's two bots arguing about a football score." He wiped his fingers. "Rich outfit wants kit moved off its books, pays a haulier cash, some clerk with a rubber stamp feels clever. Still a tax dodge."
 
-He was nearly right. That's the thing about Danny: he's nearly always nearly right, and the gap between nearly and actually is so narrow that most people never notice it's there.
-
 At seven his phone rang, and his whole face changed shape.
 
 "That's madam."
 
-His granddaughter, Esme, was seven, and rang every night at seven, because at eight he had to be at the warehouse. Nights, three a week, stacking for the same company he delivered for. "Which is funny if you think about it," he'd told me once, "so I try not to." He propped the phone against the vinegar and she filled the screen, all fringe and front teeth.
+His granddaughter, Esme, was seven, and rang every night at seven, before he went to the warehouse. Nights, three a week, stacking for the same company he delivered for. "Which is funny if you think about it," he'd told me once, "so I try not to." He propped the phone against the vinegar and she filled the screen, all fringe and front teeth.
 
 "Grandad, are you at *work*?"
 
@@ -83,7 +81,7 @@ When she'd gone he sat for a moment with the dark phone in his hand.
 
 "Rent went up on the flat," he said. "Pension's what it is. You do the sum."
 
-I did it. I'm good at sums. A man of fifty-seven who'd spent twenty years making sure other people were paid fairly, working days and nights to stay exactly where he was.
+I did it. I'm good at sums.
 
 Then he pulled my laptop across, scrolled to the comments, typed something quickly and posted it before I could see.
 
@@ -93,7 +91,7 @@ Then he pulled my laptop across, scrolled to the comments, typed something quick
 
 He looked at the screen and had the grace to look ashamed for nearly two seconds. "Well. Now they can stop calling you Vesper. Sounds like a scooter."
 
-I laughed, because he wanted me to. After he'd gone I sat with the comment and did a different sum. My settlement had a clause about company records. Coyle's had employed, in its whole history, as far as I knew, exactly one Nell.
+I laughed, because he wanted me to. After he'd gone I sat with the comment and did a different sum. Coyle's had employed, in its whole history, as far as I knew, exactly one Nell.
 
 I found the settlement in the drawer under the cutlery and read the clause at one in the morning. It was four lines long. It used the word *disclose* twice and *in perpetuity* once, and it didn't say what would happen to me, which was worse than if it had.
 
@@ -125,7 +123,7 @@ The tea was bad. Under the window a radiator banged every few minutes, loud as a
 
 Pastor Ama was at the urn: smaller than I'd expected, older, reading glasses on a cord, and the particular calm of someone who has spent decades in rooms where people are about to shout. Danny introduced me as *the one I told you about*, which I didn't love. She put a mug in my hand and said, "Tell me."
 
-So I told her. The box, the stamp, the date, the drivers, the café, the man. I'd never said it all out loud from beginning to end. It sounded madder out loud, and more real. And she did the thing almost nobody can do: she listened to the whole of it without once getting ready to speak. When I'd finished, the radiator banged, and I realised I'd been talking for twenty minutes.
+So I told her, all of it, beginning to end, out loud for the first time. It sounded madder out loud, and more real. And she did the thing almost nobody can do: she listened to the whole of it without once getting ready to speak. When I'd finished, the radiator banged, and I realised I'd been talking for twenty minutes.
 
 "Well," she said. "That's a lot to carry on your own."
 
@@ -137,7 +135,7 @@ I thought about it, which nobody else had made me do. "Len."
 
 "Then the question isn't who he was." She topped up my tea, though I'd hardly touched it. "It's who's knocking on Len's door this week. Is it you?"
 
-It wasn't. I hadn't rung him since the café. I'd told myself it was to keep him safe.
+It wasn't. I hadn't rung him since the café. I got my phone out under the table and texted him: *You all right?* Three dots came and went. Then: *Leave it, love.*
 
 While I was looking at it, a young woman came to the end of the table. She was wearing sunglasses, indoors, on an overcast morning, and she didn't take them off. She didn't ask for anything. She held out a small folded note, and Ama read it with no change in her face at all and said, "Of course. Come and help me with the boxes in the back," in exactly the voice she'd used to offer me tea.
 
@@ -145,7 +143,7 @@ They went through the door behind the urn together. It closed. I heard a bolt go
 
 I looked at Danny. "Don't," he said, before I'd asked, and passed me a biscuit I didn't want.
 
-Nobody watched them go. In a room where everyone noticed everything, nobody looked at that door, and that was how I knew it mattered. Later, in the ladies', I found a small card on the inside of the cubicle door, where only someone sitting alone would see it: a phone number, and the words *You are not on your own. Ask Ama.*
+Nobody looked at that door, and after a second, neither did I. It was the first thing that room taught me. Later, in the ladies', I found a small card on the inside of the cubicle door, where only someone sitting alone would see it: a phone number, and the words *You are not on your own. Ask Ama.*
 
 I sat there a minute longer than I needed to.
 
@@ -201,21 +199,17 @@ The driver lifted two fingers from the wheel.
 
 It was the small wave you give on a country lane to someone you've passed a hundred times. Danny lifted his hand back without thinking. Everyone does. The van went on to the end of the road, indicated, which nobody does, and turned out of sight.
 
+I'd got four characters of its number plate, and I wrote them on the back of my hand, because I write things down.
+
 Danny stood in the middle of the road and looked at his own hand.
-
-Then he looked up at my window, and spread his arms a little, and shook his head.
-
-My phone buzzed in my hand. *Who was that?*
-
-I didn't answer. I didn't know what I'd say.
-
-I had seen the driver's face. I'd seen it, and it was gone: an ordinary face, under the cab light, which I'd lost before the van reached the corner.
 
 ---
 
 ---
 
 ## AUTHOR'S NOTES (out-of-world, do not publish)
+
+**v3.2 (fixes v1.6, 30 Oct 2026):** two recaps trimmed; Nell texts Len, chooses not to look at the back room, and notes the plate; the verdict on Danny and the pension gloss cut; the chapter ends on Danny's hand.
 
 **v3.1 polish pass (29 Oct 2026):** Danny's union history reworded so it no longer repeats ch 2's "until there was no union left to represent".
 
@@ -229,14 +223,14 @@ I had seen the driver's face. I'd seen it, and it was gone: an ordinary face, un
   - **Esme**, his granddaughter, 7: the nightly seven o'clock call and the spelling of *because*, before his warehouse shift. He never looks at the clock.
   - **Naming her** now costs something: the settlement clause and "exactly one Nell". The keycard on the hook seeds ch 6.
   - **The back room:** a bolt goes across; Danny's "Don't" before she can ask (ch 17).
-  - **Ama's question:** "Did he frighten you, or did he frighten your driver?… Who's knocking on Len's door this week?" Nell hasn't rung Len since the café. Rhymes with the missing knock (D14) without making Len a victim.
+  - **Ama's question:** "Did he frighten you, or did he frighten your driver?… Who's knocking on Len's door this week?" Nell hasn't rung Len since the café; she texts him there and then, and he answers *Leave it, love*. Rhymes with the missing knock (D14) without making Len a victim.
   - **The settlement at 1 a.m.** and the keycard taken off the hook and put back: "Taking it off was worse" (Len's line, ch 3).
   - **Nell leans too** in the flare-up and doesn't straighten up: the reader's guilt lands on the narrator first.
-- **Cobb, sighting 2.** The van's driver lifts two fingers from the wheel to Danny, a country-lane wave. Danny waves back by reflex and doesn't know him. The van indicates at the corner ("which nobody does"), an echo of ch 3's please-and-thank-you. Nell can't keep his face, as with the man at the next table; she doesn't connect them (ch 10 does).
+- **Cobb, sighting 2.** The van's driver lifts two fingers from the wheel to Danny, a country-lane wave. Danny waves back by reflex and doesn't know him. The van indicates at the corner ("which nobody does"), an echo of ch 3's please-and-thank-you. Nell gets four characters of the plate on the back of her hand (never printed); she doesn't connect the sightings yet (ch 10 does).
 - **The van (C5).** The bird logo snags "somewhere close, somewhere I looked every day". The coaster is not named here; it pays off at 3:40 a.m. in ch 18.
-- **The ending is unchanged in substance:** Danny's line, spoken at the window while the van idles. The scene runs on to the wave, Danny's text *Who was that?*, and ends on the forgotten face (the chapter's single closing image). Saturday, about nine p.m.: dusk, sidelights, cab light.
+- **The ending:** Danny's line, spoken at the window while the van idles; the wave; the plate on Nell's hand; it ends on Danny looking at his own hand (the chapter's single closing image). Saturday, about nine p.m.: dusk, sidelights, cab light.
 - **D14 seeds:** the old man's tartan flask straight after "So they pick whoever's nearest" (death 1, ch 13); the door timer.
-- **Speed map:** fast open (the countdown); warm and quick (the kitchen, Esme); compressed walk; tense stillness (the hall, the bolt); fast (the flare-up); slow and cold (the window, the wave).
+- **Speed map:** fast open (the countdown); warm and quick (the kitchen, Esme); compressed walk; tense stillness (the hall, the bolt); fast (the flare-up); slow and cold (the window, the wave, the hand).
 - **Style checks:** one "the way…"-type simile ("the way he used to read management proposals"); no telling ahead; one closing image.
 
 **Care rules (unchanged)**

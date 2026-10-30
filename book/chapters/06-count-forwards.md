@@ -6,7 +6,7 @@ title: "Count Forwards"
 setting: Nell's flat; Coyle's head office. Tuesday 19 – Monday 25 May 2026
 pov: Nell Okafor-Reyes, first person, past tense
 canon-refs: [bible/characters/the-archivist, bible/characters/longweather-account, bible/characters/cobb, bible/characters/emmanuel-okafor, bible/characters/danny-kessler, bible/timeline/day-22861, bible/canon-decisions/D5, content/phase-1/post-03-count-forwards, bible/voices/archivist]
-status: draft v3.1 (29 Oct 2026: polish pass)
+status: draft v3.2 (30 Oct 2026: fixes v1.6)
 ---
 
 # Six: Count Forwards
@@ -25,11 +25,9 @@ I looked the account up. It had existed since 2022, years before my blog. Somebo
 
 The seventh comment was different. It was shorter, and it was about me.
 
-It didn't threaten anything. It mentioned, in passing, halfway through a sentence about something else, that I'd *stood at the shelves for an hour and forty minutes, on the Tuesday*. Then it went back to blaming the people down the street.
+It didn't threaten anything. It mentioned, in passing, halfway through a sentence about something else, that I'd *stood at the shelves for six hours and fifty minutes, on the Tuesday, and didn't stop for lunch*. Then it went back to blaming the people down the street.
 
 I had. Tuesday the twenty-first of April, the 1971 logs, the ledger open on my forearm because I hadn't wanted to sit down and waste the time. I'd never written how long I was there. I'd never said it. I hadn't known it myself until I read it, and then I knew it was right, because I remembered the light going in the high window and the time on my phone when I came out.
-
-I told myself it was a guess. I'm a reconciler. I know what a guess looks like.
 
 I deleted it, and then sat looking at the gap where it had been until the comments stopped, at a quarter to four, as if whoever it was had gone to bed.
 
@@ -83,7 +81,7 @@ The night of my second post. Seven minutes in my drafts folder, where I kept the
 
 I changed my password. Then every password I've ever had, which took the rest of the afternoon. And somewhere in the middle of it, typing a new one with my teeth clenched, I understood the thing that frightened me more than the letter.
 
-The Tuesday wasn't in my drafts. I'd never written down how long I stood at those shelves. Whoever had been in my account at 03:12 couldn't have told @longweather_. Someone else knew.
+The Tuesday wasn't in my drafts. I'd never written down how long I stood at those shelves. Whoever had been in my account at 03:12 couldn't have told @longweather_. Someone else knew, and they hadn't needed my laptop to know it.
 
 Two of them, then. One who wrote to me in capitals and said sorry. And one who didn't need to get in at all.
 
@@ -105,7 +103,7 @@ Last Sunday had been a year to the day. I'd spent it on my own and told nobody w
 
 *ASK WHAT CAME TO YOUR DESK. ASK WHAT IT WEIGHS.*
 
-I knew what had come to my desk. Nothing had. That was the point. What came was a grey cabinet in the comms room at head office, the size of a small wardrobe, with a fan you could hear through the wall. The routing system's local box. We used to joke it was our replacement, back when it was something you could joke about. I'd walked past it a hundred times.
+I knew what had come to my desk. Nothing had. That was the point. What came was a grey cabinet in the comms room at head office, the size of a fridge, with a fan you could hear through the wall. The routing system's local box. We used to joke it was our replacement, back when it was something you could joke about. I'd walked past it a hundred times.
 
 I had no idea what it weighed.
 
@@ -129,7 +127,7 @@ I'd heard that sentence before. Danny, at this same window, a week ago: *Don't l
 
 And for one second the thought came in, like cold under a door. Danny knew where I lived. Danny had known my father's birthday for thirty years; he'd eaten half the cake at most of them. Danny had said it first.
 
-I said "No," out loud, to the empty flat.
+I said "No," out loud, to the empty flat. But I didn't ring him. I didn't know yet what I'd be asking.
 
 I stood at the window until Graham went in and the street lights came on, and I didn't blame anyone. It took effort, and I hadn't known it would.
 
@@ -145,7 +143,7 @@ Nobody was on reception. There was a tablet on a stand that said *Welcome! Pleas
 
 I held the card up, the way you do when you're about to hand something over and there's no one to hand it to. Then, because there was no one, I touched it to the reader on the inner door.
 
-It beeped. Green.
+It beeped. Green. On its stand, the tablet changed its mind: *Welcome back.*
 
 My notice had ended twenty-five days before. My laptop had gone back, my phone, my lanyard, my parking permit. Payroll had sent me my P45. And the door to the corridor opened for me as if I'd only been out for lunch.
 
@@ -159,7 +157,7 @@ It was cold inside, and loud with fans, and the grey cabinet stood against the f
 
 On the side of the cabinet, near the floor, there was a metal plate, riveted on, the kind nobody reads: a serial number, a voltage, a date of manufacture. I crouched down to it. It's what I do. I read the small print on things.
 
-*NET WT 65 KG.*
+*NET WT 65.3 KG.*
 
 And underneath, for the export market, in smaller letters:
 
@@ -203,16 +201,18 @@ Some things you count. And some things you leave on the shelf, so that for one m
 
 ## AUTHOR'S NOTES (out-of-world, do not publish)
 
+**v3.2 (fixes v1.6, 30 Oct 2026):** the Tuesday now covers the whole day; plate corrected to 65.3 kg; cabinet is fridge-sized (Len's wardrobe is the Exchange); the keycard is answered by *Welcome back*; she doesn't ring Danny.
+
 **v3.1 polish pass (29 Oct 2026):** continuity: Danny's chips were Monday 11 May (ch 5 v3.0), so "last Sunday" (17 May, the anniversary) is now spent alone; a repeated "deleted" removed.
 
 - **v3.0 (29 Oct 2026), Act One pacing.** Redrafted to the outline's revision brief. About 2,600 words of text (v1.1: about 2,450). The extra length is the new Monday scene at Coyle's.
 - **Cut:** the reader's email, the 03:12 source-code line, the police report and the fridge reference number, both enclosures (the consignee's 1971 copy and the 2025 goods-in note) and Danny's "heavy office kit" phone call. The ARG's Post #3 keeps all of these; the book and the blog now differ here by design (see the timeline).
-- **@longweather_ opens the chapter** (moved from ch 5): night comments that feed on the neighbourhood's pressures and end pointing down the street, never quoted; *Nell* picked up from Danny's comment; the account dates from 2022. Its seventh comment knows she *"stood at the shelves for an hour and forty minutes, on the Tuesday"* (Tue 21 Apr, ch 3). That comes from the keycard and camera logs (D5, ch 23), not the drafts.
+- **@longweather_ opens the chapter** (moved from ch 5): night comments that feed on the neighbourhood's pressures and end pointing down the street, never quoted; *Nell* picked up from Danny's comment; the account dates from 2022. Its seventh comment knows she *"stood at the shelves for six hours and fifty minutes, on the Tuesday, and didn't stop for lunch"* (Tue 21 Apr, ch 3; the figure is an estimate covering the day, since ch 3 gives no arrival time). That comes from the keycard and camera logs (D5, ch 23), not the drafts.
 - **The letter** (the act's second and last document): the Archivist's voice rules hold (capitals, full stops only, the hyphen kept in the name). It now carries **228XX DAYS IN. YOU WILL KNOW WHICH DAY.** (the count the source line held), the 1971 weight (**144 LB**), *"ASK WHAT CAME TO YOUR DESK. ASK WHAT IT WEIGHS."* and *"I HAVE BEEN IN YOUR ACCOUNT. I AM SORRY."* The rest is as in Post #3.
 - **She checks the history once:** *Friday 1 May. 03:12. Signed in. Drafts opened. Signed out, 03:19.* (the small hours after Post #2 went up on Thu 30 Apr). The Archivist read what Nell keeps off the blog (Len, the man at the next table, her father). **Two watchers:** the Tuesday was never in her drafts, so @longweather_ knows by another route.
 - **Counting forwards:** Day 22,800 = Mon 17 Mar 2025; Day 22,899 = Tue 24 Jun 2025; inside the window, Day 22,861 = Sat 17 May 2025, the croissants. Nell finds the day herself.
 - **The window:** Graham's grey door (seeds ch 7), the young mother, the lads, the rainbow. **Cobb, sighting 3:** a man she's never seen on the street, with a terrier that doesn't stop at lampposts; he never looks up "as if he already knew exactly what was in it". The Danny suspicion: one second, then "No."
-- **Monday 25 May (Day 23,234):** Coyle's head office, nobody on reception; the dead keycard opens the inner door and the comms room. The camera's red light is on (v1.4 C2, second showing). The plate: *NET WT 65 KG / 144 LB*. The hum recalls Len's wardrobe (ch 3). She leaves with the card (D5's logs now record this visit too; ch 23).
+- **Monday 25 May (Day 23,234):** Coyle's head office, nobody on reception; the dead keycard opens the inner door and the comms room. The camera's red light is on (v1.4 C2, second showing). The plate: *NET WT 65.3 KG / 144 LB* (144 lb is 65.3 kg). The tablet greets her with *Welcome back* (the routing system runs the doors; D5). The hum recalls Len's wardrobe (ch 3). She leaves with the card (D5's logs now record this visit too; ch 23).
 - **The ending is unchanged:** the dictionary, closed unread.
 - **Speed map:** fast and cold (the comments); still and precise (the letter, the history line, two watchers); quick (the count); slow and uneasy (the window, the dog); tense (head office); quiet (the dictionary).
 - **Style checks:** "the way…" similes: "the way a stone is in a shoe" and "the way you do when you're about to hand something over" (two). No telling ahead. One closing line.

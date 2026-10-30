@@ -1,7 +1,7 @@
 # Chapter 3: Reconciliation
 
 *Urban Paranoia source pack for NotebookLM. Private: contains the full canon and ending.*
-*Assembled from: `book/chapters/03-reconciliation.md`. Built 2026-10-29, commit d6b4816.*
+*Assembled from: `book/chapters/03-reconciliation.md`. Built 2026-10-30, commit d8ec1de.*
 
 
 ## Editor's summary
@@ -9,7 +9,7 @@
 **Label:** NELL · DAY 23,200 · TUESDAY 21 APRIL 2026
 **Narration:** Nell, first person.
 **Dates:** Tuesday 21 April to Thursday 30 April 2026 (Day 23,209), the last day of her notice.
-**Length:** about 2,250 words. Draft v3.2 (28–29 Oct 2026: Act One pacing, Nell's mistake and a menace bigger than it; polish pass). Her settlement was signed in March.
+**Length:** about 2,200 words. Draft v3.3 (28–30 Oct 2026: Act One pacing, Nell's mistake and a menace bigger than it; polish pass; fixes v1.6). Her settlement was signed in March.
 
 **What happens**
 - **Fast open:** with nine days of notice left, Nell races the 1971 vehicle logs, standing at the shelf, and finds Wednesday 3 March 1971: *H.H. — per instr.* The red camera light is on when she goes in, and **off when she comes out**.
@@ -19,7 +19,7 @@
 - **The mistake:** that night, pleased with herself, she adds the drivers paragraph to Post #1: *"(I'm reading something into that.)"* No name, no place. Forty-one readers by morning. She doesn't delete it, because "a deletion is the loudest thing you can do on the internet."
 - HR's return-of-property list includes her laptop, phone, lanyard and permit, but not the keycard. Nobody collects it.
 - **The café:** Len has seen the paragraph ("Is this you, Len?"). *"How many drivers d'you think went quiet, love? There's about six of us left."* Nell fears for him, then for herself: her settlement's clause about company records, and a keycard that logged every visit. *"Leave it. Taking it off's worse."*
-- Len's memories: the off-book runs, the polite cash man with a face that "didn't stick", a wardrobe-sized machine that "hummed with the power off".
+- Len's memories: the off-book runs, the polite cash man whose face "just slid off you", a wardrobe-sized machine that "hummed with the power off".
 - **An unnamed man sits at the next table** (Cobb, sighting 1). Len stops talking until he leaves. *"Who else did you tell?" "Nobody. I didn't say where."* Neither can describe him. Later her paragraph has been reposted on its own by a nameless account with no other posts.
 - Len tells **Old Tommy's** 1962 story: *needed from tomorrow*, written on the docket "so it'd be somewhere".
 - Terry asked who the cash man was and lost the good runs. *"You asked on the internet, love."* Len is welcoming her, not warning her.
@@ -129,7 +129,7 @@ I opened my mouth and nothing useful came out. I was thinking about him. Then, a
 
 I slid my own phone across, with the photo of the manifest. He didn't look at it for a long time. Then he held it at arm's length, the way people hold photographs of the dead.
 
-"Twice a year, maybe," he said. "Never on the board. The office'd ring you at home the night before. You'd collect, you'd deliver, and a fella'd meet you at the far end and pay you, separate. Cash. Polite. Good suit. You'd not remember his face after. Not a bad face. Just one that didn't stick."
+"Twice a year, maybe," he said. "Never on the board. The office'd ring you at home the night before. You'd collect, you'd deliver, and a fella'd meet you at the far end and pay you, separate. Cash. Polite. Good suit. You'd not remember his face after. Nothing wrong with it. It just slid off you."
 
 I asked what he'd carried.
 
@@ -177,8 +177,6 @@ I'd been carrying that house around in my bag for ten days, and here, at last, w
 
 *Needed from tomorrow.* A machine carried into that house on the Saturday. The counting started on the Sunday.
 
-A man with no face at the door in 1962. A cash man whose face didn't stick in the eighties. A man at the next table whose face I couldn't keep for ten minutes. I made myself stop there.
-
 "Why did you go quiet," I said, "on the phone?"
 
 He lined his mug up with the edge of the table, like a man squaring a stack of paper.
@@ -203,6 +201,8 @@ He'd been welcoming me.
 
 ## AUTHOR'S NOTES (out-of-world, do not publish)
 
+**v3.3 (fixes v1.6, 30 Oct 2026):** Len's face line is now his own words; Nell's three-faces summary cut (the face line appears once, in ch 1).
+
 **v3.2 polish pass (29 Oct 2026):** the settlement is now signed **in March** (with the redundancy letter, ch 2), not May; the return to the café after the car flash-forward is marked ("Before he left, I'd asked Len about the first run"). Checked against ch 1 v2.5: Old Tommy's account matches the driver's note and ch 1's "seven cars, no staff"; Len alone tells the driver's later life (v1.5 C4).
 
 **What this chapter establishes**
@@ -212,7 +212,7 @@ He'd been welcoming me.
 - **The father beat** (Sunday 26 April): the old head office; she nearly rings her father (dead since 2019) and has never deleted his number. Sets up ch 6.
 - **The mistake** (Monday 27 April, new in v3.1). After ringing the drivers, Nell adds a paragraph to Post #1: two drivers, one laughed, the other went quiet, saw it "on the odd job" and asked about her mum, *"(I'm reading something into that.)"* No name, no place. Forty-one readers by morning. She doesn't delete it: "a deletion is the loudest thing you can do on the internet."
 - **The cost.** At the café Len confronts her: a man at the allotments showed him the post. *"How many drivers d'you think went quiet, love? There's about six of us left."* Nell fears for him, then, ashamed, for herself: the settlement she signed in March has a clause about company records, and the keycard logs every archive visit. Len: *"Leave it. Taking it off's worse."*
-- **Len's memories:** the cash runs, the office calls (her father, ch 6), the cash man "with a face that didn't stick" (a Steward, not Cobb), the wardrobe that hummed (the Exchange, 1983; D3).
+- **Len's memories:** the cash runs, the office calls (her father, ch 6), the cash man whose face "just slid off you" (a Steward, not Cobb), the wardrobe that hummed (the Exchange, 1983; D3).
 - **The keycard left off the list** (Wednesday 29 April): HR's return-of-property email lists laptop, phone, lanyard and permit, not the keycard (D5).
 - **Cobb, sighting 1, and a menace bigger than the mistake.** The man at the next table: ordinary coat, unopened newspaper, please and thank you, "waiting for a bus" where there's no stop. Afterwards Len asks *"Who else did you tell?"* She never said where or when. Her post explains why someone is interested, not how he found the café. Neither of them can describe him. In the car, the paragraph has been copied and posted on its own by a nameless account with no other posts (left open; it may be paid off in ch 10 or ch 23). Cobb names the café in ch 10.
 - **Old Tommy's story, told by Len:** the 1962 run, seven cars, no staff, the faceless man, *needed from tomorrow*, the note written "so it'd be somewhere".

@@ -1,7 +1,7 @@
 # Timeline
 
 *Urban Paranoia source pack for NotebookLM. Private: contains the full canon and ending.*
-*Assembled from: `bible/timeline.md`. Built 2026-10-29, commit d6b4816.*
+*Assembled from: `bible/timeline.md`. Built 2026-10-30, commit d8ec1de.*
 
 Key: 🟦 real-world trend (backdrop only) · 🟥 fictional canon event · 📄 ARG artefact source. Day-counts run from Day 0 = Sunday 14 October 1962.
 
@@ -98,7 +98,7 @@ Real trends are atmosphere. They are **never** attributed to real people or real
 | 🟥 Mon 11 – Sat 16 May 2026 (Days 23,220–23,225) | Mon 11: Danny reads Post #1 on Nell's doorstep against his app's ninety-second door timer and recognises Len; that evening he names Nell in a comment. Sat 16: Nell meets Pastor Ama at the Mission Hall; the queue flare-up; the old man's tartan flask (D14). At dusk the bird-logo (Larkspire) van idles outside; its driver, Cobb, lifts two fingers to Danny as it leaves (sighting 2). *(Jack moves to ch 7 and @longweather_'s first comments to ch 6.)* 📄 *Chapter 5* |
 | 🟥 Tue 19 May 2026 (Day 23,228) | Overnight, **@longweather_** posts its first comments on Nell's blog: blame on neighbours, her name, and the exact length of her 21 April archive visit (from the keycard and camera logs, D5). 📄 *Chapter 6 (in the ARG, @longweather_ is described in Post #2 and the hidden source comment is found the morning after Post #2)* |
 | 🟥 Sat 23 May 2026 (Day 23,232) | **The Archivist's letter** reaches Nell's home address: *228XX DAYS IN*, the 1971 weight (144 lb), *ASK WHAT CAME TO YOUR DESK*, and an apology for having been in her account. The blog's history shows one session at 03:12 on Fri 1 May with her drafts opened. She counts forwards to Day 22,861. Cobb walks a terrier past her window (sighting 3). 📄 *Chapter 6 (the ARG's Post #3 keeps the source line and the two enclosures)* |
-| 🟥 Mon 25 May 2026 (Day 23,234) | Nell goes to Coyle's head office to return her keycard. Nobody is on reception; the card opens the inner door and the comms room. Under a camera's red light she reads *NET WT 65 KG / 144 LB* on the routing system's server cabinet, and leaves with the card (logged; D5, ch 23). 📄 *Chapter 6* |
+| 🟥 Mon 25 May 2026 (Day 23,234) | Nell goes to Coyle's head office to return her keycard. Nobody is on reception; the card opens the inner door and the comms room. Under a camera's red light she reads *NET WT 65.3 KG / 144 LB* on the routing system's server cabinet, and leaves with the card (logged; D5, ch 23). 📄 *Chapter 6* |
 | 🟥 **ARG launch** | Vesper's blog goes live. **Post #1: "For the Long Weather."** |
 | 🟥 ARG Phase 1, Post #2 night | The Archivist plants a hidden comment on Vesper's blog, logging in with Vesper's password (her father's birthday, taken from the Aldane Papers). |
 | 🟥 ARG Phase 1, Post #3 | **Archivist first contact.** A typed letter to Vesper's home with 144 lb enclosures and "THE DOOR IS GREY" (→ #6B6E70 → Phase 2 page). |

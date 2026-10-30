@@ -1,7 +1,7 @@
 # The ARG campaign: plan, puzzles and in-world content
 
 *Urban Paranoia source pack for NotebookLM. Private: contains the full canon and ending.*
-*Assembled from: `campaign/campaign-plan.md`, `campaign/puzzle-map.md`, `campaign/moderation-and-safety.md`, `content/phase-1/post-01-for-the-long-weather.md`, `content/phase-1/post-02-day-zero.md`, `content/phase-1/post-03-count-forwards.md`, `content/phase-2/dead-drop-01-6b6e70.md`, `content/phase-2/harlow-vane-site.md`, `content/phase-2/post-04-the-card-index.md`, `content/phase-2/post-05-i-am-old-and-slow.md`, `content/phase-2/weather-report-01-the-canaries.md`. Built 2026-10-29, commit d6b4816.*
+*Assembled from: `campaign/campaign-plan.md`, `campaign/puzzle-map.md`, `campaign/moderation-and-safety.md`, `content/phase-1/post-01-for-the-long-weather.md`, `content/phase-1/post-02-day-zero.md`, `content/phase-1/post-03-count-forwards.md`, `content/phase-2/dead-drop-01-6b6e70.md`, `content/phase-2/harlow-vane-site.md`, `content/phase-2/post-04-the-card-index.md`, `content/phase-2/post-05-i-am-old-and-slow.md`, `content/phase-2/weather-report-01-the-canaries.md`. Built 2026-10-30, commit d8ec1de.*
 
 In-world posts are written as if real; each has out-of-world production notes at the end. Every puzzle resolves to a campaign-owned page.
 
@@ -395,7 +395,7 @@ In Post #1 I mentioned two retired drivers. One laughed, and one went quiet. I'l
 
 I took Len a coffee and the new scan. He held it at arm's length the way people do with photographs of the dead. This is as close to his words as I can manage:
 
-> "Twice a year, maybe. Never on the board. The office'd ring you at home the night before. No paperwork in the cab. You'd collect, you'd deliver, and a fella'd meet you at the far end and pay you separate. Cash. Polite. Good suit. You'd not remember his face after. Not a bad face. Just one that didn't stick.
+> "Twice a year, maybe. Never on the board. The office'd ring you at home the night before. No paperwork in the cab. You'd collect, you'd deliver, and a fella'd meet you at the far end and pay you separate. Cash. Polite. Good suit. You'd not remember his face after. Nothing wrong with it. It just slid off you.
 >
 > "The stamp was on the office copy, not yours. You only saw it if you went looking. I went looking the once."
 

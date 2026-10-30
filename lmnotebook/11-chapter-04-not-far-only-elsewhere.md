@@ -1,7 +1,7 @@
 # Chapter 4: Not Far, Only Elsewhere
 
 *Urban Paranoia source pack for NotebookLM. Private: contains the full canon and ending.*
-*Assembled from: `book/chapters/04-not-far-only-elsewhere.md`. Built 2026-10-29, commit d6b4816.*
+*Assembled from: `book/chapters/04-not-far-only-elsewhere.md`. Built 2026-10-30, commit d8ec1de.*
 
 
 ## Editor's summary
@@ -9,7 +9,7 @@
 **Label:** THE DEMOGRAPHER · DAY 3,061 · HARROWGATE, 2 MARCH 1971 (section label: THE ACTUARY · LE HAVRE, THE SAME NIGHT)
 **Narration:** interlude, close third person. First the demographer (THREE), then the French actuary who left in 1962.
 **Dates:** the night of Tuesday 2 – Wednesday 3 March 1971 (Day 3,061; the counsel arrives at 02:10 on Day 3,062). Coyle's collects the machine in the morning.
-**Length:** about 2,000 words. Draft v3.1 (redrafted 28 Oct 2026 as one continuous scene; polished 29 Oct).
+**Length:** about 2,000 words. Draft v3.2 (redrafted 28 Oct 2026 as one continuous scene; polished 29 Oct; fixes v1.6, 30 Oct).
 
 **What happens**
 - The demographer arrives by taxi in a cashmere coat and made shoes, pays without looking at the meter, then goes back to count the change. The American's driver waits all night; the German's grey saloon has a measured dent. There are still no staff: the twelve carry their own plates.
@@ -51,7 +51,7 @@ She noticed the cars first, as she did every time, and every time she was ashame
 
 She had come by train and taxi, because a demographer who arrives in a chauffeured car is a demographer people start to ask about. But her coat was cashmere, and her shoes had been made for her feet by a man on a street where she had once only looked in the windows. When the taxi stopped she paid without looking at the meter. She was halfway up the steps before she realised. She stood in the fog with her gloves in one hand and made herself go back and count the change.
 
-Inside there were still no staff. There couldn't be. The twelve of them carried their own plates from the kitchen, because nobody who was paid could be allowed to stay the night.
+Inside there were still no staff. There couldn't be. The twelve of them carried their own plates from the kitchen, because nobody who was paid could be allowed inside after dark.
 
 The long dining room, where four places had once stayed clean all morning, had thirteen chairs now. They called it the Long Room. On the nights they met as the Table, twelve of the chairs were filled: the three of them, and nine strangers chosen as they had been chosen. Overlooked, competent, approached at a moment of crisis with the one thing nobody can refuse, which is certainty.
 
@@ -169,12 +169,14 @@ He never opened the lid again. When he died, twenty-six years later, his son sol
 
 ## AUTHOR'S NOTES (out-of-world, do not publish)
 
+**v3.2 (fixes v1.6, 30 Oct 2026):** the no-staff rule now reads "inside after dark", so the American's driver is part of it.
+
 **v3.1 polish pass (29 Oct 2026):** "On the first night that all twelve were seated" (grammar); two "as if / as though" frames recast. Checked against ch 1 v2.5: the counsel never says *we*; the Frenchman's dream and house above the harbour are introduced here only (v1.5 C4); 02:10 exact.
 
 **What this chapter establishes**
 - **The Table's rise, shown through objects:** the American's saloon with a driver waiting all night; the German's grey saloon with its measured dent; her cashmere coat and made shoes; the taxi meter she doesn't look at (then goes back to count the change); the wine the German once read about in a dentist's waiting room. Container shipping is toasted ("To the boxes"), bought small through "a trust with a dull name" (the Ashby Trust). *"They had been nobodies. They were becoming people whose letters were answered."*
 - **The cost** (critic's T3): the Rotterdam man's dock gang of forty is now "a crane. And the man who drives the crane." She writes *39* in her notebook margin and can't find its column. In Le Havre, the dockers' café has closed: *"Nobody had asked him to price the men."* Containerisation is a real trend, described accurately; the Table invests early and doesn't cause it.
-- **Still no staff:** the twelve carry their own plates, "because nobody who was paid could be allowed to stay the night".
+- **Still no staff:** the twelve carry their own plates, "because nobody who was paid could be allowed inside after dark"; the American's driver waits outside in the car.
 - **The Long Room:** twelve seated, plus a thirteenth chair always pushed in. On the first night the **gloved diplomat** reached for it to hang his coat on and the German said *no* (refines v1.2's "someone").
 - **Mother Quill, unnamed:** the woman from New Zealand "had kept the records at her country's weather service" (matches `characters.md`), speaks only when spoken to, watches the thirteenth chair, and gets one line: *"It's going, isn't it… At home we'd say the glass was falling."* It seeds the future Listener as the one who reads signs.
 - **The telephone rings once** at 10.45 p.m. (canon decision D3: counsel moving to the line). The German's hair went white in the winter he spent disproving it. A cream telephone now hangs on the Listening Room wall.
