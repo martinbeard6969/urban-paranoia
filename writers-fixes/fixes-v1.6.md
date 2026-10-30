@@ -10,7 +10,7 @@ status: Part A requested by Martin ("generate one fixes file for ch 5, ch 6 and 
 
 # Writer's fixes v1.6: chapters 5 and 6, and the round 3 points
 
-**Status: Part A applied 2026-10-30, commit f755743. Part C pending. See applied-log.md.**
+**Status: Part A applied 2026-10-30, commit f755743. Part C (C1b, C2, C4 with changes, C5; C3 declined) applied, commit d2f4041. See applied-log.md.**
 
 **What this is.** These are the fixes from the critic's ch 5 v3.1 review and the reader panel round 3 assessment (with the chair's notes). Chapter 5 and chapter 6 depend on each other, so they come in one file. **Part A** gives Nell three small actions in ch 5 and ends it on Danny's hand. It fixes three continuity errors (ch 4's driver, ch 6's "1h40", the plate figures), gives the faceless-man device one appearance only (the face line, in ch 1), and makes the keycard sinister rather than lucky. **Part C** holds the choices Martin needs to make.
 
