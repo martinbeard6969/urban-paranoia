@@ -124,7 +124,8 @@ A **sister agent** in `/Users/martinbeard/Documents/Claude/up-creative-critic` r
 /marketing/      out-of-world copy, press kit, pitch decks
 /news-desk/      weekly news digests (see campaign/news-desk.md)
 /writers-fixes/  fixes approved by Martin from the creative critic, plus applied-log.md
-/tools/          build_chapter.py (chapter PDFs), build_lmnotebook.py (NotebookLM pack)
+/tools/          build_chapter.py (chapter PDFs), build_epub.py (Kindle EPUB), build_lmnotebook.py (NotebookLM pack)
+/kindle/         Kindle-ready EPUB of the drafted chapters (rebuild with tools/build_epub.py)
 /lmnotebook/     private NotebookLM source pack for the executive editor (rebuild after each chapter)
 ```
 
