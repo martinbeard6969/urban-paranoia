@@ -154,7 +154,7 @@ scope: campaign/prelaunch-checklist.md, campaign/asset-list.md, marketing/arg-la
 | Back cover, `book/cover/back.png` | Unknown | Unknown; tool not recorded | Unknown | Tool terms unknown. Barcode looks like a placeholder |
 | Chapters 1–4 | Claude trailer; your line edits unknown | Yes | Unknown | None |
 | Chapters 5–10 | Drafted by Claude from your direction | Yes | Unknown | None |
-| "The Wall" scene outline | Unknown; repo history not checked | Unknown | Unknown | None |
+| "The Wall" scene outline | Claude trailer; share unknown | Yes | Unknown | None |
 | Synopsis, outline, resolution map | Claude trailer; share unknown | Yes | Unknown | None |
 | Bible and canon decisions | Claude trailer; your decisions recorded in places, such as D16 | Yes | Unknown | None |
 | ARG Posts #1–5, Weather report #1, Drop 01, Harlow-Vane site text | Claude trailer; share unknown | Yes | Unknown | None |
